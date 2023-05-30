@@ -2,6 +2,7 @@
 import json
 import pathlib
 import datetime
+import time
 import random
 import requests
 
@@ -19,6 +20,7 @@ def get_proxy():
         ips = random.sample(res.text.split('\n'), 30)
         for each in ips:
             try:
+                time.sleep(3)
                 print(f'testing {each}')
                 res2 = requests.get('https://webapi.lowiro.com/webapi/song/rank/free', headers={
                     'accept': 'application/json',
@@ -26,13 +28,15 @@ def get_proxy():
                     'origin': 'https://arcaea.lowiro.com',
                     'referer': 'https://arcaea.lowiro.com/'
                 }, proxies={
-                    'http': each
-                }, timeout=5)
+                    'http': each,
+                    'https': each
+                }, timeout=15)
                 if res2.status_code == 200:
                     # print(res2.content)
                     print(f"{each} is ok")
                     return {
-                        'http': each
+                        'http': each,
+                        'https': each
                     }
                 # print(res2.text)
                 print(f"{each} errored with {res2.status_code}, headers: {res2.headers}")
@@ -47,6 +51,7 @@ def process_bg(datalist, source):
     if proxy:
         print(f"Using proxy {proxy}")
     for each in datalist:
+        time.sleep(random.uniform(2,5))
         url = f"https://webassets.lowiro.com/{each['bg']}.jpg?v=323"
         print(f"downloading {each['song_id']} from url {url}")
         local_path = pathlib.Path('./img') / f'{each["bg"]}.jpg'
@@ -75,7 +80,7 @@ def get_song_rank(choose):
             'User-Agent': UA,
             'origin': 'https://arcaea.lowiro.com',
             'Referer': 'https://arcaea.lowiro.com/'
-        }, proxies=proxy, timeout=5)
+        }, proxies=proxy, timeout=15)
         data = req.json()
         if 'success' in data and data['success']:
             process_bg(data['value'], choose)
