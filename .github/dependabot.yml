@@ -16,4 +16,4 @@ updates:
     schedule:
       interval: "weekly"
     commit-message:
-      prefix: "[Actions]
+      prefix: "[Actions]"
