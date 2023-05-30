@@ -24,11 +24,7 @@ jobs:
       - name: Install deps
         run: pip install -r requirements.txt
       - name: Check public IP
-        id: ip
         uses: haythem/public-ip@v1.3
-      - run: |
-         echo ${{ steps.ip.outputs.ipv4 }}
-         echo ${{ steps.ip.outputs.ipv6 }}
       - name: Do the run
         run: python main.py
       - name: Commit changes
