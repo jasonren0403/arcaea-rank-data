@@ -2,6 +2,7 @@
 import json
 import pathlib
 import datetime
+import random
 import requests
 
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35"
@@ -15,17 +16,22 @@ def get_proxy():
     ip_net = "https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/http.txt"
     try:
         res = requests.get(ip_net, timeout=5)
-        ips = res.text.split('\n')[:30]
+        ips = random.sample(res.text.split('\n'), 30)
         for each in ips:
             try:
                 print(f'testing {each}')
-                res2 = requests.get('https://arcaea.lowiro.com/', proxies={
+                res2 = requests.get('https://webapi.lowiro.com/webapi/song/rank/free', headers={
+                    'User-Agent': UA,
+                    'origin': 'https://arcaea.lowiro.com',
+                    'referer': 'https://arcaea.lowiro.com/'
+                }, proxies={
                     'http': each
                 }, timeout=5)
                 if res2.status_code == 200:
                     return {
                         'http': each
                     }
+                print(f"{each} errored with {res2.status_code}")
             except Exception:
                 pass
     except Exception:
@@ -64,7 +70,7 @@ def get_song_rank(choose):
             'User-Agent': UA,
             'origin': 'https://arcaea.lowiro.com',
             'referer': 'https://arcaea.lowiro.com/'
-        }, proxies = proxy, timeout=5)
+        }, proxies=proxy, timeout=5)
         data = req.json()
         if 'success' in data and data['success']:
             process_bg(data['value'], choose)
