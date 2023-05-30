@@ -30,6 +30,7 @@ def process_bg(datalist, source):
 def get_song_rank(choose):
     if choose not in ('free', 'paid'):
         raise ValueError('song_rank should be free or paid!')
+    print(f"getting {choose} data")
     url = url_dict.get(choose)
     req = requests.get(url=url, headers={'User-Agent': UA}, timeout=5000)
     data = req.json()
