@@ -19,7 +19,7 @@ def process_bg(datalist, source):
             req = requests.get(url=url, headers={
                 'User-Agent': UA,
                 'Referer': f'https://arcaea.lowiro.com/song_ranking/{source}'
-            }, timeout=5000)
+            }, timeout=5)
             if req.status_code==200:
                 with open(local_path, 'wb') as file:
                     file.write(req.content)
@@ -37,7 +37,7 @@ def get_song_rank(choose):
             'User-Agent': UA,
             'origin': 'https://arcaea.lowiro.com',
             'referer': 'https://arcaea.lowiro.com/'
-        }, timeout=5000)
+        }, timeout=5)
         data = req.json()
         if 'success' in data and data['success']:
             process_bg(data['value'], choose)
