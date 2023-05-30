@@ -21,6 +21,7 @@ def get_proxy():
             try:
                 print(f'testing {each}')
                 res2 = requests.get('https://webapi.lowiro.com/webapi/song/rank/free', headers={
+                    'accept': 'application/json',
                     'User-Agent': UA,
                     'origin': 'https://arcaea.lowiro.com',
                     'referer': 'https://arcaea.lowiro.com/'
@@ -34,9 +35,9 @@ def get_proxy():
                         'http': each
                     }
                 # print(res2.text)
-                print(f"{each} errored with {res2.status_code}")
+                print(f"{each} errored with {res2.status_code}, headers: {res2.headers}")
             except Exception as e:
-                print(e)
+                print(f"{each} processed with exception {e}")
                 continue
     except Exception:
         return {}
