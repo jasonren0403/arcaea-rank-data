@@ -28,12 +28,16 @@ def get_proxy():
                     'http': each
                 }, timeout=5)
                 if res2.status_code == 200:
+                    # print(res2.content)
+                    print(f"{each} is ok")
                     return {
                         'http': each
                     }
+                # print(res2.text)
                 print(f"{each} errored with {res2.status_code}")
-            except Exception:
-                pass
+            except Exception as e:
+                print(e)
+                continue
     except Exception:
         return {}
 
@@ -49,7 +53,7 @@ def process_bg(datalist, source):
             req = requests.get(url=url, headers={
                 'User-Agent': UA,
                 'Referer': f'https://arcaea.lowiro.com/song_ranking/{source}'
-            }, proxies = proxy,timeout=5)
+            }, proxies=proxy,timeout=5)
             if req.status_code==200:
                 with open(local_path, 'wb') as file:
                     file.write(req.content)
@@ -69,7 +73,7 @@ def get_song_rank(choose):
         req = requests.get(url=url, headers={
             'User-Agent': UA,
             'origin': 'https://arcaea.lowiro.com',
-            'referer': 'https://arcaea.lowiro.com/'
+            'Referer': 'https://arcaea.lowiro.com/'
         }, proxies=proxy, timeout=5)
         data = req.json()
         if 'success' in data and data['success']:
