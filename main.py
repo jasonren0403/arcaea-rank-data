@@ -33,7 +33,11 @@ def get_song_rank(choose):
     print(f"getting {choose} data")
     url = url_dict.get(choose)
     try:
-        req = requests.get(url=url, headers={'User-Agent': UA}, timeout=5000)
+        req = requests.get(url=url, headers={
+            'User-Agent': UA,
+            'origin': 'https://arcaea.lowiro.com',
+            'referer': 'https://arcaea.lowiro.com/'
+        }, timeout=5000)
         data = req.json()
         if 'success' in data and data['success']:
             process_bg(data['value'], choose)
