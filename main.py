@@ -32,12 +32,18 @@ def get_song_rank(choose):
         raise ValueError('song_rank should be free or paid!')
     print(f"getting {choose} data")
     url = url_dict.get(choose)
-    req = requests.get(url=url, headers={'User-Agent': UA}, timeout=5000)
-    data = req.json()
-    if 'success' in data and data['success']:
-        process_bg(data['value'], choose)
-        return True, data['value']
-    return False, data
+    try:
+        req = requests.get(url=url, headers={'User-Agent': UA}, timeout=5000)
+        data = req.json()
+        if 'success' in data and data['success']:
+            process_bg(data['value'], choose)
+            return True, data['value']
+        return False, data
+    except Exception as e:
+        return False, {
+            'error': e,
+            'text': req.text if req is not None else ''
+        }
 
 def main():
     res, free = get_song_rank('free')
