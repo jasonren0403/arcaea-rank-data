@@ -10,7 +10,28 @@ url_dict = {
     'paid': 'https://webapi.lowiro.com/webapi/song/rank/paid'
 }
 
+def get_proxy():
+    # https://github.com/TheSpeedX/PROXY-List
+    ip_net = "https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/http.txt"
+    try:
+        res = requests.get(ip_net, timeout=5)
+        ips = res.text.split('\n')
+        for each in ips:
+            try:
+                # print(f'testing {each}')
+                requests.get('https://arcaea.lowiro.com/', proxies={
+                    'http': each
+                }, timeout=5)
+                return {
+                    'http': each
+                }
+            except Exception:
+                pass
+    except Exception:
+        return {}
+
 def process_bg(datalist, source):
+    proxy = get_proxy()
     for each in datalist:
         url = f"https://webassets.lowiro.com/{each['bg']}.jpg?v=323"
         print(f"downloading {each['song_id']} from url {url}")
@@ -19,7 +40,7 @@ def process_bg(datalist, source):
             req = requests.get(url=url, headers={
                 'User-Agent': UA,
                 'Referer': f'https://arcaea.lowiro.com/song_ranking/{source}'
-            }, timeout=5)
+            }, proxies = proxy,timeout=5)
             if req.status_code==200:
                 with open(local_path, 'wb') as file:
                     file.write(req.content)
@@ -33,11 +54,12 @@ def get_song_rank(choose):
     print(f"getting {choose} data")
     url = url_dict.get(choose)
     try:
+        proxy = get_proxy()
         req = requests.get(url=url, headers={
             'User-Agent': UA,
             'origin': 'https://arcaea.lowiro.com',
             'referer': 'https://arcaea.lowiro.com/'
-        }, timeout=5)
+        }, proxies = proxy, timeout=5)
         data = req.json()
         if 'success' in data and data['success']:
             process_bg(data['value'], choose)
