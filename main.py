@@ -15,16 +15,17 @@ def get_proxy():
     ip_net = "https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/http.txt"
     try:
         res = requests.get(ip_net, timeout=5)
-        ips = res.text.split('\n')
+        ips = res.text.split('\n')[:30]
         for each in ips:
             try:
-                # print(f'testing {each}')
-                requests.get('https://arcaea.lowiro.com/', proxies={
+                print(f'testing {each}')
+                res2 = requests.get('https://arcaea.lowiro.com/', proxies={
                     'http': each
                 }, timeout=5)
-                return {
-                    'http': each
-                }
+                if res2.status_code == 200:
+                    return {
+                        'http': each
+                    }
             except Exception:
                 pass
     except Exception:
@@ -32,6 +33,8 @@ def get_proxy():
 
 def process_bg(datalist, source):
     proxy = get_proxy()
+    if proxy:
+        print(f"Using proxy {proxy}")
     for each in datalist:
         url = f"https://webassets.lowiro.com/{each['bg']}.jpg?v=323"
         print(f"downloading {each['song_id']} from url {url}")
@@ -55,6 +58,8 @@ def get_song_rank(choose):
     url = url_dict.get(choose)
     try:
         proxy = get_proxy()
+        if proxy:
+            print(f"Using proxy {proxy}")
         req = requests.get(url=url, headers={
             'User-Agent': UA,
             'origin': 'https://arcaea.lowiro.com',
