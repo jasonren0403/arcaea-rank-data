@@ -5,6 +5,7 @@ import datetime
 import time
 import random
 import requests
+from requests.adapters import HTTPAdapter
 
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35"
 url_dict = {
@@ -47,6 +48,9 @@ def get_proxy():
         return {}
 
 def process_bg(datalist, source):
+    s = requests.Session()
+    s.mount('http://', HTTPAdapter(max_retries=3))
+    s.mount('https://', HTTPAdapter(max_retries=3))
     proxy = get_proxy()
     if proxy:
         print(f"Using proxy {proxy}")
@@ -56,7 +60,7 @@ def process_bg(datalist, source):
         print(f"downloading {each['song_id']} from url {url}")
         local_path = pathlib.Path('./img') / f'{each["bg"]}.jpg'
         if not local_path.exists():
-            req = requests.get(url=url, headers={
+            req = s.get(url=url, headers={
                 'User-Agent': UA,
                 'Referer': f'https://arcaea.lowiro.com/song_ranking/{source}'
             }, proxies=proxy,timeout=5)
@@ -72,11 +76,15 @@ def get_song_rank(choose):
         raise ValueError('song_rank should be free or paid!')
     print(f"getting {choose} data")
     url = url_dict.get(choose)
+    s = requests.Session()
+    s.mount('http://', HTTPAdapter(max_retries=3))
+    s.mount('https://', HTTPAdapter(max_retries=3))
+    req = None
     try:
         proxy = get_proxy()
         if proxy:
             print(f"Using proxy {proxy}")
-        req = requests.get(url=url, headers={
+        req = s.get(url=url, headers={
             'User-Agent': UA,
             'origin': 'https://arcaea.lowiro.com',
             'Referer': 'https://arcaea.lowiro.com/'
