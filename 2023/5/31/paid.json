@@ -51,7 +51,7 @@
     },
     "artist": "REDALiCE vs Kobaryo",
     "rank": 4,
-    "status": 3,
+    "status": 0,
     "bg": "e7d6f5227973bc6ab0a2492d8a41b9b5"
   },
   {
@@ -62,7 +62,7 @@
     },
     "artist": "BlackYooh vs. siromaru",
     "rank": 5,
-    "status": -1,
+    "status": 0,
     "bg": "4ca72a8e00f16ac349b7f7a3c3059e35"
   },
   {
@@ -73,7 +73,7 @@
     },
     "artist": "Nothing But Requiem with Museo",
     "rank": 6,
-    "status": 2,
+    "status": 0,
     "bg": "dacc7d8ccce052eb45c3466ae8f5af54"
   },
   {
@@ -84,7 +84,7 @@
     },
     "artist": "t+pazolite",
     "rank": 7,
-    "status": -2,
+    "status": 0,
     "bg": "4fa901cb770d5a7d2a9ae0a25bfbab7c"
   },
   {
@@ -95,19 +95,8 @@
     },
     "artist": "Sakuzyo",
     "rank": 8,
-    "status": 1,
+    "status": 0,
     "bg": "d6ac4d6c3dade908f1435ca7fa7f44db"
-  },
-  {
-    "song_id": "arcanaeden",
-    "title": {
-      "ja": "Arcana Eden",
-      "en": "Arcana Eden"
-    },
-    "artist": "Team Grimoire vs Sakuzyo vs Laur",
-    "rank": 9,
-    "status": -3,
-    "bg": "62e84b33439d934c4b25aa7b07af58b7"
   },
   {
     "song_id": "sheriruth",
@@ -116,9 +105,20 @@
       "en": "Sheriruth"
     },
     "artist": "Team Grimoire",
-    "rank": 10,
-    "status": 0,
+    "rank": 9,
+    "status": 1,
     "bg": "6ce766a78bc5879c1e985732e5f5eaf9"
+  },
+  {
+    "song_id": "arcanaeden",
+    "title": {
+      "ja": "Arcana Eden",
+      "en": "Arcana Eden"
+    },
+    "artist": "Team Grimoire vs Sakuzyo vs Laur",
+    "rank": 10,
+    "status": -1,
+    "bg": "62e84b33439d934c4b25aa7b07af58b7"
   },
   {
     "song_id": "trappola",
@@ -154,14 +154,14 @@
     "bg": "b8faaf4896ab73c63818be809e568c45"
   },
   {
-    "song_id": "ifi",
+    "song_id": "impact",
     "title": {
-      "ja": "#1f1e33",
-      "en": "#1f1e33"
+      "ja": "IMPACT",
+      "en": "IMPACT"
     },
-    "artist": "かめりあ(EDP)",
+    "artist": "USAO feat. 光吉猛修",
     "rank": 14,
-    "status": 0,
-    "bg": "7f3feac70e0c146934782680f18a5650"
+    "status": 1,
+    "bg": "33c52e5ca10c3428f626038468f40804"
   }
 ]
