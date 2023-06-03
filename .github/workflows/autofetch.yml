@@ -3,7 +3,7 @@ name: 'Daily Autofetch Job'
 on: 
   workflow_dispatch:
   schedule:
-    - cron: '5 0 * * *'  # 0:05 every day(UTC)
+    - cron: '45 0 * * *'  # 0:45 every day(UTC)
 
 jobs:
   main_job:
