@@ -4,6 +4,8 @@ import pathlib
 import datetime
 import time
 import random
+import logging
+
 import requests
 from requests.adapters import HTTPAdapter
 
@@ -12,6 +14,9 @@ url_dict = {
     'free': 'https://webapi.lowiro.com/webapi/song/rank/free',
     'paid': 'https://webapi.lowiro.com/webapi/song/rank/paid'
 }
+
+logging.basicConfig(level = logging.INFO,format = '%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+logger = logging.getLogger("rank-data-crawler")
 
 def get_proxy():
     # https://github.com/TheSpeedX/PROXY-List
@@ -22,7 +27,13 @@ def get_proxy():
         for each in ips:
             try:
                 time.sleep(3)
-                print(f'testing {each}')
+                logger.info('testing %s', each)
+                requests.get('https://github.com/', headers={
+                    'User-Agent': UA
+                }, proxies={
+                    'http': each,
+                    'https': each
+                }, timeout=5)
                 res2 = requests.get('https://webapi.lowiro.com/webapi/song/rank/free', headers={
                     'accept': 'application/json',
                     'User-Agent': UA,
@@ -31,29 +42,30 @@ def get_proxy():
                 }, proxies={
                     'http': each,
                     'https': each
-                }, timeout=15)
+                }, timeout=10)
                 if res2.status_code == 200:
                     # print(res2.content)
-                    print(f"{each} is ok")
+                    logger.info("%s is ok", each)
                     return {
                         'http': each,
                         'https': each
                     }
                 # print(res2.text)
-                print(f"{each} errored with {res2.status_code}, headers: {res2.headers}")
+                logger.warning(f"{each} errored with {res2.status_code}, headers: {res2.headers}")
+            except (requests.exceptions.ProxyError, requests.exceptions.ConnectTimeout) as e:
+                logger.error(f"Proxy {each} have problems ({e}), try next one")
+                continue
             except Exception as e:
-                print(f"{each} processed with exception {e}")
+                logger.exception(f"{each} processed with exception", exc_info=e)
                 continue
     except Exception:
         return {}
 
-def process_bg(datalist, source):
+def process_bg(datalist, source, proxy_ip=None):
     s = requests.Session()
     s.mount('http://', HTTPAdapter(max_retries=3))
     s.mount('https://', HTTPAdapter(max_retries=3))
-    proxy = get_proxy()
-    if proxy:
-        print(f"Using proxy {proxy}")
+    proxy = proxy_ip
     for each in datalist:
         time.sleep(random.uniform(2,5))
         url = f"https://webassets.lowiro.com/{each['bg']}.jpg?v=323"
@@ -64,26 +76,24 @@ def process_bg(datalist, source):
                 'Referer': f'https://arcaea.lowiro.com/song_ranking/{source}'
             }, proxies=proxy,timeout=5)
             if req.status_code==200:
-                print(f"downloading {each['song_id']} from url {url}")
+                logger.info(f"downloading {each['song_id']} from url {url}")
                 with open(local_path, 'wb') as file:
                     file.write(req.content)
             else:
-                print(f"warning: failed to get {each['song_id']}")
+                logger.warning(f"failed to get {each['song_id']}")
 
 
-def get_song_rank(choose):
+def get_song_rank(choose, proxy_ip=None):
     if choose not in ('free', 'paid'):
         raise ValueError('song_rank should be free or paid!')
-    print(f"getting {choose} data")
+    logger.info("songInfo: getting %s data", choose)
     url = url_dict.get(choose)
     s = requests.Session()
     s.mount('http://', HTTPAdapter(max_retries=3))
     s.mount('https://', HTTPAdapter(max_retries=3))
     req = None
     try:
-        proxy = get_proxy()
-        if proxy:
-            print(f"Using proxy {proxy}")
+        proxy = proxy_ip
         req = s.get(url=url, headers={
             'User-Agent': UA,
             'origin': 'https://arcaea.lowiro.com',
@@ -91,7 +101,8 @@ def get_song_rank(choose):
         }, proxies=proxy, timeout=15)
         data = req.json()
         if 'success' in data and data['success']:
-            process_bg(data['value'], choose)
+            logger.info("getting %s data success, processing background", choose)
+            process_bg(data['value'], choose, proxy_ip)
             return True, data['value']
         return False, data
     except Exception as e:
@@ -101,8 +112,11 @@ def get_song_rank(choose):
         }
 
 def main():
-    res, free = get_song_rank('free')
-    res2, paid = get_song_rank('paid')
+    proxy = get_proxy()
+    if proxy:
+        logger.info("Using proxy %s for further fetch", proxy)
+    res, free = get_song_rank('free', proxy_ip=proxy)
+    res2, paid = get_song_rank('paid', proxy_ip=proxy)
     d = datetime.datetime.now()
     p = pathlib.Path(f'./{d.year}/{d.month}/{d.day}')
     if not p.exists():
@@ -111,12 +125,12 @@ def main():
         with open(p / 'free.json', 'w', encoding='utf-8') as file:
             json.dump(free, file, ensure_ascii=False, indent=2)
     else:
-        print(f"get free data error! {free}")
+        logger.fatal("get free data error! %s", free)
     if res2:
         with open(p / 'paid.json', 'w', encoding='utf-8') as file:
             json.dump(paid, file, ensure_ascii=False, indent=2)
     else:
-        print(f"get paid data error! {paid}")
+        logger.fatal("get paid data error! %s", paid)
     # print(free)
     # print("------")
     # print(paid)
