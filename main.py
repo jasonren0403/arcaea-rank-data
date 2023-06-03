@@ -57,7 +57,6 @@ def process_bg(datalist, source):
     for each in datalist:
         time.sleep(random.uniform(2,5))
         url = f"https://webassets.lowiro.com/{each['bg']}.jpg?v=323"
-        print(f"downloading {each['song_id']} from url {url}")
         local_path = pathlib.Path('./img') / f'{each["bg"]}.jpg'
         if not local_path.exists():
             req = s.get(url=url, headers={
@@ -65,6 +64,7 @@ def process_bg(datalist, source):
                 'Referer': f'https://arcaea.lowiro.com/song_ranking/{source}'
             }, proxies=proxy,timeout=5)
             if req.status_code==200:
+                print(f"downloading {each['song_id']} from url {url}")
                 with open(local_path, 'wb') as file:
                     file.write(req.content)
             else:
