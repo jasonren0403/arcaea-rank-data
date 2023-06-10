@@ -52,8 +52,10 @@ def get_proxy():
                     }
                 # print(res2.text)
                 logger.warning(f"{each} errored with {res2.status_code}, headers: {res2.headers}")
-            except (requests.exceptions.ProxyError, requests.exceptions.ConnectTimeout) as e:
-                logger.error(f"Proxy {each} have problems ({e}), try next one")
+            except (requests.exceptions.ProxyError, 
+                    requests.exceptions.ConnectTimeout, 
+                    requests.exceptions.ReadTimeout) as ex:
+                logger.error(f"Proxy {each} have problems ({ex}), try next one")
                 continue
             except Exception as e:
                 logger.exception(f"{each} processed with exception", exc_info=e)
@@ -92,6 +94,7 @@ def get_song_rank(choose, proxy_ip=None):
     s.mount('http://', HTTPAdapter(max_retries=3))
     s.mount('https://', HTTPAdapter(max_retries=3))
     req = None
+    data = {}
     try:
         proxy = proxy_ip
         req = s.get(url=url, headers={
@@ -105,9 +108,11 @@ def get_song_rank(choose, proxy_ip=None):
             process_bg(data['value'], choose, proxy_ip)
             return True, data['value']
         return False, data
-    except Exception as e:
+    except Exception as ex:
+        if data is not None and 'success' in data and data['success']:
+            return True, data['value']
         return False, {
-            'error': e,
+            'error': ex,
             'text': req.text if req is not None else ''
         }
 
@@ -121,12 +126,12 @@ def main():
     p = pathlib.Path(f'./{d.year}/{d.month}/{d.day}')
     if not p.exists():
         p.mkdir(parents=True)
-    if res:
+    if res or 'error' not in free:
         with open(p / 'free.json', 'w', encoding='utf-8') as file:
             json.dump(free, file, ensure_ascii=False, indent=2)
     else:
         logger.fatal("get free data error! %s", free)
-    if res2:
+    if res2 or 'error' not in paid:
         with open(p / 'paid.json', 'w', encoding='utf-8') as file:
             json.dump(paid, file, ensure_ascii=False, indent=2)
     else:
