@@ -72,6 +72,7 @@ def process_bg(datalist, source, proxy_ip=None):
         time.sleep(random.uniform(2,5))
         url = f"https://webassets.lowiro.com/{each['bg']}.jpg?v=323"
         local_path = pathlib.Path('./img') / f'{each["bg"]}.jpg'
+        logger.info("checking local path %s", local_path.as_posix())
         if not local_path.exists():
             req = s.get(url=url, headers={
                 'User-Agent': UA,
@@ -82,7 +83,7 @@ def process_bg(datalist, source, proxy_ip=None):
                 with open(local_path, 'wb') as file:
                     file.write(req.content)
             else:
-                logger.warning(f"failed to get {each['song_id']}")
+                logger.warning("failed to get %s", each['song_id'])
 
 
 def get_song_rank(choose, proxy_ip=None):
@@ -127,11 +128,13 @@ def main():
     if not p.exists():
         p.mkdir(parents=True)
     if res or 'error' not in free:
+        logger.info("free data saved")
         with open(p / 'free.json', 'w', encoding='utf-8') as file:
             json.dump(free, file, ensure_ascii=False, indent=2)
     else:
         logger.fatal("get free data error! %s", free)
     if res2 or 'error' not in paid:
+        logger.info("paid data saved")
         with open(p / 'paid.json', 'w', encoding='utf-8') as file:
             json.dump(paid, file, ensure_ascii=False, indent=2)
     else:
