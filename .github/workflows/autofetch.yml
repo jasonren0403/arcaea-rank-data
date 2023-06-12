@@ -11,7 +11,7 @@ jobs:
     permissions:
       contents: write
     outputs:
-      FILECHECK_OK: ${{ steps.file_check.outputs }}
+      FILECHECK_OK: ${{ steps.file_check.outputs.ret }}
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
@@ -27,7 +27,7 @@ jobs:
         id: file_check
         run: |
           python filecheck.py
-          echo $? >> "$GITHUB_OUTPUT"
+          echo ret=$? >> "$GITHUB_OUTPUT"
   main_job:
     runs-on: ubuntu-latest
     needs: file_check
