@@ -30,7 +30,7 @@ jobs:
           echo ret=$? >> "$GITHUB_OUTPUT"
       - name: Log result
         run: |
-          echo "file check status: ${STATUS}"
+          echo "file check status: $STATUS"
         env:
           STATUS: ${{steps.file_check.outputs.ret}}
   main_job:
