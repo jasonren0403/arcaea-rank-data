@@ -16,9 +16,8 @@ url_dict = {
     'paid': 'https://webapi.lowiro.com/webapi/song/rank/paid'
 }
 
-logging.basicConfig(level = logging.INFO,format = '%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 logger = logging.getLogger("rank-data-crawler")
-coloredlogs.install(level="INFO", logger=logger)
+coloredlogs.install(level="INFO", logger=logger, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 
 def get_proxy():
     # https://github.com/TheSpeedX/PROXY-List
