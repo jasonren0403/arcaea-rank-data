@@ -5,7 +5,7 @@ import datetime
 import time
 import random
 import logging
-
+import telnetlib
 import requests
 import coloredlogs
 from requests.adapters import HTTPAdapter
@@ -27,14 +27,10 @@ def get_proxy():
         ips = random.sample(res.text.split('\n'), 30)
         for each in ips:
             try:
-                time.sleep(3)
+                time.sleep(2)
                 logger.info('testing %s', each)
-                requests.get('https://httpbin.org/ip', headers={
-                    'User-Agent': UA
-                }, proxies={
-                    'http': each,
-                    'https': each
-                }, timeout=5)
+                ip, port = each.split(":")
+                telnetlib.Telnet(ip,port=port,timeout=10)
                 res2 = requests.get('https://webapi.lowiro.com/webapi/song/rank/free', headers={
                     'accept': 'application/json',
                     'User-Agent': UA,
@@ -52,11 +48,14 @@ def get_proxy():
                         'https': each
                     }
                 # print(res2.text)
-                logger.warning(f"{each} errored with {res2.status_code}, headers: {res2.headers}")
+                logger.warning(f"{each} errored with {res2.status_code}")
             except (requests.exceptions.ProxyError, 
                     requests.exceptions.ConnectTimeout, 
                     requests.exceptions.ReadTimeout) as ex:
                 logger.error(f"Proxy {each} have problems ({ex}), try next one")
+                continue
+            except TimeoutError as ex:
+                logger.error(f"Proxy {each} connect timeout, next one")
                 continue
             except Exception as e:
                 logger.exception(f"{each} processed with exception", exc_info=e)
@@ -70,7 +69,7 @@ def process_bg(datalist, source, proxy_ip=None):
     s.mount('https://', HTTPAdapter(max_retries=3))
     proxy = proxy_ip
     for each in datalist:
-        time.sleep(random.uniform(2,5))
+        time.sleep(random.uniform(2,4))
         url = f"https://webassets.lowiro.com/{each['bg']}.jpg?v=323"
         local_path = pathlib.Path('./img') / f'{each["bg"]}.jpg'
         logger.info("checking local path %s", local_path.as_posix())
@@ -118,30 +117,29 @@ def get_song_rank(choose, proxy_ip=None):
             'text': req.text if req is not None else ''
         }
 
-def main():
+def main(get_free=True, get_paid=True):
     proxy = get_proxy()
     if proxy:
         logger.info("Using proxy %s for further fetch", proxy)
-    res, free = get_song_rank('free', proxy_ip=proxy)
-    res2, paid = get_song_rank('paid', proxy_ip=proxy)
     d = datetime.datetime.now()
     p = pathlib.Path(f'./{d.year}/{d.month}/{d.day}')
     if not p.exists():
         p.mkdir(parents=True)
-    if res or 'error' not in free:
-        logger.info("free data saved")
-        with open(p / 'free.json', 'w', encoding='utf-8') as file:
-            json.dump(free, file, ensure_ascii=False, indent=2)
-    else:
-        logger.fatal("get free data error! %s", free)
-    if res2 or 'error' not in paid:
-        logger.info("paid data saved")
-        with open(p / 'paid.json', 'w', encoding='utf-8') as file:
-            json.dump(paid, file, ensure_ascii=False, indent=2)
-    else:
-        logger.fatal("get paid data error! %s", paid)
-    # print(free)
-    # print("------")
-    # print(paid)
+    if get_free:
+        res, free = get_song_rank('free', proxy_ip=proxy)
+        if res or 'error' not in free:
+            logger.info("free data saved")
+            with open(p / 'free.json', 'w', encoding='utf-8') as file:
+                json.dump(free, file, ensure_ascii=False, indent=2)
+        else:
+            logger.fatal("get free data error! %s", free)
+    if get_paid:
+        res2, paid = get_song_rank('paid', proxy_ip=proxy)
+        if res2 or 'error' not in paid:
+            logger.info("paid data saved")
+            with open(p / 'paid.json', 'w', encoding='utf-8') as file:
+                json.dump(paid, file, ensure_ascii=False, indent=2)
+        else:
+            logger.fatal("get paid data error! %s", paid)
 
 main()
