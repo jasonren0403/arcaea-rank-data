@@ -10,8 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    outputs:
-      FILECHECK_OK: ${{ steps.file_check.outputs.ret }}
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
@@ -27,17 +25,10 @@ jobs:
         id: file_check
         run: |
           python filecheck.py
-          echo ret=$? >> "$GITHUB_OUTPUT"
-      - name: Log result
-        if: ${{always()}}
-        run: |
-          echo "file check status: $STATUS"
-        env:
-          STATUS: ${{steps.file_check.outputs.ret}}
   main_job:
     runs-on: ubuntu-latest
     needs: file_check
-    if: ${{needs.file_check.outputs.FILECHECK_OK!=0}}
+    if: ${{needs.file_check.result=="failure"}}
     permissions:
       contents: write
     steps:
