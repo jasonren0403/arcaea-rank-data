@@ -29,7 +29,7 @@ def get_proxy():
             try:
                 time.sleep(3)
                 logger.info('testing %s', each)
-                requests.get('https://github.com/', headers={
+                requests.get('https://httpbin.org/ip', headers={
                     'User-Agent': UA
                 }, proxies={
                     'http': each,
