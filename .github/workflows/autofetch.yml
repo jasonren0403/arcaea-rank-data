@@ -28,7 +28,7 @@ jobs:
   main_job:
     runs-on: ubuntu-latest
     needs: file_check
-    if: ${{ needs.file_check.result=="failure" }}
+    if: ${{ needs.file_check.result=='failure' }}
     permissions:
       contents: write
     steps:
