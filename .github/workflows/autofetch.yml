@@ -29,6 +29,7 @@ jobs:
           python filecheck.py
           echo ret=$? >> "$GITHUB_OUTPUT"
       - name: Log result
+        if: ${{always()}}
         run: |
           echo "file check status: $STATUS"
         env:
