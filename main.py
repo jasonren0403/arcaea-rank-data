@@ -26,7 +26,7 @@ def get_proxy():
     ip_net = "https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/http.txt"
     try:
         res = requests.get(ip_net, timeout=5)
-        ips = random.sample(res.text.split('\n'), 30)
+        ips = random.sample(res.text.split('\n'), k=30)
         for each in ips:
             try:
                 time.sleep(2)
