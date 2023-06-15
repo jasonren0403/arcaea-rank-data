@@ -49,6 +49,7 @@ jobs:
       - name: Do the run
         run: python main.py
       - name: Commit changes
+        if: ${{ success() }}
         # https://github.com/stefanzweifel/git-auto-commit-action
         uses: stefanzweifel/git-auto-commit-action@v4
         with:

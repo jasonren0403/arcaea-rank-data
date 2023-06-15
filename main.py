@@ -6,6 +6,8 @@ import time
 import random
 import logging
 import telnetlib
+import sys
+
 import requests
 import coloredlogs
 from requests.adapters import HTTPAdapter
@@ -118,6 +120,8 @@ def get_song_rank(choose, proxy_ip=None):
         }
 
 def main(get_free=True, get_paid=True):
+    free_code = 0
+    paid_code = 0
     proxy = get_proxy()
     if proxy:
         logger.info("Using proxy %s for further fetch", proxy)
@@ -133,6 +137,7 @@ def main(get_free=True, get_paid=True):
                 json.dump(free, file, ensure_ascii=False, indent=2)
         else:
             logger.fatal("get free data error! %s", free)
+            free_code = 1
     if get_paid:
         res2, paid = get_song_rank('paid', proxy_ip=proxy)
         if res2 or 'error' not in paid:
@@ -141,5 +146,9 @@ def main(get_free=True, get_paid=True):
                 json.dump(paid, file, ensure_ascii=False, indent=2)
         else:
             logger.fatal("get paid data error! %s", paid)
+            paid_code = 1
+    return free_code, paid_code
 
-main()
+if __name__=="__main__":
+    f, p = main()
+    sys.exit(f or p)
