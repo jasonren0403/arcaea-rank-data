@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "etherstrike",
+    "title": {
+      "ja": "Ether Strike",
+      "en": "Ether Strike"
+    },
+    "artist": "Akira Complex",
+    "rank": 0,
+    "status": 0,
+    "bg": "4fd127d4d13375defcae608ee89157ad"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "ja": "Grievous Lady",
+      "en": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 1,
+    "status": 0,
+    "bg": "41423d740924a6057b3472a28c08ef62"
+  },
+  {
+    "song_id": "infinitestrife",
+    "title": {
+      "ja": "Infinite Strife,",
+      "en": "Infinite Strife,"
+    },
+    "artist": "BlackYooh vs. siromaru",
+    "rank": 2,
+    "status": 1,
+    "bg": "d132d53e4f2557116c21e0afaeada414"
+  },
+  {
+    "song_id": "fractureray",
+    "title": {
+      "ja": "Fracture Ray",
+      "en": "Fracture Ray"
+    },
+    "artist": "Sakuzyo",
+    "rank": 3,
+    "status": -1,
+    "bg": "8471a6832b5c67bb01cdcd3f19013e33"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "ja": "Tempestissimo",
+      "en": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 4,
+    "status": 0,
+    "bg": "ad3690bcbc76ea36ab62f6f7d38ea6ef"
+  },
+  {
+    "song_id": "arcanaeden",
+    "title": {
+      "ja": "Arcana Eden",
+      "en": "Arcana Eden"
+    },
+    "artist": "Team Grimoire vs Sakuzyo vs Laur",
+    "rank": 5,
+    "status": 0,
+    "bg": "33e91f4f07e144fc973c254145716237"
+  },
+  {
+    "song_id": "pentiment",
+    "title": {
+      "ja": "Pentiment",
+      "en": "Pentiment"
+    },
+    "artist": "Nothing But Requiem with Museo",
+    "rank": 6,
+    "status": 0,
+    "bg": "fc51e5aa9937a7e1d69cc85930427d17"
+  },
+  {
+    "song_id": "testify",
+    "title": {
+      "ja": "Testify",
+      "en": "Testify"
+    },
+    "artist": "void (Mournfinale) feat. 星熊南巫",
+    "rank": 7,
+    "status": 0,
+    "bg": "9aba2dd668a08ca2b5a35b0b96d467c6"
+  },
+  {
+    "song_id": "worldender",
+    "title": {
+      "ja": "魔王",
+      "en": "World Ender"
+    },
+    "artist": "sasakure.UK × TJ.hangneil",
+    "rank": 8,
+    "status": 3,
+    "bg": "4d03aed16466f830d6f4d77e9492b9dc"
+  },
+  {
+    "song_id": "sheriruth",
+    "title": {
+      "ja": "Sheriruth",
+      "en": "Sheriruth"
+    },
+    "artist": "Team Grimoire",
+    "rank": 9,
+    "status": -1,
+    "bg": "9f1ec5aa36d96b1e14bb29e0ebd7be07"
+  },
+  {
+    "song_id": "trappola",
+    "title": {
+      "ja": "妖艶魔女 -trappola bewitching-",
+      "en": "trappola bewitching"
+    },
+    "artist": "gmtn.",
+    "rank": 10,
+    "status": -1,
+    "bg": "1f834ff90b8df4174ee90e46f13c1870"
+  },
+  {
+    "song_id": "tothemilkyway",
+    "title": {
+      "ja": "To the Milky Way",
+      "en": "To the Milky Way"
+    },
+    "artist": "黒魔",
+    "rank": 11,
+    "status": -1,
+    "bg": "46d8cde193382a1eb6aff911393b366f"
+  },
+  {
+    "song_id": "ifi",
+    "title": {
+      "ja": "#1f1e33",
+      "en": "#1f1e33"
+    },
+    "artist": "かめりあ(EDP)",
+    "rank": 12,
+    "status": 0,
+    "bg": "9171e3209bd20bcc622e10d06d61c63c"
+  },
+  {
+    "song_id": "pragmatism",
+    "title": {
+      "ja": "PRAGMATISM",
+      "en": "PRAGMATISM"
+    },
+    "artist": "Laur",
+    "rank": 13,
+    "status": 0,
+    "bg": "0f76af3671e3900eee831db166f5ef35"
+  },
+  {
+    "song_id": "axiumcrisis",
+    "title": {
+      "ja": "Axium Crisis",
+      "en": "Axium Crisis"
+    },
+    "artist": "ak+q",
+    "rank": 14,
+    "status": 1,
+    "bg": "3f0eb9b031ad89fb123ba03dbc735187"
+  }
+]
