@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "goodtek",
+    "title": {
+      "ja": "GOODTEK (Arcaea Edit)",
+      "en": "GOODTEK (Arcaea Edit)"
+    },
+    "artist": "EBIMAYO",
+    "rank": 0,
+    "status": 0,
+    "bg": "b2037a224cb191ea5589df57bb9e1cdd"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "ja": "Lost Civilization",
+      "en": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 1,
+    "status": 1,
+    "bg": "d8bd4cf4c0a76d3931beb1f6cc138990"
+  },
+  {
+    "song_id": "kanagawa",
+    "title": {
+      "ja": "神奈川電脳暗渠",
+      "en": "Kanagawa Cyber Culvert"
+    },
+    "artist": "南ゆに",
+    "rank": 2,
+    "status": 1,
+    "bg": "5b5453e54536c948d978c57b4ac2be2d"
+  },
+  {
+    "song_id": "chronostasis",
+    "title": {
+      "ja": "Chronostasis",
+      "en": "Chronostasis"
+    },
+    "artist": "黒皇帝",
+    "rank": 3,
+    "status": -2,
+    "bg": "fcdeae6af6a69acfb606e09beaad7fdc"
+  },
+  {
+    "song_id": "sakurafubuki",
+    "title": {
+      "ja": "Sakura Fubuki",
+      "en": "Sakura Fubuki"
+    },
+    "artist": "Street",
+    "rank": 4,
+    "status": 0,
+    "bg": "dd63e82d29ce4a2471e62962691ea473"
+  },
+  {
+    "song_id": "ignotus",
+    "title": {
+      "ja": "Ignotus",
+      "en": "Ignotus"
+    },
+    "artist": "ak+q",
+    "rank": 5,
+    "status": 1,
+    "bg": "7502bd030baa1e866aaefe8335205a57"
+  },
+  {
+    "song_id": "anokumene",
+    "title": {
+      "ja": "Anökumene",
+      "en": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 6,
+    "status": 1,
+    "bg": "b8e595a9aac1331b2654f7cda92f0681"
+  },
+  {
+    "song_id": "infinityheaven",
+    "title": {
+      "ja": "Infinity Heaven",
+      "en": "Infinity Heaven"
+    },
+    "artist": "HyuN",
+    "rank": 7,
+    "status": -2,
+    "bg": "19b225bcf251ef84cad8f68313e3f3c6"
+  },
+  {
+    "song_id": "purgatorium",
+    "title": {
+      "ja": "Purgatorium",
+      "en": "Purgatorium"
+    },
+    "artist": "お月さま交響曲",
+    "rank": 8,
+    "status": 2,
+    "bg": "fd31f8c156a75131c17e9228f77cb4e8"
+  },
+  {
+    "song_id": "hybris",
+    "title": {
+      "ja": "ヒュブリスの頂に聳えるのは",
+      "en": "Hybris (The one who shattered)"
+    },
+    "artist": "qfeileadh feat.のあ",
+    "rank": 9,
+    "status": -1,
+    "bg": "484a993382e0a420ae3a9346309f527d"
+  },
+  {
+    "song_id": "shadesoflight",
+    "title": {
+      "ja": "Shades of Light in a Transcendent Realm",
+      "en": "Shades of Light in a Transcendent Realm"
+    },
+    "artist": "ak+q",
+    "rank": 10,
+    "status": -1,
+    "bg": "3b4d409174bd54db37ddf39a0dff811f"
+  },
+  {
+    "song_id": "dement",
+    "title": {
+      "ja": "Dement ~after legend~",
+      "en": "Dement ~after legend~"
+    },
+    "artist": "Cosmograph",
+    "rank": 11,
+    "status": 1,
+    "bg": "fb73bcffd6f36f4e02c9964c92aa54a6"
+  },
+  {
+    "song_id": "qualia",
+    "title": {
+      "ja": "qualia -ideaesthesia-",
+      "en": "qualia -ideaesthesia-"
+    },
+    "artist": "nitro",
+    "rank": 12,
+    "status": -1,
+    "bg": "1d39fd4c88fee670f73e6882150e5d9c"
+  },
+  {
+    "song_id": "monochromeprincess",
+    "title": {
+      "ja": "Monochrome Princess",
+      "en": "Monochrome Princess"
+    },
+    "artist": "polysha",
+    "rank": 13,
+    "status": 0,
+    "bg": "cf9b41db7c4c3f425720163b12086197"
+  },
+  {
+    "song_id": "redandblue",
+    "title": {
+      "ja": "Red and Blue",
+      "en": "Red and Blue"
+    },
+    "artist": "Silentroom",
+    "rank": 14,
+    "status": 0,
+    "bg": "2106aad203851117e54012ba77b6e805"
+  }
+]
