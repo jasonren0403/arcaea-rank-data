@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "ii",
+    "title": {
+      "ja": " ͟͝͞Ⅱ́̕ ",
+      "en": " ͟͝͞Ⅱ́̕ "
+    },
+    "artist": "Cytus",
+    "rank": 0,
+    "status": 2147483647,
+    "bg": "8fa7d356bcdcda45b94cb81621b7e88e"
+  },
+  {
+    "song_id": "nnglooms",
+    "title": {
+      "ja": "99 Glooms",
+      "en": "99 Glooms"
+    },
+    "artist": "Sta",
+    "rank": 1,
+    "status": 2147483646,
+    "bg": "dd6f3c58a70d724db9c4f3e96885a942"
+  },
+  {
+    "song_id": "drg",
+    "title": {
+      "ja": "DRG",
+      "en": "DRG"
+    },
+    "artist": "onoken",
+    "rank": 2,
+    "status": 2147483645,
+    "bg": "363ed7018407d7d4f5514db0fad8eb71"
+  },
+  {
+    "song_id": "magnolia",
+    "title": {
+      "ja": "Magnolia",
+      "en": "Magnolia"
+    },
+    "artist": "M2U Vocal by Guriri",
+    "rank": 3,
+    "status": 239,
+    "bg": "6e2eeaf0fd88a1a40ebcc73e5972022f"
+  },
+  {
+    "song_id": "syuten",
+    "title": {
+      "ja": "syūten",
+      "en": "syūten"
+    },
+    "artist": "Apo11o\"COLLAPSAR\"program ft. 大瀬良あい",
+    "rank": 4,
+    "status": 239,
+    "bg": "94b37ecbd05f6d6c500958975bc89036"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "ja": "Grievous Lady",
+      "en": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 5,
+    "status": -5,
+    "bg": "ddf2972fbaf8183e5063e93936f90234"
+  },
+  {
+    "song_id": "lucidtraveler",
+    "title": {
+      "ja": "Lucid Traveler",
+      "en": "Lucid Traveler"
+    },
+    "artist": "Akira Complex vs 3R2",
+    "rank": 6,
+    "status": 7,
+    "bg": "51103e37fc6009a51b1e4f6582fb858d"
+  },
+  {
+    "song_id": "chaos",
+    "title": {
+      "ja": "CHAOS",
+      "en": "CHAOS"
+    },
+    "artist": "Æsir",
+    "rank": 7,
+    "status": 1,
+    "bg": "fdfc082a2bd6ce4b5cb28c670d5f3798"
+  },
+  {
+    "song_id": "infinitestrife",
+    "title": {
+      "ja": "Infinite Strife,",
+      "en": "Infinite Strife,"
+    },
+    "artist": "BlackYooh vs. siromaru",
+    "rank": 8,
+    "status": -7,
+    "bg": "0b69affde23e61465ed6b35876d3952f"
+  },
+  {
+    "song_id": "fractureray",
+    "title": {
+      "ja": "Fracture Ray",
+      "en": "Fracture Ray"
+    },
+    "artist": "Sakuzyo",
+    "rank": 9,
+    "status": -4,
+    "bg": "7f6824bc516043cb12dee9b947e77d0b"
+  },
+  {
+    "song_id": "pentiment",
+    "title": {
+      "ja": "Pentiment",
+      "en": "Pentiment"
+    },
+    "artist": "Nothing But Requiem with Museo",
+    "rank": 10,
+    "status": -6,
+    "bg": "19e7357a122d9b988ee0a672a012cf3b"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "ja": "Tempestissimo",
+      "en": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 11,
+    "status": -9,
+    "bg": "e17da815600053fbb25429acb44b9e52"
+  },
+  {
+    "song_id": "arcanaeden",
+    "title": {
+      "ja": "Arcana Eden",
+      "en": "Arcana Eden"
+    },
+    "artist": "Team Grimoire vs Sakuzyo vs Laur",
+    "rank": 12,
+    "status": -9,
+    "bg": "96d63b61b4ecad73835405acc348af6b"
+  },
+  {
+    "song_id": "sheriruth",
+    "title": {
+      "ja": "Sheriruth",
+      "en": "Sheriruth"
+    },
+    "artist": "Team Grimoire",
+    "rank": 13,
+    "status": -4,
+    "bg": "3ef3b113b33a068a83672efa7bb0017e"
+  },
+  {
+    "song_id": "usedtobe",
+    "title": {
+      "ja": "Used to be",
+      "en": "Used to be"
+    },
+    "artist": "KIVΛ",
+    "rank": 14,
+    "status": 21,
+    "bg": "7fa3fe55fa9b3389180750d62f609569"
+  }
+]
