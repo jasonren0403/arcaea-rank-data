@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "ultimatetaste",
+    "title": {
+      "ja": "Ultimate taste",
+      "en": "Ultimate taste"
+    },
+    "artist": "ぱらどっと",
+    "rank": 0,
+    "status": 0,
+    "bg": "b36d2ecfa4253ceef315e667ff92799f"
+  },
+  {
+    "song_id": "hybris",
+    "title": {
+      "ja": "ヒュブリスの頂に聳えるのは",
+      "en": "Hybris (The one who shattered)"
+    },
+    "artist": "qfeileadh feat.のあ",
+    "rank": 1,
+    "status": 0,
+    "bg": "484a993382e0a420ae3a9346309f527d"
+  },
+  {
+    "song_id": "lostemotion",
+    "title": {
+      "ja": "Lost Emotion feat. nomico",
+      "en": "Lost Emotion feat. nomico"
+    },
+    "artist": "Masayoshi Minoshima(ALR)",
+    "rank": 2,
+    "status": 6,
+    "bg": "5449833fc8355c8e1250ca3a98592fcd"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "ja": "Lost Civilization",
+      "en": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 3,
+    "status": -1,
+    "bg": "d8bd4cf4c0a76d3931beb1f6cc138990"
+  },
+  {
+    "song_id": "chronostasis",
+    "title": {
+      "ja": "Chronostasis",
+      "en": "Chronostasis"
+    },
+    "artist": "黒皇帝",
+    "rank": 4,
+    "status": 1,
+    "bg": "fcdeae6af6a69acfb606e09beaad7fdc"
+  },
+  {
+    "song_id": "tsukinimurakumo",
+    "title": {
+      "ja": "月に叢雲華に風",
+      "en": "Tsuki ni Murakumo, Hana ni Kaze"
+    },
+    "artist": "幽閉サテライト",
+    "rank": 5,
+    "status": 8,
+    "bg": "667e1b8657a4e47277ec465b2b2b4530"
+  },
+  {
+    "song_id": "goodtek",
+    "title": {
+      "ja": "GOODTEK (Arcaea Edit)",
+      "en": "GOODTEK (Arcaea Edit)"
+    },
+    "artist": "EBIMAYO",
+    "rank": 6,
+    "status": 1,
+    "bg": "b2037a224cb191ea5589df57bb9e1cdd"
+  },
+  {
+    "song_id": "kanagawa",
+    "title": {
+      "ja": "神奈川電脳暗渠",
+      "en": "Kanagawa Cyber Culvert"
+    },
+    "artist": "南ゆに",
+    "rank": 7,
+    "status": -4,
+    "bg": "5b5453e54536c948d978c57b4ac2be2d"
+  },
+  {
+    "song_id": "sakurafubuki",
+    "title": {
+      "ja": "Sakura Fubuki",
+      "en": "Sakura Fubuki"
+    },
+    "artist": "Street",
+    "rank": 8,
+    "status": -4,
+    "bg": "dd63e82d29ce4a2471e62962691ea473"
+  },
+  {
+    "song_id": "letsrock",
+    "title": {
+      "ja": "Let's Rock (Arcaea mix)",
+      "en": "Let's Rock (Arcaea mix)"
+    },
+    "artist": "ikaruga_nex vs FALCHiON",
+    "rank": 9,
+    "status": 0,
+    "bg": "bb26003850d41ce1da0cd5ea8d980837"
+  },
+  {
+    "song_id": "ignotus",
+    "title": {
+      "ja": "Ignotus",
+      "en": "Ignotus"
+    },
+    "artist": "ak+q",
+    "rank": 10,
+    "status": 0,
+    "bg": "7502bd030baa1e866aaefe8335205a57"
+  },
+  {
+    "song_id": "anokumene",
+    "title": {
+      "ja": "Anökumene",
+      "en": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 11,
+    "status": 1,
+    "bg": "b8e595a9aac1331b2654f7cda92f0681"
+  },
+  {
+    "song_id": "lawlesspoint",
+    "title": {
+      "ja": "無法地点",
+      "en": "Lawless Point"
+    },
+    "artist": "La prière",
+    "rank": 12,
+    "status": -6,
+    "bg": "45bb1a2f1a1f29a1769bcf3e0f3d69ff"
+  },
+  {
+    "song_id": "worldfragments",
+    "title": {
+      "ja": "World Fragments III(radio edit)",
+      "en": "World Fragments III(radio edit)"
+    },
+    "artist": "xi",
+    "rank": 13,
+    "status": -2,
+    "bg": "8db3f242b120e31d54e517c8899ac6ac"
+  },
+  {
+    "song_id": "infinityheaven",
+    "title": {
+      "ja": "Infinity Heaven",
+      "en": "Infinity Heaven"
+    },
+    "artist": "HyuN",
+    "rank": 14,
+    "status": 1,
+    "bg": "19b225bcf251ef84cad8f68313e3f3c6"
+  }
+]
