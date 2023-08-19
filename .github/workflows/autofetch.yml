@@ -28,7 +28,7 @@ jobs:
   main_job:
     runs-on: ubuntu-latest
     needs: file_check
-    if: ${{ failure() }}    # ${{ needs.file_check.result=='failure' }}
+    if: env.FILE_EXISTS == 'False'
     permissions:
       contents: write
     steps:
@@ -49,7 +49,7 @@ jobs:
       - name: Do the run
         run: python main.py
       - name: Commit changes
-        if: ${{ success() }}
+        if: env.PAID_DATA_ERRORED == 'false' && env.FREE_DATA_ERRORED == 'false'
         # https://github.com/stefanzweifel/git-auto-commit-action
         uses: stefanzweifel/git-auto-commit-action@v4
         with:

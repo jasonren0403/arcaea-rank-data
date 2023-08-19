@@ -1,12 +1,12 @@
 # -*- coding: utf8 -*-
 import json
+import os
 import pathlib
 import datetime
 import time
 import random
 import logging
 import telnetlib
-import sys
 
 import requests
 import coloredlogs
@@ -19,7 +19,9 @@ url_dict = {
 }
 
 logger = logging.getLogger("rank-data-crawler")
-coloredlogs.install(level="INFO", logger=logger, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+coloredlogs.install(level="INFO", logger=logger,
+                    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+
 
 def get_proxy():
     # https://github.com/TheSpeedX/PROXY-List
@@ -27,12 +29,14 @@ def get_proxy():
     try:
         res = requests.get(ip_net, timeout=5)
         ips = random.sample(res.text.split('\n'), k=30)
+        count = 0
         for each in ips:
             try:
                 time.sleep(2)
-                logger.info('testing %s', each)
+                count += 1
+                logger.info('[%s/%s]testing %s', count, len(ips), each)
                 ip, port = each.split(":")
-                telnetlib.Telnet(ip,port=port,timeout=10)
+                telnetlib.Telnet(ip, port=port, timeout=10)
                 res2 = requests.get('https://webapi.lowiro.com/webapi/song/rank/free', headers={
                     'accept': 'application/json',
                     'User-Agent': UA,
@@ -51,19 +55,22 @@ def get_proxy():
                     }
                 # print(res2.text)
                 logger.warning(f"{each} errored with {res2.status_code}")
-            except (requests.exceptions.ProxyError, 
-                    requests.exceptions.ConnectTimeout, 
+            except (requests.exceptions.ProxyError,
+                    requests.exceptions.ConnectTimeout,
                     requests.exceptions.ReadTimeout) as ex:
-                logger.error(f"Proxy {each} have problems ({ex}), try next one")
+                logger.error(
+                    f"Proxy {each} have problems ({ex}), try next one")
                 continue
             except TimeoutError as ex:
                 logger.error(f"Proxy {each} connect timeout, next one")
                 continue
             except Exception as e:
-                logger.exception(f"{each} processed with exception", exc_info=e)
+                logger.exception(
+                    f"{each} processed with exception", exc_info=e)
                 continue
     except Exception:
         return {}
+
 
 def process_bg(datalist, source, proxy_ip=None):
     s = requests.Session()
@@ -71,7 +78,7 @@ def process_bg(datalist, source, proxy_ip=None):
     s.mount('https://', HTTPAdapter(max_retries=3))
     proxy = proxy_ip
     for each in datalist:
-        time.sleep(random.uniform(2,4))
+        time.sleep(random.uniform(2, 4))
         url = f"https://webassets.lowiro.com/{each['bg']}.jpg?v=323"
         local_path = pathlib.Path('./img') / f'{each["bg"]}.jpg'
         logger.info("checking local path %s", local_path.as_posix())
@@ -79,8 +86,8 @@ def process_bg(datalist, source, proxy_ip=None):
             req = s.get(url=url, headers={
                 'User-Agent': UA,
                 'Referer': f'https://arcaea.lowiro.com/song_ranking/{source}'
-            }, proxies=proxy,timeout=5)
-            if req.status_code==200:
+            }, proxies=proxy, timeout=5)
+            if req.status_code == 200:
                 logger.info(f"downloading {each['song_id']} from url {url}")
                 with open(local_path, 'wb') as file:
                     file.write(req.content)
@@ -107,7 +114,8 @@ def get_song_rank(choose, proxy_ip=None):
         }, proxies=proxy, timeout=15)
         data = req.json()
         if 'success' in data and data['success']:
-            logger.info("getting %s data success, processing background", choose)
+            logger.info(
+                "getting %s data success, processing background", choose)
             process_bg(data['value'], choose, proxy_ip)
             return True, data['value']
         return False, data
@@ -119,9 +127,8 @@ def get_song_rank(choose, proxy_ip=None):
             'text': req.text if req is not None else ''
         }
 
+
 def main(get_free=True, get_paid=True):
-    free_code = 0
-    paid_code = 0
     proxy = get_proxy()
     if proxy:
         logger.info("Using proxy %s for further fetch", proxy)
@@ -135,20 +142,23 @@ def main(get_free=True, get_paid=True):
             logger.info("free data saved")
             with open(p / 'free.json', 'w', encoding='utf-8') as file:
                 json.dump(free, file, ensure_ascii=False, indent=2)
+            os.putenv('FREE_DATA_ERRORED', 'false')
         else:
             logger.fatal("get free data error! %s", free)
-            free_code = 1
+            os.putenv('FREE_DATA_ERRORED', 'true')
     if get_paid:
         res2, paid = get_song_rank('paid', proxy_ip=proxy)
         if res2 or 'error' not in paid:
             logger.info("paid data saved")
             with open(p / 'paid.json', 'w', encoding='utf-8') as file:
                 json.dump(paid, file, ensure_ascii=False, indent=2)
+            os.putenv('PAID_DATA_ERRORED', 'false')
         else:
             logger.fatal("get paid data error! %s", paid)
-            paid_code = 1
-    return free_code, paid_code
+            os.putenv('PAID_DATA_ERRORED', 'true')
 
-if __name__=="__main__":
-    f, p = main()
-    sys.exit(f or p)
+
+if __name__ == "__main__":
+    main()
+    logger.info('FREE_DATA_ERRORED=%s, PAID_DATA_ERRORED=%s', os.getenv(
+        'FREE_DATA_ERRORED'), os.getenv('PAID_DATA_ERRORED'))

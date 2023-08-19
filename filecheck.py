@@ -1,4 +1,4 @@
-import sys
+import os
 import datetime
 import pathlib
 
@@ -17,4 +17,5 @@ def filecheck(file_name) -> bool:
 
 if __name__ == "__main__":
     flag = filecheck("free.json") and filecheck("paid.json")
-    sys.exit(not flag)
+    os.putenv('FILE_EXISTS', str(flag))
+    os.system('echo $FILE_EXISTS')
