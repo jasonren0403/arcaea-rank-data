@@ -18,4 +18,4 @@ def filecheck(file_name) -> bool:
 if __name__ == "__main__":
     flag = filecheck("free.json") and filecheck("paid.json")
     os.putenv('FILE_EXISTS', str(flag))
-    os.system('echo $FILE_EXISTS')
+    os.system('echo $FILE_EXISTS >> $GITHUB_ENV')
