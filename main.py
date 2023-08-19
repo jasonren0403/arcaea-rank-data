@@ -28,7 +28,7 @@ def get_proxy():
     ip_net = "https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/http.txt"
     try:
         res = requests.get(ip_net, timeout=5)
-        ips = random.sample(res.text.split('\n'), k=30)
+        ips = random.sample(res.text.split('\n'), k=int(os.getenv('IP_CHECK_COUNT', 5)))
         count = 0
         for each in ips:
             try:
@@ -142,20 +142,20 @@ def main(get_free=True, get_paid=True):
             logger.info("free data saved")
             with open(p / 'free.json', 'w', encoding='utf-8') as file:
                 json.dump(free, file, ensure_ascii=False, indent=2)
-            os.putenv('FREE_DATA_ERRORED', 'false')
         else:
             logger.fatal("get free data error! %s", free)
-            os.putenv('FREE_DATA_ERRORED', 'true')
+            if os.getenv('CI', 'false') == 'true':
+                os.system('echo "FREE_DATA_ERRORED=true" >> "$GITHUB_ENV"')
     if get_paid:
         res2, paid = get_song_rank('paid', proxy_ip=proxy)
         if res2 or 'error' not in paid:
             logger.info("paid data saved")
             with open(p / 'paid.json', 'w', encoding='utf-8') as file:
                 json.dump(paid, file, ensure_ascii=False, indent=2)
-            os.putenv('PAID_DATA_ERRORED', 'false')
         else:
             logger.fatal("get paid data error! %s", paid)
-            os.putenv('PAID_DATA_ERRORED', 'true')
+            if os.getenv('CI', 'false') == 'true':
+                os.system('echo "PAID_DATA_ERRORED=true" >> "$GITHUB_ENV"')
 
 
 if __name__ == "__main__":
