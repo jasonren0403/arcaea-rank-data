@@ -2,7 +2,6 @@ import os
 import datetime
 import pathlib
 import logging
-import coloredlogs
 
 today = datetime.date.today()
 year = today.year
@@ -10,8 +9,6 @@ month = today.month
 day = today.day
 
 logger = logging.getLogger("file-checker")
-coloredlogs.install(level="INFO", logger=logger,
-                    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 
 TEST=False
 
