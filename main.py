@@ -28,7 +28,8 @@ def get_proxy():
     ip_net = "https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/http.txt"
     try:
         res = requests.get(ip_net, timeout=5)
-        ips = random.sample(res.text.split('\n'), k=int(os.getenv('IP_CHECK_COUNT', 5)))
+        ips = random.sample(res.text.split('\n'), k=int(
+            os.getenv('IP_CHECK_COUNT', 5)))
         count = 0
         for each in ips:
             try:
@@ -77,28 +78,34 @@ def process_bg(datalist, source, proxy_ip=None):
     s.mount('http://', HTTPAdapter(max_retries=3))
     s.mount('https://', HTTPAdapter(max_retries=3))
     proxy = proxy_ip
+    dl_list = []
     for each in datalist:
-        time.sleep(random.uniform(2, 4))
         url = f"https://webassets.lowiro.com/{each['bg']}.jpg?v=323"
         local_path = pathlib.Path('./img') / f'{each["bg"]}.jpg'
         logger.info("checking local path %s", local_path.as_posix())
         if not local_path.exists():
-            req = s.get(url=url, headers={
-                'User-Agent': UA,
-                'Referer': f'https://arcaea.lowiro.com/song_ranking/{source}'
-            }, proxies=proxy, timeout=5)
-            if req.status_code == 200:
-                logger.info(f"downloading {each['song_id']} from url {url}")
-                with open(local_path, 'wb') as file:
-                    file.write(req.content)
-            else:
-                logger.warning("failed to get %s", each['song_id'])
+            dl_list.append({
+                "url": url,
+                "song_id": each['song_id']
+            })
+    for item in dl_list:
+        time.sleep(random.uniform(2, 4))
+        req = s.get(url=item['url'], headers={
+            'User-Agent': UA,
+            'Referer': f'https://arcaea.lowiro.com/song_ranking/{source}'
+        }, proxies=proxy, timeout=5)
+        if req.status_code == 200:
+            logger.info(f"downloading {item['song_id']} from url {item['url']}")
+            with open(local_path, 'wb') as file:
+                file.write(req.content)
+        else:
+            logger.warning("failed to get %s", each['song_id'])
 
 
 def get_song_rank(choose, proxy_ip=None):
     if choose not in ('free', 'paid'):
         raise ValueError('song_rank should be free or paid!')
-    logger.info("songInfo: getting %s data", choose)
+    logger.info("songInfo: getting %s data, using proxy %s", choose, proxy_ip)
     url = url_dict.get(choose)
     s = requests.Session()
     s.mount('http://', HTTPAdapter(max_retries=3))
@@ -129,32 +136,57 @@ def get_song_rank(choose, proxy_ip=None):
 
 
 def main(get_free=True, get_paid=True):
-    proxy = get_proxy()
-    if proxy:
-        logger.info("Using proxy %s for further fetch", proxy)
     d = datetime.datetime.now()
     p = pathlib.Path(f'./{d.year}/{d.month}/{d.day}')
     if not p.exists():
         p.mkdir(parents=True)
     if get_free:
-        res, free = get_song_rank('free', proxy_ip=proxy)
+        res, free = get_song_rank('free')
         if res or 'error' not in free:
             logger.info("free data saved")
             with open(p / 'free.json', 'w', encoding='utf-8') as file:
                 json.dump(free, file, ensure_ascii=False, indent=2)
         else:
-            logger.fatal("get free data error! %s", free)
-            if os.getenv('CI', 'false') == 'true':
+            failed = True
+            proxy = get_proxy()
+            if proxy:
+                logger.info("Using proxy %s for further fetch", proxy)
+                res, free = get_song_rank('free', proxy_ip=proxy)
+                if res or 'error' not in free:
+                    logger.info("free data saved")
+                    with open(p / 'free.json', 'w', encoding='utf-8') as file:
+                        json.dump(free, file, ensure_ascii=False, indent=2)
+                    failed = False
+                else:
+                    logger.fatal(
+                        "get free data error! %s(using proxy but get error data)", free)
+            else:
+                logger.fatal("get free data error! %s(cannot get proxy)", free)
+            if failed and os.getenv('CI', 'false') == 'true':
                 os.system('echo "FREE_DATA_ERRORED=true" >> "$GITHUB_ENV"')
     if get_paid:
-        res2, paid = get_song_rank('paid', proxy_ip=proxy)
+        res2, paid = get_song_rank('paid')
         if res2 or 'error' not in paid:
             logger.info("paid data saved")
             with open(p / 'paid.json', 'w', encoding='utf-8') as file:
                 json.dump(paid, file, ensure_ascii=False, indent=2)
         else:
-            logger.fatal("get paid data error! %s", paid)
-            if os.getenv('CI', 'false') == 'true':
+            failed = True
+            proxy = get_proxy()
+            if proxy:
+                logger.info("Using proxy %s for further fetch", proxy)
+                res, paid = get_song_rank('paid', proxy_ip=proxy)
+                if res or 'error' not in free:
+                    logger.info("paid data saved")
+                    with open(p / 'paid.json', 'w', encoding='utf-8') as file:
+                        json.dump(free, file, ensure_ascii=False, indent=2)
+                    failed = False
+                else:
+                    logger.fatal(
+                        "get paid data error! %s(using proxy but get error data)", paid)
+            else:
+                logger.fatal("get paid data error! %s(cannot get proxy)", paid)
+            if failed and os.getenv('CI', 'false') == 'true':
                 os.system('echo "PAID_DATA_ERRORED=true" >> "$GITHUB_ENV"')
 
 
