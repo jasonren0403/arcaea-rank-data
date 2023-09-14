@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "goodtek",
+    "title": {
+      "ja": "GOODTEK (Arcaea Edit)",
+      "en": "GOODTEK (Arcaea Edit)"
+    },
+    "artist": "EBIMAYO",
+    "rank": 0,
+    "status": 4,
+    "bg": "57d698b46ad2312b95cad447fd9f295d"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "ja": "Lost Civilization",
+      "en": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 1,
+    "status": 0,
+    "bg": "c8dd780dc20fbfc199ce0846911e49fb"
+  },
+  {
+    "song_id": "rgb",
+    "title": {
+      "ja": "RGB",
+      "en": "RGB"
+    },
+    "artist": "MEMODEMO X AQUASINE",
+    "rank": 2,
+    "status": 1,
+    "bg": "236930069c65dcd8c74ea14cd8d890c3"
+  },
+  {
+    "song_id": "chronostasis",
+    "title": {
+      "ja": "Chronostasis",
+      "en": "Chronostasis"
+    },
+    "artist": "黒皇帝",
+    "rank": 3,
+    "status": -3,
+    "bg": "92b547559c4c762ff27c4f30eb343d3b"
+  },
+  {
+    "song_id": "kanagawa",
+    "title": {
+      "ja": "神奈川電脳暗渠",
+      "en": "Kanagawa Cyber Culvert"
+    },
+    "artist": "南ゆに",
+    "rank": 4,
+    "status": -2,
+    "bg": "e19645545966956e287cea3f73da1a3a"
+  },
+  {
+    "song_id": "ultimatetaste",
+    "title": {
+      "ja": "Ultimate taste",
+      "en": "Ultimate taste"
+    },
+    "artist": "ぱらどっと",
+    "rank": 5,
+    "status": 0,
+    "bg": "9b4139d6d7e922788124e2b84538055c"
+  },
+  {
+    "song_id": "sakurafubuki",
+    "title": {
+      "ja": "Sakura Fubuki",
+      "en": "Sakura Fubuki"
+    },
+    "artist": "Street",
+    "rank": 6,
+    "status": 1,
+    "bg": "904d7094ba554fdd19cc7c83a82a0c98"
+  },
+  {
+    "song_id": "ignotus",
+    "title": {
+      "ja": "Ignotus",
+      "en": "Ignotus"
+    },
+    "artist": "ak+q",
+    "rank": 7,
+    "status": -1,
+    "bg": "44950c852061c1c0d77ddcf1e5847999"
+  },
+  {
+    "song_id": "anokumene",
+    "title": {
+      "ja": "Anökumene",
+      "en": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 8,
+    "status": 1,
+    "bg": "c5b0a1ae3a982560636b10c7d926f106"
+  },
+  {
+    "song_id": "infinityheaven",
+    "title": {
+      "ja": "Infinity Heaven",
+      "en": "Infinity Heaven"
+    },
+    "artist": "HyuN",
+    "rank": 9,
+    "status": 1,
+    "bg": "a32a6997b597b17358c5c47ca5bc87cf"
+  },
+  {
+    "song_id": "purgatorium",
+    "title": {
+      "ja": "Purgatorium",
+      "en": "Purgatorium"
+    },
+    "artist": "お月さま交響曲",
+    "rank": 10,
+    "status": -2,
+    "bg": "9bc1703717e992e324306a3b689abbfb"
+  },
+  {
+    "song_id": "dement",
+    "title": {
+      "ja": "Dement ~after legend~",
+      "en": "Dement ~after legend~"
+    },
+    "artist": "Cosmograph",
+    "rank": 11,
+    "status": 2,
+    "bg": "d18abccfe05f0f16306dc30488864b60"
+  },
+  {
+    "song_id": "shadesoflight",
+    "title": {
+      "ja": "Shades of Light in a Transcendent Realm",
+      "en": "Shades of Light in a Transcendent Realm"
+    },
+    "artist": "ak+q",
+    "rank": 12,
+    "status": 0,
+    "bg": "4222d596edb4bed9730847db9ac345d5"
+  },
+  {
+    "song_id": "monochromeprincess",
+    "title": {
+      "ja": "Monochrome Princess",
+      "en": "Monochrome Princess"
+    },
+    "artist": "polysha",
+    "rank": 13,
+    "status": 4,
+    "bg": "fb99233088baf81ca8e006efc74db8bb"
+  },
+  {
+    "song_id": "worldexecuteme",
+    "title": {
+      "ja": "world.execute(me);",
+      "en": "world.execute(me);"
+    },
+    "artist": "Mili",
+    "rank": 14,
+    "status": 1,
+    "bg": "0fde9d291178bbf91784ea05495099e1"
+  }
+]
