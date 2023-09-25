@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "ja": "Grievous Lady",
+      "en": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 0,
+    "status": 0,
+    "bg": "4e74ff78f9ad35056daeb73d4561313d"
+  },
+  {
+    "song_id": "infinitestrife",
+    "title": {
+      "ja": "Infinite Strife,",
+      "en": "Infinite Strife,"
+    },
+    "artist": "BlackYooh vs. siromaru",
+    "rank": 1,
+    "status": 1,
+    "bg": "35619ec7830ac92d606c63dde23bcc2f"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "ja": "Tempestissimo",
+      "en": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 2,
+    "status": -1,
+    "bg": "ef74057d9012b41d65e97e83a10830b4"
+  },
+  {
+    "song_id": "arcanaeden",
+    "title": {
+      "ja": "Arcana Eden",
+      "en": "Arcana Eden"
+    },
+    "artist": "Team Grimoire vs Sakuzyo vs Laur",
+    "rank": 3,
+    "status": 0,
+    "bg": "c62eb4fd9e764db8848f2011b1f37564"
+  },
+  {
+    "song_id": "pentiment",
+    "title": {
+      "ja": "Pentiment",
+      "en": "Pentiment"
+    },
+    "artist": "Nothing But Requiem with Museo",
+    "rank": 4,
+    "status": 2,
+    "bg": "e9867a62cd3d36fef66743fbc53b0464"
+  },
+  {
+    "song_id": "fractureray",
+    "title": {
+      "ja": "Fracture Ray",
+      "en": "Fracture Ray"
+    },
+    "artist": "Sakuzyo",
+    "rank": 5,
+    "status": -1,
+    "bg": "ef88b18f95703957dd68649e61de9862"
+  },
+  {
+    "song_id": "testify",
+    "title": {
+      "ja": "Testify",
+      "en": "Testify"
+    },
+    "artist": "void (Mournfinale) feat. 星熊南巫",
+    "rank": 6,
+    "status": 1,
+    "bg": "70ad2a1aa53f75a8ca421a67fdcd2e34"
+  },
+  {
+    "song_id": "abstrusedilemma",
+    "title": {
+      "ja": "Abstruse Dilemma",
+      "en": "Abstruse Dilemma"
+    },
+    "artist": "Ashrount vs. 打打だいず",
+    "rank": 7,
+    "status": -2,
+    "bg": "772f6ef9483e8c72609a70aba6d23cbd"
+  },
+  {
+    "song_id": "worldender",
+    "title": {
+      "ja": "魔王",
+      "en": "World Ender"
+    },
+    "artist": "sasakure.UK × TJ.hangneil",
+    "rank": 8,
+    "status": 2,
+    "bg": "7f8db9024d135c8c00f2b7d8f7561928"
+  },
+  {
+    "song_id": "sheriruth",
+    "title": {
+      "ja": "Sheriruth",
+      "en": "Sheriruth"
+    },
+    "artist": "Team Grimoire",
+    "rank": 9,
+    "status": -1,
+    "bg": "75e4e206f4617af00e50a7a2437efce6"
+  },
+  {
+    "song_id": "riseoftheworld",
+    "title": {
+      "ja": "Rise of the World",
+      "en": "Rise of the World"
+    },
+    "artist": "cosMo＠暴走P",
+    "rank": 10,
+    "status": -1,
+    "bg": "805000b308f2553cfc323b5b7f1efaa3"
+  },
+  {
+    "song_id": "trappola",
+    "title": {
+      "ja": "妖艶魔女 -trappola bewitching-",
+      "en": "trappola bewitching"
+    },
+    "artist": "gmtn.",
+    "rank": 11,
+    "status": 0,
+    "bg": "ea1043c180b2c706ff841a411373bddd"
+  },
+  {
+    "song_id": "ifi",
+    "title": {
+      "ja": "#1f1e33",
+      "en": "#1f1e33"
+    },
+    "artist": "かめりあ(EDP)",
+    "rank": 12,
+    "status": 0,
+    "bg": "c49531173c4a2db42afaee99818c06b2"
+  },
+  {
+    "song_id": "unknownlevels",
+    "title": {
+      "ja": "UNKNOWN LEVELS",
+      "en": "UNKNOWN LEVELS"
+    },
+    "artist": "Yuta Imai",
+    "rank": 13,
+    "status": 0,
+    "bg": "efe708afe2ce934df35ac20aa496ecad"
+  },
+  {
+    "song_id": "dantalion",
+    "title": {
+      "ja": "Dantalion",
+      "en": "Dantalion"
+    },
+    "artist": "Team Grimoire",
+    "rank": 14,
+    "status": 0,
+    "bg": "8d710508bcfa67529ffafbb8ee1c073a"
+  }
+]
