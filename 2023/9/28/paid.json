@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "technicolour",
+    "title": {
+      "ja": "Technicolour",
+      "en": "Technicolour"
+    },
+    "artist": "Maozon",
+    "rank": 0,
+    "status": 2147483647,
+    "bg": "6145560930144aebe8b31852cccaff5a"
+  },
+  {
+    "song_id": "egoeimi",
+    "title": {
+      "ja": "Ego Eimi",
+      "en": "Ego Eimi"
+    },
+    "artist": "BlackY feat. Risa Yuzuki",
+    "rank": 1,
+    "status": 2147483646,
+    "bg": "664b7360eefbb25dcd6bfa3b5bfdf837"
+  },
+  {
+    "song_id": "arghena",
+    "title": {
+      "ja": "Arghena",
+      "en": "Arghena"
+    },
+    "artist": "Feryquitous vs Laur",
+    "rank": 2,
+    "status": 2147483645,
+    "bg": "b114eb3865066bc2411123bf630fe425"
+  },
+  {
+    "song_id": "logos",
+    "title": {
+      "ja": "Logos",
+      "en": "Logos"
+    },
+    "artist": "polysha feat. 高城みよ",
+    "rank": 3,
+    "status": 2147483644,
+    "bg": "d9aa94b0224ceae232f5d0a83b46e42b"
+  },
+  {
+    "song_id": "primevaltexture",
+    "title": {
+      "ja": "Primeval Texture",
+      "en": "Primeval Texture"
+    },
+    "artist": "くるぶっこちゃん",
+    "rank": 4,
+    "status": 2147483643,
+    "bg": "61f881539aeabc4373dca3dfa4283d90"
+  },
+  {
+    "song_id": "unknownlevels",
+    "title": {
+      "ja": "UNKNOWN LEVELS",
+      "en": "UNKNOWN LEVELS"
+    },
+    "artist": "Yuta Imai",
+    "rank": 5,
+    "status": 5,
+    "bg": "17b780c97338ad7b3070f98378af5629"
+  },
+  {
+    "song_id": "abstrusedilemma",
+    "title": {
+      "ja": "Abstruse Dilemma",
+      "en": "Abstruse Dilemma"
+    },
+    "artist": "Ashrount vs. 打打だいず",
+    "rank": 6,
+    "status": -4,
+    "bg": "96308dae2e6ba1f20163e2accdd263b2"
+  },
+  {
+    "song_id": "ravenspride",
+    "title": {
+      "ja": "レイヴンズ・プライド",
+      "en": "Raven's Pride"
+    },
+    "artist": "みーに feat. はらもりよしな",
+    "rank": 7,
+    "status": 5,
+    "bg": "633291e9d03c6204fd9f4cb27ea7ed6f"
+  },
+  {
+    "song_id": "waitfordawn",
+    "title": {
+      "ja": "WAIT FOR DAWN",
+      "en": "WAIT FOR DAWN"
+    },
+    "artist": "U-ske feat. 棗いつき",
+    "rank": 8,
+    "status": 25,
+    "bg": "9596df4374162162503cea33e27e5c6d"
+  },
+  {
+    "song_id": "riseoftheworld",
+    "title": {
+      "ja": "Rise of the World",
+      "en": "Rise of the World"
+    },
+    "artist": "cosMo＠暴走P",
+    "rank": 9,
+    "status": -1,
+    "bg": "eaf15827dcbbb82e33423dd13e9b9281"
+  },
+  {
+    "song_id": "bbkkbkk",
+    "title": {
+      "ja": "B.B.K.K.B.K.K.",
+      "en": "B.B.K.K.B.K.K."
+    },
+    "artist": "nora2r",
+    "rank": 10,
+    "status": 2147483637,
+    "bg": "c529ef45285e17993446d00a995d3cd2"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "ja": "Grievous Lady",
+      "en": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 11,
+    "status": -11,
+    "bg": "2061f44970dfc5e97ad8bb1a7f959d91"
+  },
+  {
+    "song_id": "testify",
+    "title": {
+      "ja": "Testify",
+      "en": "Testify"
+    },
+    "artist": "void (Mournfinale) feat. 星熊南巫",
+    "rank": 12,
+    "status": -7,
+    "bg": "57400ac1d596383c7a05bd9fbe05cfe6"
+  },
+  {
+    "song_id": "sheriruth",
+    "title": {
+      "ja": "Sheriruth",
+      "en": "Sheriruth"
+    },
+    "artist": "Team Grimoire",
+    "rank": 13,
+    "status": -4,
+    "bg": "79039cc4883976450abffed3de424d6d"
+  },
+  {
+    "song_id": "infinitestrife",
+    "title": {
+      "ja": "Infinite Strife,",
+      "en": "Infinite Strife,"
+    },
+    "artist": "BlackYooh vs. siromaru",
+    "rank": 14,
+    "status": -13,
+    "bg": "6d6c57e296dcbd3b8271599f9192cef8"
+  }
+]

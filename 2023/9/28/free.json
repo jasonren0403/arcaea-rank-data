@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "remindthesouls",
+    "title": {
+      "ja": "Remind the Souls (Short Version)",
+      "en": "Remind the Souls (Short Version)"
+    },
+    "artist": "Nhato",
+    "rank": 0,
+    "status": 2147483647,
+    "bg": "8ad360244674d2417c841794a3ce8923"
+  },
+  {
+    "song_id": "amekagura",
+    "title": {
+      "ja": "雨神楽",
+      "en": "Amekagura"
+    },
+    "artist": "荒谷サトル",
+    "rank": 1,
+    "status": 2147483646,
+    "bg": "1ea3d884088d5240105c163066de930d"
+  },
+  {
+    "song_id": "dynitikos",
+    "title": {
+      "ja": "Dynitikós",
+      "en": "Dynitikós"
+    },
+    "artist": "Prower",
+    "rank": 2,
+    "status": 2147483645,
+    "bg": "91bfd3fc564379b6db2ea5675297b150"
+  },
+  {
+    "song_id": "matenrou",
+    "title": {
+      "ja": "感情の摩天楼 ～Arr.Demetori",
+      "en": "Kanjou no Matenrou ～Arr.Demetori"
+    },
+    "artist": "Demetori",
+    "rank": 3,
+    "status": -3,
+    "bg": "a7f34c835759e2de9bf894d6a2af3803"
+  },
+  {
+    "song_id": "kanagawa",
+    "title": {
+      "ja": "神奈川電脳暗渠",
+      "en": "Kanagawa Cyber Culvert"
+    },
+    "artist": "南ゆに",
+    "rank": 4,
+    "status": -1,
+    "bg": "4976c8d9643259a21b17af76899141fa"
+  },
+  {
+    "song_id": "ultimatetaste",
+    "title": {
+      "ja": "Ultimate taste",
+      "en": "Ultimate taste"
+    },
+    "artist": "ぱらどっと",
+    "rank": 5,
+    "status": -4,
+    "bg": "5a3d97b012eef4d9f9ae4f9b07782105"
+  },
+  {
+    "song_id": "lawlesspoint",
+    "title": {
+      "ja": "無法地点",
+      "en": "Lawless Point"
+    },
+    "artist": "La prière",
+    "rank": 6,
+    "status": 35,
+    "bg": "8e64a9a345a6ef1da87e2ce0ab73802a"
+  },
+  {
+    "song_id": "kyogenkigo",
+    "title": {
+      "ja": "狂言綺語",
+      "en": "False Embellishment"
+    },
+    "artist": "影虎。 & ikaruga_nex",
+    "rank": 7,
+    "status": 41,
+    "bg": "f4e7b9f296f3fe06d9e59cc07f2a3504"
+  },
+  {
+    "song_id": "rgb",
+    "title": {
+      "ja": "RGB",
+      "en": "RGB"
+    },
+    "artist": "MEMODEMO X AQUASINE",
+    "rank": 8,
+    "status": -4,
+    "bg": "7a9f05619b152dd864e188c25c7a503c"
+  },
+  {
+    "song_id": "anokumene",
+    "title": {
+      "ja": "Anökumene",
+      "en": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 9,
+    "status": 3,
+    "bg": "c2d1f67e9fea7afb5e5c7fe3cbacbdcf"
+  },
+  {
+    "song_id": "tsukinimurakumo",
+    "title": {
+      "ja": "月に叢雲華に風",
+      "en": "Tsuki ni Murakumo, Hana ni Kaze"
+    },
+    "artist": "幽閉サテライト",
+    "rank": 10,
+    "status": -4,
+    "bg": "28790e7d4abb1a3b0f714fced776b043"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "ja": "Lost Civilization",
+      "en": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 11,
+    "status": -9,
+    "bg": "eb437999263bf53384a1eeac3e5fa93c"
+  },
+  {
+    "song_id": "hybris",
+    "title": {
+      "ja": "ヒュブリスの頂に聳えるのは",
+      "en": "Hybris (The one who shattered)"
+    },
+    "artist": "qfeileadh feat.のあ",
+    "rank": 12,
+    "status": 2,
+    "bg": "774daf740ef42b258bd042c7aa54f96d"
+  },
+  {
+    "song_id": "sayonarahatsukoi",
+    "title": {
+      "ja": "Sayonara Hatsukoi",
+      "en": "Sayonara Hatsukoi"
+    },
+    "artist": "REDSHiFT",
+    "rank": 13,
+    "status": 25,
+    "bg": "7ef2931b3513375a18d6fa6684baaaf2"
+  },
+  {
+    "song_id": "sakurafubuki",
+    "title": {
+      "ja": "Sakura Fubuki",
+      "en": "Sakura Fubuki"
+    },
+    "artist": "Street",
+    "rank": 14,
+    "status": -7,
+    "bg": "888f527c3472a7bb8f736f9a61401ea1"
+  }
+]
