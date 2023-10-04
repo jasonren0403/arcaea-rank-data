@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "amekagura",
+    "title": {
+      "ja": "雨神楽",
+      "en": "Amekagura"
+    },
+    "artist": "荒谷サトル",
+    "rank": 0,
+    "status": 0,
+    "bg": "1914258165433b7986efdc1696a12952"
+  },
+  {
+    "song_id": "dynitikos",
+    "title": {
+      "ja": "Dynitikós",
+      "en": "Dynitikós"
+    },
+    "artist": "Prower",
+    "rank": 1,
+    "status": 0,
+    "bg": "dad1ea9feeaaf1aa13fdbf79195128a1"
+  },
+  {
+    "song_id": "remindthesouls",
+    "title": {
+      "ja": "Remind the Souls (Short Version)",
+      "en": "Remind the Souls (Short Version)"
+    },
+    "artist": "Nhato",
+    "rank": 2,
+    "status": 1,
+    "bg": "49a5d8faf3a861bb2937594d9805eb34"
+  },
+  {
+    "song_id": "kanagawa",
+    "title": {
+      "ja": "神奈川電脳暗渠",
+      "en": "Kanagawa Cyber Culvert"
+    },
+    "artist": "南ゆに",
+    "rank": 3,
+    "status": -1,
+    "bg": "a991e532cb54bcd271ab93c418f8d6f0"
+  },
+  {
+    "song_id": "matenrou",
+    "title": {
+      "ja": "感情の摩天楼 ～Arr.Demetori",
+      "en": "Kanjou no Matenrou ～Arr.Demetori"
+    },
+    "artist": "Demetori",
+    "rank": 4,
+    "status": 0,
+    "bg": "f063a72243d41ec99e8dfeeadc674621"
+  },
+  {
+    "song_id": "anokumene",
+    "title": {
+      "ja": "Anökumene",
+      "en": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 5,
+    "status": 0,
+    "bg": "1434984d495ca6d5e9bba11e8a9383f8"
+  },
+  {
+    "song_id": "lawlesspoint",
+    "title": {
+      "ja": "無法地点",
+      "en": "Lawless Point"
+    },
+    "artist": "La prière",
+    "rank": 6,
+    "status": 1,
+    "bg": "6a82793d58549fbb71df5c7167e971fd"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "ja": "Lost Civilization",
+      "en": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 7,
+    "status": -1,
+    "bg": "af2589bbeda9cb7359d282c760a2b52a"
+  },
+  {
+    "song_id": "sakurafubuki",
+    "title": {
+      "ja": "Sakura Fubuki",
+      "en": "Sakura Fubuki"
+    },
+    "artist": "Street",
+    "rank": 8,
+    "status": 4,
+    "bg": "db3b68f14dbf57836faa813b60c827fb"
+  },
+  {
+    "song_id": "rgb",
+    "title": {
+      "ja": "RGB",
+      "en": "RGB"
+    },
+    "artist": "MEMODEMO X AQUASINE",
+    "rank": 9,
+    "status": 1,
+    "bg": "2f76d3f3a2756b7ec45f7a30895e8bf6"
+  },
+  {
+    "song_id": "kyogenkigo",
+    "title": {
+      "ja": "狂言綺語",
+      "en": "False Embellishment"
+    },
+    "artist": "影虎。 & ikaruga_nex",
+    "rank": 10,
+    "status": -2,
+    "bg": "2d856e6b8fe87daebadaeb06c29048e3"
+  },
+  {
+    "song_id": "chronostasis",
+    "title": {
+      "ja": "Chronostasis",
+      "en": "Chronostasis"
+    },
+    "artist": "黒皇帝",
+    "rank": 11,
+    "status": -2,
+    "bg": "3ffce1e3a577de89f8dee867f36b458b"
+  },
+  {
+    "song_id": "goodtek",
+    "title": {
+      "ja": "GOODTEK (Arcaea Edit)",
+      "en": "GOODTEK (Arcaea Edit)"
+    },
+    "artist": "EBIMAYO",
+    "rank": 12,
+    "status": -1,
+    "bg": "c4e8c7d48ae59d7bd4e6ba47f33220b9"
+  },
+  {
+    "song_id": "ultimatetaste",
+    "title": {
+      "ja": "Ultimate taste",
+      "en": "Ultimate taste"
+    },
+    "artist": "ぱらどっと",
+    "rank": 13,
+    "status": 1,
+    "bg": "b0aa11c39b5a11bda77f866247ef2604"
+  },
+  {
+    "song_id": "ignotus",
+    "title": {
+      "ja": "Ignotus",
+      "en": "Ignotus"
+    },
+    "artist": "ak+q",
+    "rank": 14,
+    "status": 1,
+    "bg": "42bcb445d8ee3b14efe70d4a6d7ca63f"
+  }
+]
