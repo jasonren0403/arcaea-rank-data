@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "amekagura",
+    "title": {
+      "ja": "雨神楽",
+      "en": "Amekagura"
+    },
+    "artist": "荒谷サトル",
+    "rank": 0,
+    "status": 0,
+    "bg": "1914258165433b7986efdc1696a12952"
+  },
+  {
+    "song_id": "remindthesouls",
+    "title": {
+      "ja": "Remind the Souls (Short Version)",
+      "en": "Remind the Souls (Short Version)"
+    },
+    "artist": "Nhato",
+    "rank": 1,
+    "status": 1,
+    "bg": "49a5d8faf3a861bb2937594d9805eb34"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "ja": "Lost Civilization",
+      "en": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 2,
+    "status": 2,
+    "bg": "af2589bbeda9cb7359d282c760a2b52a"
+  },
+  {
+    "song_id": "goodtek",
+    "title": {
+      "ja": "GOODTEK (Arcaea Edit)",
+      "en": "GOODTEK (Arcaea Edit)"
+    },
+    "artist": "EBIMAYO",
+    "rank": 3,
+    "status": 2,
+    "bg": "c4e8c7d48ae59d7bd4e6ba47f33220b9"
+  },
+  {
+    "song_id": "dynitikos",
+    "title": {
+      "ja": "Dynitikós",
+      "en": "Dynitikós"
+    },
+    "artist": "Prower",
+    "rank": 4,
+    "status": -3,
+    "bg": "dad1ea9feeaaf1aa13fdbf79195128a1"
+  },
+  {
+    "song_id": "chronostasis",
+    "title": {
+      "ja": "Chronostasis",
+      "en": "Chronostasis"
+    },
+    "artist": "黒皇帝",
+    "rank": 5,
+    "status": 2,
+    "bg": "3ffce1e3a577de89f8dee867f36b458b"
+  },
+  {
+    "song_id": "kanagawa",
+    "title": {
+      "ja": "神奈川電脳暗渠",
+      "en": "Kanagawa Cyber Culvert"
+    },
+    "artist": "南ゆに",
+    "rank": 6,
+    "status": -3,
+    "bg": "a991e532cb54bcd271ab93c418f8d6f0"
+  },
+  {
+    "song_id": "sakurafubuki",
+    "title": {
+      "ja": "Sakura Fubuki",
+      "en": "Sakura Fubuki"
+    },
+    "artist": "Street",
+    "rank": 7,
+    "status": 4,
+    "bg": "db3b68f14dbf57836faa813b60c827fb"
+  },
+  {
+    "song_id": "ignotus",
+    "title": {
+      "ja": "Ignotus",
+      "en": "Ignotus"
+    },
+    "artist": "ak+q",
+    "rank": 8,
+    "status": 2,
+    "bg": "42bcb445d8ee3b14efe70d4a6d7ca63f"
+  },
+  {
+    "song_id": "matenrou",
+    "title": {
+      "ja": "感情の摩天楼 ～Arr.Demetori",
+      "en": "Kanjou no Matenrou ～Arr.Demetori"
+    },
+    "artist": "Demetori",
+    "rank": 9,
+    "status": -1,
+    "bg": "f063a72243d41ec99e8dfeeadc674621"
+  },
+  {
+    "song_id": "infinityheaven",
+    "title": {
+      "ja": "Infinity Heaven",
+      "en": "Infinity Heaven"
+    },
+    "artist": "HyuN",
+    "rank": 10,
+    "status": 2,
+    "bg": "31474af1fa265c3a728672415091ad7a"
+  },
+  {
+    "song_id": "purgatorium",
+    "title": {
+      "ja": "Purgatorium",
+      "en": "Purgatorium"
+    },
+    "artist": "お月さま交響曲",
+    "rank": 11,
+    "status": -2,
+    "bg": "4839ef49ee3512edd03c57d492e1ec56"
+  },
+  {
+    "song_id": "bookmaker",
+    "title": {
+      "ja": "Bookmaker (2D Version)",
+      "en": "Bookmaker (2D Version)"
+    },
+    "artist": "Kobaryo",
+    "rank": 12,
+    "status": 1,
+    "bg": "7120754c024a74990f29c638ffd1df3d"
+  },
+  {
+    "song_id": "monochromeprincess",
+    "title": {
+      "ja": "Monochrome Princess",
+      "en": "Monochrome Princess"
+    },
+    "artist": "polysha",
+    "rank": 13,
+    "status": 2,
+    "bg": "c3c764f8ee4db7bc2dd2175ee2f2ca7c"
+  },
+  {
+    "song_id": "qualia",
+    "title": {
+      "ja": "qualia -ideaesthesia-",
+      "en": "qualia -ideaesthesia-"
+    },
+    "artist": "nitro",
+    "rank": 14,
+    "status": 5,
+    "bg": "b46e3f0c3af69b10b19d923e234be349"
+  }
+]
