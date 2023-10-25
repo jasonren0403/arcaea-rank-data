@@ -66,6 +66,6 @@ jobs:
       - name: Commit changes
         if: env.PAID_DATA_ERRORED == 'false' && env.FREE_DATA_ERRORED == 'false'
         # https://github.com/stefanzweifel/git-auto-commit-action
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Apply automatic data changes
