@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "teravolt",
+    "title": {
+      "ja": "TeraVolt",
+      "en": "TeraVolt"
+    },
+    "artist": "Katali",
+    "rank": 0,
+    "status": 0,
+    "bg": "d6c7db53659de9b5e6bb464e4a965766"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "ja": "Grievous Lady",
+      "en": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 1,
+    "status": 3,
+    "bg": "ac9d8843c8a25b360ef16b7f4c65071d"
+  },
+  {
+    "song_id": "tothefurthestdream",
+    "title": {
+      "ja": "彼方の夢へと",
+      "en": "To the Furthest Dream"
+    },
+    "artist": "ii/night feat. 綺良雪",
+    "rank": 2,
+    "status": -1,
+    "bg": "9a2753c272fe1818886e952ca5f319d4"
+  },
+  {
+    "song_id": "metallicpunisher",
+    "title": {
+      "ja": "Metallic Punisher",
+      "en": "Metallic Punisher"
+    },
+    "artist": "INNOCENT NOIZE",
+    "rank": 3,
+    "status": 0,
+    "bg": "38601a244de7e8ff836f93d84e43fd07"
+  },
+  {
+    "song_id": "namelesspassion",
+    "title": {
+      "ja": "Nameless Passion",
+      "en": "Nameless Passion"
+    },
+    "artist": "天束 feat.Sennzai",
+    "rank": 4,
+    "status": -2,
+    "bg": "fe68c605c7d6f5774fc3e34697c4bf3c"
+  },
+  {
+    "song_id": "crimsonthrone",
+    "title": {
+      "ja": "Crimson Throne",
+      "en": "Crimson Throne"
+    },
+    "artist": "Dimier√Lisb",
+    "rank": 5,
+    "status": 2,
+    "bg": "18ecdaa32c2ff949640f6d4d282c8986"
+  },
+  {
+    "song_id": "arghena",
+    "title": {
+      "ja": "Arghena",
+      "en": "Arghena"
+    },
+    "artist": "Feryquitous vs Laur",
+    "rank": 6,
+    "status": 0,
+    "bg": "97282202eea3e3d5fc7cbcc29c743fa9"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "ja": "Tempestissimo",
+      "en": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 7,
+    "status": 3,
+    "bg": "5c08eed76ecf25b8e303ed98fe08949a"
+  },
+  {
+    "song_id": "fractureray",
+    "title": {
+      "ja": "Fracture Ray",
+      "en": "Fracture Ray"
+    },
+    "artist": "Sakuzyo",
+    "rank": 8,
+    "status": 5,
+    "bg": "c6ac28b805e734fa5ccdbd43114263da"
+  },
+  {
+    "song_id": "arcanaeden",
+    "title": {
+      "ja": "Arcana Eden",
+      "en": "Arcana Eden"
+    },
+    "artist": "Team Grimoire vs Sakuzyo vs Laur",
+    "rank": 9,
+    "status": 2,
+    "bg": "48e16f62cd8c3058ec8cce7e948f8fb2"
+  },
+  {
+    "song_id": "infinitestrife",
+    "title": {
+      "ja": "Infinite Strife,",
+      "en": "Infinite Strife,"
+    },
+    "artist": "BlackYooh vs. siromaru",
+    "rank": 10,
+    "status": -1,
+    "bg": "828586d6552133f57fdd2e046e40b716"
+  },
+  {
+    "song_id": "testify",
+    "title": {
+      "ja": "Testify",
+      "en": "Testify"
+    },
+    "artist": "void (Mournfinale) feat. 星熊南巫",
+    "rank": 11,
+    "status": 3,
+    "bg": "cd308e9a90cfb55bb6489be699a6462c"
+  },
+  {
+    "song_id": "egoeimi",
+    "title": {
+      "ja": "Ego Eimi",
+      "en": "Ego Eimi"
+    },
+    "artist": "BlackY feat. Risa Yuzuki",
+    "rank": 12,
+    "status": -4,
+    "bg": "30714a8201924b7db92a8730f813f21c"
+  },
+  {
+    "song_id": "pentiment",
+    "title": {
+      "ja": "Pentiment",
+      "en": "Pentiment"
+    },
+    "artist": "Nothing But Requiem with Museo",
+    "rank": 13,
+    "status": -1,
+    "bg": "c655120e0b8633ce5a0f75c1b23a9a2a"
+  },
+  {
+    "song_id": "sheriruth",
+    "title": {
+      "ja": "Sheriruth",
+      "en": "Sheriruth"
+    },
+    "artist": "Team Grimoire",
+    "rank": 14,
+    "status": 2,
+    "bg": "dc24230108bc273c34254cfc78071c6c"
+  }
+]
