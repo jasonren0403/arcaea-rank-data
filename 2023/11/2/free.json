@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "fantasy",
+    "title": {
+      "ja": "FANTA5Y",
+      "en": "FANTA5Y"
+    },
+    "artist": "Moon Jelly & YUKIYANAGI",
+    "rank": 0,
+    "status": 0,
+    "bg": "049ecede8fddee8fa50ef003f51fa81c"
+  },
+  {
+    "song_id": "freefall",
+    "title": {
+      "ja": "FREEF4LL",
+      "en": "FREEF4LL"
+    },
+    "artist": "YUKIYANAGI",
+    "rank": 1,
+    "status": 0,
+    "bg": "544c07d163f7a97a73b7d8095ab783f1"
+  },
+  {
+    "song_id": "dreaminattraction",
+    "title": {
+      "ja": "Dreamin' Attraction!!",
+      "en": "Dreamin' Attraction!!"
+    },
+    "artist": "翡乃イスカ",
+    "rank": 2,
+    "status": 0,
+    "bg": "d6d671333e21c21b40c7cbcc044f0fae"
+  },
+  {
+    "song_id": "amekagura",
+    "title": {
+      "ja": "雨神楽",
+      "en": "Amekagura"
+    },
+    "artist": "荒谷サトル",
+    "rank": 3,
+    "status": 0,
+    "bg": "2a68f45ebc316690315cbeedbab7f5a1"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "ja": "Lost Civilization",
+      "en": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 4,
+    "status": 1,
+    "bg": "d8c3ef82279a84c23eff12693d6021ed"
+  },
+  {
+    "song_id": "remindthesouls",
+    "title": {
+      "ja": "Remind the Souls (Short Version)",
+      "en": "Remind the Souls (Short Version)"
+    },
+    "artist": "Nhato",
+    "rank": 5,
+    "status": -1,
+    "bg": "03aa6e245226e730de65f0c645c3e63a"
+  },
+  {
+    "song_id": "goodtek",
+    "title": {
+      "ja": "GOODTEK (Arcaea Edit)",
+      "en": "GOODTEK (Arcaea Edit)"
+    },
+    "artist": "EBIMAYO",
+    "rank": 6,
+    "status": 0,
+    "bg": "f1875265128b6b3263723d468c6a0fb7"
+  },
+  {
+    "song_id": "chronostasis",
+    "title": {
+      "ja": "Chronostasis",
+      "en": "Chronostasis"
+    },
+    "artist": "黒皇帝",
+    "rank": 7,
+    "status": 1,
+    "bg": "5f2ca6b1efaf001869131b27dc5885cd"
+  },
+  {
+    "song_id": "kanagawa",
+    "title": {
+      "ja": "神奈川電脳暗渠",
+      "en": "Kanagawa Cyber Culvert"
+    },
+    "artist": "南ゆに",
+    "rank": 8,
+    "status": 1,
+    "bg": "c5e165d4499b0573d5c3b9cf392e620e"
+  },
+  {
+    "song_id": "sakurafubuki",
+    "title": {
+      "ja": "Sakura Fubuki",
+      "en": "Sakura Fubuki"
+    },
+    "artist": "Street",
+    "rank": 9,
+    "status": 1,
+    "bg": "959b5cf647de96de9b6a1424fd922829"
+  },
+  {
+    "song_id": "ignotus",
+    "title": {
+      "ja": "Ignotus",
+      "en": "Ignotus"
+    },
+    "artist": "ak+q",
+    "rank": 10,
+    "status": 2,
+    "bg": "4b6e5ba66a63f4e8d53c2af5de144aca"
+  },
+  {
+    "song_id": "dynitikos",
+    "title": {
+      "ja": "Dynitikós",
+      "en": "Dynitikós"
+    },
+    "artist": "Prower",
+    "rank": 11,
+    "status": -4,
+    "bg": "ca588f95aa840c10f220a60182771936"
+  },
+  {
+    "song_id": "matenrou",
+    "title": {
+      "ja": "感情の摩天楼 ～Arr.Demetori",
+      "en": "Kanjou no Matenrou ～Arr.Demetori"
+    },
+    "artist": "Demetori",
+    "rank": 12,
+    "status": 2,
+    "bg": "a51aba019004fdbe3ac5a2c0e6a426c3"
+  },
+  {
+    "song_id": "purgatorium",
+    "title": {
+      "ja": "Purgatorium",
+      "en": "Purgatorium"
+    },
+    "artist": "お月さま交響曲",
+    "rank": 13,
+    "status": -2,
+    "bg": "06390b5b0b16510ea6f48fe9194248dd"
+  },
+  {
+    "song_id": "ultimatetaste",
+    "title": {
+      "ja": "Ultimate taste",
+      "en": "Ultimate taste"
+    },
+    "artist": "ぱらどっと",
+    "rank": 14,
+    "status": 6,
+    "bg": "6479b97d4b1f6f69177406a1d073b2df"
+  }
+]
