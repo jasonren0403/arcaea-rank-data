@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "ja": "Grievous Lady",
+      "en": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 0,
+    "status": 0,
+    "bg": "795bcd2bbf16ae60659f0d663879f0dd"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "ja": "Tempestissimo",
+      "en": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 1,
+    "status": 0,
+    "bg": "45bfa853618a9558e625e37f9327c418"
+  },
+  {
+    "song_id": "pentiment",
+    "title": {
+      "ja": "Pentiment",
+      "en": "Pentiment"
+    },
+    "artist": "Nothing But Requiem with Museo",
+    "rank": 2,
+    "status": 2,
+    "bg": "002e2fdfca87d52c26db5eec5a2b75ca"
+  },
+  {
+    "song_id": "infinitestrife",
+    "title": {
+      "ja": "Infinite Strife,",
+      "en": "Infinite Strife,"
+    },
+    "artist": "BlackYooh vs. siromaru",
+    "rank": 3,
+    "status": 0,
+    "bg": "284b6854c1b14cb64521c23597a2dfa0"
+  },
+  {
+    "song_id": "arcanaeden",
+    "title": {
+      "ja": "Arcana Eden",
+      "en": "Arcana Eden"
+    },
+    "artist": "Team Grimoire vs Sakuzyo vs Laur",
+    "rank": 4,
+    "status": -2,
+    "bg": "8a073c148445aac887e7950888756d5a"
+  },
+  {
+    "song_id": "fractureray",
+    "title": {
+      "ja": "Fracture Ray",
+      "en": "Fracture Ray"
+    },
+    "artist": "Sakuzyo",
+    "rank": 5,
+    "status": 0,
+    "bg": "fa629d88ac416f5767ed9ba4baa46bec"
+  },
+  {
+    "song_id": "testify",
+    "title": {
+      "ja": "Testify",
+      "en": "Testify"
+    },
+    "artist": "void (Mournfinale) feat. 星熊南巫",
+    "rank": 6,
+    "status": 0,
+    "bg": "08d8644a9e38b95af374e2d69e8488d6"
+  },
+  {
+    "song_id": "worldender",
+    "title": {
+      "ja": "魔王",
+      "en": "World Ender"
+    },
+    "artist": "sasakure.UK × TJ.hangneil",
+    "rank": 7,
+    "status": 3,
+    "bg": "1654f83c7fbdcc8a8386bed376b741f7"
+  },
+  {
+    "song_id": "sheriruth",
+    "title": {
+      "ja": "Sheriruth",
+      "en": "Sheriruth"
+    },
+    "artist": "Team Grimoire",
+    "rank": 8,
+    "status": -1,
+    "bg": "bce66d093896ea5e8bb3ec938eeec4e7"
+  },
+  {
+    "song_id": "arghena",
+    "title": {
+      "ja": "Arghena",
+      "en": "Arghena"
+    },
+    "artist": "Feryquitous vs Laur",
+    "rank": 9,
+    "status": -1,
+    "bg": "0322e24e7a6d606f788c24fab5060113"
+  },
+  {
+    "song_id": "trappola",
+    "title": {
+      "ja": "妖艶魔女 -trappola bewitching-",
+      "en": "trappola bewitching"
+    },
+    "artist": "gmtn.",
+    "rank": 10,
+    "status": 1,
+    "bg": "971563c333ae1316d47c5f7f9c2b8490"
+  },
+  {
+    "song_id": "ifi",
+    "title": {
+      "ja": "#1f1e33",
+      "en": "#1f1e33"
+    },
+    "artist": "かめりあ(EDP)",
+    "rank": 11,
+    "status": -2,
+    "bg": "d4ef7a09998447c36f49ed18364c6644"
+  },
+  {
+    "song_id": "pragmatism",
+    "title": {
+      "ja": "PRAGMATISM",
+      "en": "PRAGMATISM"
+    },
+    "artist": "Laur",
+    "rank": 12,
+    "status": 3,
+    "bg": "5770a2b69ed5368f9048f0fa27376522"
+  },
+  {
+    "song_id": "etherstrike",
+    "title": {
+      "ja": "Ether Strike",
+      "en": "Ether Strike"
+    },
+    "artist": "Akira Complex",
+    "rank": 13,
+    "status": 0,
+    "bg": "6d98d830f609f78fd2ea63470db8880d"
+  },
+  {
+    "song_id": "dantalion",
+    "title": {
+      "ja": "Dantalion",
+      "en": "Dantalion"
+    },
+    "artist": "Team Grimoire",
+    "rank": 14,
+    "status": -2,
+    "bg": "8b2e8904c9ffc7c8871c446153082083"
+  }
+]
