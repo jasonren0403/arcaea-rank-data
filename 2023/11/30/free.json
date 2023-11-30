@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "goodtek",
+    "title": {
+      "ja": "GOODTEK (Arcaea Edit)",
+      "en": "GOODTEK (Arcaea Edit)"
+    },
+    "artist": "EBIMAYO",
+    "rank": 0,
+    "status": 3,
+    "bg": "c826a3e51c3f2be83dd9490bae20f90e"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "ja": "Lost Civilization",
+      "en": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 1,
+    "status": -1,
+    "bg": "2bceba395f1effafd87c82e40b6bf36e"
+  },
+  {
+    "song_id": "fantasy",
+    "title": {
+      "ja": "FANTA5Y",
+      "en": "FANTA5Y"
+    },
+    "artist": "Moon Jelly & YUKIYANAGI",
+    "rank": 2,
+    "status": 0,
+    "bg": "7dff3fddd292eda06eb71f74fdf5115e"
+  },
+  {
+    "song_id": "sakurafubuki",
+    "title": {
+      "ja": "Sakura Fubuki",
+      "en": "Sakura Fubuki"
+    },
+    "artist": "Street",
+    "rank": 3,
+    "status": 4,
+    "bg": "4d985e55807b2098e4f3618e76dcd30a"
+  },
+  {
+    "song_id": "purgatorium",
+    "title": {
+      "ja": "Purgatorium",
+      "en": "Purgatorium"
+    },
+    "artist": "お月さま交響曲",
+    "rank": 4,
+    "status": 4,
+    "bg": "0c7889a9935e5ea06b291694595b3bfa"
+  },
+  {
+    "song_id": "remindthesouls",
+    "title": {
+      "ja": "Remind the Souls (Short Version)",
+      "en": "Remind the Souls (Short Version)"
+    },
+    "artist": "Nhato",
+    "rank": 5,
+    "status": 1,
+    "bg": "fddeb51a1ffba48289aea76eeb5b9842"
+  },
+  {
+    "song_id": "kanagawa",
+    "title": {
+      "ja": "神奈川電脳暗渠",
+      "en": "Kanagawa Cyber Culvert"
+    },
+    "artist": "南ゆに",
+    "rank": 6,
+    "status": -1,
+    "bg": "083dd8c957fa00ac6c79ae5978a02916"
+  },
+  {
+    "song_id": "chronostasis",
+    "title": {
+      "ja": "Chronostasis",
+      "en": "Chronostasis"
+    },
+    "artist": "黒皇帝",
+    "rank": 7,
+    "status": -6,
+    "bg": "657c5849f9fe8153ae7cbbe0d4e6378e"
+  },
+  {
+    "song_id": "infinityheaven",
+    "title": {
+      "ja": "Infinity Heaven",
+      "en": "Infinity Heaven"
+    },
+    "artist": "HyuN",
+    "rank": 8,
+    "status": -4,
+    "bg": "d79c142a784bf037f1e8e4daa82b45a4"
+  },
+  {
+    "song_id": "anokumene",
+    "title": {
+      "ja": "Anökumene",
+      "en": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 9,
+    "status": 0,
+    "bg": "483850068047e093b95353eb95a57718"
+  },
+  {
+    "song_id": "dement",
+    "title": {
+      "ja": "Dement ~after legend~",
+      "en": "Dement ~after legend~"
+    },
+    "artist": "Cosmograph",
+    "rank": 10,
+    "status": 2,
+    "bg": "c2339d8a925734ea7841b687a3b26a0f"
+  },
+  {
+    "song_id": "ignotus",
+    "title": {
+      "ja": "Ignotus",
+      "en": "Ignotus"
+    },
+    "artist": "ak+q",
+    "rank": 11,
+    "status": -1,
+    "bg": "adb1d74b3158d13ce0188998ad36ada0"
+  },
+  {
+    "song_id": "monochromeprincess",
+    "title": {
+      "ja": "Monochrome Princess",
+      "en": "Monochrome Princess"
+    },
+    "artist": "polysha",
+    "rank": 12,
+    "status": 6,
+    "bg": "6fa195a8f3d68aa13f43880aa4340d3f"
+  },
+  {
+    "song_id": "redandblue",
+    "title": {
+      "ja": "Red and Blue",
+      "en": "Red and Blue"
+    },
+    "artist": "Silentroom",
+    "rank": 13,
+    "status": -2,
+    "bg": "4705a28ab5e76fbaea3faef8d126d932"
+  },
+  {
+    "song_id": "bookmaker",
+    "title": {
+      "ja": "Bookmaker (2D Version)",
+      "en": "Bookmaker (2D Version)"
+    },
+    "artist": "Kobaryo",
+    "rank": 14,
+    "status": 2,
+    "bg": "4ec80e3e2e73e7e22210bc411073dc1f"
+  }
+]
