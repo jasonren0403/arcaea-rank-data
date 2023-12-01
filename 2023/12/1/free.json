@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "aloneandlorn",
+    "title": {
+      "ja": "アローンアンドローン",
+      "en": "Alone & Lorn"
+    },
+    "artist": "Ponchi♪ feat.はぁち",
+    "rank": 0,
+    "status": 2147483647,
+    "bg": "298583e3dbd96383d12234cc21036644"
+  },
+  {
+    "song_id": "fantasy",
+    "title": {
+      "ja": "FANTA5Y",
+      "en": "FANTA5Y"
+    },
+    "artist": "Moon Jelly & YUKIYANAGI",
+    "rank": 1,
+    "status": 1,
+    "bg": "7dff3fddd292eda06eb71f74fdf5115e"
+  },
+  {
+    "song_id": "rgb",
+    "title": {
+      "ja": "RGB",
+      "en": "RGB"
+    },
+    "artist": "MEMODEMO X AQUASINE",
+    "rank": 2,
+    "status": 37,
+    "bg": "78aafe06e7ba89582076c9d07943f4c9"
+  },
+  {
+    "song_id": "monochromeprincess",
+    "title": {
+      "ja": "Monochrome Princess",
+      "en": "Monochrome Princess"
+    },
+    "artist": "polysha",
+    "rank": 3,
+    "status": 9,
+    "bg": "6fa195a8f3d68aa13f43880aa4340d3f"
+  },
+  {
+    "song_id": "senkyou",
+    "title": {
+      "ja": "Senkyou",
+      "en": "Senkyou"
+    },
+    "artist": "MYTK",
+    "rank": 4,
+    "status": 42,
+    "bg": "100078e859bdb98d53e3b0956b26924c"
+  },
+  {
+    "song_id": "freefall",
+    "title": {
+      "ja": "FREEF4LL",
+      "en": "FREEF4LL"
+    },
+    "artist": "YUKIYANAGI",
+    "rank": 5,
+    "status": 12,
+    "bg": "d78b9bf5d27fac265ad8a73baa591265"
+  },
+  {
+    "song_id": "redandblue",
+    "title": {
+      "ja": "Red and Blue",
+      "en": "Red and Blue"
+    },
+    "artist": "Silentroom",
+    "rank": 6,
+    "status": 7,
+    "bg": "4705a28ab5e76fbaea3faef8d126d932"
+  },
+  {
+    "song_id": "amekagura",
+    "title": {
+      "ja": "雨神楽",
+      "en": "Amekagura"
+    },
+    "artist": "荒谷サトル",
+    "rank": 7,
+    "status": 19,
+    "bg": "505308fe05c96b3aaa0c3d43a01a5938"
+  },
+  {
+    "song_id": "dynitikos",
+    "title": {
+      "ja": "Dynitikós",
+      "en": "Dynitikós"
+    },
+    "artist": "Prower",
+    "rank": 8,
+    "status": 37,
+    "bg": "bd8dc30bf181b8c0fb29eb8470a186bf"
+  },
+  {
+    "song_id": "kyogenkigo",
+    "title": {
+      "ja": "狂言綺語",
+      "en": "False Embellishment"
+    },
+    "artist": "影虎。 & ikaruga_nex",
+    "rank": 9,
+    "status": 58,
+    "bg": "c923566ca9a8e446eab4f36cb23f99fc"
+  },
+  {
+    "song_id": "kanagawa",
+    "title": {
+      "ja": "神奈川電脳暗渠",
+      "en": "Kanagawa Cyber Culvert"
+    },
+    "artist": "南ゆに",
+    "rank": 10,
+    "status": -4,
+    "bg": "083dd8c957fa00ac6c79ae5978a02916"
+  },
+  {
+    "song_id": "diode",
+    "title": {
+      "ja": "Diode",
+      "en": "Diode"
+    },
+    "artist": "Kolaa",
+    "rank": 11,
+    "status": 45,
+    "bg": "9554a06683b850f405082256b56f8d5b"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "ja": "Lost Civilization",
+      "en": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 12,
+    "status": -11,
+    "bg": "2bceba395f1effafd87c82e40b6bf36e"
+  },
+  {
+    "song_id": "vandalism",
+    "title": {
+      "ja": "Vandalism",
+      "en": "Vandalism"
+    },
+    "artist": "Ashrount",
+    "rank": 13,
+    "status": 48,
+    "bg": "c50b2a69f2519634788ba7baf9dcc0e9"
+  },
+  {
+    "song_id": "matenrou",
+    "title": {
+      "ja": "感情の摩天楼 ～Arr.Demetori",
+      "en": "Kanjou no Matenrou ～Arr.Demetori"
+    },
+    "artist": "Demetori",
+    "rank": 14,
+    "status": 17,
+    "bg": "8f5dad3cc707cbd63c0470551918f8cf"
+  }
+]
