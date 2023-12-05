@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "ouverture",
+    "title": {
+      "ja": "Ouvertüre",
+      "en": "Ouvertüre"
+    },
+    "artist": "USAO & DJ Genki feat. ルーン(CV:河瀬茉希)",
+    "rank": 0,
+    "status": 0,
+    "bg": "0d041e88c9345e521d70243cb9d23ade"
+  },
+  {
+    "song_id": "xtreme",
+    "title": {
+      "ja": "XTREME",
+      "en": "XTREME"
+    },
+    "artist": "USAO",
+    "rank": 1,
+    "status": 1,
+    "bg": "d3f9ed1a4a68aa3538f5b47cabd529b2"
+  },
+  {
+    "song_id": "edenwacca",
+    "title": {
+      "ja": "eden",
+      "en": "eden"
+    },
+    "artist": "\"漆黒\"の堕天使《Gram》†Versus†\"聖刻\"の熾天使《Gram》",
+    "rank": 2,
+    "status": -1,
+    "bg": "cf1ac34ef8bc6d7b4f02b2dc607aa3ac"
+  },
+  {
+    "song_id": "metamysteria",
+    "title": {
+      "ja": "Meta-Mysteria",
+      "en": "Meta-Mysteria"
+    },
+    "artist": "DJ Noriken",
+    "rank": 3,
+    "status": 0,
+    "bg": "d278d5a4778ce54ec1899ae236d42d77"
+  },
+  {
+    "song_id": "stratoliner",
+    "title": {
+      "ja": "Stratoliner",
+      "en": "Stratoliner"
+    },
+    "artist": "C-Show",
+    "rank": 4,
+    "status": 0,
+    "bg": "46ceeb46b12a5e2e9ab62afb8e233ae7"
+  },
+  {
+    "song_id": "quonwacca",
+    "title": {
+      "ja": "Quon",
+      "en": "Quon"
+    },
+    "artist": "DJ Noriken",
+    "rank": 5,
+    "status": 2,
+    "bg": "911d40296117ef9952335dd1cfa6e7f4"
+  },
+  {
+    "song_id": "letyoudivermx",
+    "title": {
+      "ja": "Let you DIVE! (nitro rmx)",
+      "en": "Let you DIVE! (nitro rmx)"
+    },
+    "artist": "nitro (lowiro)",
+    "rank": 6,
+    "status": 2,
+    "bg": "0df481933c87022ebb878434fba11b83"
+  },
+  {
+    "song_id": "wishuponasnow",
+    "title": {
+      "ja": "Wish Upon a Snow",
+      "en": "Wish Upon a Snow"
+    },
+    "artist": "打打だいず",
+    "rank": 7,
+    "status": -2,
+    "bg": "dc2ad2fbb02d6a7f7bcb7c0729406c20"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "ja": "Grievous Lady",
+      "en": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 8,
+    "status": -2,
+    "bg": "55dd27907f2fdb633ffd7441cd2e6415"
+  },
+  {
+    "song_id": "withu",
+    "title": {
+      "ja": "with U",
+      "en": "with U"
+    },
+    "artist": "t+pazolite & Massive New Krew feat. リリィ(CV:青木志貴)",
+    "rank": 9,
+    "status": 3,
+    "bg": "cad2c4909914e7a050c4a974b70b304c"
+  },
+  {
+    "song_id": "ifi",
+    "title": {
+      "ja": "#1f1e33",
+      "en": "#1f1e33"
+    },
+    "artist": "かめりあ(EDP)",
+    "rank": 10,
+    "status": -1,
+    "bg": "a1147b6c6ee936089a6ed2b6a370e0b3"
+  },
+  {
+    "song_id": "testify",
+    "title": {
+      "ja": "Testify",
+      "en": "Testify"
+    },
+    "artist": "void (Mournfinale) feat. 星熊南巫",
+    "rank": 11,
+    "status": 3,
+    "bg": "acbd2c0c32e97b8e9d84a74db7a465c1"
+  },
+  {
+    "song_id": "infinitestrife",
+    "title": {
+      "ja": "Infinite Strife,",
+      "en": "Infinite Strife,"
+    },
+    "artist": "BlackYooh vs. siromaru",
+    "rank": 12,
+    "status": -2,
+    "bg": "9624c90d0ba948243892ec7819a86f47"
+  },
+  {
+    "song_id": "arcahv",
+    "title": {
+      "ja": "Arcahv",
+      "en": "Arcahv"
+    },
+    "artist": "Feryquitous",
+    "rank": 13,
+    "status": 5,
+    "bg": "cead979399139144a838fb584fb9ea39"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "ja": "Tempestissimo",
+      "en": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 14,
+    "status": -3,
+    "bg": "d8c91d9f9c35dffa8ba025135ce84d77"
+  }
+]
