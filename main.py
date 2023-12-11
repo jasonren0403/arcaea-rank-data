@@ -6,7 +6,7 @@ import datetime
 import time
 import random
 import logging
-import telnetlib
+import telnetlib # todo: replace with un-deprecated package
 
 import requests
 import coloredlogs
@@ -29,7 +29,7 @@ def get_proxy():
     try:
         res = requests.get(ip_net, timeout=5)
         ips = random.sample(res.text.split('\n'), k=int(
-            os.getenv('IP_CHECK_COUNT', 5)))
+            os.getenv('IP_CHECK_COUNT', "5")))
         count = 0
         for each in ips:
             try:
@@ -55,15 +55,14 @@ def get_proxy():
                         'https': each
                     }
                 # print(res2.text)
-                logger.warning(f"{each} errored with {res2.status_code}")
+                logger.warning("%s errored with %s", each, res2.status_code)
             except (requests.exceptions.ProxyError,
                     requests.exceptions.ConnectTimeout,
                     requests.exceptions.ReadTimeout) as ex:
-                logger.error(
-                    f"Proxy {each} have problems ({ex}), try next one")
+                logger.error("Proxy %s have problems (%s), try next one", each, ex)
                 continue
             except TimeoutError as ex:
-                logger.error(f"Proxy {each} connect timeout, next one")
+                logger.error("Proxy %s connect timeout, next one", each)
                 continue
             except Exception as e:
                 logger.exception(
@@ -95,11 +94,11 @@ def process_bg(datalist, source, proxy_ip=None):
             'Referer': f'https://arcaea.lowiro.com/song_ranking/{source}'
         }, proxies=proxy, timeout=5)
         if req.status_code == 200:
-            logger.info(f"downloading {item['song_id']} from url {item['url']}")
+            logger.info("downloading %s from url %s", item['song_id'], item['url'])
             with open(local_path, 'wb') as file:
                 file.write(req.content)
         else:
-            logger.warning("failed to get %s", each['song_id'])
+            logger.warning("failed to get %s", item['song_id'])
 
 
 def get_song_rank(choose, proxy_ip=None):
@@ -125,10 +124,12 @@ def get_song_rank(choose, proxy_ip=None):
                 "getting %s data success, processing background", choose)
             process_bg(data['value'], choose, proxy_ip)
             return True, data['value']
+        logger.warning("error: %s", data)
         return False, data
     except Exception as ex:
         if data is not None and 'success' in data and data['success']:
             return True, data['value']
+        logger.warning("error: %s", ex)
         return False, {
             'error': ex,
             'text': req.text if req is not None else ''
@@ -142,7 +143,7 @@ def main(get_free=True, get_paid=True):
         p.mkdir(parents=True)
     if get_free:
         res, free = get_song_rank('free')
-        if res or 'error' not in free:
+        if res and 'error' not in free:
             logger.info("free data saved")
             with open(p / 'free.json', 'w', encoding='utf-8') as file:
                 json.dump(free, file, ensure_ascii=False, indent=2)
@@ -152,7 +153,7 @@ def main(get_free=True, get_paid=True):
             if proxy:
                 logger.info("Using proxy %s for further fetch", proxy)
                 res, free = get_song_rank('free', proxy_ip=proxy)
-                if res or 'error' not in free:
+                if res and 'error' not in free:
                     logger.info("free data saved")
                     with open(p / 'free.json', 'w', encoding='utf-8') as file:
                         json.dump(free, file, ensure_ascii=False, indent=2)
@@ -166,7 +167,7 @@ def main(get_free=True, get_paid=True):
                 os.system('echo "FREE_DATA_ERRORED=true" >> "$GITHUB_ENV"')
     if get_paid:
         res2, paid = get_song_rank('paid')
-        if res2 or 'error' not in paid:
+        if res2 and 'error' not in paid:
             logger.info("paid data saved")
             with open(p / 'paid.json', 'w', encoding='utf-8') as file:
                 json.dump(paid, file, ensure_ascii=False, indent=2)
@@ -176,7 +177,7 @@ def main(get_free=True, get_paid=True):
             if proxy:
                 logger.info("Using proxy %s for further fetch", proxy)
                 res, paid = get_song_rank('paid', proxy_ip=proxy)
-                if res or 'error' not in free:
+                if res and 'error' not in free:
                     logger.info("paid data saved")
                     with open(p / 'paid.json', 'w', encoding='utf-8') as file:
                         json.dump(free, file, ensure_ascii=False, indent=2)
