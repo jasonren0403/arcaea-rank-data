@@ -1,4 +1,5 @@
 # -*- coding: utf8 -*-
+# pylint: disable=C0116
 import json
 import os
 import pathlib
