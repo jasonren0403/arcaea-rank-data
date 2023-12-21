@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "aloneandlorn",
+    "title": {
+      "ja": "アローンアンドローン",
+      "en": "Alone & Lorn"
+    },
+    "artist": "Ponchi♪ feat.はぁち",
+    "rank": 0,
+    "status": 0,
+    "bg": "6bc1769c010a6c8bdfc570370c7b355a"
+  },
+  {
+    "song_id": "goodtek",
+    "title": {
+      "ja": "GOODTEK (Arcaea Edit)",
+      "en": "GOODTEK (Arcaea Edit)"
+    },
+    "artist": "EBIMAYO",
+    "rank": 1,
+    "status": 3,
+    "bg": "8ece9e716b198d2dfbb15bfe501f385c"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "ja": "Lost Civilization",
+      "en": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 2,
+    "status": 0,
+    "bg": "1cd59a53773487fa19ddfe003e74f032"
+  },
+  {
+    "song_id": "fantasy",
+    "title": {
+      "ja": "FANTA5Y",
+      "en": "FANTA5Y"
+    },
+    "artist": "Moon Jelly & YUKIYANAGI",
+    "rank": 3,
+    "status": -2,
+    "bg": "4aec1b335b8cbec13fddeceb15a07a6e"
+  },
+  {
+    "song_id": "kanagawa",
+    "title": {
+      "ja": "神奈川電脳暗渠",
+      "en": "Kanagawa Cyber Culvert"
+    },
+    "artist": "南ゆに",
+    "rank": 4,
+    "status": -1,
+    "bg": "639317f6199e6c65979a3de2bcedc91b"
+  },
+  {
+    "song_id": "chronostasis",
+    "title": {
+      "ja": "Chronostasis",
+      "en": "Chronostasis"
+    },
+    "artist": "黒皇帝",
+    "rank": 5,
+    "status": 0,
+    "bg": "7d17ecfb86062549e1da57fd0d1ae096"
+  },
+  {
+    "song_id": "anokumene",
+    "title": {
+      "ja": "Anökumene",
+      "en": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 6,
+    "status": 5,
+    "bg": "896abddf0f61fd27d98c47e1e2d98aeb"
+  },
+  {
+    "song_id": "purgatorium",
+    "title": {
+      "ja": "Purgatorium",
+      "en": "Purgatorium"
+    },
+    "artist": "お月さま交響曲",
+    "rank": 7,
+    "status": -1,
+    "bg": "1743b9707ffe32a36f52b88c62049f2b"
+  },
+  {
+    "song_id": "sakurafubuki",
+    "title": {
+      "ja": "Sakura Fubuki",
+      "en": "Sakura Fubuki"
+    },
+    "artist": "Street",
+    "rank": 8,
+    "status": 2,
+    "bg": "ffd2532c89d9aa4e91afb681415ee852"
+  },
+  {
+    "song_id": "amekagura",
+    "title": {
+      "ja": "雨神楽",
+      "en": "Amekagura"
+    },
+    "artist": "荒谷サトル",
+    "rank": 9,
+    "status": -2,
+    "bg": "3b8b4a140864aa72b2e2d1ae67c7c9bd"
+  },
+  {
+    "song_id": "monochromeprincess",
+    "title": {
+      "ja": "Monochrome Princess",
+      "en": "Monochrome Princess"
+    },
+    "artist": "polysha",
+    "rank": 10,
+    "status": 3,
+    "bg": "6951684d795e9fc1ad3aa98b5a42d6f0"
+  },
+  {
+    "song_id": "ignotus",
+    "title": {
+      "ja": "Ignotus",
+      "en": "Ignotus"
+    },
+    "artist": "ak+q",
+    "rank": 11,
+    "status": -3,
+    "bg": "0477947ba73e2c62be12b4677975c4cf"
+  },
+  {
+    "song_id": "infinityheaven",
+    "title": {
+      "ja": "Infinity Heaven",
+      "en": "Infinity Heaven"
+    },
+    "artist": "HyuN",
+    "rank": 12,
+    "status": 4,
+    "bg": "c457691a12de1e50385cab550b1bba9b"
+  },
+  {
+    "song_id": "qualia",
+    "title": {
+      "ja": "qualia -ideaesthesia-",
+      "en": "qualia -ideaesthesia-"
+    },
+    "artist": "nitro",
+    "rank": 13,
+    "status": 2,
+    "bg": "d039dca968b30a905205609307fd343d"
+  },
+  {
+    "song_id": "freefall",
+    "title": {
+      "ja": "FREEF4LL",
+      "en": "FREEF4LL"
+    },
+    "artist": "YUKIYANAGI",
+    "rank": 14,
+    "status": 4,
+    "bg": "53cd60610cf6d9c6ac504a3581d66dbb"
+  }
+]
