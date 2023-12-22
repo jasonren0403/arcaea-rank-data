@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "felys",
+    "title": {
+      "ja": "felys final remix",
+      "en": "felys final remix"
+    },
+    "artist": "onoken",
+    "rank": 0,
+    "status": 2147483647,
+    "bg": "0b5972670042df4ed9ceba3e3c47dd9d"
+  },
+  {
+    "song_id": "onandon",
+    "title": {
+      "ja": "On And On!! feat. Jenga",
+      "en": "On And On!! feat. Jenga"
+    },
+    "artist": "ETIA.",
+    "rank": 1,
+    "status": 2147483646,
+    "bg": "ee4240c770c3163e6cbe6070e8e7bea4"
+  },
+  {
+    "song_id": "aloneandlorn",
+    "title": {
+      "ja": "アローンアンドローン",
+      "en": "Alone & Lorn"
+    },
+    "artist": "Ponchi♪ feat.はぁち",
+    "rank": 2,
+    "status": -2,
+    "bg": "6bc1769c010a6c8bdfc570370c7b355a"
+  },
+  {
+    "song_id": "fantasy",
+    "title": {
+      "ja": "FANTA5Y",
+      "en": "FANTA5Y"
+    },
+    "artist": "Moon Jelly & YUKIYANAGI",
+    "rank": 3,
+    "status": 0,
+    "bg": "4aec1b335b8cbec13fddeceb15a07a6e"
+  },
+  {
+    "song_id": "vector",
+    "title": {
+      "ja": "VECTOЯ",
+      "en": "VECTOЯ"
+    },
+    "artist": "WHITEFISTS",
+    "rank": 4,
+    "status": 26,
+    "bg": "085844e98ca31e9a79d565f73500db37"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "ja": "Lost Civilization",
+      "en": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 5,
+    "status": -3,
+    "bg": "1cd59a53773487fa19ddfe003e74f032"
+  },
+  {
+    "song_id": "goodtek",
+    "title": {
+      "ja": "GOODTEK (Arcaea Edit)",
+      "en": "GOODTEK (Arcaea Edit)"
+    },
+    "artist": "EBIMAYO",
+    "rank": 6,
+    "status": -5,
+    "bg": "8ece9e716b198d2dfbb15bfe501f385c"
+  },
+  {
+    "song_id": "revixy",
+    "title": {
+      "ja": "ReviXy",
+      "en": "ReviXy"
+    },
+    "artist": "ikaruga_nex",
+    "rank": 7,
+    "status": 45,
+    "bg": "819f11e1d00bc893f7324b91bdc67d7d"
+  },
+  {
+    "song_id": "matenrou",
+    "title": {
+      "ja": "感情の摩天楼 ～Arr.Demetori",
+      "en": "Kanjou no Matenrou ～Arr.Demetori"
+    },
+    "artist": "Demetori",
+    "rank": 8,
+    "status": 20,
+    "bg": "f435231d93bc0c4d126d7ae8fe2b0055"
+  },
+  {
+    "song_id": "nulctrl",
+    "title": {
+      "ja": "NULCTRL",
+      "en": "NULCTRL"
+    },
+    "artist": "Silentroom",
+    "rank": 9,
+    "status": 54,
+    "bg": "aba53af4ffd5d06c8cd6dccbd442e547"
+  },
+  {
+    "song_id": "amekagura",
+    "title": {
+      "ja": "雨神楽",
+      "en": "Amekagura"
+    },
+    "artist": "荒谷サトル",
+    "rank": 10,
+    "status": -1,
+    "bg": "3b8b4a140864aa72b2e2d1ae67c7c9bd"
+  },
+  {
+    "song_id": "dynitikos",
+    "title": {
+      "ja": "Dynitikós",
+      "en": "Dynitikós"
+    },
+    "artist": "Prower",
+    "rank": 11,
+    "status": 12,
+    "bg": "fd618ed992004508c2a329992269e52a"
+  },
+  {
+    "song_id": "hybris",
+    "title": {
+      "ja": "ヒュブリスの頂に聳えるのは",
+      "en": "Hybris (The one who shattered)"
+    },
+    "artist": "qfeileadh feat.のあ",
+    "rank": 12,
+    "status": 14,
+    "bg": "37288f0cdaca9cbe4003e5c8e2372235"
+  },
+  {
+    "song_id": "ultimatetaste",
+    "title": {
+      "ja": "Ultimate taste",
+      "en": "Ultimate taste"
+    },
+    "artist": "ぱらどっと",
+    "rank": 13,
+    "status": 12,
+    "bg": "dd0b0b6a9ed5455c4e08c0a5c03bdad9"
+  },
+  {
+    "song_id": "qualia",
+    "title": {
+      "ja": "qualia -ideaesthesia-",
+      "en": "qualia -ideaesthesia-"
+    },
+    "artist": "nitro",
+    "rank": 14,
+    "status": -1,
+    "bg": "d039dca968b30a905205609307fd343d"
+  }
+]
