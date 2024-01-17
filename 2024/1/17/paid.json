@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "hotarubinoyuki",
+    "title": {
+      "ja": "蛍火の雪",
+      "en": "Hotarubi no Yuki"
+    },
+    "artist": "Endorfin.",
+    "rank": 0,
+    "status": 0,
+    "bg": "736de7f50e894456f054c6c5250afcc2"
+  },
+  {
+    "song_id": "valhallazero",
+    "title": {
+      "ja": "Valhalla:0",
+      "en": "Valhalla:0"
+    },
+    "artist": "Juggernaut.",
+    "rank": 1,
+    "status": 0,
+    "bg": "3cfa7f6a492fbeb67b38e0e7f4772cce"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "ja": "Grievous Lady",
+      "en": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 2,
+    "status": 1,
+    "bg": "0f7e916ba24e616abfa14a9ebe90e8d8"
+  },
+  {
+    "song_id": "melodyoflove",
+    "title": {
+      "ja": "迷える音色は恋の唄",
+      "en": "A Wandering Melody of Love"
+    },
+    "artist": "からとPαnchii少年 feat.はるの",
+    "rank": 3,
+    "status": -1,
+    "bg": "10058191356e2e2f062f8c54f7a0af9d"
+  },
+  {
+    "song_id": "aiueoon",
+    "title": {
+      "ja": "AI[UE]OON",
+      "en": "AI[UE]OON"
+    },
+    "artist": "MYUKKE.",
+    "rank": 4,
+    "status": 0,
+    "bg": "93b954e6005b3992a315dd6db9308d23"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "ja": "Tempestissimo",
+      "en": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 5,
+    "status": 1,
+    "bg": "4ca1a96f992d2578043d9ff97189eadb"
+  },
+  {
+    "song_id": "pentiment",
+    "title": {
+      "ja": "Pentiment",
+      "en": "Pentiment"
+    },
+    "artist": "Nothing But Requiem with Museo",
+    "rank": 6,
+    "status": 6,
+    "bg": "f66ca03f2a064b16f6f7df9a205872d6"
+  },
+  {
+    "song_id": "infinitestrife",
+    "title": {
+      "ja": "Infinite Strife,",
+      "en": "Infinite Strife,"
+    },
+    "artist": "BlackYooh vs. siromaru",
+    "rank": 7,
+    "status": 4,
+    "bg": "44b988bf4ed32677ec85eacbb9a9c074"
+  },
+  {
+    "song_id": "arcanaeden",
+    "title": {
+      "ja": "Arcana Eden",
+      "en": "Arcana Eden"
+    },
+    "artist": "Team Grimoire vs Sakuzyo vs Laur",
+    "rank": 8,
+    "status": 2,
+    "bg": "5c2069c1ca8b6bfee92cd0ec3d62a048"
+  },
+  {
+    "song_id": "tiemedowngently",
+    "title": {
+      "ja": "Tie me down gently",
+      "en": "Tie me down gently"
+    },
+    "artist": "溝口ゆうま feat. 大瀬良あい",
+    "rank": 9,
+    "status": -4,
+    "bg": "12514487c8531d75d48daee35e53122d"
+  },
+  {
+    "song_id": "fractureray",
+    "title": {
+      "ja": "Fracture Ray",
+      "en": "Fracture Ray"
+    },
+    "artist": "Sakuzyo",
+    "rank": 10,
+    "status": -2,
+    "bg": "d65a24642a74aa4135820766f952f27a"
+  },
+  {
+    "song_id": "testify",
+    "title": {
+      "ja": "Testify",
+      "en": "Testify"
+    },
+    "artist": "void (Mournfinale) feat. 星熊南巫",
+    "rank": 11,
+    "status": -4,
+    "bg": "90391856262bbeda800065df83e14df5"
+  },
+  {
+    "song_id": "capella",
+    "title": {
+      "ja": "Capella",
+      "en": "Capella"
+    },
+    "artist": "ARForest",
+    "rank": 12,
+    "status": -3,
+    "bg": "0831aa7b97ed1adfad30b7e4a196ff67"
+  },
+  {
+    "song_id": "sheriruth",
+    "title": {
+      "ja": "Sheriruth",
+      "en": "Sheriruth"
+    },
+    "artist": "Team Grimoire",
+    "rank": 13,
+    "status": 0,
+    "bg": "3b82b48e5d98123035e90dfa043c565e"
+  },
+  {
+    "song_id": "trappola",
+    "title": {
+      "ja": "妖艶魔女 -trappola bewitching-",
+      "en": "trappola bewitching"
+    },
+    "artist": "gmtn.",
+    "rank": 14,
+    "status": 1,
+    "bg": "b567dea2cf7f67241a933bf6b2170a8c"
+  }
+]

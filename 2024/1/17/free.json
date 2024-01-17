@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "dreaminattraction",
+    "title": {
+      "ja": "Dreamin' Attraction!!",
+      "en": "Dreamin' Attraction!!"
+    },
+    "artist": "翡乃イスカ",
+    "rank": 0,
+    "status": 0,
+    "bg": "80e708adbf724c79ea08b199b57167eb"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "ja": "Lost Civilization",
+      "en": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 1,
+    "status": 1,
+    "bg": "b74fb1b13ed2ac6356d77b5d972ff8d3"
+  },
+  {
+    "song_id": "chronostasis",
+    "title": {
+      "ja": "Chronostasis",
+      "en": "Chronostasis"
+    },
+    "artist": "黒皇帝",
+    "rank": 2,
+    "status": -1,
+    "bg": "392f3b5293dbff7b7e28467ef57eb3d1"
+  },
+  {
+    "song_id": "kanagawa",
+    "title": {
+      "ja": "神奈川電脳暗渠",
+      "en": "Kanagawa Cyber Culvert"
+    },
+    "artist": "南ゆに",
+    "rank": 3,
+    "status": 2,
+    "bg": "9ac0e02ee168f7e4c028cefaf9abe75b"
+  },
+  {
+    "song_id": "goodtek",
+    "title": {
+      "ja": "GOODTEK (Arcaea Edit)",
+      "en": "GOODTEK (Arcaea Edit)"
+    },
+    "artist": "EBIMAYO",
+    "rank": 4,
+    "status": 0,
+    "bg": "acdfd79963becb2b7178d5d4306bae7a"
+  },
+  {
+    "song_id": "felys",
+    "title": {
+      "ja": "felys final remix",
+      "en": "felys final remix"
+    },
+    "artist": "onoken",
+    "rank": 5,
+    "status": 2,
+    "bg": "3ebcbf22946996120cf747f5fe286883"
+  },
+  {
+    "song_id": "purgatorium",
+    "title": {
+      "ja": "Purgatorium",
+      "en": "Purgatorium"
+    },
+    "artist": "お月さま交響曲",
+    "rank": 6,
+    "status": 0,
+    "bg": "bed419236a3710749edbe1391256725a"
+  },
+  {
+    "song_id": "onandon",
+    "title": {
+      "ja": "On And On!! feat. Jenga",
+      "en": "On And On!! feat. Jenga"
+    },
+    "artist": "ETIA.",
+    "rank": 7,
+    "status": -4,
+    "bg": "efd691205f03e06aef2ced6ce194a60a"
+  },
+  {
+    "song_id": "sakurafubuki",
+    "title": {
+      "ja": "Sakura Fubuki",
+      "en": "Sakura Fubuki"
+    },
+    "artist": "Street",
+    "rank": 8,
+    "status": 0,
+    "bg": "a0762a11fee275b126f523f0a07d3001"
+  },
+  {
+    "song_id": "anokumene",
+    "title": {
+      "ja": "Anökumene",
+      "en": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 9,
+    "status": 0,
+    "bg": "2b6c4581af226578d6d245c1b7258183"
+  },
+  {
+    "song_id": "dement",
+    "title": {
+      "ja": "Dement ~after legend~",
+      "en": "Dement ~after legend~"
+    },
+    "artist": "Cosmograph",
+    "rank": 10,
+    "status": 3,
+    "bg": "3c2d464bfce4301ba5b9ff844eb06721"
+  },
+  {
+    "song_id": "ignotus",
+    "title": {
+      "ja": "Ignotus",
+      "en": "Ignotus"
+    },
+    "artist": "ak+q",
+    "rank": 11,
+    "status": 0,
+    "bg": "af4cebab7293185c285f8eb00b84d4f2"
+  },
+  {
+    "song_id": "infinityheaven",
+    "title": {
+      "ja": "Infinity Heaven",
+      "en": "Infinity Heaven"
+    },
+    "artist": "HyuN",
+    "rank": 12,
+    "status": 2,
+    "bg": "43c08d6d015790884094329f953c5c41"
+  },
+  {
+    "song_id": "shadesoflight",
+    "title": {
+      "ja": "Shades of Light in a Transcendent Realm",
+      "en": "Shades of Light in a Transcendent Realm"
+    },
+    "artist": "ak+q",
+    "rank": 13,
+    "status": -3,
+    "bg": "491dcfc71a3c03a4ba2ea96878e51cf7"
+  },
+  {
+    "song_id": "monochromeprincess",
+    "title": {
+      "ja": "Monochrome Princess",
+      "en": "Monochrome Princess"
+    },
+    "artist": "polysha",
+    "rank": 14,
+    "status": 1,
+    "bg": "0c7dd313e374df7a0ab38b8ade3a1d52"
+  }
+]
