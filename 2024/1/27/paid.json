@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "libertas",
+    "title": {
+      "ja": "Libertas",
+      "en": "Libertas"
+    },
+    "artist": "Zekk",
+    "rank": 0,
+    "status": 0,
+    "bg": "3ceb44ae85e1f71bb435eed1fe29e4c4"
+  },
+  {
+    "song_id": "einherjar",
+    "title": {
+      "ja": "Einherjar Joker",
+      "en": "Einherjar Joker"
+    },
+    "artist": "DJ Genki vs Gram",
+    "rank": 1,
+    "status": 1,
+    "bg": "d322d23d36fe7d89317d46da5782e674"
+  },
+  {
+    "song_id": "viciousheroism",
+    "title": {
+      "ja": "Vicious Heroism",
+      "en": "Vicious Heroism"
+    },
+    "artist": "Kobaryo",
+    "rank": 2,
+    "status": 1,
+    "bg": "cb57ae76a085baa7b2e2adcd4f97cad0"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "ja": "Grievous Lady",
+      "en": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 3,
+    "status": 4,
+    "bg": "6943d710638ee0575971f758bd04ea62"
+  },
+  {
+    "song_id": "singularity",
+    "title": {
+      "ja": "Singularity",
+      "en": "Singularity"
+    },
+    "artist": "ETIA.",
+    "rank": 4,
+    "status": 0,
+    "bg": "215c21528a159ed4e7356be512dc13a9"
+  },
+  {
+    "song_id": "heavensdoor",
+    "title": {
+      "ja": "Heavensdoor",
+      "en": "Heavensdoor"
+    },
+    "artist": "LeaF",
+    "rank": 5,
+    "status": 0,
+    "bg": "3064c2df7eaa6710885f747040e42bf3"
+  },
+  {
+    "song_id": "infinitestrife",
+    "title": {
+      "ja": "Infinite Strife,",
+      "en": "Infinite Strife,"
+    },
+    "artist": "BlackYooh vs. siromaru",
+    "rank": 6,
+    "status": 4,
+    "bg": "4ce204cd2ab9d4996a17e58c7ab5a6a1"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "ja": "Tempestissimo",
+      "en": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 7,
+    "status": 7,
+    "bg": "149eea4f4918126e9e9168560fc56404"
+  },
+  {
+    "song_id": "trappola",
+    "title": {
+      "ja": "妖艶魔女 -trappola bewitching-",
+      "en": "trappola bewitching"
+    },
+    "artist": "gmtn.",
+    "rank": 8,
+    "status": 4,
+    "bg": "29301e9468329ee08e84175a111b67dc"
+  },
+  {
+    "song_id": "sheriruth",
+    "title": {
+      "ja": "Sheriruth",
+      "en": "Sheriruth"
+    },
+    "artist": "Team Grimoire",
+    "rank": 9,
+    "status": 0,
+    "bg": "7155a8d71d954c2d607ef74b3b05baa2"
+  },
+  {
+    "song_id": "fractureray",
+    "title": {
+      "ja": "Fracture Ray",
+      "en": "Fracture Ray"
+    },
+    "artist": "Sakuzyo",
+    "rank": 10,
+    "status": 1,
+    "bg": "1fa3d3932824c682b1949ba35ca3f0bc"
+  },
+  {
+    "song_id": "arcanaeden",
+    "title": {
+      "ja": "Arcana Eden",
+      "en": "Arcana Eden"
+    },
+    "artist": "Team Grimoire vs Sakuzyo vs Laur",
+    "rank": 11,
+    "status": 4,
+    "bg": "cc943d953ecc59da4f1b1be11ed7d554"
+  },
+  {
+    "song_id": "pentiment",
+    "title": {
+      "ja": "Pentiment",
+      "en": "Pentiment"
+    },
+    "artist": "Nothing But Requiem with Museo",
+    "rank": 12,
+    "status": 5,
+    "bg": "865a7c8dba053edef4b7daf7ae860db0"
+  },
+  {
+    "song_id": "ringedgenesis",
+    "title": {
+      "ja": "Ringed Genesis",
+      "en": "Ringed Genesis"
+    },
+    "artist": "Edelritter",
+    "rank": 13,
+    "status": -7,
+    "bg": "60147bdaf9508639fea0ca9e82514d69"
+  },
+  {
+    "song_id": "lunarossa",
+    "title": {
+      "ja": "Luna Rossa",
+      "en": "Luna Rossa"
+    },
+    "artist": "r0y",
+    "rank": 14,
+    "status": -13,
+    "bg": "ef7d1c5b832c88c7cbd85c2b0de48ad1"
+  }
+]
