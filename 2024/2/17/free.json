@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "cyberneciacatharsis",
+    "title": {
+      "ja": "Cybernecia Catharsis",
+      "en": "Cybernecia Catharsis"
+    },
+    "artist": "Tanchiky",
+    "rank": 0,
+    "status": 0,
+    "bg": "e8d505242b2507aedddaa7f75ec1cf0f"
+  },
+  {
+    "song_id": "inkarusi",
+    "title": {
+      "ja": "inkar-usi",
+      "en": "inkar-usi"
+    },
+    "artist": "DIA",
+    "rank": 1,
+    "status": 0,
+    "bg": "ef07446fb8c84a67b58337144dd6def3"
+  },
+  {
+    "song_id": "oblivia",
+    "title": {
+      "ja": "Oblivia",
+      "en": "Oblivia"
+    },
+    "artist": "Saiph",
+    "rank": 2,
+    "status": 0,
+    "bg": "087cb0951965dbabfc2e84fa896fcdc8"
+  },
+  {
+    "song_id": "theformula",
+    "title": {
+      "ja": "The Formula",
+      "en": "The Formula"
+    },
+    "artist": "Junk",
+    "rank": 3,
+    "status": 0,
+    "bg": "c19cb9189f347a3b099539851526cdd5"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "ja": "Lost Civilization",
+      "en": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 4,
+    "status": 0,
+    "bg": "9b80c1ca0bcbebadc33eab60a78426a8"
+  },
+  {
+    "song_id": "kanagawa",
+    "title": {
+      "ja": "神奈川電脳暗渠",
+      "en": "Kanagawa Cyber Culvert"
+    },
+    "artist": "南ゆに",
+    "rank": 5,
+    "status": 0,
+    "bg": "cafd4cea00a901d78176b5f17966ea94"
+  },
+  {
+    "song_id": "goodtek",
+    "title": {
+      "ja": "GOODTEK (Arcaea Edit)",
+      "en": "GOODTEK (Arcaea Edit)"
+    },
+    "artist": "EBIMAYO",
+    "rank": 6,
+    "status": 1,
+    "bg": "d87e58c66027a7e1fb9e241cb481ab60"
+  },
+  {
+    "song_id": "chronostasis",
+    "title": {
+      "ja": "Chronostasis",
+      "en": "Chronostasis"
+    },
+    "artist": "黒皇帝",
+    "rank": 7,
+    "status": 1,
+    "bg": "7018bf2cce79ae8715073adf0e8822e6"
+  },
+  {
+    "song_id": "purpleverse",
+    "title": {
+      "ja": "Purple Verse",
+      "en": "Purple Verse"
+    },
+    "artist": "Hommarju",
+    "rank": 8,
+    "status": -2,
+    "bg": "b7b3d15204d248d40a7518861be9aeae"
+  },
+  {
+    "song_id": "ignotus",
+    "title": {
+      "ja": "Ignotus",
+      "en": "Ignotus"
+    },
+    "artist": "ak+q",
+    "rank": 9,
+    "status": 1,
+    "bg": "d05f70b8a152815b104cde588a9c5918"
+  },
+  {
+    "song_id": "sakurafubuki",
+    "title": {
+      "ja": "Sakura Fubuki",
+      "en": "Sakura Fubuki"
+    },
+    "artist": "Street",
+    "rank": 10,
+    "status": -1,
+    "bg": "914418c25cfa0b06d712f36b79f93a05"
+  },
+  {
+    "song_id": "infinityheaven",
+    "title": {
+      "ja": "Infinity Heaven",
+      "en": "Infinity Heaven"
+    },
+    "artist": "HyuN",
+    "rank": 11,
+    "status": 0,
+    "bg": "33d829dc8f05f88156159f18a8278051"
+  },
+  {
+    "song_id": "purgatorium",
+    "title": {
+      "ja": "Purgatorium",
+      "en": "Purgatorium"
+    },
+    "artist": "お月さま交響曲",
+    "rank": 12,
+    "status": 2,
+    "bg": "2c12fdff7bfc6a7940cca25e4217e0f5"
+  },
+  {
+    "song_id": "dreaminattraction",
+    "title": {
+      "ja": "Dreamin' Attraction!!",
+      "en": "Dreamin' Attraction!!"
+    },
+    "artist": "翡乃イスカ",
+    "rank": 13,
+    "status": -1,
+    "bg": "544730be2fc1d2b068db36c2cb2971e3"
+  },
+  {
+    "song_id": "anokumene",
+    "title": {
+      "ja": "Anökumene",
+      "en": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 14,
+    "status": 1,
+    "bg": "b43809c93ced0c44e876dfb7e02d45cf"
+  }
+]
