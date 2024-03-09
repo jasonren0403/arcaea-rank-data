@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "saikyostronger",
+    "title": {
+      "ja": "最強STRONGER",
+      "en": "SAIKYO STRONGER"
+    },
+    "artist": "REDALiCE vs USAO",
+    "rank": 0,
+    "status": 27,
+    "bg": "09d086048d52e94f09cdc131002a49da"
+  },
+  {
+    "song_id": "rekkaresonance",
+    "title": {
+      "ja": "烈華RESONANCE",
+      "en": "REKKA RESONANCE"
+    },
+    "artist": "REDALiCE vs Kobaryo",
+    "rank": 1,
+    "status": 56,
+    "bg": "5096cde38aef058707ef5b3c37aedc2a"
+  },
+  {
+    "song_id": "einherjar",
+    "title": {
+      "ja": "Einherjar Joker",
+      "en": "Einherjar Joker"
+    },
+    "artist": "DJ Genki vs Gram",
+    "rank": 2,
+    "status": 7,
+    "bg": "9e41c159d949598be3e961fe72d4ef69"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "ja": "Grievous Lady",
+      "en": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 3,
+    "status": -3,
+    "bg": "5bdec467269d44f7b348e8efea6ddadf"
+  },
+  {
+    "song_id": "laqryma",
+    "title": {
+      "ja": "La'qryma of the Wasteland",
+      "en": "La'qryma of the Wasteland"
+    },
+    "artist": "DJ Noriken",
+    "rank": 4,
+    "status": 88,
+    "bg": "b748442e8966f76a80ef932e84324a88"
+  },
+  {
+    "song_id": "izana",
+    "title": {
+      "ja": "IZANA",
+      "en": "IZANA"
+    },
+    "artist": "t+pazolite vs P*Light",
+    "rank": 5,
+    "status": 53,
+    "bg": "f7afb3a92dd29376ac23112dd3913e00"
+  },
+  {
+    "song_id": "infinitestrife",
+    "title": {
+      "ja": "Infinite Strife,",
+      "en": "Infinite Strife,"
+    },
+    "artist": "BlackYooh vs. siromaru",
+    "rank": 6,
+    "status": -4,
+    "bg": "a3766ad471c8c93d196d9bc51ff9d615"
+  },
+  {
+    "song_id": "fractureray",
+    "title": {
+      "ja": "Fracture Ray",
+      "en": "Fracture Ray"
+    },
+    "artist": "Sakuzyo",
+    "rank": 7,
+    "status": -3,
+    "bg": "78591eb4952b545f16caeb73e02bce60"
+  },
+  {
+    "song_id": "sheriruth",
+    "title": {
+      "ja": "Sheriruth",
+      "en": "Sheriruth"
+    },
+    "artist": "Team Grimoire",
+    "rank": 8,
+    "status": 0,
+    "bg": "fc6731fd70ccbccd23b78f913eaff439"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "ja": "Tempestissimo",
+      "en": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 9,
+    "status": -8,
+    "bg": "fd311452c2ef7de3e73facacde183126"
+  },
+  {
+    "song_id": "dantalion",
+    "title": {
+      "ja": "Dantalion",
+      "en": "Dantalion"
+    },
+    "artist": "Team Grimoire",
+    "rank": 10,
+    "status": 3,
+    "bg": "09c720c7f9eb18c6129adffc01d623d5"
+  },
+  {
+    "song_id": "ravenspride",
+    "title": {
+      "ja": "レイヴンズ・プライド",
+      "en": "Raven's Pride"
+    },
+    "artist": "みーに feat. はらもりよしな",
+    "rank": 11,
+    "status": 51,
+    "bg": "47f72d90e43c9eea40ec57ed4699ac38"
+  },
+  {
+    "song_id": "cyaegha",
+    "title": {
+      "ja": "Cyaegha",
+      "en": "Cyaegha"
+    },
+    "artist": "USAO",
+    "rank": 12,
+    "status": 4,
+    "bg": "c3df947e8ca627c7f52a758333ab82d2"
+  },
+  {
+    "song_id": "riseoftheworld",
+    "title": {
+      "ja": "Rise of the World",
+      "en": "Rise of the World"
+    },
+    "artist": "cosMo＠暴走P",
+    "rank": 13,
+    "status": 21,
+    "bg": "93ff0bcd060ce89c8d8c73c083ea5865"
+  },
+  {
+    "song_id": "trappola",
+    "title": {
+      "ja": "妖艶魔女 -trappola bewitching-",
+      "en": "trappola bewitching"
+    },
+    "artist": "gmtn.",
+    "rank": 14,
+    "status": -4,
+    "bg": "77931c41e4c9b02070c78eb3b6e652c7"
+  }
+]
