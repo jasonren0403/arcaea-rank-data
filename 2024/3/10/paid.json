@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "saikyostronger",
+    "title": {
+      "ja": "最強STRONGER",
+      "en": "SAIKYO STRONGER"
+    },
+    "artist": "REDALiCE vs USAO",
+    "rank": 0,
+    "status": 0,
+    "bg": "09d086048d52e94f09cdc131002a49da"
+  },
+  {
+    "song_id": "einherjar",
+    "title": {
+      "ja": "Einherjar Joker",
+      "en": "Einherjar Joker"
+    },
+    "artist": "DJ Genki vs Gram",
+    "rank": 1,
+    "status": 1,
+    "bg": "9e41c159d949598be3e961fe72d4ef69"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "ja": "Grievous Lady",
+      "en": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 2,
+    "status": 1,
+    "bg": "5bdec467269d44f7b348e8efea6ddadf"
+  },
+  {
+    "song_id": "rekkaresonance",
+    "title": {
+      "ja": "烈華RESONANCE",
+      "en": "REKKA RESONANCE"
+    },
+    "artist": "REDALiCE vs Kobaryo",
+    "rank": 3,
+    "status": -2,
+    "bg": "5096cde38aef058707ef5b3c37aedc2a"
+  },
+  {
+    "song_id": "izana",
+    "title": {
+      "ja": "IZANA",
+      "en": "IZANA"
+    },
+    "artist": "t+pazolite vs P*Light",
+    "rank": 4,
+    "status": 1,
+    "bg": "f7afb3a92dd29376ac23112dd3913e00"
+  },
+  {
+    "song_id": "fractureray",
+    "title": {
+      "ja": "Fracture Ray",
+      "en": "Fracture Ray"
+    },
+    "artist": "Sakuzyo",
+    "rank": 5,
+    "status": 2,
+    "bg": "78591eb4952b545f16caeb73e02bce60"
+  },
+  {
+    "song_id": "laqryma",
+    "title": {
+      "ja": "La'qryma of the Wasteland",
+      "en": "La'qryma of the Wasteland"
+    },
+    "artist": "DJ Noriken",
+    "rank": 6,
+    "status": -2,
+    "bg": "b748442e8966f76a80ef932e84324a88"
+  },
+  {
+    "song_id": "infinitestrife",
+    "title": {
+      "ja": "Infinite Strife,",
+      "en": "Infinite Strife,"
+    },
+    "artist": "BlackYooh vs. siromaru",
+    "rank": 7,
+    "status": -1,
+    "bg": "a3766ad471c8c93d196d9bc51ff9d615"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "ja": "Tempestissimo",
+      "en": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 8,
+    "status": 1,
+    "bg": "fd311452c2ef7de3e73facacde183126"
+  },
+  {
+    "song_id": "sheriruth",
+    "title": {
+      "ja": "Sheriruth",
+      "en": "Sheriruth"
+    },
+    "artist": "Team Grimoire",
+    "rank": 9,
+    "status": -1,
+    "bg": "fc6731fd70ccbccd23b78f913eaff439"
+  },
+  {
+    "song_id": "pentiment",
+    "title": {
+      "ja": "Pentiment",
+      "en": "Pentiment"
+    },
+    "artist": "Nothing But Requiem with Museo",
+    "rank": 10,
+    "status": 19,
+    "bg": "d30adc363c344df42b8982f11954e8de"
+  },
+  {
+    "song_id": "dantalion",
+    "title": {
+      "ja": "Dantalion",
+      "en": "Dantalion"
+    },
+    "artist": "Team Grimoire",
+    "rank": 11,
+    "status": -1,
+    "bg": "09c720c7f9eb18c6129adffc01d623d5"
+  },
+  {
+    "song_id": "heavensdoor",
+    "title": {
+      "ja": "Heavensdoor",
+      "en": "Heavensdoor"
+    },
+    "artist": "LeaF",
+    "rank": 12,
+    "status": 4,
+    "bg": "32454fa72638733fec9b33cd0820b928"
+  },
+  {
+    "song_id": "arcanaeden",
+    "title": {
+      "ja": "Arcana Eden",
+      "en": "Arcana Eden"
+    },
+    "artist": "Team Grimoire vs Sakuzyo vs Laur",
+    "rank": 13,
+    "status": 19,
+    "bg": "8aea81fab8e4d4ab24cb13e50ad28fd4"
+  },
+  {
+    "song_id": "etherstrike",
+    "title": {
+      "ja": "Ether Strike",
+      "en": "Ether Strike"
+    },
+    "artist": "Akira Complex",
+    "rank": 14,
+    "status": 10,
+    "bg": "fb5bd7bda09a3e26a1bac94c47fb9678"
+  }
+]
