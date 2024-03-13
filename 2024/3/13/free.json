@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "alephzero",
+    "title": {
+      "ja": "Aleph-0",
+      "en": "Aleph-0"
+    },
+    "artist": "LeaF",
+    "rank": 0,
+    "status": 0,
+    "bg": "c0559e603f93143c42df44a126f500da"
+  },
+  {
+    "song_id": "innocence",
+    "title": {
+      "ja": "Innocence",
+      "en": "Innocence"
+    },
+    "artist": "Powerless feat. Sennzai",
+    "rank": 1,
+    "status": 0,
+    "bg": "a8f903b8b531d480f4474bc2ac340a9d"
+  },
+  {
+    "song_id": "jingle",
+    "title": {
+      "ja": "Jingle",
+      "en": "Jingle"
+    },
+    "artist": "DJ Noriken",
+    "rank": 2,
+    "status": 0,
+    "bg": "e40ebbf3ac794a377ff9b1da84a724dd"
+  },
+  {
+    "song_id": "inkarusi",
+    "title": {
+      "ja": "inkar-usi",
+      "en": "inkar-usi"
+    },
+    "artist": "DIA",
+    "rank": 3,
+    "status": 0,
+    "bg": "ccd13069d30a42fa6a860283b7da048d"
+  },
+  {
+    "song_id": "clotho",
+    "title": {
+      "ja": "クロートーと星の観測者",
+      "en": "Clotho and the stargazer"
+    },
+    "artist": "しーけー",
+    "rank": 4,
+    "status": 0,
+    "bg": "19b8f34ad98f41a3c411b22f41c7bd77"
+  },
+  {
+    "song_id": "sayonarahatsukoi",
+    "title": {
+      "ja": "Sayonara Hatsukoi",
+      "en": "Sayonara Hatsukoi"
+    },
+    "artist": "REDSHiFT",
+    "rank": 5,
+    "status": 0,
+    "bg": "f64a9cc4774da853c744eaeb08b3dd30"
+  },
+  {
+    "song_id": "grimheart",
+    "title": {
+      "ja": "Grimheart",
+      "en": "Grimheart"
+    },
+    "artist": "Puru",
+    "rank": 6,
+    "status": 0,
+    "bg": "701a918e26938e28085c6e6fe3dd25c5"
+  },
+  {
+    "song_id": "shadesoflight",
+    "title": {
+      "ja": "Shades of Light in a Transcendent Realm",
+      "en": "Shades of Light in a Transcendent Realm"
+    },
+    "artist": "ak+q",
+    "rank": 7,
+    "status": 0,
+    "bg": "d62a7b8b6d0bb85f77452994f22ecb5f"
+  },
+  {
+    "song_id": "suomi",
+    "title": {
+      "ja": "Suomi",
+      "en": "Suomi"
+    },
+    "artist": "Aire",
+    "rank": 8,
+    "status": 0,
+    "bg": "b2c5816e7be6c5b9833c8cd564d9b15c"
+  },
+  {
+    "song_id": "bookmaker",
+    "title": {
+      "ja": "Bookmaker (2D Version)",
+      "en": "Bookmaker (2D Version)"
+    },
+    "artist": "Kobaryo",
+    "rank": 9,
+    "status": 0,
+    "bg": "d1595c021297b4f03410debbdd2d425b"
+  },
+  {
+    "song_id": "redandblue",
+    "title": {
+      "ja": "Red and Blue",
+      "en": "Red and Blue"
+    },
+    "artist": "Silentroom",
+    "rank": 10,
+    "status": 0,
+    "bg": "664414be2aa3b8220f8654c79e9e315f"
+  },
+  {
+    "song_id": "chronicle",
+    "title": {
+      "ja": "Chronicle",
+      "en": "Chronicle"
+    },
+    "artist": "Lime",
+    "rank": 11,
+    "status": 0,
+    "bg": "8f271086926eb0a9eb213c72dc887941"
+  },
+  {
+    "song_id": "chronostasis",
+    "title": {
+      "ja": "Chronostasis",
+      "en": "Chronostasis"
+    },
+    "artist": "黒皇帝",
+    "rank": 12,
+    "status": 1,
+    "bg": "6cddb7284bfebc95bfd0755851af3af5"
+  },
+  {
+    "song_id": "sakurafubuki",
+    "title": {
+      "ja": "Sakura Fubuki",
+      "en": "Sakura Fubuki"
+    },
+    "artist": "Street",
+    "rank": 13,
+    "status": -1,
+    "bg": "60f88457c6c4d355acf1704960bc8d9b"
+  },
+  {
+    "song_id": "gengaozo",
+    "title": {
+      "ja": "G e n g a o z o",
+      "en": "G e n g a o z o"
+    },
+    "artist": "-45",
+    "rank": 14,
+    "status": 0,
+    "bg": "5f3a09f727968c8b4abcb2680e072444"
+  }
+]
