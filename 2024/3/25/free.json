@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "alephzero",
+    "title": {
+      "ja": "Aleph-0",
+      "en": "Aleph-0"
+    },
+    "artist": "LeaF",
+    "rank": 0,
+    "status": 0,
+    "bg": "116947f2ccf5e2b4044ab9cd4faf63af"
+  },
+  {
+    "song_id": "innocence",
+    "title": {
+      "ja": "Innocence",
+      "en": "Innocence"
+    },
+    "artist": "Powerless feat. Sennzai",
+    "rank": 1,
+    "status": 0,
+    "bg": "3fdac9fb3becac3651e91d21ad9453ae"
+  },
+  {
+    "song_id": "jingle",
+    "title": {
+      "ja": "Jingle",
+      "en": "Jingle"
+    },
+    "artist": "DJ Noriken",
+    "rank": 2,
+    "status": 0,
+    "bg": "8aeb8c5707a8fd7d97e020c2329cc158"
+  },
+  {
+    "song_id": "inkarusi",
+    "title": {
+      "ja": "inkar-usi",
+      "en": "inkar-usi"
+    },
+    "artist": "DIA",
+    "rank": 3,
+    "status": 0,
+    "bg": "728c5f9e800dca26d8b65d389e64ed66"
+  },
+  {
+    "song_id": "sayonarahatsukoi",
+    "title": {
+      "ja": "Sayonara Hatsukoi",
+      "en": "Sayonara Hatsukoi"
+    },
+    "artist": "REDSHiFT",
+    "rank": 4,
+    "status": 0,
+    "bg": "22bf5b7c20fea0997292aad973a0afe1"
+  },
+  {
+    "song_id": "clotho",
+    "title": {
+      "ja": "クロートーと星の観測者",
+      "en": "Clotho and the stargazer"
+    },
+    "artist": "しーけー",
+    "rank": 5,
+    "status": 0,
+    "bg": "477941074869a68a7cbad0cdbed348c1"
+  },
+  {
+    "song_id": "chronostasis",
+    "title": {
+      "ja": "Chronostasis",
+      "en": "Chronostasis"
+    },
+    "artist": "黒皇帝",
+    "rank": 6,
+    "status": 1,
+    "bg": "96bcc00c43f6111eea5f64b0a55db0de"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "ja": "Lost Civilization",
+      "en": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 7,
+    "status": 1,
+    "bg": "21238a4cb8d2d71a5dd8f1689a4b17e7"
+  },
+  {
+    "song_id": "shadesoflight",
+    "title": {
+      "ja": "Shades of Light in a Transcendent Realm",
+      "en": "Shades of Light in a Transcendent Realm"
+    },
+    "artist": "ak+q",
+    "rank": 8,
+    "status": -2,
+    "bg": "2ed0af0fc851dfd3792a1e739091b3fe"
+  },
+  {
+    "song_id": "kanagawa",
+    "title": {
+      "ja": "神奈川電脳暗渠",
+      "en": "Kanagawa Cyber Culvert"
+    },
+    "artist": "南ゆに",
+    "rank": 9,
+    "status": 2,
+    "bg": "aaf74070ffb160cfce420f01b91e1f7a"
+  },
+  {
+    "song_id": "sakurafubuki",
+    "title": {
+      "ja": "Sakura Fubuki",
+      "en": "Sakura Fubuki"
+    },
+    "artist": "Street",
+    "rank": 10,
+    "status": 3,
+    "bg": "00cde2fd22a6f6ac0d548d159893c275"
+  },
+  {
+    "song_id": "bookmaker",
+    "title": {
+      "ja": "Bookmaker (2D Version)",
+      "en": "Bookmaker (2D Version)"
+    },
+    "artist": "Kobaryo",
+    "rank": 11,
+    "status": -2,
+    "bg": "c6d9fe66c48015c1f746779f3f5ac0a5"
+  },
+  {
+    "song_id": "grimheart",
+    "title": {
+      "ja": "Grimheart",
+      "en": "Grimheart"
+    },
+    "artist": "Puru",
+    "rank": 12,
+    "status": -2,
+    "bg": "4225df5db05d2f857797d73e87aa55f3"
+  },
+  {
+    "song_id": "cyberneciacatharsis",
+    "title": {
+      "ja": "Cybernecia Catharsis",
+      "en": "Cybernecia Catharsis"
+    },
+    "artist": "Tanchiky",
+    "rank": 13,
+    "status": 4,
+    "bg": "1ef9f737dc47eecdd2f85aae935767c8"
+  },
+  {
+    "song_id": "redandblue",
+    "title": {
+      "ja": "Red and Blue",
+      "en": "Red and Blue"
+    },
+    "artist": "Silentroom",
+    "rank": 14,
+    "status": -2,
+    "bg": "523f81ea0e8fb4c0ebd59596e60455a6"
+  }
+]
