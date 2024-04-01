@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "morningloom",
+    "title": {
+      "ja": "MORNINGLOOM",
+      "en": "MORNINGLOOM"
+    },
+    "artist": "saaa",
+    "rank": 0,
+    "status": 0,
+    "bg": "7ed1e9d95f02cece60193f10bbb1444e"
+  },
+  {
+    "song_id": "awakeninruins",
+    "title": {
+      "ja": "Awaken In Ruins",
+      "en": "Awaken In Ruins"
+    },
+    "artist": "Supa7onyz",
+    "rank": 1,
+    "status": 0,
+    "bg": "9117da8bdaf0576c674ad9dd4b58e2c0"
+  },
+  {
+    "song_id": "hellohell",
+    "title": {
+      "ja": "HELLOHELL",
+      "en": "HELLOHELL"
+    },
+    "artist": "暁Records",
+    "rank": 2,
+    "status": 0,
+    "bg": "70233adedacfcfe8d1104bdd7f96d71a"
+  },
+  {
+    "song_id": "lethalvoltage",
+    "title": {
+      "ja": "Lethal Voltage",
+      "en": "Lethal Voltage"
+    },
+    "artist": "siqlo",
+    "rank": 3,
+    "status": 0,
+    "bg": "8f5306315c7209531e114a56c56d5f5a"
+  },
+  {
+    "song_id": "innocence",
+    "title": {
+      "ja": "Innocence",
+      "en": "Innocence"
+    },
+    "artist": "Powerless feat. Sennzai",
+    "rank": 4,
+    "status": 0,
+    "bg": "81826f25298c62001fada2b4083947d4"
+  },
+  {
+    "song_id": "ichirin",
+    "title": {
+      "ja": "〇、",
+      "en": "〇、"
+    },
+    "artist": "Kolaa & 熊子",
+    "rank": 5,
+    "status": 0,
+    "bg": "79ca0c823fd9c1af9dfc85aa652cc6fe"
+  },
+  {
+    "song_id": "chronostasis",
+    "title": {
+      "ja": "Chronostasis",
+      "en": "Chronostasis"
+    },
+    "artist": "黒皇帝",
+    "rank": 6,
+    "status": 1,
+    "bg": "9f148923b5fcc085db0eebb22bdeb460"
+  },
+  {
+    "song_id": "alephzero",
+    "title": {
+      "ja": "Aleph-0",
+      "en": "Aleph-0"
+    },
+    "artist": "LeaF",
+    "rank": 7,
+    "status": -1,
+    "bg": "e1a1056596bbbcfde7009b5dad402e56"
+  },
+  {
+    "song_id": "purgatorium",
+    "title": {
+      "ja": "Purgatorium",
+      "en": "Purgatorium"
+    },
+    "artist": "お月さま交響曲",
+    "rank": 8,
+    "status": 0,
+    "bg": "260a7492a9f8e6cedc0f3e75c7a19b68"
+  },
+  {
+    "song_id": "clotho",
+    "title": {
+      "ja": "クロートーと星の観測者",
+      "en": "Clotho and the stargazer"
+    },
+    "artist": "しーけー",
+    "rank": 9,
+    "status": 0,
+    "bg": "ed59853d752093f9291bfee12ee7d837"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "ja": "Lost Civilization",
+      "en": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 10,
+    "status": 1,
+    "bg": "7004b161cb8725149b20fdc9aef91e74"
+  },
+  {
+    "song_id": "anokumene",
+    "title": {
+      "ja": "Anökumene",
+      "en": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 11,
+    "status": -1,
+    "bg": "8e057fc0a2bb5dff1d25d1631cf350b3"
+  },
+  {
+    "song_id": "jingle",
+    "title": {
+      "ja": "Jingle",
+      "en": "Jingle"
+    },
+    "artist": "DJ Noriken",
+    "rank": 12,
+    "status": 0,
+    "bg": "eea91e847c4fc3b8bf0e78724fb7d97e"
+  },
+  {
+    "song_id": "inkarusi",
+    "title": {
+      "ja": "inkar-usi",
+      "en": "inkar-usi"
+    },
+    "artist": "DIA",
+    "rank": 13,
+    "status": 0,
+    "bg": "de086eea3871c64a64bdd636d4bc997a"
+  },
+  {
+    "song_id": "sayonarahatsukoi",
+    "title": {
+      "ja": "Sayonara Hatsukoi",
+      "en": "Sayonara Hatsukoi"
+    },
+    "artist": "REDSHiFT",
+    "rank": 14,
+    "status": 1,
+    "bg": "cbac5daf7f16a43c728660b5931037a2"
+  }
+]
