@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "ignotus",
+    "title": {
+      "ja": "Ignotus",
+      "en": "Ignotus"
+    },
+    "artist": "ak+q",
+    "rank": 0,
+    "status": 29,
+    "bg": "c5c3e0c59f882ec3687e989122c680e4"
+  },
+  {
+    "song_id": "morningloom",
+    "title": {
+      "ja": "MORNINGLOOM",
+      "en": "MORNINGLOOM"
+    },
+    "artist": "saaa",
+    "rank": 1,
+    "status": -1,
+    "bg": "4afb120c6a0847846ef42502ae9bc44a"
+  },
+  {
+    "song_id": "felys",
+    "title": {
+      "ja": "felys final remix",
+      "en": "felys final remix"
+    },
+    "artist": "onoken",
+    "rank": 2,
+    "status": 13,
+    "bg": "a4b344a0fec03c3fe3f364cb45e6c004"
+  },
+  {
+    "song_id": "hivemind",
+    "title": {
+      "ja": "HIVEMIND",
+      "en": "HIVEMIND"
+    },
+    "artist": "かたぎり",
+    "rank": 3,
+    "status": 25,
+    "bg": "ff6cb089ad897f37ce0766ac93a0f2fd"
+  },
+  {
+    "song_id": "awakeninruins",
+    "title": {
+      "ja": "Awaken In Ruins",
+      "en": "Awaken In Ruins"
+    },
+    "artist": "Supa7onyz",
+    "rank": 4,
+    "status": -2,
+    "bg": "f2a545752db46b3f2c344665a55f0486"
+  },
+  {
+    "song_id": "shadesoflight",
+    "title": {
+      "ja": "Shades of Light in a Transcendent Realm",
+      "en": "Shades of Light in a Transcendent Realm"
+    },
+    "artist": "ak+q",
+    "rank": 5,
+    "status": 16,
+    "bg": "659035bb5f2cfd2cbda486d11843f1e9"
+  },
+  {
+    "song_id": "hellohell",
+    "title": {
+      "ja": "HELLOHELL",
+      "en": "HELLOHELL"
+    },
+    "artist": "暁Records",
+    "rank": 6,
+    "status": -5,
+    "bg": "d3656a9b2bedca73b92776be8bd61be6"
+  },
+  {
+    "song_id": "sayonarahatsukoi",
+    "title": {
+      "ja": "Sayonara Hatsukoi",
+      "en": "Sayonara Hatsukoi"
+    },
+    "artist": "REDSHiFT",
+    "rank": 7,
+    "status": 3,
+    "bg": "1686943f252958a47956f1013cf82d10"
+  },
+  {
+    "song_id": "redandblue",
+    "title": {
+      "ja": "Red and Blue",
+      "en": "Red and Blue"
+    },
+    "artist": "Silentroom",
+    "rank": 8,
+    "status": 30,
+    "bg": "6a938f17cb2b1347c9b96ae6bcdae52e"
+  },
+  {
+    "song_id": "inkarusi",
+    "title": {
+      "ja": "inkar-usi",
+      "en": "inkar-usi"
+    },
+    "artist": "DIA",
+    "rank": 9,
+    "status": 4,
+    "bg": "237f68fdc627224ab874a86277ac97f1"
+  },
+  {
+    "song_id": "lethalvoltage",
+    "title": {
+      "ja": "Lethal Voltage",
+      "en": "Lethal Voltage"
+    },
+    "artist": "siqlo",
+    "rank": 10,
+    "status": -5,
+    "bg": "1cd814c1669fae31f57bc9ad7186f3d2"
+  },
+  {
+    "song_id": "chronostasis",
+    "title": {
+      "ja": "Chronostasis",
+      "en": "Chronostasis"
+    },
+    "artist": "黒皇帝",
+    "rank": 11,
+    "status": -5,
+    "bg": "25b9bbfa99648c3426a83f6b6b1e9dc5"
+  },
+  {
+    "song_id": "innocence",
+    "title": {
+      "ja": "Innocence",
+      "en": "Innocence"
+    },
+    "artist": "Powerless feat. Sennzai",
+    "rank": 12,
+    "status": -9,
+    "bg": "31be9efbb000da7d11bf1f026457507d"
+  },
+  {
+    "song_id": "grimheart",
+    "title": {
+      "ja": "Grimheart",
+      "en": "Grimheart"
+    },
+    "artist": "Puru",
+    "rank": 13,
+    "status": 21,
+    "bg": "b3dbf3b8ccb85583d0f37ad36a0457ad"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "ja": "Lost Civilization",
+      "en": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 14,
+    "status": 0,
+    "bg": "5a526e2adc6b5800428d26dbcaba4425"
+  }
+]

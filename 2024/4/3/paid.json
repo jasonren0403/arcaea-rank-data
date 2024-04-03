@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "ultradiaxon",
+    "title": {
+      "ja": "ultradiaxon-N3",
+      "en": "ultradiaxon-N3"
+    },
+    "artist": "nitro (lowiro)",
+    "rank": 0,
+    "status": 278,
+    "bg": "fd6cb3aba42b13f6f269d321be9cca14"
+  },
+  {
+    "song_id": "maliciousmischance",
+    "title": {
+      "ja": "Malicious Mischance",
+      "en": "Malicious Mischance"
+    },
+    "artist": "s-don",
+    "rank": 1,
+    "status": 49,
+    "bg": "6baa4b33138a985d248c4ba0b72ebacb"
+  },
+  {
+    "song_id": "singularity",
+    "title": {
+      "ja": "Singularity",
+      "en": "Singularity"
+    },
+    "artist": "ETIA.",
+    "rank": 2,
+    "status": 2,
+    "bg": "48174e58200e05b754f92fe803c71413"
+  },
+  {
+    "song_id": "ifi",
+    "title": {
+      "ja": "#1f1e33",
+      "en": "#1f1e33"
+    },
+    "artist": "かめりあ(EDP)",
+    "rank": 3,
+    "status": 8,
+    "bg": "3e8916217deb228e43603935e25eaa54"
+  },
+  {
+    "song_id": "masqueradelegion",
+    "title": {
+      "ja": "Masquerade Legion",
+      "en": "Masquerade Legion"
+    },
+    "artist": "Srav3R & DJ Noriken",
+    "rank": 4,
+    "status": 5,
+    "bg": "d8074829deb7ac628523c652fd126c20"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "ja": "Grievous Lady",
+      "en": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 5,
+    "status": -5,
+    "bg": "a79edea27f13529aab2a25ef4dc515ad"
+  },
+  {
+    "song_id": "antithese",
+    "title": {
+      "ja": "Antithese",
+      "en": "Antithese"
+    },
+    "artist": "Blacklolita",
+    "rank": 6,
+    "status": 100,
+    "bg": "fb73d376b976e3b8ab9dd84eb2a913b9"
+  },
+  {
+    "song_id": "sulfur",
+    "title": {
+      "ja": "Sulfur",
+      "en": "Sulfur"
+    },
+    "artist": "ぺのれり",
+    "rank": 7,
+    "status": 36,
+    "bg": "9ed77aedfe3d3918374365e02a97d3d1"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "ja": "Tempestissimo",
+      "en": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 8,
+    "status": -6,
+    "bg": "c0fe7d11ab2f538e1908cf94e735bfc2"
+  },
+  {
+    "song_id": "testify",
+    "title": {
+      "ja": "Testify",
+      "en": "Testify"
+    },
+    "artist": "void (Mournfinale) feat. 星熊南巫",
+    "rank": 9,
+    "status": -8,
+    "bg": "7024b7022be818410a52f924a4d170e5"
+  },
+  {
+    "song_id": "soundwitch",
+    "title": {
+      "ja": "SOUNDWiTCH",
+      "en": "SOUNDWiTCH"
+    },
+    "artist": "HATE",
+    "rank": 10,
+    "status": 10,
+    "bg": "c1b91c20b25d0382854a05c6ef8dcff1"
+  },
+  {
+    "song_id": "infinitestrife",
+    "title": {
+      "ja": "Infinite Strife,",
+      "en": "Infinite Strife,"
+    },
+    "artist": "BlackYooh vs. siromaru",
+    "rank": 11,
+    "status": -8,
+    "bg": "27fa6ba34a023094050ee68396009dad"
+  },
+  {
+    "song_id": "crimsonthrone",
+    "title": {
+      "ja": "Crimson Throne",
+      "en": "Crimson Throne"
+    },
+    "artist": "Dimier√Lisb",
+    "rank": 12,
+    "status": 79,
+    "bg": "d3a24c31b6f738da506fcfb9970033cc"
+  },
+  {
+    "song_id": "laqryma",
+    "title": {
+      "ja": "La'qryma of the Wasteland",
+      "en": "La'qryma of the Wasteland"
+    },
+    "artist": "DJ Noriken",
+    "rank": 13,
+    "status": 45,
+    "bg": "92e395d7ac4318ed3a8c911e1e6c79d2"
+  },
+  {
+    "song_id": "fractureray",
+    "title": {
+      "ja": "Fracture Ray",
+      "en": "Fracture Ray"
+    },
+    "artist": "Sakuzyo",
+    "rank": 14,
+    "status": -4,
+    "bg": "de3c9c84bb0cfd04e7bc621d9a9d60c2"
+  }
+]
