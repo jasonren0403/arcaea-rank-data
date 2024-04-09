@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "ultradiaxon",
+    "title": {
+      "ja": "ultradiaxon-N3",
+      "en": "ultradiaxon-N3"
+    },
+    "artist": "nitro (lowiro)",
+    "rank": 0,
+    "status": 0,
+    "bg": "fd6cb3aba42b13f6f269d321be9cca14"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "ja": "Grievous Lady",
+      "en": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 1,
+    "status": 0,
+    "bg": "a79edea27f13529aab2a25ef4dc515ad"
+  },
+  {
+    "song_id": "viciousheroism",
+    "title": {
+      "ja": "Vicious Heroism",
+      "en": "Vicious Heroism"
+    },
+    "artist": "Kobaryo",
+    "rank": 2,
+    "status": 10,
+    "bg": "76c4393df6795407688fc0caad446ece"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "ja": "Tempestissimo",
+      "en": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 3,
+    "status": -1,
+    "bg": "c0fe7d11ab2f538e1908cf94e735bfc2"
+  },
+  {
+    "song_id": "testify",
+    "title": {
+      "ja": "Testify",
+      "en": "Testify"
+    },
+    "artist": "void (Mournfinale) feat. 星熊南巫",
+    "rank": 4,
+    "status": -1,
+    "bg": "7024b7022be818410a52f924a4d170e5"
+  },
+  {
+    "song_id": "ifi",
+    "title": {
+      "ja": "#1f1e33",
+      "en": "#1f1e33"
+    },
+    "artist": "かめりあ(EDP)",
+    "rank": 5,
+    "status": -1,
+    "bg": "3e8916217deb228e43603935e25eaa54"
+  },
+  {
+    "song_id": "infinitestrife",
+    "title": {
+      "ja": "Infinite Strife,",
+      "en": "Infinite Strife,"
+    },
+    "artist": "BlackYooh vs. siromaru",
+    "rank": 6,
+    "status": 3,
+    "bg": "27fa6ba34a023094050ee68396009dad"
+  },
+  {
+    "song_id": "arcanaeden",
+    "title": {
+      "ja": "Arcana Eden",
+      "en": "Arcana Eden"
+    },
+    "artist": "Team Grimoire vs Sakuzyo vs Laur",
+    "rank": 7,
+    "status": -2,
+    "bg": "1b5fdc9b84ce838fef0a7474c5b2f7c4"
+  },
+  {
+    "song_id": "singularity",
+    "title": {
+      "ja": "Singularity",
+      "en": "Singularity"
+    },
+    "artist": "ETIA.",
+    "rank": 8,
+    "status": -1,
+    "bg": "48174e58200e05b754f92fe803c71413"
+  },
+  {
+    "song_id": "fractureray",
+    "title": {
+      "ja": "Fracture Ray",
+      "en": "Fracture Ray"
+    },
+    "artist": "Sakuzyo",
+    "rank": 9,
+    "status": -1,
+    "bg": "de3c9c84bb0cfd04e7bc621d9a9d60c2"
+  },
+  {
+    "song_id": "pentiment",
+    "title": {
+      "ja": "Pentiment",
+      "en": "Pentiment"
+    },
+    "artist": "Nothing But Requiem with Museo",
+    "rank": 10,
+    "status": -4,
+    "bg": "b387aa333f6c3e78fdce66144d780b74"
+  },
+  {
+    "song_id": "axiumcrisis",
+    "title": {
+      "ja": "Axium Crisis",
+      "en": "Axium Crisis"
+    },
+    "artist": "ak+q",
+    "rank": 11,
+    "status": -1,
+    "bg": "7c4be3fa9e9a911a3ff32d0d293b50f9"
+  },
+  {
+    "song_id": "sheriruth",
+    "title": {
+      "ja": "Sheriruth",
+      "en": "Sheriruth"
+    },
+    "artist": "Team Grimoire",
+    "rank": 12,
+    "status": -1,
+    "bg": "b0d8b9a099243b2a1fe9565a929ebc54"
+  },
+  {
+    "song_id": "trappola",
+    "title": {
+      "ja": "妖艶魔女 -trappola bewitching-",
+      "en": "trappola bewitching"
+    },
+    "artist": "gmtn.",
+    "rank": 13,
+    "status": 0,
+    "bg": "73a623a2e7feb301871d0dac2642551c"
+  },
+  {
+    "song_id": "conflict",
+    "title": {
+      "ja": "conflict",
+      "en": "conflict"
+    },
+    "artist": "siromaru + cranky",
+    "rank": 14,
+    "status": 1,
+    "bg": "37b6568e1ab899360b41401df81b506b"
+  }
+]
