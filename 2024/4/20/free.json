@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "innocence",
+    "title": {
+      "ja": "Innocence",
+      "en": "Innocence"
+    },
+    "artist": "Powerless feat. Sennzai",
+    "rank": 0,
+    "status": 1,
+    "bg": "31be9efbb000da7d11bf1f026457507d"
+  },
+  {
+    "song_id": "lethalvoltage",
+    "title": {
+      "ja": "Lethal Voltage",
+      "en": "Lethal Voltage"
+    },
+    "artist": "siqlo",
+    "rank": 1,
+    "status": 1,
+    "bg": "1cd814c1669fae31f57bc9ad7186f3d2"
+  },
+  {
+    "song_id": "morningloom",
+    "title": {
+      "ja": "MORNINGLOOM",
+      "en": "MORNINGLOOM"
+    },
+    "artist": "saaa",
+    "rank": 2,
+    "status": 2,
+    "bg": "4afb120c6a0847846ef42502ae9bc44a"
+  },
+  {
+    "song_id": "awakeninruins",
+    "title": {
+      "ja": "Awaken In Ruins",
+      "en": "Awaken In Ruins"
+    },
+    "artist": "Supa7onyz",
+    "rank": 3,
+    "status": 0,
+    "bg": "f2a545752db46b3f2c344665a55f0486"
+  },
+  {
+    "song_id": "kanagawa",
+    "title": {
+      "ja": "神奈川電脳暗渠",
+      "en": "Kanagawa Cyber Culvert"
+    },
+    "artist": "南ゆに",
+    "rank": 4,
+    "status": -4,
+    "bg": "200ebc622ea7ac6ca5f5fb691c9033b2"
+  },
+  {
+    "song_id": "inkarusi",
+    "title": {
+      "ja": "inkar-usi",
+      "en": "inkar-usi"
+    },
+    "artist": "DIA",
+    "rank": 5,
+    "status": 0,
+    "bg": "237f68fdc627224ab874a86277ac97f1"
+  },
+  {
+    "song_id": "supernova",
+    "title": {
+      "ja": "SUPERNOVA",
+      "en": "SUPERNOVA"
+    },
+    "artist": "BACO",
+    "rank": 6,
+    "status": 37,
+    "bg": "94fb11b88cf1a8fb474c678315e520c5"
+  },
+  {
+    "song_id": "jingle",
+    "title": {
+      "ja": "Jingle",
+      "en": "Jingle"
+    },
+    "artist": "DJ Noriken",
+    "rank": 7,
+    "status": 0,
+    "bg": "28bf3ad550306fc57136e63656879254"
+  },
+  {
+    "song_id": "sayonarahatsukoi",
+    "title": {
+      "ja": "Sayonara Hatsukoi",
+      "en": "Sayonara Hatsukoi"
+    },
+    "artist": "REDSHiFT",
+    "rank": 8,
+    "status": -2,
+    "bg": "1686943f252958a47956f1013cf82d10"
+  },
+  {
+    "song_id": "hellohell",
+    "title": {
+      "ja": "HELLOHELL",
+      "en": "HELLOHELL"
+    },
+    "artist": "暁Records",
+    "rank": 9,
+    "status": 1,
+    "bg": "d3656a9b2bedca73b92776be8bd61be6"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "ja": "Lost Civilization",
+      "en": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 10,
+    "status": -2,
+    "bg": "5a526e2adc6b5800428d26dbcaba4425"
+  },
+  {
+    "song_id": "chronostasis",
+    "title": {
+      "ja": "Chronostasis",
+      "en": "Chronostasis"
+    },
+    "artist": "黒皇帝",
+    "rank": 11,
+    "status": 0,
+    "bg": "25b9bbfa99648c3426a83f6b6b1e9dc5"
+  },
+  {
+    "song_id": "cyberneciacatharsis",
+    "title": {
+      "ja": "Cybernecia Catharsis",
+      "en": "Cybernecia Catharsis"
+    },
+    "artist": "Tanchiky",
+    "rank": 12,
+    "status": 1,
+    "bg": "f269cb84f1f248bd43e21ebce1011daa"
+  },
+  {
+    "song_id": "goodtek",
+    "title": {
+      "ja": "GOODTEK (Arcaea Edit)",
+      "en": "GOODTEK (Arcaea Edit)"
+    },
+    "artist": "EBIMAYO",
+    "rank": 13,
+    "status": -4,
+    "bg": "d402e71c68b2a28e5026a27f69afe340"
+  },
+  {
+    "song_id": "shadesoflight",
+    "title": {
+      "ja": "Shades of Light in a Transcendent Realm",
+      "en": "Shades of Light in a Transcendent Realm"
+    },
+    "artist": "ak+q",
+    "rank": 14,
+    "status": -2,
+    "bg": "659035bb5f2cfd2cbda486d11843f1e9"
+  }
+]
