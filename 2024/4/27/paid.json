@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "distortedfate",
+    "title": {
+      "ja": "Distorted Fate",
+      "en": "Distorted Fate"
+    },
+    "artist": "Sakuzyo",
+    "rank": 0,
+    "status": 2147483647,
+    "bg": "2bbf0f80942211ee7963305ee81bcf88"
+  },
+  {
+    "song_id": "chromafill",
+    "title": {
+      "ja": "Chromafill",
+      "en": "Chromafill"
+    },
+    "artist": "ていぬ",
+    "rank": 1,
+    "status": 2147483646,
+    "bg": "883a66cf44e58195519d778b7b5a0ee5"
+  },
+  {
+    "song_id": "floatingworld",
+    "title": {
+      "ja": "Floating World",
+      "en": "Floating World"
+    },
+    "artist": "baker feat. botan",
+    "rank": 2,
+    "status": 2147483645,
+    "bg": "5a4ca07d759dce9329c846b91c443258"
+  },
+  {
+    "song_id": "phantasia",
+    "title": {
+      "ja": "Phantasia",
+      "en": "Phantasia"
+    },
+    "artist": "Yunosuke",
+    "rank": 3,
+    "status": 233,
+    "bg": "05b1ce3d94f88230cabbe9c7c5435176"
+  },
+  {
+    "song_id": "init",
+    "title": {
+      "ja": "init()",
+      "en": "init()"
+    },
+    "artist": "kamome sano",
+    "rank": 4,
+    "status": 172,
+    "bg": "d4506ef7a760b5f83412705309472c28"
+  },
+  {
+    "song_id": "pragmatism",
+    "title": {
+      "ja": "PRAGMATISM",
+      "en": "PRAGMATISM"
+    },
+    "artist": "Laur",
+    "rank": 5,
+    "status": 2,
+    "bg": "516e8c2d2b91d5ee53aa7e035c04e318"
+  },
+  {
+    "song_id": "mahoroba",
+    "title": {
+      "ja": "MAHOROBA",
+      "en": "MAHOROBA"
+    },
+    "artist": "Zekk",
+    "rank": 6,
+    "status": 213,
+    "bg": "ff655a519b4115b5411d279bbe568ebe"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "ja": "Grievous Lady",
+      "en": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 7,
+    "status": -6,
+    "bg": "dd17d68c818e4eeff772c4221a239f47"
+  },
+  {
+    "song_id": "ultradiaxon",
+    "title": {
+      "ja": "ultradiaxon-N3",
+      "en": "ultradiaxon-N3"
+    },
+    "artist": "nitro (lowiro)",
+    "rank": 8,
+    "status": 10,
+    "bg": "8108792e04f692bb41a89065c1fb6dd9"
+  },
+  {
+    "song_id": "sheriruth",
+    "title": {
+      "ja": "Sheriruth",
+      "en": "Sheriruth"
+    },
+    "artist": "Team Grimoire",
+    "rank": 9,
+    "status": -1,
+    "bg": "e83352952a76f712b51488d5d6a11774"
+  },
+  {
+    "song_id": "masqueradelegion",
+    "title": {
+      "ja": "Masquerade Legion",
+      "en": "Masquerade Legion"
+    },
+    "artist": "Srav3R & DJ Noriken",
+    "rank": 10,
+    "status": 20,
+    "bg": "1641d5bfef969170a30e92f007732492"
+  },
+  {
+    "song_id": "testify",
+    "title": {
+      "ja": "Testify",
+      "en": "Testify"
+    },
+    "artist": "void (Mournfinale) feat. 星熊南巫",
+    "rank": 11,
+    "status": -5,
+    "bg": "106b57d700a23f0a13beaf116e528079"
+  },
+  {
+    "song_id": "infinitestrife",
+    "title": {
+      "ja": "Infinite Strife,",
+      "en": "Infinite Strife,"
+    },
+    "artist": "BlackYooh vs. siromaru",
+    "rank": 12,
+    "status": -8,
+    "bg": "95137edf705c940647f5f9b9c13e2f00"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "ja": "Tempestissimo",
+      "en": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 13,
+    "status": -11,
+    "bg": "399376984b47fb712b738152006dbdc2"
+  },
+  {
+    "song_id": "kyorenromance",
+    "title": {
+      "ja": "狂恋ROMANCE",
+      "en": "KYOREN ROMANCE"
+    },
+    "artist": "REDALiCE vs DJ Myosuke feat. DELUTAYA",
+    "rank": 14,
+    "status": 11,
+    "bg": "8f381705cbaf9bc887fd9ec49c279f27"
+  }
+]
