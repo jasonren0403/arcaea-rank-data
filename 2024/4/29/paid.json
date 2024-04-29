@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "distortedfate",
+    "title": {
+      "ja": "Distorted Fate",
+      "en": "Distorted Fate"
+    },
+    "artist": "Sakuzyo",
+    "rank": 0,
+    "status": 0,
+    "bg": "2bbf0f80942211ee7963305ee81bcf88"
+  },
+  {
+    "song_id": "phantasia",
+    "title": {
+      "ja": "Phantasia",
+      "en": "Phantasia"
+    },
+    "artist": "Yunosuke",
+    "rank": 1,
+    "status": 1,
+    "bg": "05b1ce3d94f88230cabbe9c7c5435176"
+  },
+  {
+    "song_id": "chromafill",
+    "title": {
+      "ja": "Chromafill",
+      "en": "Chromafill"
+    },
+    "artist": "ていぬ",
+    "rank": 2,
+    "status": -1,
+    "bg": "883a66cf44e58195519d778b7b5a0ee5"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "ja": "Grievous Lady",
+      "en": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 3,
+    "status": 1,
+    "bg": "dd17d68c818e4eeff772c4221a239f47"
+  },
+  {
+    "song_id": "pragmatism",
+    "title": {
+      "ja": "PRAGMATISM",
+      "en": "PRAGMATISM"
+    },
+    "artist": "Laur",
+    "rank": 4,
+    "status": 1,
+    "bg": "516e8c2d2b91d5ee53aa7e035c04e318"
+  },
+  {
+    "song_id": "floatingworld",
+    "title": {
+      "ja": "Floating World",
+      "en": "Floating World"
+    },
+    "artist": "baker feat. botan",
+    "rank": 5,
+    "status": -2,
+    "bg": "5a4ca07d759dce9329c846b91c443258"
+  },
+  {
+    "song_id": "init",
+    "title": {
+      "ja": "init()",
+      "en": "init()"
+    },
+    "artist": "kamome sano",
+    "rank": 6,
+    "status": 0,
+    "bg": "d4506ef7a760b5f83412705309472c28"
+  },
+  {
+    "song_id": "testify",
+    "title": {
+      "ja": "Testify",
+      "en": "Testify"
+    },
+    "artist": "void (Mournfinale) feat. 星熊南巫",
+    "rank": 7,
+    "status": 3,
+    "bg": "106b57d700a23f0a13beaf116e528079"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "ja": "Tempestissimo",
+      "en": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 8,
+    "status": -1,
+    "bg": "399376984b47fb712b738152006dbdc2"
+  },
+  {
+    "song_id": "infinitestrife",
+    "title": {
+      "ja": "Infinite Strife,",
+      "en": "Infinite Strife,"
+    },
+    "artist": "BlackYooh vs. siromaru",
+    "rank": 9,
+    "status": -1,
+    "bg": "95137edf705c940647f5f9b9c13e2f00"
+  },
+  {
+    "song_id": "arcanaeden",
+    "title": {
+      "ja": "Arcana Eden",
+      "en": "Arcana Eden"
+    },
+    "artist": "Team Grimoire vs Sakuzyo vs Laur",
+    "rank": 10,
+    "status": 3,
+    "bg": "97cc9ac9d23b42eca23ec075ceb63821"
+  },
+  {
+    "song_id": "pentiment",
+    "title": {
+      "ja": "Pentiment",
+      "en": "Pentiment"
+    },
+    "artist": "Nothing But Requiem with Museo",
+    "rank": 11,
+    "status": 3,
+    "bg": "e7e31bcdc1ab21313fd6ea4a0f1a7f1e"
+  },
+  {
+    "song_id": "ultradiaxon",
+    "title": {
+      "ja": "ultradiaxon-N3",
+      "en": "ultradiaxon-N3"
+    },
+    "artist": "nitro (lowiro)",
+    "rank": 12,
+    "status": -3,
+    "bg": "8108792e04f692bb41a89065c1fb6dd9"
+  },
+  {
+    "song_id": "sheriruth",
+    "title": {
+      "ja": "Sheriruth",
+      "en": "Sheriruth"
+    },
+    "artist": "Team Grimoire",
+    "rank": 13,
+    "status": -2,
+    "bg": "e83352952a76f712b51488d5d6a11774"
+  },
+  {
+    "song_id": "fractureray",
+    "title": {
+      "ja": "Fracture Ray",
+      "en": "Fracture Ray"
+    },
+    "artist": "Sakuzyo",
+    "rank": 14,
+    "status": -2,
+    "bg": "4d88266fa06e7b79f26aac2d45b0c0ba"
+  }
+]
