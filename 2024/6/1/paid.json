@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "tasogare",
+    "title": {
+      "ja": "黄昏の協奏曲",
+      "en": "Twilight Concerto"
+    },
+    "artist": "Scarlette",
+    "rank": 0,
+    "status": 0,
+    "bg": "f095b580d6c398e58a1c80d79ff24ba8"
+  },
+  {
+    "song_id": "backtobasics",
+    "title": {
+      "ja": "Back to Basics",
+      "en": "Back to Basics"
+    },
+    "artist": "m1dy",
+    "rank": 1,
+    "status": 0,
+    "bg": "87eebf03e9971baac9dceaf7b5748af8"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "ja": "Grievous Lady",
+      "en": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 2,
+    "status": 2,
+    "bg": "0b188e35fbb83ea14dd7bc73b46f631b"
+  },
+  {
+    "song_id": "distortedfate",
+    "title": {
+      "ja": "Distorted Fate",
+      "en": "Distorted Fate"
+    },
+    "artist": "Sakuzyo",
+    "rank": 3,
+    "status": 0,
+    "bg": "9870174d4fa5def456800301d74a1c4a"
+  },
+  {
+    "song_id": "beautifuldreamer",
+    "title": {
+      "ja": "Beautiful Dreamer",
+      "en": "Beautiful Dreamer"
+    },
+    "artist": "M-Project",
+    "rank": 4,
+    "status": -2,
+    "bg": "c33d9e99c867650d15d18bec3beb0a1e"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "ja": "Tempestissimo",
+      "en": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 5,
+    "status": 2,
+    "bg": "8c907109bce562c2b9717d16d3cba276"
+  },
+  {
+    "song_id": "einherjar",
+    "title": {
+      "ja": "Einherjar Joker",
+      "en": "Einherjar Joker"
+    },
+    "artist": "DJ Genki vs Gram",
+    "rank": 6,
+    "status": 2,
+    "bg": "ba4f4e6b83d91b6361182e02c2c9c1f8"
+  },
+  {
+    "song_id": "infinitestrife",
+    "title": {
+      "ja": "Infinite Strife,",
+      "en": "Infinite Strife,"
+    },
+    "artist": "BlackYooh vs. siromaru",
+    "rank": 7,
+    "status": -1,
+    "bg": "2980d110cccf4b2c08e5d12a095ddf6e"
+  },
+  {
+    "song_id": "arcanaeden",
+    "title": {
+      "ja": "Arcana Eden",
+      "en": "Arcana Eden"
+    },
+    "artist": "Team Grimoire vs Sakuzyo vs Laur",
+    "rank": 8,
+    "status": 6,
+    "bg": "2b53166d91b9e87d2614818e2d623da2"
+  },
+  {
+    "song_id": "testify",
+    "title": {
+      "ja": "Testify",
+      "en": "Testify"
+    },
+    "artist": "void (Mournfinale) feat. 星熊南巫",
+    "rank": 9,
+    "status": -4,
+    "bg": "b79f007f77dca05389612a4ccf2df0a1"
+  },
+  {
+    "song_id": "pentiment",
+    "title": {
+      "ja": "Pentiment",
+      "en": "Pentiment"
+    },
+    "artist": "Nothing But Requiem with Museo",
+    "rank": 10,
+    "status": 0,
+    "bg": "df493d983bfe5e21b9b67f137422326f"
+  },
+  {
+    "song_id": "fractureray",
+    "title": {
+      "ja": "Fracture Ray",
+      "en": "Fracture Ray"
+    },
+    "artist": "Sakuzyo",
+    "rank": 11,
+    "status": 2,
+    "bg": "50b4ff0cba114ad4de50f817f419bfb4"
+  },
+  {
+    "song_id": "sheriruth",
+    "title": {
+      "ja": "Sheriruth",
+      "en": "Sheriruth"
+    },
+    "artist": "Team Grimoire",
+    "rank": 12,
+    "status": 0,
+    "bg": "f9496c8144ac8913c4ba82491b44ef7d"
+  },
+  {
+    "song_id": "masqueradelegion",
+    "title": {
+      "ja": "Masquerade Legion",
+      "en": "Masquerade Legion"
+    },
+    "artist": "Srav3R & DJ Noriken",
+    "rank": 13,
+    "status": -2,
+    "bg": "79e02034acb4a846d31b1ded3241f63a"
+  },
+  {
+    "song_id": "pragmatism",
+    "title": {
+      "ja": "PRAGMATISM",
+      "en": "PRAGMATISM"
+    },
+    "artist": "Laur",
+    "rank": 14,
+    "status": 6,
+    "bg": "2dc325a496cb31834dde603d886762e5"
+  }
+]
