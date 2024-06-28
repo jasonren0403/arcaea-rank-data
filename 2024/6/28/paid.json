@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "blackmind",
+    "title": {
+      "ja": "Black MInD",
+      "en": "Black MInD"
+    },
+    "artist": "COSIO",
+    "rank": 0,
+    "status": 2147483647,
+    "bg": "a9340f8c36326c1ffc1f8a4ca6aa5ddf"
+  },
+  {
+    "song_id": "temptationgc",
+    "title": {
+      "ja": "10pt8ion",
+      "en": "10pt8ion"
+    },
+    "artist": "Lite Show Magic",
+    "rank": 1,
+    "status": 2147483646,
+    "bg": "2e1c9877edb3bdc24306b7abf28417f7"
+  },
+  {
+    "song_id": "stargateextreme",
+    "title": {
+      "ja": "STARGATE EXTREME",
+      "en": "STARGATE EXTREME"
+    },
+    "artist": "KARUT",
+    "rank": 2,
+    "status": 2147483645,
+    "bg": "9b9bd04853be0c842c0a99b4754c50d4"
+  },
+  {
+    "song_id": "signof",
+    "title": {
+      "ja": "Sign of \"10.5km\"",
+      "en": "Sign of \"10.5km\""
+    },
+    "artist": "渡部恭久",
+    "rank": 3,
+    "status": 2147483644,
+    "bg": "95c6fca6b9fb1e631fb5f5e6a21e1cc7"
+  },
+  {
+    "song_id": "hypervision",
+    "title": {
+      "ja": "HYPER VISION",
+      "en": "HYPER VISION"
+    },
+    "artist": "VOLTA",
+    "rank": 4,
+    "status": 2147483643,
+    "bg": "f549011800e62433ef67851fbc825fb1"
+  },
+  {
+    "song_id": "neowings",
+    "title": {
+      "ja": "NEO WINGS",
+      "en": "NEO WINGS"
+    },
+    "artist": "SOUND HOLIC feat. Nana Takahashi",
+    "rank": 5,
+    "status": 95,
+    "bg": "405a1743537194b8eabc1a81afd759ea"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "ja": "Grievous Lady",
+      "en": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 6,
+    "status": -6,
+    "bg": "22325f1014609ce1b45b5e382e773468"
+  },
+  {
+    "song_id": "aurgelmir",
+    "title": {
+      "ja": "Aurgelmir",
+      "en": "Aurgelmir"
+    },
+    "artist": "溝口ゆうま feat. 大瀬良あい",
+    "rank": 7,
+    "status": 176,
+    "bg": "e3235b398c3d4e3ddbd5a3cc635e7bb4"
+  },
+  {
+    "song_id": "ouroboros",
+    "title": {
+      "ja": "ouroboros -twin stroke of the end-",
+      "en": "ouroboros -twin stroke of the end-"
+    },
+    "artist": "Cranky VS MASAKI",
+    "rank": 8,
+    "status": 27,
+    "bg": "ef623b3ac43a625d86f070c61c3cabcb"
+  },
+  {
+    "song_id": "merlin",
+    "title": {
+      "ja": "MERLIN",
+      "en": "MERLIN"
+    },
+    "artist": "REDALiCE",
+    "rank": 9,
+    "status": 145,
+    "bg": "85ceb535285f850d2a14b937cc5c2487"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "ja": "Tempestissimo",
+      "en": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 10,
+    "status": -7,
+    "bg": "874ba8e713bcba16e85aad50624a0392"
+  },
+  {
+    "song_id": "infinitestrife",
+    "title": {
+      "ja": "Infinite Strife,",
+      "en": "Infinite Strife,"
+    },
+    "artist": "BlackYooh vs. siromaru",
+    "rank": 11,
+    "status": -7,
+    "bg": "004fd090c588126ebbebd5f6e97168c0"
+  },
+  {
+    "song_id": "distortedfate",
+    "title": {
+      "ja": "Distorted Fate",
+      "en": "Distorted Fate"
+    },
+    "artist": "Sakuzyo",
+    "rank": 12,
+    "status": -2,
+    "bg": "99a9b50bcba8d6fea16323e1751cdd71"
+  },
+  {
+    "song_id": "sheriruth",
+    "title": {
+      "ja": "Sheriruth",
+      "en": "Sheriruth"
+    },
+    "artist": "Team Grimoire",
+    "rank": 13,
+    "status": -4,
+    "bg": "1cb410c67bfb1204c3b925cd0859dd13"
+  },
+  {
+    "song_id": "arcanaeden",
+    "title": {
+      "ja": "Arcana Eden",
+      "en": "Arcana Eden"
+    },
+    "artist": "Team Grimoire vs Sakuzyo vs Laur",
+    "rank": 14,
+    "status": -13,
+    "bg": "06ae36a62da4eb2d4a578a1e996c94bc"
+  }
+]
