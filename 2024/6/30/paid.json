@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "blackmind",
+    "title": {
+      "ja": "Black MInD",
+      "en": "Black MInD"
+    },
+    "artist": "COSIO",
+    "rank": 0,
+    "status": 0,
+    "bg": "a9340f8c36326c1ffc1f8a4ca6aa5ddf"
+  },
+  {
+    "song_id": "temptationgc",
+    "title": {
+      "ja": "10pt8ion",
+      "en": "10pt8ion"
+    },
+    "artist": "Lite Show Magic",
+    "rank": 1,
+    "status": 0,
+    "bg": "2e1c9877edb3bdc24306b7abf28417f7"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "ja": "Grievous Lady",
+      "en": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 2,
+    "status": 1,
+    "bg": "22325f1014609ce1b45b5e382e773468"
+  },
+  {
+    "song_id": "ouroboros",
+    "title": {
+      "ja": "ouroboros -twin stroke of the end-",
+      "en": "ouroboros -twin stroke of the end-"
+    },
+    "artist": "Cranky VS MASAKI",
+    "rank": 3,
+    "status": 3,
+    "bg": "ef623b3ac43a625d86f070c61c3cabcb"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "ja": "Tempestissimo",
+      "en": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 4,
+    "status": 4,
+    "bg": "874ba8e713bcba16e85aad50624a0392"
+  },
+  {
+    "song_id": "stargateextreme",
+    "title": {
+      "ja": "STARGATE EXTREME",
+      "en": "STARGATE EXTREME"
+    },
+    "artist": "KARUT",
+    "rank": 5,
+    "status": -3,
+    "bg": "9b9bd04853be0c842c0a99b4754c50d4"
+  },
+  {
+    "song_id": "neowings",
+    "title": {
+      "ja": "NEO WINGS",
+      "en": "NEO WINGS"
+    },
+    "artist": "SOUND HOLIC feat. Nana Takahashi",
+    "rank": 6,
+    "status": -2,
+    "bg": "405a1743537194b8eabc1a81afd759ea"
+  },
+  {
+    "song_id": "arcanaeden",
+    "title": {
+      "ja": "Arcana Eden",
+      "en": "Arcana Eden"
+    },
+    "artist": "Team Grimoire vs Sakuzyo vs Laur",
+    "rank": 7,
+    "status": 2,
+    "bg": "06ae36a62da4eb2d4a578a1e996c94bc"
+  },
+  {
+    "song_id": "infinitestrife",
+    "title": {
+      "ja": "Infinite Strife,",
+      "en": "Infinite Strife,"
+    },
+    "artist": "BlackYooh vs. siromaru",
+    "rank": 8,
+    "status": -1,
+    "bg": "004fd090c588126ebbebd5f6e97168c0"
+  },
+  {
+    "song_id": "pentiment",
+    "title": {
+      "ja": "Pentiment",
+      "en": "Pentiment"
+    },
+    "artist": "Nothing But Requiem with Museo",
+    "rank": 9,
+    "status": 1,
+    "bg": "a0c6f6a958b628e25c916aea3c6ca201"
+  },
+  {
+    "song_id": "fractureray",
+    "title": {
+      "ja": "Fracture Ray",
+      "en": "Fracture Ray"
+    },
+    "artist": "Sakuzyo",
+    "rank": 10,
+    "status": 3,
+    "bg": "3b067090e21e925538e80a07c6ec3760"
+  },
+  {
+    "song_id": "distortedfate",
+    "title": {
+      "ja": "Distorted Fate",
+      "en": "Distorted Fate"
+    },
+    "artist": "Sakuzyo",
+    "rank": 11,
+    "status": 0,
+    "bg": "99a9b50bcba8d6fea16323e1751cdd71"
+  },
+  {
+    "song_id": "testify",
+    "title": {
+      "ja": "Testify",
+      "en": "Testify"
+    },
+    "artist": "void (Mournfinale) feat. 星熊南巫",
+    "rank": 12,
+    "status": 0,
+    "bg": "f0126635d43788dd6e06bb1a1581abc5"
+  },
+  {
+    "song_id": "sheriruth",
+    "title": {
+      "ja": "Sheriruth",
+      "en": "Sheriruth"
+    },
+    "artist": "Team Grimoire",
+    "rank": 13,
+    "status": 1,
+    "bg": "1cb410c67bfb1204c3b925cd0859dd13"
+  },
+  {
+    "song_id": "merlin",
+    "title": {
+      "ja": "MERLIN",
+      "en": "MERLIN"
+    },
+    "artist": "REDALiCE",
+    "rank": 14,
+    "status": 2,
+    "bg": "85ceb535285f850d2a14b937cc5c2487"
+  }
+]
