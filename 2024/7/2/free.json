@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "innocence",
+    "title": {
+      "ja": "Innocence",
+      "en": "Innocence"
+    },
+    "artist": "Powerless feat. Sennzai",
+    "rank": 0,
+    "status": 0,
+    "bg": "145c6c21f4ec0a602315b5cd34de1bf6"
+  },
+  {
+    "song_id": "inkarusi",
+    "title": {
+      "ja": "inkar-usi",
+      "en": "inkar-usi"
+    },
+    "artist": "DIA",
+    "rank": 1,
+    "status": 0,
+    "bg": "0daeb15d15baa4f7a7a45a35985389bb"
+  },
+  {
+    "song_id": "sayonarahatsukoi",
+    "title": {
+      "ja": "Sayonara Hatsukoi",
+      "en": "Sayonara Hatsukoi"
+    },
+    "artist": "REDSHiFT",
+    "rank": 2,
+    "status": 0,
+    "bg": "bae3fad5aefc2cde2194e04896d17fad"
+  },
+  {
+    "song_id": "kanagawa",
+    "title": {
+      "ja": "神奈川電脳暗渠",
+      "en": "Kanagawa Cyber Culvert"
+    },
+    "artist": "南ゆに",
+    "rank": 3,
+    "status": 2,
+    "bg": "821654e779b1ba84c44309fc5b7a1e45"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "ja": "Lost Civilization",
+      "en": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 4,
+    "status": -1,
+    "bg": "90e214034c06191a6c58ff544735ff89"
+  },
+  {
+    "song_id": "chronostasis",
+    "title": {
+      "ja": "Chronostasis",
+      "en": "Chronostasis"
+    },
+    "artist": "黒皇帝",
+    "rank": 5,
+    "status": -1,
+    "bg": "092ccc34d4274c0594a8db3afad1ffcc"
+  },
+  {
+    "song_id": "shadesoflight",
+    "title": {
+      "ja": "Shades of Light in a Transcendent Realm",
+      "en": "Shades of Light in a Transcendent Realm"
+    },
+    "artist": "ak+q",
+    "rank": 6,
+    "status": 1,
+    "bg": "ee801afcedbb6f4e14eaa4baafaf481a"
+  },
+  {
+    "song_id": "sakurafubuki",
+    "title": {
+      "ja": "Sakura Fubuki",
+      "en": "Sakura Fubuki"
+    },
+    "artist": "Street",
+    "rank": 7,
+    "status": -1,
+    "bg": "ba867a70b6e635149c34ba81429f7e2d"
+  },
+  {
+    "song_id": "goodtek",
+    "title": {
+      "ja": "GOODTEK (Arcaea Edit)",
+      "en": "GOODTEK (Arcaea Edit)"
+    },
+    "artist": "EBIMAYO",
+    "rank": 8,
+    "status": 1,
+    "bg": "8ea9c2164f8671e624f2d46bc945fd67"
+  },
+  {
+    "song_id": "jingle",
+    "title": {
+      "ja": "Jingle",
+      "en": "Jingle"
+    },
+    "artist": "DJ Noriken",
+    "rank": 9,
+    "status": 1,
+    "bg": "2b97225b387d7f5f5f6747c74255e3be"
+  },
+  {
+    "song_id": "grimheart",
+    "title": {
+      "ja": "Grimheart",
+      "en": "Grimheart"
+    },
+    "artist": "Puru",
+    "rank": 10,
+    "status": 7,
+    "bg": "c142c51647374563a398d8d545db4b6a"
+  },
+  {
+    "song_id": "cyberneciacatharsis",
+    "title": {
+      "ja": "Cybernecia Catharsis",
+      "en": "Cybernecia Catharsis"
+    },
+    "artist": "Tanchiky",
+    "rank": 11,
+    "status": 3,
+    "bg": "b52270576a882c247f468a0f5b4e4de8"
+  },
+  {
+    "song_id": "purgatorium",
+    "title": {
+      "ja": "Purgatorium",
+      "en": "Purgatorium"
+    },
+    "artist": "お月さま交響曲",
+    "rank": 12,
+    "status": 3,
+    "bg": "a2921b39cae5f96611be235240fe0a2a"
+  },
+  {
+    "song_id": "anokumene",
+    "title": {
+      "ja": "Anökumene",
+      "en": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 13,
+    "status": -5,
+    "bg": "863c5507a8255fe41ca499d461d8d0ae"
+  },
+  {
+    "song_id": "awakeninruins",
+    "title": {
+      "ja": "Awaken In Ruins",
+      "en": "Awaken In Ruins"
+    },
+    "artist": "Supa7onyz",
+    "rank": 14,
+    "status": -3,
+    "bg": "5826c8e8fb3a2f6ed32108b69bbe5ffc"
+  }
+]
