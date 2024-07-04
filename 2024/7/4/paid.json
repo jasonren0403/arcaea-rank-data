@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "ja": "Grievous Lady",
+      "en": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 0,
+    "status": 0,
+    "bg": "d69b83d0081a3369705b2941bfae4f34"
+  },
+  {
+    "song_id": "ouroboros",
+    "title": {
+      "ja": "ouroboros -twin stroke of the end-",
+      "en": "ouroboros -twin stroke of the end-"
+    },
+    "artist": "Cranky VS MASAKI",
+    "rank": 1,
+    "status": 0,
+    "bg": "5fa7d3e7f19d0ea2b662d0614205e44e"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "ja": "Tempestissimo",
+      "en": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 2,
+    "status": 2,
+    "bg": "5113bbab9f23a2b15c0966e53182ce94"
+  },
+  {
+    "song_id": "infinitestrife",
+    "title": {
+      "ja": "Infinite Strife,",
+      "en": "Infinite Strife,"
+    },
+    "artist": "BlackYooh vs. siromaru",
+    "rank": 3,
+    "status": 4,
+    "bg": "4a1fa9ee52634648173ed318e4e21b3e"
+  },
+  {
+    "song_id": "pentiment",
+    "title": {
+      "ja": "Pentiment",
+      "en": "Pentiment"
+    },
+    "artist": "Nothing But Requiem with Museo",
+    "rank": 4,
+    "status": 4,
+    "bg": "223fadaf4df764b52d64bb31f06f2b9e"
+  },
+  {
+    "song_id": "arcanaeden",
+    "title": {
+      "ja": "Arcana Eden",
+      "en": "Arcana Eden"
+    },
+    "artist": "Team Grimoire vs Sakuzyo vs Laur",
+    "rank": 5,
+    "status": 1,
+    "bg": "aaf2e7e214351ff2619c9ffad20f08fc"
+  },
+  {
+    "song_id": "testify",
+    "title": {
+      "ja": "Testify",
+      "en": "Testify"
+    },
+    "artist": "void (Mournfinale) feat. 星熊南巫",
+    "rank": 6,
+    "status": -1,
+    "bg": "97c83de823d539262e5b9adb71b95392"
+  },
+  {
+    "song_id": "temptationgc",
+    "title": {
+      "ja": "10pt8ion",
+      "en": "10pt8ion"
+    },
+    "artist": "Lite Show Magic",
+    "rank": 7,
+    "status": -4,
+    "bg": "2ae608c579731315ce2d487b608446c4"
+  },
+  {
+    "song_id": "blackmind",
+    "title": {
+      "ja": "Black MInD",
+      "en": "Black MInD"
+    },
+    "artist": "COSIO",
+    "rank": 8,
+    "status": -6,
+    "bg": "f9323c8689612090da71784f028e368b"
+  },
+  {
+    "song_id": "fractureray",
+    "title": {
+      "ja": "Fracture Ray",
+      "en": "Fracture Ray"
+    },
+    "artist": "Sakuzyo",
+    "rank": 9,
+    "status": 0,
+    "bg": "b68f60913f4d397b430adc49ec9350a0"
+  },
+  {
+    "song_id": "buchigireberserker",
+    "title": {
+      "ja": "BUCHiGiRE Berserker",
+      "en": "BUCHiGiRE Berserker"
+    },
+    "artist": "REDALiCE vs MASAKI",
+    "rank": 10,
+    "status": 0,
+    "bg": "8d55949f74ef8b7508a408aff3d27296"
+  },
+  {
+    "song_id": "scarletlance",
+    "title": {
+      "ja": "Scarlet Lance",
+      "en": "Scarlet Lance"
+    },
+    "artist": "MASAKI (ZUNTATA)",
+    "rank": 11,
+    "status": 3,
+    "bg": "1cc363e7689e7da7c1c33c6d7fb36f49"
+  },
+  {
+    "song_id": "distortedfate",
+    "title": {
+      "ja": "Distorted Fate",
+      "en": "Distorted Fate"
+    },
+    "artist": "Sakuzyo",
+    "rank": 12,
+    "status": 0,
+    "bg": "8aa8cd88dd17d2e00a23c15446dc113b"
+  },
+  {
+    "song_id": "merlin",
+    "title": {
+      "ja": "MERLIN",
+      "en": "MERLIN"
+    },
+    "artist": "REDALiCE",
+    "rank": 13,
+    "status": -2,
+    "bg": "8ddd78d73ad29a3f7d246e65c5e24239"
+  },
+  {
+    "song_id": "sheriruth",
+    "title": {
+      "ja": "Sheriruth",
+      "en": "Sheriruth"
+    },
+    "artist": "Team Grimoire",
+    "rank": 14,
+    "status": -1,
+    "bg": "df6b4f24a873a84c8d00d37172fec33f"
+  }
+]
