@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "ja": "Grievous Lady",
+      "en": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 0,
+    "status": 0,
+    "bg": "d69b83d0081a3369705b2941bfae4f34"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "ja": "Tempestissimo",
+      "en": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 1,
+    "status": 0,
+    "bg": "5113bbab9f23a2b15c0966e53182ce94"
+  },
+  {
+    "song_id": "fractureray",
+    "title": {
+      "ja": "Fracture Ray",
+      "en": "Fracture Ray"
+    },
+    "artist": "Sakuzyo",
+    "rank": 2,
+    "status": 2,
+    "bg": "b68f60913f4d397b430adc49ec9350a0"
+  },
+  {
+    "song_id": "arcanaeden",
+    "title": {
+      "ja": "Arcana Eden",
+      "en": "Arcana Eden"
+    },
+    "artist": "Team Grimoire vs Sakuzyo vs Laur",
+    "rank": 3,
+    "status": 3,
+    "bg": "aaf2e7e214351ff2619c9ffad20f08fc"
+  },
+  {
+    "song_id": "pentiment",
+    "title": {
+      "ja": "Pentiment",
+      "en": "Pentiment"
+    },
+    "artist": "Nothing But Requiem with Museo",
+    "rank": 4,
+    "status": -1,
+    "bg": "223fadaf4df764b52d64bb31f06f2b9e"
+  },
+  {
+    "song_id": "testify",
+    "title": {
+      "ja": "Testify",
+      "en": "Testify"
+    },
+    "artist": "void (Mournfinale) feat. 星熊南巫",
+    "rank": 5,
+    "status": 0,
+    "bg": "97c83de823d539262e5b9adb71b95392"
+  },
+  {
+    "song_id": "infinitestrife",
+    "title": {
+      "ja": "Infinite Strife,",
+      "en": "Infinite Strife,"
+    },
+    "artist": "BlackYooh vs. siromaru",
+    "rank": 6,
+    "status": -4,
+    "bg": "4a1fa9ee52634648173ed318e4e21b3e"
+  },
+  {
+    "song_id": "sheriruth",
+    "title": {
+      "ja": "Sheriruth",
+      "en": "Sheriruth"
+    },
+    "artist": "Team Grimoire",
+    "rank": 7,
+    "status": 0,
+    "bg": "df6b4f24a873a84c8d00d37172fec33f"
+  },
+  {
+    "song_id": "viciousheroism",
+    "title": {
+      "ja": "Vicious Heroism",
+      "en": "Vicious Heroism"
+    },
+    "artist": "Kobaryo",
+    "rank": 8,
+    "status": 1,
+    "bg": "67bda8ca96be8e9186e1c2ebef0c6021"
+  },
+  {
+    "song_id": "worldender",
+    "title": {
+      "ja": "魔王",
+      "en": "World Ender"
+    },
+    "artist": "sasakure.UK × TJ.hangneil",
+    "rank": 9,
+    "status": -1,
+    "bg": "1c4145044e98b3c697b7158be017def8"
+  },
+  {
+    "song_id": "distortedfate",
+    "title": {
+      "ja": "Distorted Fate",
+      "en": "Distorted Fate"
+    },
+    "artist": "Sakuzyo",
+    "rank": 10,
+    "status": 1,
+    "bg": "8aa8cd88dd17d2e00a23c15446dc113b"
+  },
+  {
+    "song_id": "pragmatism",
+    "title": {
+      "ja": "PRAGMATISM",
+      "en": "PRAGMATISM"
+    },
+    "artist": "Laur",
+    "rank": 11,
+    "status": -1,
+    "bg": "372c9377afd758cca60b78e8e4558deb"
+  },
+  {
+    "song_id": "trappola",
+    "title": {
+      "ja": "妖艶魔女 -trappola bewitching-",
+      "en": "trappola bewitching"
+    },
+    "artist": "gmtn.",
+    "rank": 12,
+    "status": 1,
+    "bg": "cbb1d52c2e2175edcf23c2b09a936716"
+  },
+  {
+    "song_id": "ouroboros",
+    "title": {
+      "ja": "ouroboros -twin stroke of the end-",
+      "en": "ouroboros -twin stroke of the end-"
+    },
+    "artist": "Cranky VS MASAKI",
+    "rank": 13,
+    "status": 1,
+    "bg": "5fa7d3e7f19d0ea2b662d0614205e44e"
+  },
+  {
+    "song_id": "cyaegha",
+    "title": {
+      "ja": "Cyaegha",
+      "en": "Cyaegha"
+    },
+    "artist": "USAO",
+    "rank": 14,
+    "status": -2,
+    "bg": "ca1068682c837223c8f7f725e3bf5804"
+  }
+]
