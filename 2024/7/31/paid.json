@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "antithese",
+    "title": {
+      "ja": "Antithese",
+      "en": "Antithese"
+    },
+    "artist": "Blacklolita",
+    "rank": 0,
+    "status": 34,
+    "bg": "cdc72c7d83f0d244a63ba0e6aededa7e"
+  },
+  {
+    "song_id": "blackterritory",
+    "title": {
+      "ja": "Black Territory",
+      "en": "Black Territory"
+    },
+    "artist": "DJ Myosuke",
+    "rank": 1,
+    "status": 62,
+    "bg": "51fe0f8838c2e95b969f34129043f854"
+  },
+  {
+    "song_id": "corruption",
+    "title": {
+      "ja": "Corruption",
+      "en": "Corruption"
+    },
+    "artist": "3R2",
+    "rank": 2,
+    "status": 40,
+    "bg": "1b9c205dbf6139f96ef93ce5af839e2b"
+  },
+  {
+    "song_id": "viciousheroism",
+    "title": {
+      "ja": "Vicious Heroism",
+      "en": "Vicious Heroism"
+    },
+    "artist": "Kobaryo",
+    "rank": 3,
+    "status": 5,
+    "bg": "e399c35452e922b25331eee2bcde6714"
+  },
+  {
+    "song_id": "lethaeus",
+    "title": {
+      "ja": "Lethaeus",
+      "en": "Lethaeus"
+    },
+    "artist": "Silentroom",
+    "rank": 4,
+    "status": 141,
+    "bg": "7d05aee92d1e64d8c9c0807423390fb3"
+  },
+  {
+    "song_id": "cyaegha",
+    "title": {
+      "ja": "Cyaegha",
+      "en": "Cyaegha"
+    },
+    "artist": "USAO",
+    "rank": 5,
+    "status": 7,
+    "bg": "341b8341b1347ab884cf61f2a783206f"
+  },
+  {
+    "song_id": "moonheart",
+    "title": {
+      "ja": "Moonheart",
+      "en": "Moonheart"
+    },
+    "artist": "翡乃イスカ",
+    "rank": 6,
+    "status": 170,
+    "bg": "f4df08f48f37594cb97273fc0997f2d5"
+  },
+  {
+    "song_id": "genesis",
+    "title": {
+      "ja": "Genesis",
+      "en": "Genesis"
+    },
+    "artist": "Iris",
+    "rank": 7,
+    "status": 234,
+    "bg": "6b86c0bc2617822d65d2bcd14529d6b1"
+  },
+  {
+    "song_id": "romancewars",
+    "title": {
+      "ja": "vsキミ戦争",
+      "en": "Romance Wars"
+    },
+    "artist": "U-ske (feat. lueur)",
+    "rank": 8,
+    "status": 260,
+    "bg": "4e67edcbce79173a4174148f29327fc4"
+  },
+  {
+    "song_id": "blossoms",
+    "title": {
+      "ja": "Blossoms",
+      "en": "Blossoms"
+    },
+    "artist": "T2Kazuya",
+    "rank": 9,
+    "status": 248,
+    "bg": "600184b1a5d3e9df9a43b2915d6c2607"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "ja": "Grievous Lady",
+      "en": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 10,
+    "status": -10,
+    "bg": "7d9b26182b83cc43840fee52ffe6ca54"
+  },
+  {
+    "song_id": "distortedfate",
+    "title": {
+      "ja": "Distorted Fate",
+      "en": "Distorted Fate"
+    },
+    "artist": "Sakuzyo",
+    "rank": 11,
+    "status": 0,
+    "bg": "61d93ae7b01c95fe107df768a9936de8"
+  },
+  {
+    "song_id": "neowings",
+    "title": {
+      "ja": "NEO WINGS",
+      "en": "NEO WINGS"
+    },
+    "artist": "SOUND HOLIC feat. Nana Takahashi",
+    "rank": 12,
+    "status": 38,
+    "bg": "6bb63b4d330d9518de8e68eff7bf858a"
+  },
+  {
+    "song_id": "hypervision",
+    "title": {
+      "ja": "HYPER VISION",
+      "en": "HYPER VISION"
+    },
+    "artist": "VOLTA",
+    "rank": 13,
+    "status": 101,
+    "bg": "9d420f22550ec2ad1350d78ca88e76b2"
+  },
+  {
+    "song_id": "nullapophenia",
+    "title": {
+      "ja": "NULL APOPHENIA",
+      "en": "NULL APOPHENIA"
+    },
+    "artist": "N²",
+    "rank": 14,
+    "status": 133,
+    "bg": "70669c1306e464bae080d32383da12bc"
+  }
+]
