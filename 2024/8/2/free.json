@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "distortionhuman",
+    "title": {
+      "ja": "ディストーション・ニンゲン",
+      "en": "Distortion Human"
+    },
+    "artist": "DJ Myosuke & KAJI",
+    "rank": 0,
+    "status": 0,
+    "bg": "28c88412b4f7ae003978dedd1ff5230f"
+  },
+  {
+    "song_id": "innocence",
+    "title": {
+      "ja": "Innocence",
+      "en": "Innocence"
+    },
+    "artist": "Powerless feat. Sennzai",
+    "rank": 1,
+    "status": 0,
+    "bg": "972d70c81b644eb73e867bf54f7249ca"
+  },
+  {
+    "song_id": "oblivia",
+    "title": {
+      "ja": "Oblivia",
+      "en": "Oblivia"
+    },
+    "artist": "Saiph",
+    "rank": 2,
+    "status": 0,
+    "bg": "18bbf4bdd3bc447b177790fac31cc282"
+  },
+  {
+    "song_id": "sakurafubuki",
+    "title": {
+      "ja": "Sakura Fubuki",
+      "en": "Sakura Fubuki"
+    },
+    "artist": "Street",
+    "rank": 3,
+    "status": 1,
+    "bg": "47f93488d4ef67313f7d27168ad545d0"
+  },
+  {
+    "song_id": "redandblue",
+    "title": {
+      "ja": "Red and Blue",
+      "en": "Red and Blue"
+    },
+    "artist": "Silentroom",
+    "rank": 4,
+    "status": 4,
+    "bg": "7db277e05fc1366d6acff56593eddd02"
+  },
+  {
+    "song_id": "epicurus",
+    "title": {
+      "ja": "エピクロスの虹はもう見えない",
+      "en": "Hidden Rainbows of Epicurus"
+    },
+    "artist": "SYNC.ART'S feat.Misato",
+    "rank": 5,
+    "status": -2,
+    "bg": "263f60dc4805a301ab2e59c4ddf8d143"
+  },
+  {
+    "song_id": "inkarusi",
+    "title": {
+      "ja": "inkar-usi",
+      "en": "inkar-usi"
+    },
+    "artist": "DIA",
+    "rank": 6,
+    "status": 0,
+    "bg": "95d9853407e1ab806b744ea3d7d0cfd9"
+  },
+  {
+    "song_id": "sayonarahatsukoi",
+    "title": {
+      "ja": "Sayonara Hatsukoi",
+      "en": "Sayonara Hatsukoi"
+    },
+    "artist": "REDSHiFT",
+    "rank": 7,
+    "status": 0,
+    "bg": "07ecc9ed3ac8186027bfef5fe1793e24"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "ja": "Lost Civilization",
+      "en": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 8,
+    "status": 3,
+    "bg": "5a93292c7deb7a2c3e61504121f52beb"
+  },
+  {
+    "song_id": "chronostasis",
+    "title": {
+      "ja": "Chronostasis",
+      "en": "Chronostasis"
+    },
+    "artist": "黒皇帝",
+    "rank": 9,
+    "status": 3,
+    "bg": "9645c7257f04befb52e69acdf819d235"
+  },
+  {
+    "song_id": "ignotus",
+    "title": {
+      "ja": "Ignotus",
+      "en": "Ignotus"
+    },
+    "artist": "ak+q",
+    "rank": 10,
+    "status": 0,
+    "bg": "8fa6d7b2c0b16eaf81e71d777a457dcb"
+  },
+  {
+    "song_id": "kanagawa",
+    "title": {
+      "ja": "神奈川電脳暗渠",
+      "en": "Kanagawa Cyber Culvert"
+    },
+    "artist": "南ゆに",
+    "rank": 11,
+    "status": 3,
+    "bg": "0a04bce6d6e9ae1460b502aa6b4e640f"
+  },
+  {
+    "song_id": "shadesoflight",
+    "title": {
+      "ja": "Shades of Light in a Transcendent Realm",
+      "en": "Shades of Light in a Transcendent Realm"
+    },
+    "artist": "ak+q",
+    "rank": 12,
+    "status": 1,
+    "bg": "db4efb782967ae9bb9e406bfea60b16b"
+  },
+  {
+    "song_id": "oldschoolsalvage",
+    "title": {
+      "ja": "Old School Salvage",
+      "en": "Old School Salvage"
+    },
+    "artist": "DJ SHARPNEL",
+    "rank": 13,
+    "status": -8,
+    "bg": "020981b4c85c6d8101e4803af015f570"
+  },
+  {
+    "song_id": "awakeninruins",
+    "title": {
+      "ja": "Awaken In Ruins",
+      "en": "Awaken In Ruins"
+    },
+    "artist": "Supa7onyz",
+    "rank": 14,
+    "status": -5,
+    "bg": "5c7eb9b5f15a8ee913889c3a68fbdb7b"
+  }
+]

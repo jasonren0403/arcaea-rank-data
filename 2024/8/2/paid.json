@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "alterego",
+    "title": {
+      "ja": "ALTER EGO",
+      "en": "ALTER EGO"
+    },
+    "artist": "Yuta Imai vs Qlarabelle",
+    "rank": 0,
+    "status": 0,
+    "bg": "27083f0bb18d16c2422ff20cb9b9aca8"
+  },
+  {
+    "song_id": "judgement",
+    "title": {
+      "ja": "Judgement",
+      "en": "Judgement"
+    },
+    "artist": "Tatsunoshin",
+    "rank": 1,
+    "status": 0,
+    "bg": "e72d0da876030cd6c6678927aef2bb7c"
+  },
+  {
+    "song_id": "hypnotize",
+    "title": {
+      "ja": "Hypnotize",
+      "en": "Hypnotize"
+    },
+    "artist": "rejection",
+    "rank": 2,
+    "status": 0,
+    "bg": "bcf3c060c57f6f87ba0f9ae64894922b"
+  },
+  {
+    "song_id": "ashenboundary",
+    "title": {
+      "ja": "Ashen 6oundary",
+      "en": "Ashen 6oundary"
+    },
+    "artist": "YUKIYANAGI",
+    "rank": 3,
+    "status": 0,
+    "bg": "2ab280bd8bd1f9e98c4099edae2574fe"
+  },
+  {
+    "song_id": "invain",
+    "title": {
+      "ja": "In Vain",
+      "en": "In Vain"
+    },
+    "artist": "ryhki",
+    "rank": 4,
+    "status": 0,
+    "bg": "babf846858812bf84513450701692b79"
+  },
+  {
+    "song_id": "viciousheroism",
+    "title": {
+      "ja": "Vicious Heroism",
+      "en": "Vicious Heroism"
+    },
+    "artist": "Kobaryo",
+    "rank": 5,
+    "status": 0,
+    "bg": "e399c35452e922b25331eee2bcde6714"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "ja": "Grievous Lady",
+      "en": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 6,
+    "status": 0,
+    "bg": "7d9b26182b83cc43840fee52ffe6ca54"
+  },
+  {
+    "song_id": "cyaegha",
+    "title": {
+      "ja": "Cyaegha",
+      "en": "Cyaegha"
+    },
+    "artist": "USAO",
+    "rank": 7,
+    "status": 0,
+    "bg": "341b8341b1347ab884cf61f2a783206f"
+  },
+  {
+    "song_id": "infinitestrife",
+    "title": {
+      "ja": "Infinite Strife,",
+      "en": "Infinite Strife,"
+    },
+    "artist": "BlackYooh vs. siromaru",
+    "rank": 8,
+    "status": 7,
+    "bg": "b5da186b4e869f6ff364bdf4bed33e05"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "ja": "Tempestissimo",
+      "en": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 9,
+    "status": 0,
+    "bg": "c478f3b54b4c52ae82c4ea8fe535bd00"
+  },
+  {
+    "song_id": "pentiment",
+    "title": {
+      "ja": "Pentiment",
+      "en": "Pentiment"
+    },
+    "artist": "Nothing But Requiem with Museo",
+    "rank": 10,
+    "status": 7,
+    "bg": "4d17204dbab2a46f7280f99d46010efd"
+  },
+  {
+    "song_id": "antithese",
+    "title": {
+      "ja": "Antithese",
+      "en": "Antithese"
+    },
+    "artist": "Blacklolita",
+    "rank": 11,
+    "status": -3,
+    "bg": "cdc72c7d83f0d244a63ba0e6aededa7e"
+  },
+  {
+    "song_id": "testify",
+    "title": {
+      "ja": "Testify",
+      "en": "Testify"
+    },
+    "artist": "void (Mournfinale) feat. 星熊南巫",
+    "rank": 12,
+    "status": 4,
+    "bg": "2f2602c946c989014ad4171250a6a8e7"
+  },
+  {
+    "song_id": "arcanaeden",
+    "title": {
+      "ja": "Arcana Eden",
+      "en": "Arcana Eden"
+    },
+    "artist": "Team Grimoire vs Sakuzyo vs Laur",
+    "rank": 13,
+    "status": 5,
+    "bg": "8be5b07943f37c9b8e87c35dc8793dce"
+  },
+  {
+    "song_id": "sheriruth",
+    "title": {
+      "ja": "Sheriruth",
+      "en": "Sheriruth"
+    },
+    "artist": "Team Grimoire",
+    "rank": 14,
+    "status": -2,
+    "bg": "03deb3cacc97b99aa91634e9f13052de"
+  }
+]
