@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "alterego",
+    "title": {
+      "ja": "ALTER EGO",
+      "en": "ALTER EGO"
+    },
+    "artist": "Yuta Imai vs Qlarabelle",
+    "rank": 0,
+    "status": 0,
+    "bg": "359a163ab1abfaa941163e50d9a57f9a"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "ja": "Grievous Lady",
+      "en": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 1,
+    "status": 0,
+    "bg": "9bdb24718f95032e713e90eb41fa4018"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "ja": "Tempestissimo",
+      "en": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 2,
+    "status": 1,
+    "bg": "1839222d8ecbfe11c76233519b5dc599"
+  },
+  {
+    "song_id": "eveninginscarlet",
+    "title": {
+      "ja": "緋纏いの宵",
+      "en": "Evening in Scarlet"
+    },
+    "artist": "Freezer feat.妃苺",
+    "rank": 3,
+    "status": -1,
+    "bg": "11443b8da7c0fb85c3b375e04958e360"
+  },
+  {
+    "song_id": "infinitestrife",
+    "title": {
+      "ja": "Infinite Strife,",
+      "en": "Infinite Strife,"
+    },
+    "artist": "BlackYooh vs. siromaru",
+    "rank": 4,
+    "status": 3,
+    "bg": "e8d47f3816565db2dc2148eff5e3ae7f"
+  },
+  {
+    "song_id": "fractureray",
+    "title": {
+      "ja": "Fracture Ray",
+      "en": "Fracture Ray"
+    },
+    "artist": "Sakuzyo",
+    "rank": 5,
+    "status": -1,
+    "bg": "f4ffbda03590d9d3349be3d68098d8f0"
+  },
+  {
+    "song_id": "judgement",
+    "title": {
+      "ja": "Judgement",
+      "en": "Judgement"
+    },
+    "artist": "Tatsunoshin",
+    "rank": 6,
+    "status": -1,
+    "bg": "de7fa264d7bbc9c30d30073fccb4f038"
+  },
+  {
+    "song_id": "testify",
+    "title": {
+      "ja": "Testify",
+      "en": "Testify"
+    },
+    "artist": "void (Mournfinale) feat. 星熊南巫",
+    "rank": 7,
+    "status": -1,
+    "bg": "d0131b5f17018a84e234347d1f029eea"
+  },
+  {
+    "song_id": "pentiment",
+    "title": {
+      "ja": "Pentiment",
+      "en": "Pentiment"
+    },
+    "artist": "Nothing But Requiem with Museo",
+    "rank": 8,
+    "status": 0,
+    "bg": "7fcccdf4471e68a2e5a59ff858067d14"
+  },
+  {
+    "song_id": "arcanaeden",
+    "title": {
+      "ja": "Arcana Eden",
+      "en": "Arcana Eden"
+    },
+    "artist": "Team Grimoire vs Sakuzyo vs Laur",
+    "rank": 9,
+    "status": 0,
+    "bg": "e272015977159f27fc22d1d78204c2ca"
+  },
+  {
+    "song_id": "sheriruth",
+    "title": {
+      "ja": "Sheriruth",
+      "en": "Sheriruth"
+    },
+    "artist": "Team Grimoire",
+    "rank": 10,
+    "status": 0,
+    "bg": "eaf737bd318bce2cc6e1bde25ed42ad9"
+  },
+  {
+    "song_id": "hypnotize",
+    "title": {
+      "ja": "Hypnotize",
+      "en": "Hypnotize"
+    },
+    "artist": "rejection",
+    "rank": 11,
+    "status": 0,
+    "bg": "f9863a71a4c48f72a9cd9c5643a788d4"
+  },
+  {
+    "song_id": "viciousheroism",
+    "title": {
+      "ja": "Vicious Heroism",
+      "en": "Vicious Heroism"
+    },
+    "artist": "Kobaryo",
+    "rank": 12,
+    "status": 0,
+    "bg": "8ee07199a7d99f6b5e9f7e3a11362846"
+  },
+  {
+    "song_id": "worldender",
+    "title": {
+      "ja": "魔王",
+      "en": "World Ender"
+    },
+    "artist": "sasakure.UK × TJ.hangneil",
+    "rank": 13,
+    "status": 2,
+    "bg": "1383f9e9eaebd1096d7230bb10f225c9"
+  },
+  {
+    "song_id": "pragmatism",
+    "title": {
+      "ja": "PRAGMATISM",
+      "en": "PRAGMATISM"
+    },
+    "artist": "Laur",
+    "rank": 14,
+    "status": 0,
+    "bg": "c8561c0f77b7871be353f965b0f42a1c"
+  }
+]
