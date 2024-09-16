@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "shadesoflight",
+    "title": {
+      "ja": "Shades of Light in a Transcendent Realm",
+      "en": "Shades of Light in a Transcendent Realm"
+    },
+    "artist": "ak+q",
+    "rank": 0,
+    "status": 0,
+    "bg": "b75ef8d6e8480b801e8e934ac68b4e93"
+  },
+  {
+    "song_id": "ignotus",
+    "title": {
+      "ja": "Ignotus",
+      "en": "Ignotus"
+    },
+    "artist": "ak+q",
+    "rank": 1,
+    "status": 0,
+    "bg": "bab7dc807b5618a3910260cad9848b9b"
+  },
+  {
+    "song_id": "epitaxy",
+    "title": {
+      "ja": "epitaxy",
+      "en": "epitaxy"
+    },
+    "artist": "Camellia",
+    "rank": 2,
+    "status": 0,
+    "bg": "e86d6e27148d4a0dfed32fdb6c7118e1"
+  },
+  {
+    "song_id": "vexaria",
+    "title": {
+      "ja": "Vexaria",
+      "en": "Vexaria"
+    },
+    "artist": "ak+q",
+    "rank": 3,
+    "status": 0,
+    "bg": "4f1538ca800c396e541471dd88edc723"
+  },
+  {
+    "song_id": "innocence",
+    "title": {
+      "ja": "Innocence",
+      "en": "Innocence"
+    },
+    "artist": "Powerless feat. Sennzai",
+    "rank": 4,
+    "status": 0,
+    "bg": "7ee9a9a990b92f301d5e79e0715cba4f"
+  },
+  {
+    "song_id": "chronostasis",
+    "title": {
+      "ja": "Chronostasis",
+      "en": "Chronostasis"
+    },
+    "artist": "黒皇帝",
+    "rank": 5,
+    "status": 2,
+    "bg": "ca5b911dc7675dfb8bb0de500ebb2dbf"
+  },
+  {
+    "song_id": "infinityheaven",
+    "title": {
+      "ja": "Infinity Heaven",
+      "en": "Infinity Heaven"
+    },
+    "artist": "HyuN",
+    "rank": 6,
+    "status": -1,
+    "bg": "257cb18f95eeeb1f7522a5fa13e967bb"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "ja": "Lost Civilization",
+      "en": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 7,
+    "status": 1,
+    "bg": "77f590e40a44b3689a99e433c63369b1"
+  },
+  {
+    "song_id": "epicurus",
+    "title": {
+      "ja": "エピクロスの虹はもう見えない",
+      "en": "Hidden Rainbows of Epicurus"
+    },
+    "artist": "SYNC.ART'S feat.Misato",
+    "rank": 8,
+    "status": -2,
+    "bg": "b640647b236d728182cf3881f9ede230"
+  },
+  {
+    "song_id": "inkarusi",
+    "title": {
+      "ja": "inkar-usi",
+      "en": "inkar-usi"
+    },
+    "artist": "DIA",
+    "rank": 9,
+    "status": 2,
+    "bg": "b0f1d6cb0d160b1b24726c9d85547a66"
+  },
+  {
+    "song_id": "sakurafubuki",
+    "title": {
+      "ja": "Sakura Fubuki",
+      "en": "Sakura Fubuki"
+    },
+    "artist": "Street",
+    "rank": 10,
+    "status": 4,
+    "bg": "a1e3a5526261d06aec377f0dcec8ccf4"
+  },
+  {
+    "song_id": "sayonarahatsukoi",
+    "title": {
+      "ja": "Sayonara Hatsukoi",
+      "en": "Sayonara Hatsukoi"
+    },
+    "artist": "REDSHiFT",
+    "rank": 11,
+    "status": -1,
+    "bg": "6f57310c5b4f8c123d49b28e0f483263"
+  },
+  {
+    "song_id": "anokumene",
+    "title": {
+      "ja": "Anökumene",
+      "en": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 12,
+    "status": 0,
+    "bg": "8c59d85def52b4ec06ed0632c48ad794"
+  },
+  {
+    "song_id": "kanagawa",
+    "title": {
+      "ja": "神奈川電脳暗渠",
+      "en": "Kanagawa Cyber Culvert"
+    },
+    "artist": "南ゆに",
+    "rank": 13,
+    "status": 0,
+    "bg": "1025da080a11192ac8e51362fe625d39"
+  },
+  {
+    "song_id": "vividtheory",
+    "title": {
+      "ja": "Vivid Theory",
+      "en": "Vivid Theory"
+    },
+    "artist": "ak+q",
+    "rank": 14,
+    "status": -5,
+    "bg": "015c128dbd4ba9bca0043432ab8d8c3f"
+  }
+]
