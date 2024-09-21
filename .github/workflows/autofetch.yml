@@ -2,6 +2,7 @@ name: 'Daily Autofetch Job'
 
 env:
   CI: true
+  TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
 
 on: 
   workflow_dispatch:

@@ -8,6 +8,7 @@ import time
 import random
 import logging
 import telnetlib # todo: replace with un-deprecated package
+import telebot
 
 import requests
 import coloredlogs
@@ -18,6 +19,8 @@ url_dict = {
     'free': 'https://webapi.lowiro.com/webapi/song/rank/free',
     'paid': 'https://webapi.lowiro.com/webapi/song/rank/paid'
 }
+
+BOT_CHAT_ID = "1355571156"
 
 logger = logging.getLogger("rank-data-crawler")
 coloredlogs.install(level="INFO", logger=logger,
@@ -137,7 +140,18 @@ def get_song_rank(choose, proxy_ip=None):
         }
 
 
+def format_to_string(obj, title, link_url):
+    from telebot.formatting import mbold, mlink
+    return f"{mbold(mlink(content=title, url=link_url))}"
+
+
 def main(get_free=True, get_paid=True):
+    API_TOKEN = os.getenv('TG_BOT_TOKEN')
+    if os.getenv('CI', 'false') == 'true' and API_TOKEN is None:
+        logger.warning("No bot token set, will not send anything to telegram group")
+        tb = None
+    else:
+        tb = telebot.TeleBot(API_TOKEN)
     d = datetime.datetime.now()
     p = pathlib.Path(f'./{d.year}/{d.month}/{d.day}')
     if not p.exists():
@@ -148,6 +162,9 @@ def main(get_free=True, get_paid=True):
             logger.info("free data saved")
             with open(p / 'free.json', 'w', encoding='utf-8') as file:
                 json.dump(free, file, ensure_ascii=False, indent=2)
+            if tb is not None:
+                logger.info("send free data to telegram group")
+                tb.send_message(chat_id=BOT_CHAT_ID, text=format_to_string(res, "Free Song Ranking", "https://arcaea.lowiro.com/song_ranking/free"))
         else:
             failed = True
             proxy = get_proxy()
@@ -159,6 +176,9 @@ def main(get_free=True, get_paid=True):
                     with open(p / 'free.json', 'w', encoding='utf-8') as file:
                         json.dump(free, file, ensure_ascii=False, indent=2)
                     failed = False
+                    if tb is not None:
+                        logger.info("send free data to telegram group")
+                        tb.send_message(chat_id=BOT_CHAT_ID, text=format_to_string(res, "Free Song Ranking", "https://arcaea.lowiro.com/song_ranking/free"))
                 else:
                     logger.fatal(
                         "get free data error! %s(using proxy but get error data)", free)
@@ -172,6 +192,9 @@ def main(get_free=True, get_paid=True):
             logger.info("paid data saved")
             with open(p / 'paid.json', 'w', encoding='utf-8') as file:
                 json.dump(paid, file, ensure_ascii=False, indent=2)
+            if tb is not None:
+                logger.info("send paid data to telegram group")
+                tb.send_message(chat_id=BOT_CHAT_ID, text=format_to_string(res, "Paid Song Ranking", "https://arcaea.lowiro.com/en/song_ranking/paid"))
         else:
             failed = True
             proxy = get_proxy()
@@ -183,6 +206,9 @@ def main(get_free=True, get_paid=True):
                     with open(p / 'paid.json', 'w', encoding='utf-8') as file:
                         json.dump(free, file, ensure_ascii=False, indent=2)
                     failed = False
+                    if tb is not None:
+                        logger.info("send paid data to telegram group")
+                        tb.send_message(chat_id=BOT_CHAT_ID, text=format_to_string(res, "Paid Song Ranking", "https://arcaea.lowiro.com/en/song_ranking/paid"))
                 else:
                     logger.fatal(
                         "get paid data error! %s(using proxy but get error data)", paid)
@@ -192,7 +218,7 @@ def main(get_free=True, get_paid=True):
                 os.system('echo "PAID_DATA_ERRORED=true" >> "$GITHUB_ENV"')
 
 
-if __name__ == "__main__":
+if __name__ == "__main__":    
     main()
     logger.info('FREE_DATA_ERRORED=%s, PAID_DATA_ERRORED=%s', os.getenv(
         'FREE_DATA_ERRORED'), os.getenv('PAID_DATA_ERRORED'))
