@@ -146,8 +146,25 @@ def get_song_rank(choose, proxy_ip=None):
 
 
 def format_to_string(obj, title, link_url):
-    from telebot.formatting import mbold, mlink
-    return f"{mbold(mlink(content=title, url=link_url))}"
+    from telebot.formatting import mbold, format_text
+    per_link_txt_list = []
+    for each in obj:
+        title_obj = each.get("title", {})
+        stitle = title_obj.get("en")
+        sartist = each.get("artist")
+        rank = each.get("rank", -1)
+        status = each.get("status", 0)
+        if status > 0:
+            status_txt = f"↑{status}"
+        elif status < 0:
+            status_txt = f"↓{status}"
+        else:
+            status_txt = "→"
+        per_link_txt_list.append(f"[{rank}]{status_txt}: {stitle}({sartist})")
+    return format_text(
+        mbold(content=title),
+        *per_link_txt_list
+    )
 
 
 def main(get_free=True, get_paid=True):
@@ -172,7 +189,7 @@ def main(get_free=True, get_paid=True):
                 json.dump(free, file, ensure_ascii=False, indent=2)
             if tb is not None:
                 logger.info("send free data to telegram group")
-                tb.send_message(chat_id=BOT_CHAT_ID, text=format_to_string(res, "Free Song Ranking", "https://arcaea.lowiro.com/song_ranking/free"))
+                tb.send_message(chat_id=BOT_CHAT_ID, text=format_to_string(res, "Free Song Ranking", "https://arcaea.lowiro.com/song_ranking/free"), parse_mode="MarkdownV2")
         else:
             failed = True
             proxy = TEST_PROXY if LOCAL_TEST else get_proxy()
@@ -186,7 +203,7 @@ def main(get_free=True, get_paid=True):
                     failed = False
                     if tb is not None:
                         logger.info("send free data to telegram group")
-                        tb.send_message(chat_id=BOT_CHAT_ID, text=format_to_string(res, "Free Song Ranking", "https://arcaea.lowiro.com/song_ranking/free"))
+                        tb.send_message(chat_id=BOT_CHAT_ID, text=format_to_string(res, "Free Song Ranking", "https://arcaea.lowiro.com/song_ranking/free"), parse_mode="MarkdownV2")
                 else:
                     logger.fatal(
                         "get free data error! %s(using proxy but get error data)", free)
@@ -202,7 +219,7 @@ def main(get_free=True, get_paid=True):
                 json.dump(paid, file, ensure_ascii=False, indent=2)
             if tb is not None:
                 logger.info("send paid data to telegram group")
-                tb.send_message(chat_id=BOT_CHAT_ID, text=format_to_string(res, "Paid Song Ranking", "https://arcaea.lowiro.com/en/song_ranking/paid"))
+                tb.send_message(chat_id=BOT_CHAT_ID, text=format_to_string(res, "Paid Song Ranking", "https://arcaea.lowiro.com/en/song_ranking/paid"), parse_mode="MarkdownV2")
         else:
             failed = True
             proxy = TEST_PROXY if LOCAL_TEST else get_proxy()
@@ -216,7 +233,7 @@ def main(get_free=True, get_paid=True):
                     failed = False
                     if tb is not None:
                         logger.info("send paid data to telegram group")
-                        tb.send_message(chat_id=BOT_CHAT_ID, text=format_to_string(res, "Paid Song Ranking", "https://arcaea.lowiro.com/en/song_ranking/paid"))
+                        tb.send_message(chat_id=BOT_CHAT_ID, text=format_to_string(res, "Paid Song Ranking", "https://arcaea.lowiro.com/en/song_ranking/paid"), parse_mode="MarkdownV2")
                 else:
                     logger.fatal(
                         "get paid data error! %s(using proxy but get error data)", paid)
