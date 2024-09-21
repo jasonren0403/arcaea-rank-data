@@ -9,6 +9,8 @@ import random
 import logging
 import telnetlib # todo: replace with un-deprecated package
 import telebot
+from telebot.formatting import mbold, format_text
+from telebot.util import quick_markup
 
 import requests
 import coloredlogs
@@ -145,8 +147,7 @@ def get_song_rank(choose, proxy_ip=None):
         }
 
 
-def format_to_string(obj, title, link_url):
-    from telebot.formatting import mbold, format_text
+def format_to_string(obj, title): 
     per_link_txt_list = []
     for each in obj:
         title_obj = each.get("title", {})
@@ -183,13 +184,18 @@ def main(get_free=True, get_paid=True):
         p.mkdir(parents=True)
     if get_free:
         res, free = get_song_rank('free')
+        markup_button = quick_markup({
+            'Watch free data on lowiro website': {
+                'url': 'https://arcaea.lowiro.com/en/song_ranking/free'
+            }
+        })
         if res and 'error' not in free:
             logger.info("free data saved")
             with open(p / 'free.json', 'w', encoding='utf-8') as file:
                 json.dump(free, file, ensure_ascii=False, indent=2)
             if tb is not None:
                 logger.info("send free data to telegram group")
-                tb.send_message(chat_id=BOT_CHAT_ID, text=format_to_string(res, "Free Song Ranking", "https://arcaea.lowiro.com/song_ranking/free"), parse_mode="MarkdownV2")
+                tb.send_message(chat_id=BOT_CHAT_ID, text=format_to_string(res, "Free Song Ranking"), reply_markup=markup_button, parse_mode="MarkdownV2")
         else:
             failed = True
             proxy = TEST_PROXY if LOCAL_TEST else get_proxy()
@@ -203,7 +209,7 @@ def main(get_free=True, get_paid=True):
                     failed = False
                     if tb is not None:
                         logger.info("send free data to telegram group")
-                        tb.send_message(chat_id=BOT_CHAT_ID, text=format_to_string(res, "Free Song Ranking", "https://arcaea.lowiro.com/song_ranking/free"), parse_mode="MarkdownV2")
+                        tb.send_message(chat_id=BOT_CHAT_ID, text=format_to_string(res, "Free Song Ranking"), reply_markup=markup_button, parse_mode="MarkdownV2")
                 else:
                     logger.fatal(
                         "get free data error! %s(using proxy but get error data)", free)
@@ -213,13 +219,18 @@ def main(get_free=True, get_paid=True):
                 os.system('echo "FREE_DATA_ERRORED=true" >> "$GITHUB_ENV"')
     if get_paid:
         res2, paid = get_song_rank('paid')
+        markup_button = quick_markup({
+            'Watch paid data on lowiro website': {
+                'url': 'https://arcaea.lowiro.com/en/song_ranking/paid'
+            }
+        })
         if res2 and 'error' not in paid:
             logger.info("paid data saved")
             with open(p / 'paid.json', 'w', encoding='utf-8') as file:
                 json.dump(paid, file, ensure_ascii=False, indent=2)
             if tb is not None:
                 logger.info("send paid data to telegram group")
-                tb.send_message(chat_id=BOT_CHAT_ID, text=format_to_string(res, "Paid Song Ranking", "https://arcaea.lowiro.com/en/song_ranking/paid"), parse_mode="MarkdownV2")
+                tb.send_message(chat_id=BOT_CHAT_ID, text=format_to_string(res, "Paid Song Ranking"), reply_markup=markup_button, parse_mode="MarkdownV2")
         else:
             failed = True
             proxy = TEST_PROXY if LOCAL_TEST else get_proxy()
@@ -233,7 +244,7 @@ def main(get_free=True, get_paid=True):
                     failed = False
                     if tb is not None:
                         logger.info("send paid data to telegram group")
-                        tb.send_message(chat_id=BOT_CHAT_ID, text=format_to_string(res, "Paid Song Ranking", "https://arcaea.lowiro.com/en/song_ranking/paid"), parse_mode="MarkdownV2")
+                        tb.send_message(chat_id=BOT_CHAT_ID, text=format_to_string(res, "Paid Song Ranking"), reply_markup=markup_button, parse_mode="MarkdownV2")
                 else:
                     logger.fatal(
                         "get paid data error! %s(using proxy but get error data)", paid)
