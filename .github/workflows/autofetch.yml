@@ -2,7 +2,6 @@ name: 'Daily Autofetch Job'
 
 env:
   CI: true
-  TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
 
 on: 
   workflow_dispatch:
@@ -40,6 +39,7 @@ jobs:
       PAID_DATA_ERRORED: 'false'
       FREE_DATA_ERRORED: 'false'
       IP_CHECK_COUNT: 20
+      TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
     permissions:
       contents: write
     steps:
