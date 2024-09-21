@@ -21,6 +21,11 @@ url_dict = {
 }
 
 BOT_CHAT_ID = "1355571156"
+LOCAL_TEST = os.getenv('CI') is None
+TEST_PROXY = {
+    'http': '<TEST_IP>',
+    'https': '<TEST_IP>'
+}
 
 logger = logging.getLogger("rank-data-crawler")
 coloredlogs.install(level="INFO", logger=logger,
@@ -146,12 +151,15 @@ def format_to_string(obj, title, link_url):
 
 
 def main(get_free=True, get_paid=True):
-    API_TOKEN = os.getenv('TG_BOT_TOKEN')
-    if os.getenv('CI', 'false') == 'true' and API_TOKEN is None:
-        logger.warning("No bot token set, will not send anything to telegram group")
-        tb = None
+    if not LOCAL_TEST:
+        API_TOKEN = os.getenv('TG_BOT_TOKEN')
+        if os.getenv('CI', 'false') == 'true' and API_TOKEN is None:
+            logger.warning("No bot token set, will not send anything to telegram group")
+            tb = None
+        else:
+            tb = telebot.TeleBot(API_TOKEN)
     else:
-        tb = telebot.TeleBot(API_TOKEN)
+        tb = telebot.TeleBot("YOUR_TOKEN")
     d = datetime.datetime.now()
     p = pathlib.Path(f'./{d.year}/{d.month}/{d.day}')
     if not p.exists():
@@ -167,7 +175,7 @@ def main(get_free=True, get_paid=True):
                 tb.send_message(chat_id=BOT_CHAT_ID, text=format_to_string(res, "Free Song Ranking", "https://arcaea.lowiro.com/song_ranking/free"))
         else:
             failed = True
-            proxy = get_proxy()
+            proxy = TEST_PROXY if LOCAL_TEST else get_proxy()
             if proxy:
                 logger.info("Using proxy %s for further fetch", proxy)
                 res, free = get_song_rank('free', proxy_ip=proxy)
@@ -197,7 +205,7 @@ def main(get_free=True, get_paid=True):
                 tb.send_message(chat_id=BOT_CHAT_ID, text=format_to_string(res, "Paid Song Ranking", "https://arcaea.lowiro.com/en/song_ranking/paid"))
         else:
             failed = True
-            proxy = get_proxy()
+            proxy = TEST_PROXY if LOCAL_TEST else get_proxy()
             if proxy:
                 logger.info("Using proxy %s for further fetch", proxy)
                 res, paid = get_song_rank('paid', proxy_ip=proxy)
@@ -220,5 +228,6 @@ def main(get_free=True, get_paid=True):
 
 if __name__ == "__main__":    
     main()
-    logger.info('FREE_DATA_ERRORED=%s, PAID_DATA_ERRORED=%s', os.getenv(
-        'FREE_DATA_ERRORED'), os.getenv('PAID_DATA_ERRORED'))
+    if os.getenv('CI', 'false') == 'true':
+        logger.info('FREE_DATA_ERRORED=%s, PAID_DATA_ERRORED=%s', 
+        os.getenv('FREE_DATA_ERRORED'), os.getenv('PAID_DATA_ERRORED'))
