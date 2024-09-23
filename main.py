@@ -7,7 +7,7 @@ import datetime
 import time
 import random
 import logging
-import telnetlib # todo: replace with un-deprecated package
+import telnetlib  # todo: replace with un-deprecated package
 import telebot
 from telebot.formatting import mbold, format_text
 from telebot.util import quick_markup
@@ -15,6 +15,7 @@ from telebot.util import quick_markup
 import requests
 import coloredlogs
 from requests.adapters import HTTPAdapter
+from typing import Any, Tuple
 
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35"
 url_dict = {
@@ -70,7 +71,8 @@ def get_proxy():
             except (requests.exceptions.ProxyError,
                     requests.exceptions.ConnectTimeout,
                     requests.exceptions.ReadTimeout) as ex:
-                logger.error("Proxy %s have problems (%s), try next one", each, ex)
+                logger.error(
+                    "Proxy %s have problems (%s), try next one", each, ex)
                 continue
             except TimeoutError as ex:
                 logger.error("Proxy %s connect timeout, next one", each)
@@ -105,14 +107,15 @@ def process_bg(datalist, source, proxy_ip=None):
             'Referer': f'https://arcaea.lowiro.com/song_ranking/{source}'
         }, proxies=proxy, timeout=5)
         if req.status_code == 200:
-            logger.info("downloading %s from url %s", item['song_id'], item['url'])
+            logger.info("downloading %s from url %s",
+                        item['song_id'], item['url'])
             with open(local_path, 'wb') as file:
                 file.write(req.content)
         else:
             logger.warning("failed to get %s", item['song_id'])
 
 
-def get_song_rank(choose, proxy_ip=None):
+def get_song_rank(choose: str, proxy_ip=None) -> Tuple[bool, Any]:
     if choose not in ('free', 'paid'):
         raise ValueError('song_rank should be free or paid!')
     logger.info("songInfo: getting %s data, using proxy %s", choose, proxy_ip)
@@ -147,7 +150,7 @@ def get_song_rank(choose, proxy_ip=None):
         }
 
 
-def format_to_string(obj, title): 
+def format_to_string(obj: Any, title: str) -> str:
     per_link_txt_list = []
     for each in obj:
         title_obj = each.get("title", {})
@@ -168,11 +171,12 @@ def format_to_string(obj, title):
     )
 
 
-def main(get_free=True, get_paid=True):
+def main(get_free=True, get_paid=True) -> None:
     if not LOCAL_TEST:
         API_TOKEN = os.getenv('TG_BOT_TOKEN')
         if os.getenv('CI', 'false') == 'true' and API_TOKEN is None:
-            logger.warning("No bot token set, will not send anything to telegram group")
+            logger.warning(
+                "No bot token set, will not send anything to telegram group")
             tb = None
         else:
             tb = telebot.TeleBot(API_TOKEN)
@@ -195,7 +199,8 @@ def main(get_free=True, get_paid=True):
                 json.dump(free, file, ensure_ascii=False, indent=2)
             if tb is not None:
                 logger.info("send free data to telegram group")
-                tb.send_message(chat_id=BOT_CHAT_ID, text=format_to_string(res, "Free Song Ranking"), reply_markup=markup_button, parse_mode="MarkdownV2")
+                tb.send_message(chat_id=BOT_CHAT_ID, text=format_to_string(
+                    free, "Free Song Ranking"), reply_markup=markup_button, parse_mode="MarkdownV2")
         else:
             failed = True
             proxy = TEST_PROXY if LOCAL_TEST else get_proxy()
@@ -209,7 +214,8 @@ def main(get_free=True, get_paid=True):
                     failed = False
                     if tb is not None:
                         logger.info("send free data to telegram group")
-                        tb.send_message(chat_id=BOT_CHAT_ID, text=format_to_string(res, "Free Song Ranking"), reply_markup=markup_button, parse_mode="MarkdownV2")
+                        tb.send_message(chat_id=BOT_CHAT_ID, text=format_to_string(
+                            free, "Free Song Ranking"), reply_markup=markup_button, parse_mode="MarkdownV2")
                 else:
                     logger.fatal(
                         "get free data error! %s(using proxy but get error data)", free)
@@ -230,7 +236,8 @@ def main(get_free=True, get_paid=True):
                 json.dump(paid, file, ensure_ascii=False, indent=2)
             if tb is not None:
                 logger.info("send paid data to telegram group")
-                tb.send_message(chat_id=BOT_CHAT_ID, text=format_to_string(res, "Paid Song Ranking"), reply_markup=markup_button, parse_mode="MarkdownV2")
+                tb.send_message(chat_id=BOT_CHAT_ID, text=format_to_string(
+                    paid, "Paid Song Ranking"), reply_markup=markup_button, parse_mode="MarkdownV2")
         else:
             failed = True
             proxy = TEST_PROXY if LOCAL_TEST else get_proxy()
@@ -244,7 +251,8 @@ def main(get_free=True, get_paid=True):
                     failed = False
                     if tb is not None:
                         logger.info("send paid data to telegram group")
-                        tb.send_message(chat_id=BOT_CHAT_ID, text=format_to_string(res, "Paid Song Ranking"), reply_markup=markup_button, parse_mode="MarkdownV2")
+                        tb.send_message(chat_id=BOT_CHAT_ID, text=format_to_string(
+                            paid, "Paid Song Ranking"), reply_markup=markup_button, parse_mode="MarkdownV2")
                 else:
                     logger.fatal(
                         "get paid data error! %s(using proxy but get error data)", paid)
@@ -254,8 +262,8 @@ def main(get_free=True, get_paid=True):
                 os.system('echo "PAID_DATA_ERRORED=true" >> "$GITHUB_ENV"')
 
 
-if __name__ == "__main__":    
+if __name__ == "__main__":
     main()
     if os.getenv('CI', 'false') == 'true':
-        logger.info('FREE_DATA_ERRORED=%s, PAID_DATA_ERRORED=%s', 
-        os.getenv('FREE_DATA_ERRORED'), os.getenv('PAID_DATA_ERRORED'))
+        logger.info('FREE_DATA_ERRORED=%s, PAID_DATA_ERRORED=%s', os.getenv(
+            'FREE_DATA_ERRORED'), os.getenv('PAID_DATA_ERRORED'))
