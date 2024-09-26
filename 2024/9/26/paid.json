@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "particlearts",
+    "title": {
+      "ja": "Particle Arts",
+      "en": "Particle Arts"
+    },
+    "artist": "Virtual Self",
+    "rank": 0,
+    "status": 9,
+    "bg": "50c650829c0c2465a4c5528e698105c9"
+  },
+  {
+    "song_id": "rainofconflict",
+    "title": {
+      "ja": "Rain of Conflict in a Radiant Abyss",
+      "en": "Rain of Conflict in a Radiant Abyss"
+    },
+    "artist": "ak+q",
+    "rank": 1,
+    "status": -1,
+    "bg": "07d7c9783b223e1d9c38a11ab300856a"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "ja": "Grievous Lady",
+      "en": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 2,
+    "status": 0,
+    "bg": "c78d2d1661afa3a0d2d27afde8bc6b8b"
+  },
+  {
+    "song_id": "auxesia",
+    "title": {
+      "ja": "Auxesia",
+      "en": "Auxesia"
+    },
+    "artist": "ginkiha",
+    "rank": 3,
+    "status": -2,
+    "bg": "e000f378f7d54ee665683d436a76de30"
+  },
+  {
+    "song_id": "alterego",
+    "title": {
+      "ja": "ALTER EGO",
+      "en": "ALTER EGO"
+    },
+    "artist": "Yuta Imai vs Qlarabelle",
+    "rank": 4,
+    "status": -1,
+    "bg": "a807a88d0cb2feac380886a13a5957e7"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "ja": "Tempestissimo",
+      "en": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 5,
+    "status": 0,
+    "bg": "6d1378d6fb967bd81699975350928e4a"
+  },
+  {
+    "song_id": "axiumcrisis",
+    "title": {
+      "ja": "Axium Crisis",
+      "en": "Axium Crisis"
+    },
+    "artist": "ak+q",
+    "rank": 6,
+    "status": -2,
+    "bg": "d6b5a8d15e606f32726a6981e36465b4"
+  },
+  {
+    "song_id": "infinitestrife",
+    "title": {
+      "ja": "Infinite Strife,",
+      "en": "Infinite Strife,"
+    },
+    "artist": "BlackYooh vs. siromaru",
+    "rank": 7,
+    "status": 1,
+    "bg": "367f5d4c3f851bdf78a0aef03d5d8aab"
+  },
+  {
+    "song_id": "sheriruth",
+    "title": {
+      "ja": "Sheriruth",
+      "en": "Sheriruth"
+    },
+    "artist": "Team Grimoire",
+    "rank": 8,
+    "status": -1,
+    "bg": "4c4fdcb88c26fe635fd84bc2fb650655"
+  },
+  {
+    "song_id": "essenceoftwilight",
+    "title": {
+      "ja": "Essence of Twilight",
+      "en": "Essence of Twilight"
+    },
+    "artist": "ak+q",
+    "rank": 9,
+    "status": -3,
+    "bg": "418d82061fcc6c764528fb53c9de6572"
+  },
+  {
+    "song_id": "arcanaeden",
+    "title": {
+      "ja": "Arcana Eden",
+      "en": "Arcana Eden"
+    },
+    "artist": "Team Grimoire vs Sakuzyo vs Laur",
+    "rank": 10,
+    "status": 1,
+    "bg": "36787c0609f925291777589ae4aac107"
+  },
+  {
+    "song_id": "fractureray",
+    "title": {
+      "ja": "Fracture Ray",
+      "en": "Fracture Ray"
+    },
+    "artist": "Sakuzyo",
+    "rank": 11,
+    "status": 1,
+    "bg": "6fa40b1e5aea46ec0905895ca72b0ab1"
+  },
+  {
+    "song_id": "testify",
+    "title": {
+      "ja": "Testify",
+      "en": "Testify"
+    },
+    "artist": "void (Mournfinale) feat. 星熊南巫",
+    "rank": 12,
+    "status": -2,
+    "bg": "79ecbd0b53a3c5e3274818f593245cd9"
+  },
+  {
+    "song_id": "pentiment",
+    "title": {
+      "ja": "Pentiment",
+      "en": "Pentiment"
+    },
+    "artist": "Nothing But Requiem with Museo",
+    "rank": 13,
+    "status": 0,
+    "bg": "6325b28c1089e6b9220440e138d08aae"
+  },
+  {
+    "song_id": "invertedworld",
+    "title": {
+      "ja": "Inverted World",
+      "en": "Inverted World"
+    },
+    "artist": "ARForest",
+    "rank": 14,
+    "status": 0,
+    "bg": "2e16df717a4f875bc973b882fe85ce2b"
+  }
+]
