@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "saintorsinner",
+    "title": {
+      "ja": "Saint or Sinner",
+      "en": "Saint or Sinner"
+    },
+    "artist": "crayvxn",
+    "rank": 0,
+    "status": 0,
+    "bg": "cc57570103c1c521d9c796e778d7b971"
+  },
+  {
+    "song_id": "gensounosatellite",
+    "title": {
+      "ja": "幻想のサテライト",
+      "en": "Gensou no Satellite"
+    },
+    "artist": "豚乙女",
+    "rank": 1,
+    "status": 1,
+    "bg": "f7f8d83f4748c95d8f3a4f079ef1b8fc"
+  },
+  {
+    "song_id": "rainofconflict",
+    "title": {
+      "ja": "Rain of Conflict in a Radiant Abyss",
+      "en": "Rain of Conflict in a Radiant Abyss"
+    },
+    "artist": "ak+q",
+    "rank": 2,
+    "status": -1,
+    "bg": "284559437dbee1dd790654cac3ec607f"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "ja": "Grievous Lady",
+      "en": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 3,
+    "status": -1,
+    "bg": "b67e5ddaa10fd41d828b604c30568d90"
+  },
+  {
+    "song_id": "alterego",
+    "title": {
+      "ja": "ALTER EGO",
+      "en": "ALTER EGO"
+    },
+    "artist": "Yuta Imai vs Qlarabelle",
+    "rank": 4,
+    "status": 0,
+    "bg": "b27814d8b93d794df289db83541cca7a"
+  },
+  {
+    "song_id": "maliciousmischance",
+    "title": {
+      "ja": "Malicious Mischance",
+      "en": "Malicious Mischance"
+    },
+    "artist": "s-don",
+    "rank": 5,
+    "status": 90,
+    "bg": "8f4b8f5b3638a163f714001d0df57976"
+  },
+  {
+    "song_id": "sheriruth",
+    "title": {
+      "ja": "Sheriruth",
+      "en": "Sheriruth"
+    },
+    "artist": "Team Grimoire",
+    "rank": 6,
+    "status": 2,
+    "bg": "3f10b4d9c2df4af30e33c104a12d8d3c"
+  },
+  {
+    "song_id": "essenceoftwilight",
+    "title": {
+      "ja": "Essence of Twilight",
+      "en": "Essence of Twilight"
+    },
+    "artist": "ak+q",
+    "rank": 7,
+    "status": 2,
+    "bg": "95723aa711633269972893bfc4c05623"
+  },
+  {
+    "song_id": "auxesia",
+    "title": {
+      "ja": "Auxesia",
+      "en": "Auxesia"
+    },
+    "artist": "ginkiha",
+    "rank": 8,
+    "status": -5,
+    "bg": "8d06f7bad8435ce4003117b266b1fb3f"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "ja": "Tempestissimo",
+      "en": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 9,
+    "status": -4,
+    "bg": "31aa1892d10585d6aeff56832f1092ca"
+  },
+  {
+    "song_id": "testify",
+    "title": {
+      "ja": "Testify",
+      "en": "Testify"
+    },
+    "artist": "void (Mournfinale) feat. 星熊南巫",
+    "rank": 10,
+    "status": 2,
+    "bg": "8cf2dfeea5e9c156555a900886950797"
+  },
+  {
+    "song_id": "mvurbd",
+    "title": {
+      "ja": "MVURBD",
+      "en": "MVURBD"
+    },
+    "artist": "ETIA.",
+    "rank": 11,
+    "status": 5,
+    "bg": "d61c4636dd91c99313dfe77f157f6f16"
+  },
+  {
+    "song_id": "axiumcrisis",
+    "title": {
+      "ja": "Axium Crisis",
+      "en": "Axium Crisis"
+    },
+    "artist": "ak+q",
+    "rank": 12,
+    "status": -6,
+    "bg": "8fce918398c039d6bb1eab7a739ac314"
+  },
+  {
+    "song_id": "infinitestrife",
+    "title": {
+      "ja": "Infinite Strife,",
+      "en": "Infinite Strife,"
+    },
+    "artist": "BlackYooh vs. siromaru",
+    "rank": 13,
+    "status": -6,
+    "bg": "6a23ca9814f333f0a8c110d9c91046b3"
+  },
+  {
+    "song_id": "invertedworld",
+    "title": {
+      "ja": "Inverted World",
+      "en": "Inverted World"
+    },
+    "artist": "ARForest",
+    "rank": 14,
+    "status": 0,
+    "bg": "7442306136519554f6569d22fc0b593c"
+  }
+]
