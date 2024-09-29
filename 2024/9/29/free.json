@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "furetemitai",
+    "title": {
+      "ja": "フレテミタイ",
+      "en": "FURETE-MITAI"
+    },
+    "artist": "みきとP",
+    "rank": 0,
+    "status": 0,
+    "bg": "ce79dcad6d92f657072a737e11983052"
+  },
+  {
+    "song_id": "hailstone",
+    "title": {
+      "ja": "Hailstone",
+      "en": "Hailstone"
+    },
+    "artist": "Kazki Misora",
+    "rank": 1,
+    "status": 0,
+    "bg": "9e5edb0d29464bfbb8b7153ed4a5ead0"
+  },
+  {
+    "song_id": "epitaxy",
+    "title": {
+      "ja": "epitaxy",
+      "en": "epitaxy"
+    },
+    "artist": "Camellia",
+    "rank": 2,
+    "status": 1,
+    "bg": "e6672450bd4968d3eaa586eb5a75734a"
+  },
+  {
+    "song_id": "sayonarahatsukoi",
+    "title": {
+      "ja": "Sayonara Hatsukoi",
+      "en": "Sayonara Hatsukoi"
+    },
+    "artist": "REDSHiFT",
+    "rank": 3,
+    "status": -1,
+    "bg": "fe8e84f623f396ab85b3f0db6a129bbc"
+  },
+  {
+    "song_id": "qualia",
+    "title": {
+      "ja": "qualia -ideaesthesia-",
+      "en": "qualia -ideaesthesia-"
+    },
+    "artist": "nitro",
+    "rank": 4,
+    "status": 1,
+    "bg": "b29eff63ce1d06001574dcfcaaa9b48d"
+  },
+  {
+    "song_id": "innocence",
+    "title": {
+      "ja": "Innocence",
+      "en": "Innocence"
+    },
+    "artist": "Powerless feat. Sennzai",
+    "rank": 5,
+    "status": -1,
+    "bg": "e7e666f990dbeb9cef0bd497e7d2af87"
+  },
+  {
+    "song_id": "epicurus",
+    "title": {
+      "ja": "エピクロスの虹はもう見えない",
+      "en": "Hidden Rainbows of Epicurus"
+    },
+    "artist": "SYNC.ART'S feat.Misato",
+    "rank": 6,
+    "status": 1,
+    "bg": "58a921dc1747eefe7b01b9e002172d2a"
+  },
+  {
+    "song_id": "chronostasis",
+    "title": {
+      "ja": "Chronostasis",
+      "en": "Chronostasis"
+    },
+    "artist": "黒皇帝",
+    "rank": 7,
+    "status": 2,
+    "bg": "23bb5e585b225732c1a5d58ecd4e94df"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "ja": "Lost Civilization",
+      "en": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 8,
+    "status": 0,
+    "bg": "0407b3e9972ef5d67a2f25b1a2aa2937"
+  },
+  {
+    "song_id": "tsukinimurakumo",
+    "title": {
+      "ja": "月に叢雲華に風",
+      "en": "Tsuki ni Murakumo, Hana ni Kaze"
+    },
+    "artist": "幽閉サテライト",
+    "rank": 9,
+    "status": -3,
+    "bg": "e916ced8bcede2d06ad5e79d6a7397b8"
+  },
+  {
+    "song_id": "goodtek",
+    "title": {
+      "ja": "GOODTEK (Arcaea Edit)",
+      "en": "GOODTEK (Arcaea Edit)"
+    },
+    "artist": "EBIMAYO",
+    "rank": 10,
+    "status": 9,
+    "bg": "91c8bedaa4bc8dfe5d405f347f0e1823"
+  },
+  {
+    "song_id": "jingle",
+    "title": {
+      "ja": "Jingle",
+      "en": "Jingle"
+    },
+    "artist": "DJ Noriken",
+    "rank": 11,
+    "status": 1,
+    "bg": "f882a835d905d5c3d72c9fd58e7b2577"
+  },
+  {
+    "song_id": "sakurafubuki",
+    "title": {
+      "ja": "Sakura Fubuki",
+      "en": "Sakura Fubuki"
+    },
+    "artist": "Street",
+    "rank": 12,
+    "status": 2,
+    "bg": "3925a623582690eb01cc0042ca0cc891"
+  },
+  {
+    "song_id": "purpleverse",
+    "title": {
+      "ja": "Purple Verse",
+      "en": "Purple Verse"
+    },
+    "artist": "Hommarju",
+    "rank": 13,
+    "status": 3,
+    "bg": "ba68ef4565cef45c4a5e5bb7b57542bc"
+  },
+  {
+    "song_id": "kanagawa",
+    "title": {
+      "ja": "神奈川電脳暗渠",
+      "en": "Kanagawa Cyber Culvert"
+    },
+    "artist": "南ゆに",
+    "rank": 14,
+    "status": -4,
+    "bg": "4f85ce4bdeead1fc58cb425058c25d7a"
+  }
+]
