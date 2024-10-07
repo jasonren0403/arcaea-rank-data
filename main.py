@@ -23,7 +23,7 @@ url_dict = {
     'paid': 'https://webapi.lowiro.com/webapi/song/rank/paid'
 }
 
-BOT_CHAT_ID = "1355571156"
+BOT_CHAT_ID = "-1002447052585"
 LOCAL_TEST = os.getenv('CI') is None
 TEST_PROXY = {
     'http': '<TEST_IP>',
