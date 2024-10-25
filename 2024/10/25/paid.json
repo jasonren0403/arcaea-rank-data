@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "diesirae",
+    "title": {
+      "ja": "Dies irae",
+      "en": "Dies irae"
+    },
+    "artist": "お月さま交響曲",
+    "rank": 0,
+    "status": 2147483647,
+    "bg": "aeb516ee528a0340983ba3dd9c32dafc"
+  },
+  {
+    "song_id": "thirdsun",
+    "title": {
+      "ja": "Third Sun",
+      "en": "Third Sun"
+    },
+    "artist": "Ash Astral",
+    "rank": 1,
+    "status": 2147483646,
+    "bg": "4401b541e5bcee6f7f261c969d09f8d0"
+  },
+  {
+    "song_id": "spiritdauntless",
+    "title": {
+      "ja": "Spirit of the Dauntless",
+      "en": "Spirit of the Dauntless"
+    },
+    "artist": "KO3 & Relect",
+    "rank": 2,
+    "status": 2147483645,
+    "bg": "33e8db7cd3a374cade4f3f1a960a4da3"
+  },
+  {
+    "song_id": "crimsonquartz",
+    "title": {
+      "ja": "Crimson Quartz",
+      "en": "Crimson Quartz"
+    },
+    "artist": "DiGiTAL WiNG with 空音",
+    "rank": 3,
+    "status": 2147483644,
+    "bg": "6a20fd53f7ea322b4325ad271be061d1"
+  },
+  {
+    "song_id": "gimmedablood",
+    "title": {
+      "ja": "GIMME DA BLOOD",
+      "en": "GIMME DA BLOOD"
+    },
+    "artist": "C-Show",
+    "rank": 4,
+    "status": 107,
+    "bg": "adf56aa863c23ab639aa2bad4742c2a1"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "ja": "Grievous Lady",
+      "en": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 5,
+    "status": -5,
+    "bg": "a137f50d8f0293712e46987d0cd93da1"
+  },
+  {
+    "song_id": "rainofconflict",
+    "title": {
+      "ja": "Rain of Conflict in a Radiant Abyss",
+      "en": "Rain of Conflict in a Radiant Abyss"
+    },
+    "artist": "ak+q",
+    "rank": 6,
+    "status": 7,
+    "bg": "b700e368daa3abe0540fb498b4d327ba"
+  },
+  {
+    "song_id": "testify",
+    "title": {
+      "ja": "Testify",
+      "en": "Testify"
+    },
+    "artist": "void (Mournfinale) feat. 星熊南巫",
+    "rank": 7,
+    "status": -3,
+    "bg": "b9fde709625377416d895fa0c5196574"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "ja": "Tempestissimo",
+      "en": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 8,
+    "status": -7,
+    "bg": "e78386c999c5824ebe7811561d83745c"
+  },
+  {
+    "song_id": "alterego",
+    "title": {
+      "ja": "ALTER EGO",
+      "en": "ALTER EGO"
+    },
+    "artist": "Yuta Imai vs Qlarabelle",
+    "rank": 9,
+    "status": -7,
+    "bg": "a6a92623bd4de273aaac687ac869a5a4"
+  },
+  {
+    "song_id": "infinitestrife",
+    "title": {
+      "ja": "Infinite Strife,",
+      "en": "Infinite Strife,"
+    },
+    "artist": "BlackYooh vs. siromaru",
+    "rank": 10,
+    "status": -7,
+    "bg": "1435b478e3e9d21486fb81056bebe5f7"
+  },
+  {
+    "song_id": "sheriruth",
+    "title": {
+      "ja": "Sheriruth",
+      "en": "Sheriruth"
+    },
+    "artist": "Team Grimoire",
+    "rank": 11,
+    "status": -4,
+    "bg": "7d32679b25073c93ffe6e3a7b270b101"
+  },
+  {
+    "song_id": "mirzam",
+    "title": {
+      "ja": "Mirzam",
+      "en": "Mirzam"
+    },
+    "artist": "Aoi vs. siqlo",
+    "rank": 12,
+    "status": 141,
+    "bg": "4bc71bb8ca2f7e7ca356323861555380"
+  },
+  {
+    "song_id": "fractureray",
+    "title": {
+      "ja": "Fracture Ray",
+      "en": "Fracture Ray"
+    },
+    "artist": "Sakuzyo",
+    "rank": 13,
+    "status": -7,
+    "bg": "680053824f5adc293ad062a3aa4b5e8d"
+  },
+  {
+    "song_id": "arcanaeden",
+    "title": {
+      "ja": "Arcana Eden",
+      "en": "Arcana Eden"
+    },
+    "artist": "Team Grimoire vs Sakuzyo vs Laur",
+    "rank": 14,
+    "status": -9,
+    "bg": "5311b152dc56f84cea45e012af43bf41"
+  }
+]
