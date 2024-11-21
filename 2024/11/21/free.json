@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "innocence",
+    "title": {
+      "ja": "Innocence",
+      "en": "Innocence"
+    },
+    "artist": "Powerless feat. Sennzai",
+    "rank": 0,
+    "status": 0,
+    "bg": "886ddaefe4e3a17b7fa353dd2aa38b21"
+  },
+  {
+    "song_id": "redandblue",
+    "title": {
+      "ja": "Red and Blue",
+      "en": "Red and Blue"
+    },
+    "artist": "Silentroom",
+    "rank": 1,
+    "status": 2,
+    "bg": "f7486255180ee0c19b880ed7e604e18e"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "ja": "Lost Civilization",
+      "en": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 2,
+    "status": 4,
+    "bg": "238d32ecd204edb8f88e815007897e3b"
+  },
+  {
+    "song_id": "kanagawa",
+    "title": {
+      "ja": "神奈川電脳暗渠",
+      "en": "Kanagawa Cyber Culvert"
+    },
+    "artist": "南ゆに",
+    "rank": 3,
+    "status": -1,
+    "bg": "72cd9aeb1f3580e7ab15ffbca1ce56a2"
+  },
+  {
+    "song_id": "goodtek",
+    "title": {
+      "ja": "GOODTEK (Arcaea Edit)",
+      "en": "GOODTEK (Arcaea Edit)"
+    },
+    "artist": "EBIMAYO",
+    "rank": 4,
+    "status": 1,
+    "bg": "33de2f21411cbafc912d06b87c1ad687"
+  },
+  {
+    "song_id": "inkarusi",
+    "title": {
+      "ja": "inkar-usi",
+      "en": "inkar-usi"
+    },
+    "artist": "DIA",
+    "rank": 5,
+    "status": -4,
+    "bg": "23ab81089a8d2552ca2127e5b0188a36"
+  },
+  {
+    "song_id": "chronostasis",
+    "title": {
+      "ja": "Chronostasis",
+      "en": "Chronostasis"
+    },
+    "artist": "黒皇帝",
+    "rank": 6,
+    "status": 1,
+    "bg": "003956eee7813f091e206e3d797d1338"
+  },
+  {
+    "song_id": "sakurafubuki",
+    "title": {
+      "ja": "Sakura Fubuki",
+      "en": "Sakura Fubuki"
+    },
+    "artist": "Street",
+    "rank": 7,
+    "status": -3,
+    "bg": "2cdd789a8b5b3d770f886f18906f3006"
+  },
+  {
+    "song_id": "epicurus",
+    "title": {
+      "ja": "エピクロスの虹はもう見えない",
+      "en": "Hidden Rainbows of Epicurus"
+    },
+    "artist": "SYNC.ART'S feat.Misato",
+    "rank": 8,
+    "status": 1,
+    "bg": "ee3b83c7fc395630bc4b9ba76dbf5a09"
+  },
+  {
+    "song_id": "sayonarahatsukoi",
+    "title": {
+      "ja": "Sayonara Hatsukoi",
+      "en": "Sayonara Hatsukoi"
+    },
+    "artist": "REDSHiFT",
+    "rank": 9,
+    "status": -1,
+    "bg": "9ccae266f0e206a930f65c1357c34a58"
+  },
+  {
+    "song_id": "shadesoflight",
+    "title": {
+      "ja": "Shades of Light in a Transcendent Realm",
+      "en": "Shades of Light in a Transcendent Realm"
+    },
+    "artist": "ak+q",
+    "rank": 10,
+    "status": 0,
+    "bg": "7f1bee1d83d80b7ea6759c593fe148cf"
+  },
+  {
+    "song_id": "ignotus",
+    "title": {
+      "ja": "Ignotus",
+      "en": "Ignotus"
+    },
+    "artist": "ak+q",
+    "rank": 11,
+    "status": 1,
+    "bg": "33c66a876ceeb45baea96587eb7d822a"
+  },
+  {
+    "song_id": "jingle",
+    "title": {
+      "ja": "Jingle",
+      "en": "Jingle"
+    },
+    "artist": "DJ Noriken",
+    "rank": 12,
+    "status": -1,
+    "bg": "cbc27543279fe28e31b046e5fa7810f4"
+  },
+  {
+    "song_id": "cyberneciacatharsis",
+    "title": {
+      "ja": "Cybernecia Catharsis",
+      "en": "Cybernecia Catharsis"
+    },
+    "artist": "Tanchiky",
+    "rank": 13,
+    "status": 0,
+    "bg": "a776e285259e76f55ace35914381f800"
+  },
+  {
+    "song_id": "purgatorium",
+    "title": {
+      "ja": "Purgatorium",
+      "en": "Purgatorium"
+    },
+    "artist": "お月さま交響曲",
+    "rank": 14,
+    "status": 0,
+    "bg": "43d65e1b462d94562e6fe6df1689edc0"
+  }
+]
