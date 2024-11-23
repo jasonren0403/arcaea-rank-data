@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "designant",
+    "title": {
+      "ja": "Designant.",
+      "en": "Designant."
+    },
+    "artist": "Designant",
+    "rank": 0,
+    "status": 3,
+    "bg": "ff97076125f83d269f626d5b66b9f0c8"
+  },
+  {
+    "song_id": "lamentrain",
+    "title": {
+      "ja": "Lament Rain",
+      "en": "Lament Rain"
+    },
+    "artist": "Ashrount vs. 打打だいず",
+    "rank": 1,
+    "status": -1,
+    "bg": "423a7ff52349c414c137f93fefa05249"
+  },
+  {
+    "song_id": "breachoffaith",
+    "title": {
+      "ja": "Breach of Faith",
+      "en": "Breach of Faith"
+    },
+    "artist": "Supire feat.eili",
+    "rank": 2,
+    "status": 0,
+    "bg": "c97dad01e7cee0be1f1309874db88752"
+  },
+  {
+    "song_id": "swansong",
+    "title": {
+      "ja": "Swan Song",
+      "en": "Swan Song"
+    },
+    "artist": "void (Mournfinale)",
+    "rank": 3,
+    "status": -2,
+    "bg": "c23543886459fde441d39e12732724fb"
+  },
+  {
+    "song_id": "dontfightmusic",
+    "title": {
+      "ja": "Don't Fight The Music",
+      "en": "Don't Fight The Music"
+    },
+    "artist": "黒魔",
+    "rank": 4,
+    "status": 2,
+    "bg": "b22d825dab23e682fc34d19c7cfeae1b"
+  },
+  {
+    "song_id": "raysofremnant",
+    "title": {
+      "ja": "Rays of Remnant",
+      "en": "Rays of Remnant"
+    },
+    "artist": "May × Felysrator",
+    "rank": 5,
+    "status": -1,
+    "bg": "1fa3a3c939a4d783d69c689e6991197a"
+  },
+  {
+    "song_id": "renegade",
+    "title": {
+      "ja": "Renegade",
+      "en": "Renegade"
+    },
+    "artist": "sky_delta",
+    "rank": 6,
+    "status": -1,
+    "bg": "f7b046dcd8eda49a4553aa47c0e073c3"
+  },
+  {
+    "song_id": "astralquant",
+    "title": {
+      "ja": "Astral Quantization",
+      "en": "Astral Quantization"
+    },
+    "artist": "Dj Grimoire",
+    "rank": 7,
+    "status": 2,
+    "bg": "100cc36ac797431baba30e382d1a5982"
+  },
+  {
+    "song_id": "andrevivemelody",
+    "title": {
+      "ja": "And Revive The Melody",
+      "en": "And Revive The Melody"
+    },
+    "artist": "黒魔",
+    "rank": 8,
+    "status": 0,
+    "bg": "07d392d1759f0a905cb1a390bcc61072"
+  },
+  {
+    "song_id": "superambulance",
+    "title": {
+      "ja": "SUPER AMBULANCE",
+      "en": "SUPER AMBULANCE"
+    },
+    "artist": "AJURIKA",
+    "rank": 9,
+    "status": 1,
+    "bg": "52a74b4fc89fd392005642146e4765d7"
+  },
+  {
+    "song_id": "liftoff",
+    "title": {
+      "ja": "LiftOff",
+      "en": "LiftOff"
+    },
+    "artist": "MAYA AKAI",
+    "rank": 10,
+    "status": -3,
+    "bg": "916809e8a6875b439c16b42049ca105d"
+  },
+  {
+    "song_id": "testify",
+    "title": {
+      "ja": "Testify",
+      "en": "Testify"
+    },
+    "artist": "void (Mournfinale) feat. 星熊南巫",
+    "rank": 11,
+    "status": 0,
+    "bg": "894bb294d20111fe38c234795842ac8b"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "ja": "Tempestissimo",
+      "en": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 12,
+    "status": 5,
+    "bg": "1989241a2de8ef5946c347abbe8587b7"
+  },
+  {
+    "song_id": "ifi",
+    "title": {
+      "ja": "#1f1e33",
+      "en": "#1f1e33"
+    },
+    "artist": "かめりあ(EDP)",
+    "rank": 13,
+    "status": 0,
+    "bg": "56366b012ebd6c0d5eb0eb581123f12d"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "ja": "Grievous Lady",
+      "en": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 14,
+    "status": 0,
+    "bg": "490a59dd447402844c2af904fffea729"
+  }
+]
