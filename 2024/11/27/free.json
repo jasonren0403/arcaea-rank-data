@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "kanagawa",
+    "title": {
+      "ja": "神奈川電脳暗渠",
+      "en": "Kanagawa Cyber Culvert"
+    },
+    "artist": "南ゆに",
+    "rank": 0,
+    "status": 0,
+    "bg": "747f7944c16e6cbfeeefce804b6c64a4"
+  },
+  {
+    "song_id": "worldexecuteme",
+    "title": {
+      "ja": "world.execute(me);",
+      "en": "world.execute(me);"
+    },
+    "artist": "Mili",
+    "rank": 1,
+    "status": 0,
+    "bg": "9adfa11624d2dfe2ee670b2d1a02cb1c"
+  },
+  {
+    "song_id": "astralexe",
+    "title": {
+      "ja": "astral.exe",
+      "en": "astral.exe"
+    },
+    "artist": "Synzak & Laxeno57",
+    "rank": 2,
+    "status": 0,
+    "bg": "8425ff2a2123b97b9c8461d67ce317b9"
+  },
+  {
+    "song_id": "innocence",
+    "title": {
+      "ja": "Innocence",
+      "en": "Innocence"
+    },
+    "artist": "Powerless feat. Sennzai",
+    "rank": 3,
+    "status": 1,
+    "bg": "47cf24744aa63fb7e637a6a5c11b499f"
+  },
+  {
+    "song_id": "nulctrl",
+    "title": {
+      "ja": "NULCTRL",
+      "en": "NULCTRL"
+    },
+    "artist": "Silentroom",
+    "rank": 4,
+    "status": -1,
+    "bg": "bcbf4226fc9b517e378cafb47d023c6c"
+  },
+  {
+    "song_id": "redandblue",
+    "title": {
+      "ja": "Red and Blue",
+      "en": "Red and Blue"
+    },
+    "artist": "Silentroom",
+    "rank": 5,
+    "status": 0,
+    "bg": "74f07b4ee10d0ad7db82a7dfd90d5bfc"
+  },
+  {
+    "song_id": "epicurus",
+    "title": {
+      "ja": "エピクロスの虹はもう見えない",
+      "en": "Hidden Rainbows of Epicurus"
+    },
+    "artist": "SYNC.ART'S feat.Misato",
+    "rank": 6,
+    "status": 2,
+    "bg": "cd04746668a4fd1c31907814ff2b56c7"
+  },
+  {
+    "song_id": "chronostasis",
+    "title": {
+      "ja": "Chronostasis",
+      "en": "Chronostasis"
+    },
+    "artist": "黒皇帝",
+    "rank": 7,
+    "status": 0,
+    "bg": "831d8a7805bb294eca5ed4e4d4661506"
+  },
+  {
+    "song_id": "sayonarahatsukoi",
+    "title": {
+      "ja": "Sayonara Hatsukoi",
+      "en": "Sayonara Hatsukoi"
+    },
+    "artist": "REDSHiFT",
+    "rank": 8,
+    "status": -2,
+    "bg": "87e33bd0337cfdd20544af6cabb6687a"
+  },
+  {
+    "song_id": "goodtek",
+    "title": {
+      "ja": "GOODTEK (Arcaea Edit)",
+      "en": "GOODTEK (Arcaea Edit)"
+    },
+    "artist": "EBIMAYO",
+    "rank": 9,
+    "status": 1,
+    "bg": "033646eacab6a282e579ba2f3b6b9325"
+  },
+  {
+    "song_id": "anokumene",
+    "title": {
+      "ja": "Anökumene",
+      "en": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 10,
+    "status": 2,
+    "bg": "e9abc9b3debce2c74742a00b6a8ccd1d"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "ja": "Lost Civilization",
+      "en": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 11,
+    "status": -2,
+    "bg": "005fb5d98cbc99e53455014977abce7f"
+  },
+  {
+    "song_id": "shadesoflight",
+    "title": {
+      "ja": "Shades of Light in a Transcendent Realm",
+      "en": "Shades of Light in a Transcendent Realm"
+    },
+    "artist": "ak+q",
+    "rank": 12,
+    "status": -1,
+    "bg": "0377248e345ebf5f6d644d033b6bbe78"
+  },
+  {
+    "song_id": "inkarusi",
+    "title": {
+      "ja": "inkar-usi",
+      "en": "inkar-usi"
+    },
+    "artist": "DIA",
+    "rank": 13,
+    "status": 0,
+    "bg": "e1c884f78afbee4b76b0f5178776769a"
+  },
+  {
+    "song_id": "clotho",
+    "title": {
+      "ja": "クロートーと星の観測者",
+      "en": "Clotho and the stargazer"
+    },
+    "artist": "しーけー",
+    "rank": 14,
+    "status": 2,
+    "bg": "6de1ee411a239ad88500d9347680e023"
+  }
+]
