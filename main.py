@@ -7,15 +7,15 @@ import datetime
 import time
 import random
 import logging
+from typing import Any, Tuple
 import telnetlib  # todo: replace with un-deprecated package
 import telebot
-from telebot.formatting import mbold, format_text, escape_markdown
+from telebot.formatting import mbold, format_text
 from telebot.util import quick_markup
 
 import requests
 import coloredlogs
 from requests.adapters import HTTPAdapter
-from typing import Any, Tuple
 
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35"
 url_dict = {
@@ -93,13 +93,15 @@ def process_bg(datalist, source, proxy_ip=None):
     dl_list = []
     for each in datalist:
         url = f"https://webassets.lowiro.com/{each['bg']}.jpg?v=323"
-        local_path = pathlib.Path('./img') / f'{each["bg"]}.jpg'
+        local_path = pathlib.Path('./img') / f'{each["song_id"]}.jpg'
         logger.info("checking local path %s", local_path.as_posix())
         if not local_path.exists():
             dl_list.append({
                 "url": url,
                 "song_id": each['song_id']
             })
+        else:
+            logger.info("file %s already exists, no need to download again", local_path.as_posix())
     for item in dl_list:
         time.sleep(random.uniform(2, 4))
         req = s.get(url=item['url'], headers={
@@ -109,7 +111,8 @@ def process_bg(datalist, source, proxy_ip=None):
         if req.status_code == 200:
             logger.info("downloading %s from url %s",
                         item['song_id'], item['url'])
-            with open(local_path, 'wb') as file:
+            new_path = local_path.with_name(item['song_id'])
+            with open(new_path, 'wb') as file:
                 file.write(req.content)
         else:
             logger.warning("failed to get %s", item['song_id'])
@@ -159,17 +162,16 @@ def format_to_string(obj: Any, title: str) -> str:
         rank = each.get("rank", -1)
         status = each.get("status", 0)
         if status > 0:
-            status_txt = f"↑{status}"
+            status_txt = f"↑{status}" if status < 2147483647 - 15 else "NEW!"
         elif status < 0:
             status_txt = f"↓{status}"
         else:
             status_txt = "→"
-        per_link_txt_list.append(f"[{rank}]{status_txt}: {stitle}({sartist})")
-    return escape_markdown(
-        format_text(
-            mbold(content=title),
-            *per_link_txt_list
-    ))
+        per_link_txt_list.append(f"[{rank+1}]{status_txt}: {stitle}({sartist})")
+    return format_text(
+        mbold(content=title),
+        *per_link_txt_list
+    )
 
 
 def main(get_free=True, get_paid=True) -> None:
