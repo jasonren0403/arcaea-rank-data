@@ -203,8 +203,11 @@ def main(get_free=True, get_paid=True) -> None:
                 json.dump(free, file, ensure_ascii=False, indent=2)
             if tb is not None:
                 logger.info("send free data to telegram group")
-                tb.send_message(chat_id=BOT_CHAT_ID, text=format_to_string(
-                    free, "Free Song Ranking"), reply_markup=markup_button, parse_mode="MarkdownV2")
+                txt = format_to_string(free, "Free Song Ranking")
+                try:
+                    tb.send_message(chat_id=BOT_CHAT_ID, text=txt, reply_markup=markup_button, parse_mode="MarkdownV2")
+                except telebot.apihelper.ApiTelegramException:
+                    logger.error("Try send message error: %s", txt)
         else:
             failed = True
             proxy = TEST_PROXY if LOCAL_TEST else get_proxy()
@@ -218,8 +221,11 @@ def main(get_free=True, get_paid=True) -> None:
                     failed = False
                     if tb is not None:
                         logger.info("send free data to telegram group")
-                        tb.send_message(chat_id=BOT_CHAT_ID, text=format_to_string(
-                            free, "Free Song Ranking"), reply_markup=markup_button, parse_mode="MarkdownV2")
+                        txt = format_to_string(free, "Free Song Ranking")
+                        try:
+                            tb.send_message(chat_id=BOT_CHAT_ID, text=txt, reply_markup=markup_button, parse_mode="MarkdownV2")
+                        except telebot.apihelper.ApiTelegramException:
+                            logger.error("Try send message error: %s", txt)
                 else:
                     logger.fatal(
                         "get free data error! %s(using proxy but get error data)", free)
@@ -240,8 +246,11 @@ def main(get_free=True, get_paid=True) -> None:
                 json.dump(paid, file, ensure_ascii=False, indent=2)
             if tb is not None:
                 logger.info("send paid data to telegram group")
-                tb.send_message(chat_id=BOT_CHAT_ID, text=format_to_string(
-                    paid, "Paid Song Ranking"), reply_markup=markup_button, parse_mode="MarkdownV2")
+                txt = format_to_string(paid, "Paid Song Ranking")
+                try:
+                    tb.send_message(chat_id=BOT_CHAT_ID, text=txt, reply_markup=markup_button, parse_mode="MarkdownV2")
+                except telebot.apihelper.ApiTelegramException:
+                    logger.error("Try send message error: %s", txt)
         else:
             failed = True
             proxy = TEST_PROXY if LOCAL_TEST else get_proxy()
@@ -255,8 +264,11 @@ def main(get_free=True, get_paid=True) -> None:
                     failed = False
                     if tb is not None:
                         logger.info("send paid data to telegram group")
-                        tb.send_message(chat_id=BOT_CHAT_ID, text=format_to_string(
-                            paid, "Paid Song Ranking"), reply_markup=markup_button, parse_mode="MarkdownV2")
+                        txt = format_to_string(paid, "Paid Song Ranking")
+                    try:
+                        tb.send_message(chat_id=BOT_CHAT_ID, text=txt, reply_markup=markup_button, parse_mode="MarkdownV2")
+                    except telebot.apihelper.ApiTelegramException:
+                        logger.error("Try send message error: %s", txt)
                 else:
                     logger.fatal(
                         "get paid data error! %s(using proxy but get error data)", paid)
