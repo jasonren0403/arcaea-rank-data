@@ -10,7 +10,7 @@ import logging
 from typing import Any, Tuple
 import telnetlib  # todo: replace with un-deprecated package
 import telebot
-from telebot.formatting import mbold, format_text
+from telebot.formatting import mbold, format_text, escape_markdown
 from telebot.util import quick_markup
 
 import requests
@@ -168,10 +168,11 @@ def format_to_string(obj: Any, title: str) -> str:
         else:
             status_txt = "→"
         per_link_txt_list.append(f"[{rank+1}]{status_txt}: {stitle}({sartist})")
-    return format_text(
+    return escape_markdown(
+        format_text(
         mbold(content=title),
         *per_link_txt_list
-    )
+    ))
 
 
 def main(get_free=True, get_paid=True) -> None:
