@@ -111,7 +111,7 @@ def process_bg(datalist, source, proxy_ip=None):
         if req.status_code == 200:
             logger.info("downloading %s from url %s",
                         item['song_id'], item['url'])
-            new_path = local_path.with_name(item['song_id'])
+            new_path = local_path.with_name(item['song_id']).with_suffix(".jpg")
             with open(new_path, 'wb') as file:
                 file.write(req.content)
         else:
