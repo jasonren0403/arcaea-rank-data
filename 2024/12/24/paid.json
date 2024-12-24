@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "eightem",
+    "title": {
+      "ja": "8-EM",
+      "en": "8-EM"
+    },
+    "artist": "Sampling Masters AYA",
+    "rank": 0,
+    "status": 1,
+    "bg": "822dfeea8a33546d167fa2f9e1338d05"
+  },
+  {
+    "song_id": "designant",
+    "title": {
+      "ja": "Designant.",
+      "en": "Designant."
+    },
+    "artist": "Designant",
+    "rank": 1,
+    "status": 2,
+    "bg": "e220c035cfacfc7b9d80527e5babc22d"
+  },
+  {
+    "song_id": "blazingair",
+    "title": {
+      "ja": "BlazinG AIR",
+      "en": "BlazinG AIR"
+    },
+    "artist": "kanone",
+    "rank": 2,
+    "status": 0,
+    "bg": "20e9d6c51e7b4e7ac0d97e590fca2d3d"
+  },
+  {
+    "song_id": "daat",
+    "title": {
+      "ja": "DA'AT -The First Seeker of Souls-",
+      "en": "DA'AT -The First Seeker of Souls-"
+    },
+    "artist": "水野健治 VS 大国奏音",
+    "rank": 3,
+    "status": -3,
+    "bg": "3eb242d50b93b1cbff3c6b4a43495aa4"
+  },
+  {
+    "song_id": "ikazuchi",
+    "title": {
+      "ja": "怒槌",
+      "en": "Ikazuchi"
+    },
+    "artist": "光吉猛修",
+    "rank": 4,
+    "status": 0,
+    "bg": "b5afa566ddb88b664cf0ac6f9ad6224e"
+  },
+  {
+    "song_id": "garakuta",
+    "title": {
+      "ja": "Garakuta Doll Play",
+      "en": "Garakuta Doll Play"
+    },
+    "artist": "t+pazolite",
+    "rank": 5,
+    "status": 0,
+    "bg": "73a932b02fe091ad8780076a42975360"
+  },
+  {
+    "song_id": "worldvanquisher",
+    "title": {
+      "ja": "World Vanquisher",
+      "en": "World Vanquisher"
+    },
+    "artist": "void (Mournfinale)",
+    "rank": 6,
+    "status": 1,
+    "bg": "9c7bec92d6a7498598162e103c3b1fcb"
+  },
+  {
+    "song_id": "lamentrain",
+    "title": {
+      "ja": "Lament Rain",
+      "en": "Lament Rain"
+    },
+    "artist": "Ashrount vs. 打打だいず",
+    "rank": 7,
+    "status": -1,
+    "bg": "d4090c1e65e48d2e9be346fafb3d3e4a"
+  },
+  {
+    "song_id": "breachoffaith",
+    "title": {
+      "ja": "Breach of Faith",
+      "en": "Breach of Faith"
+    },
+    "artist": "Supire feat.eili",
+    "rank": 8,
+    "status": 0,
+    "bg": "74881713cbf35d28b09779572f33eba8"
+  },
+  {
+    "song_id": "testify",
+    "title": {
+      "ja": "Testify",
+      "en": "Testify"
+    },
+    "artist": "void (Mournfinale) feat. 星熊南巫",
+    "rank": 9,
+    "status": 2,
+    "bg": "3e7473fa9994b67526fd13e27ebf6658"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "ja": "Tempestissimo",
+      "en": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 10,
+    "status": -1,
+    "bg": "7bb26e82471908d78124e7fcf7cb6066"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "ja": "Grievous Lady",
+      "en": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 11,
+    "status": -1,
+    "bg": "2d04696392d361b1ba0fafabf396b2d6"
+  },
+  {
+    "song_id": "swansong",
+    "title": {
+      "ja": "Swan Song",
+      "en": "Swan Song"
+    },
+    "artist": "void (Mournfinale)",
+    "rank": 12,
+    "status": 0,
+    "bg": "dcc6457f1bf6e32e4ee6fc0d8359309c"
+  },
+  {
+    "song_id": "soundwitch",
+    "title": {
+      "ja": "SOUNDWiTCH",
+      "en": "SOUNDWiTCH"
+    },
+    "artist": "HATE",
+    "rank": 13,
+    "status": 10,
+    "bg": "551a93962bcb1710900ede225018d25c"
+  },
+  {
+    "song_id": "alterego",
+    "title": {
+      "ja": "ALTER EGO",
+      "en": "ALTER EGO"
+    },
+    "artist": "Yuta Imai vs Qlarabelle",
+    "rank": 14,
+    "status": 6,
+    "bg": "505f0182e2e95d2b3e7f79a03acebd8f"
+  }
+]
