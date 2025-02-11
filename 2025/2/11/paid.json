@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "straightintolights",
+    "title": {
+      "ja": "Straight into the lights",
+      "en": "Straight into the lights"
+    },
+    "artist": "Cosmograph",
+    "rank": 0,
+    "status": 0,
+    "bg": "58db8368ce2ce5cba20a42101ef784a2"
+  },
+  {
+    "song_id": "designant",
+    "title": {
+      "ja": "Designant.",
+      "en": "Designant."
+    },
+    "artist": "Designant",
+    "rank": 1,
+    "status": 0,
+    "bg": "25ba9877b0185b8ad2dac87dc572c618"
+  },
+  {
+    "song_id": "breakbreak",
+    "title": {
+      "ja": "BREaK! BREaK! BREaK!",
+      "en": "BREaK! BREaK! BREaK!"
+    },
+    "artist": "HiTECH NINJA vs Cranky",
+    "rank": 2,
+    "status": 0,
+    "bg": "dc9c1a22e4a86b55a3486e213edb75cd"
+  },
+  {
+    "song_id": "virtus",
+    "title": {
+      "ja": "ViRTUS",
+      "en": "ViRTUS"
+    },
+    "artist": "Hiro",
+    "rank": 3,
+    "status": 0,
+    "bg": "810e74255534bff7dff62edf08d39e46"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "ja": "Tempestissimo",
+      "en": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 4,
+    "status": 0,
+    "bg": "95c6113fe67cef8f65c240717eadd169"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "ja": "Grievous Lady",
+      "en": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 5,
+    "status": 0,
+    "bg": "bb2f4bd592042beeef638ceb61c2e2e4"
+  },
+  {
+    "song_id": "yomibitoshirazu",
+    "title": {
+      "ja": "ヨミビトシラズ",
+      "en": "yomibito_shirazu"
+    },
+    "artist": "Limonène (サノカモメ+月島春果)",
+    "rank": 6,
+    "status": 0,
+    "bg": "da60bfb1ad38f76e383437ec6f6e603a"
+  },
+  {
+    "song_id": "testify",
+    "title": {
+      "ja": "Testify",
+      "en": "Testify"
+    },
+    "artist": "void (Mournfinale) feat. 星熊南巫",
+    "rank": 7,
+    "status": 0,
+    "bg": "e5e207e1ea64ddca869641aa4b2847af"
+  },
+  {
+    "song_id": "lamentrain",
+    "title": {
+      "ja": "Lament Rain",
+      "en": "Lament Rain"
+    },
+    "artist": "Ashrount vs. 打打だいず",
+    "rank": 8,
+    "status": 0,
+    "bg": "45a00fee26864d3553acc6d8c10d44ee"
+  },
+  {
+    "song_id": "infinitestrife",
+    "title": {
+      "ja": "Infinite Strife,",
+      "en": "Infinite Strife,"
+    },
+    "artist": "BlackYooh vs. siromaru",
+    "rank": 9,
+    "status": 2,
+    "bg": "bccdaff7479e80944a536c5761a5beaf"
+  },
+  {
+    "song_id": "breachoffaith",
+    "title": {
+      "ja": "Breach of Faith",
+      "en": "Breach of Faith"
+    },
+    "artist": "Supire feat.eili",
+    "rank": 10,
+    "status": 0,
+    "bg": "817ad1a10256890bb35149fff272d0a5"
+  },
+  {
+    "song_id": "arcanaeden",
+    "title": {
+      "ja": "Arcana Eden",
+      "en": "Arcana Eden"
+    },
+    "artist": "Team Grimoire vs Sakuzyo vs Laur",
+    "rank": 11,
+    "status": -2,
+    "bg": "587079a80cb011f3b0a4024f4c0f180b"
+  },
+  {
+    "song_id": "alterego",
+    "title": {
+      "ja": "ALTER EGO",
+      "en": "ALTER EGO"
+    },
+    "artist": "Yuta Imai vs Qlarabelle",
+    "rank": 12,
+    "status": 1,
+    "bg": "9b7296f6209c07a7531148b3e3c84268"
+  },
+  {
+    "song_id": "pentiment",
+    "title": {
+      "ja": "Pentiment",
+      "en": "Pentiment"
+    },
+    "artist": "Nothing But Requiem with Museo",
+    "rank": 13,
+    "status": -1,
+    "bg": "35a53224f53e32eede9d3d52ebf84872"
+  },
+  {
+    "song_id": "fractureray",
+    "title": {
+      "ja": "Fracture Ray",
+      "en": "Fracture Ray"
+    },
+    "artist": "Sakuzyo",
+    "rank": 14,
+    "status": 0,
+    "bg": "8e3322d29ab26d5f292669e747422deb"
+  }
+]
