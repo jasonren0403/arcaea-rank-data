@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "designant",
+    "title": {
+      "ja": "Designant.",
+      "en": "Designant."
+    },
+    "artist": "Designant",
+    "rank": 0,
+    "status": 0,
+    "bg": "a2a9eb7f1edcc9488062c5e2bd928853"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "ja": "Grievous Lady",
+      "en": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 1,
+    "status": 2,
+    "bg": "c69b04b5746d3f018b9cc1931a591ee3"
+  },
+  {
+    "song_id": "testify",
+    "title": {
+      "ja": "Testify",
+      "en": "Testify"
+    },
+    "artist": "void (Mournfinale) feat. 星熊南巫",
+    "rank": 2,
+    "status": 0,
+    "bg": "d8f7684cbf0bcbb576401b1b2bcc07ef"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "ja": "Tempestissimo",
+      "en": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 3,
+    "status": -2,
+    "bg": "c4891e75a83749360d3e63cfda034839"
+  },
+  {
+    "song_id": "straightintolights",
+    "title": {
+      "ja": "Straight into the lights",
+      "en": "Straight into the lights"
+    },
+    "artist": "Cosmograph",
+    "rank": 4,
+    "status": 2,
+    "bg": "a22f7aba709dc2776003b9dacd3af392"
+  },
+  {
+    "song_id": "lamentrain",
+    "title": {
+      "ja": "Lament Rain",
+      "en": "Lament Rain"
+    },
+    "artist": "Ashrount vs. 打打だいず",
+    "rank": 5,
+    "status": -1,
+    "bg": "960babecf0215c3437b7021c91e09722"
+  },
+  {
+    "song_id": "breachoffaith",
+    "title": {
+      "ja": "Breach of Faith",
+      "en": "Breach of Faith"
+    },
+    "artist": "Supire feat.eili",
+    "rank": 6,
+    "status": 4,
+    "bg": "817a5158dbf448546edbb1558edefe71"
+  },
+  {
+    "song_id": "alterego",
+    "title": {
+      "ja": "ALTER EGO",
+      "en": "ALTER EGO"
+    },
+    "artist": "Yuta Imai vs Qlarabelle",
+    "rank": 7,
+    "status": 4,
+    "bg": "e00692dcf1802081154aaeccaeded0bd"
+  },
+  {
+    "song_id": "arcanaeden",
+    "title": {
+      "ja": "Arcana Eden",
+      "en": "Arcana Eden"
+    },
+    "artist": "Team Grimoire vs Sakuzyo vs Laur",
+    "rank": 8,
+    "status": -3,
+    "bg": "f5f95f1600b4e6c4f060ce2b1f79bb93"
+  },
+  {
+    "song_id": "fractureray",
+    "title": {
+      "ja": "Fracture Ray",
+      "en": "Fracture Ray"
+    },
+    "artist": "Sakuzyo",
+    "rank": 9,
+    "status": 0,
+    "bg": "b0ca573d501d05cd00f52c43f3159ab6"
+  },
+  {
+    "song_id": "infinitestrife",
+    "title": {
+      "ja": "Infinite Strife,",
+      "en": "Infinite Strife,"
+    },
+    "artist": "BlackYooh vs. siromaru",
+    "rank": 10,
+    "status": -3,
+    "bg": "7d23a725cd0a18b03d748c61098c071c"
+  },
+  {
+    "song_id": "pentiment",
+    "title": {
+      "ja": "Pentiment",
+      "en": "Pentiment"
+    },
+    "artist": "Nothing But Requiem with Museo",
+    "rank": 11,
+    "status": -3,
+    "bg": "6f9e709b556eb904b8954a625f064aad"
+  },
+  {
+    "song_id": "sheriruth",
+    "title": {
+      "ja": "Sheriruth",
+      "en": "Sheriruth"
+    },
+    "artist": "Team Grimoire",
+    "rank": 12,
+    "status": 0,
+    "bg": "7b0f4578fa8fc99169738a3ca08ba0e4"
+  },
+  {
+    "song_id": "daat",
+    "title": {
+      "ja": "DA'AT -The First Seeker of Souls-",
+      "en": "DA'AT -The First Seeker of Souls-"
+    },
+    "artist": "水野健治 VS 大国奏音",
+    "rank": 13,
+    "status": 50,
+    "bg": "de5d6b1aae27132d5493392b83b5d00b"
+  },
+  {
+    "song_id": "virtus",
+    "title": {
+      "ja": "ViRTUS",
+      "en": "ViRTUS"
+    },
+    "artist": "Hiro",
+    "rank": 14,
+    "status": 9,
+    "bg": "322e9e8a87247f0edd83790b424006ea"
+  }
+]
