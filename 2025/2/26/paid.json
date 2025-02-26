@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "blazingair",
+    "title": {
+      "ja": "BlazinG AIR",
+      "en": "BlazinG AIR"
+    },
+    "artist": "kanone",
+    "rank": 0,
+    "status": 29,
+    "bg": "f768263aaf961fe60357292b470175a7"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "ja": "Grievous Lady",
+      "en": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 1,
+    "status": 0,
+    "bg": "c69b04b5746d3f018b9cc1931a591ee3"
+  },
+  {
+    "song_id": "eightem",
+    "title": {
+      "ja": "8-EM",
+      "en": "8-EM"
+    },
+    "artist": "Sampling Masters AYA",
+    "rank": 2,
+    "status": 26,
+    "bg": "791197659ea9ed7fe520e83eff759aae"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "ja": "Tempestissimo",
+      "en": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 3,
+    "status": 0,
+    "bg": "c4891e75a83749360d3e63cfda034839"
+  },
+  {
+    "song_id": "daat",
+    "title": {
+      "ja": "DA'AT -The First Seeker of Souls-",
+      "en": "DA'AT -The First Seeker of Souls-"
+    },
+    "artist": "水野健治 VS 大国奏音",
+    "rank": 4,
+    "status": 9,
+    "bg": "de5d6b1aae27132d5493392b83b5d00b"
+  },
+  {
+    "song_id": "sheriruth",
+    "title": {
+      "ja": "Sheriruth",
+      "en": "Sheriruth"
+    },
+    "artist": "Team Grimoire",
+    "rank": 5,
+    "status": 7,
+    "bg": "7b0f4578fa8fc99169738a3ca08ba0e4"
+  },
+  {
+    "song_id": "impact",
+    "title": {
+      "ja": "IMPACT",
+      "en": "IMPACT"
+    },
+    "artist": "USAO feat. 光吉猛修",
+    "rank": 6,
+    "status": 42,
+    "bg": "917aceca79844c3e89492f2427c5e66d"
+  },
+  {
+    "song_id": "cyaegha",
+    "title": {
+      "ja": "Cyaegha",
+      "en": "Cyaegha"
+    },
+    "artist": "USAO",
+    "rank": 7,
+    "status": 17,
+    "bg": "2a36e9b31f10584de5b76e375c0de8e4"
+  },
+  {
+    "song_id": "fractureray",
+    "title": {
+      "ja": "Fracture Ray",
+      "en": "Fracture Ray"
+    },
+    "artist": "Sakuzyo",
+    "rank": 8,
+    "status": 1,
+    "bg": "b0ca573d501d05cd00f52c43f3159ab6"
+  },
+  {
+    "song_id": "pragmatism",
+    "title": {
+      "ja": "PRAGMATISM",
+      "en": "PRAGMATISM"
+    },
+    "artist": "Laur",
+    "rank": 9,
+    "status": 6,
+    "bg": "7bfac725ace9f5f7d80cc00f8e4e4d77"
+  },
+  {
+    "song_id": "lastcelebration",
+    "title": {
+      "ja": "Last Celebration",
+      "en": "Last Celebration"
+    },
+    "artist": "Laur vs CK",
+    "rank": 10,
+    "status": 53,
+    "bg": "f9ade7726bc23521f32526acd87abeca"
+  },
+  {
+    "song_id": "trrricksters",
+    "title": {
+      "ja": "Trrricksters!!",
+      "en": "Trrricksters!!"
+    },
+    "artist": "s-don vs. 翡乃イスカ",
+    "rank": 11,
+    "status": 64,
+    "bg": "91723d0049775a121caa4b0f993591b4"
+  },
+  {
+    "song_id": "pupa",
+    "title": {
+      "ja": "PUPA",
+      "en": "PUPA"
+    },
+    "artist": "モリモリあつし",
+    "rank": 12,
+    "status": 53,
+    "bg": "1bc35c807fe77c2aa2bd737e755c5c94"
+  },
+  {
+    "song_id": "ringedgenesis",
+    "title": {
+      "ja": "Ringed Genesis",
+      "en": "Ringed Genesis"
+    },
+    "artist": "Edelritter",
+    "rank": 13,
+    "status": 24,
+    "bg": "f98a02a184f18f45bf682710cd337a91"
+  },
+  {
+    "song_id": "worldvanquisher",
+    "title": {
+      "ja": "World Vanquisher",
+      "en": "World Vanquisher"
+    },
+    "artist": "void (Mournfinale)",
+    "rank": 14,
+    "status": 36,
+    "bg": "6b0af67571cf2475507d42ef5c06e5e4"
+  }
+]

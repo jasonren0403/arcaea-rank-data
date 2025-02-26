@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "inkarusi",
+    "title": {
+      "ja": "inkar-usi",
+      "en": "inkar-usi"
+    },
+    "artist": "DIA",
+    "rank": 0,
+    "status": 6,
+    "bg": "b2dce1b563f5c40978dc8e1d8a8b77e0"
+  },
+  {
+    "song_id": "sakurafubuki",
+    "title": {
+      "ja": "Sakura Fubuki",
+      "en": "Sakura Fubuki"
+    },
+    "artist": "Street",
+    "rank": 1,
+    "status": 11,
+    "bg": "4e3748b8a634ca4eb168497392607aa3"
+  },
+  {
+    "song_id": "goodtek",
+    "title": {
+      "ja": "GOODTEK (Arcaea Edit)",
+      "en": "GOODTEK (Arcaea Edit)"
+    },
+    "artist": "EBIMAYO",
+    "rank": 2,
+    "status": -2,
+    "bg": "c5b6bc568b510ef4e699592d873c5853"
+  },
+  {
+    "song_id": "clotho",
+    "title": {
+      "ja": "クロートーと星の観測者",
+      "en": "Clotho and the stargazer"
+    },
+    "artist": "しーけー",
+    "rank": 3,
+    "status": 23,
+    "bg": "a32a3f94861feaf601ac93e031d57e81"
+  },
+  {
+    "song_id": "blacklotus",
+    "title": {
+      "ja": "Black Lotus",
+      "en": "Black Lotus"
+    },
+    "artist": "wa.",
+    "rank": 4,
+    "status": 69,
+    "bg": "97895d55cb6f6946c12fe3aaf5845203"
+  },
+  {
+    "song_id": "hybris",
+    "title": {
+      "ja": "ヒュブリスの頂に聳えるのは",
+      "en": "Hybris (The one who shattered)"
+    },
+    "artist": "qfeileadh feat.のあ",
+    "rank": 5,
+    "status": 63,
+    "bg": "027f1b16fc9bce03819d3084b0b57012"
+  },
+  {
+    "song_id": "felys",
+    "title": {
+      "ja": "felys final remix",
+      "en": "felys final remix"
+    },
+    "artist": "onoken",
+    "rank": 6,
+    "status": 71,
+    "bg": "2d49436534a5f9db748b761deaf687d9"
+  },
+  {
+    "song_id": "theformula",
+    "title": {
+      "ja": "The Formula",
+      "en": "The Formula"
+    },
+    "artist": "Junk",
+    "rank": 7,
+    "status": 28,
+    "bg": "cdce14cc1e6ec0632fa25a4883b0a642"
+  },
+  {
+    "song_id": "alephzero",
+    "title": {
+      "ja": "Aleph-0",
+      "en": "Aleph-0"
+    },
+    "artist": "LeaF",
+    "rank": 8,
+    "status": 49,
+    "bg": "dd3934e5062adc3959b7b9b6b810d816"
+  },
+  {
+    "song_id": "gengaozo",
+    "title": {
+      "ja": "G e n g a o z o",
+      "en": "G e n g a o z o"
+    },
+    "artist": "-45",
+    "rank": 9,
+    "status": 42,
+    "bg": "93b16770c832f00d005e3de91e5b411f"
+  },
+  {
+    "song_id": "nhelv",
+    "title": {
+      "ja": "Nhelv",
+      "en": "Nhelv"
+    },
+    "artist": "Silentroom",
+    "rank": 10,
+    "status": 15,
+    "bg": "2c965eb1f1c0b1e497979b3ca27739ff"
+  },
+  {
+    "song_id": "energysynergymatrix",
+    "title": {
+      "ja": "ENERGY SYNERGY MATRIX",
+      "en": "ENERGY SYNERGY MATRIX"
+    },
+    "artist": "Tanchiky",
+    "rank": 11,
+    "status": 87,
+    "bg": "cf2e7fe52e9b937c6e222dd3a7ebe68d"
+  },
+  {
+    "song_id": "lapis",
+    "title": {
+      "ja": "Lapis",
+      "en": "Lapis"
+    },
+    "artist": "SHIKI",
+    "rank": 12,
+    "status": 84,
+    "bg": "2c55f40d3138c23da1aa4efcdba2f4a1"
+  },
+  {
+    "song_id": "lifeispiano",
+    "title": {
+      "ja": "Life is PIANO",
+      "en": "Life is PIANO"
+    },
+    "artist": "Junk",
+    "rank": 13,
+    "status": 84,
+    "bg": "eb2213764a40be0d7ffa719835b00e16"
+  },
+  {
+    "song_id": "take",
+    "title": {
+      "ja": "竹",
+      "en": "Bamboo"
+    },
+    "artist": "立秋 feat.ちょこ",
+    "rank": 14,
+    "status": 65,
+    "bg": "4cc2aaa734ca2cc4f6c5b88abe3cd111"
+  }
+]
