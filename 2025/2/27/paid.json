@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "aethercrest",
+    "title": {
+      "ja": "Aether Crest: Astral",
+      "en": "Aether Crest: Astral"
+    },
+    "artist": "void (Mournfinale) × 水野健治",
+    "rank": 0,
+    "status": 327,
+    "bg": "4d8e97cf600019dbb92e75cbcde87b31"
+  },
+  {
+    "song_id": "daat",
+    "title": {
+      "ja": "DA'AT -The First Seeker of Souls-",
+      "en": "DA'AT -The First Seeker of Souls-"
+    },
+    "artist": "水野健治 VS 大国奏音",
+    "rank": 1,
+    "status": 3,
+    "bg": "50d76c58c80641a270f3b0dfaa557471"
+  },
+  {
+    "song_id": "blazingair",
+    "title": {
+      "ja": "BlazinG AIR",
+      "en": "BlazinG AIR"
+    },
+    "artist": "kanone",
+    "rank": 2,
+    "status": -2,
+    "bg": "0cc8976b7fbf3b3792838c30f0766019"
+  },
+  {
+    "song_id": "eightem",
+    "title": {
+      "ja": "8-EM",
+      "en": "8-EM"
+    },
+    "artist": "Sampling Masters AYA",
+    "rank": 3,
+    "status": -1,
+    "bg": "c9328ba7f9d956ccbaf33883aebab67c"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "ja": "Tempestissimo",
+      "en": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 4,
+    "status": -1,
+    "bg": "3dfd248c7c0c47b14b7b11215756ef44"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "ja": "Grievous Lady",
+      "en": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 5,
+    "status": -4,
+    "bg": "db0271b10373f8f3d6c14fa3b7dd23b4"
+  },
+  {
+    "song_id": "sheriruth",
+    "title": {
+      "ja": "Sheriruth",
+      "en": "Sheriruth"
+    },
+    "artist": "Team Grimoire",
+    "rank": 6,
+    "status": -1,
+    "bg": "f28f7b7465ca8f7100a1d442b670ab45"
+  },
+  {
+    "song_id": "impact",
+    "title": {
+      "ja": "IMPACT",
+      "en": "IMPACT"
+    },
+    "artist": "USAO feat. 光吉猛修",
+    "rank": 7,
+    "status": -1,
+    "bg": "f9a1ba666e405bb20c3bef71d4d58a5c"
+  },
+  {
+    "song_id": "pragmatism",
+    "title": {
+      "ja": "PRAGMATISM",
+      "en": "PRAGMATISM"
+    },
+    "artist": "Laur",
+    "rank": 8,
+    "status": 1,
+    "bg": "81f2d558132208a8c8b6ed77f50575b3"
+  },
+  {
+    "song_id": "fractureray",
+    "title": {
+      "ja": "Fracture Ray",
+      "en": "Fracture Ray"
+    },
+    "artist": "Sakuzyo",
+    "rank": 9,
+    "status": -1,
+    "bg": "0f5fdb7ce90b91506b7b4c607039fef2"
+  },
+  {
+    "song_id": "cyaegha",
+    "title": {
+      "ja": "Cyaegha",
+      "en": "Cyaegha"
+    },
+    "artist": "USAO",
+    "rank": 10,
+    "status": -3,
+    "bg": "be626d063d83c653b2a9c8cc135fbff8"
+  },
+  {
+    "song_id": "spidersthread",
+    "title": {
+      "ja": "蜘蛛の糸",
+      "en": "Spider's Thread"
+    },
+    "artist": "きくお×cosMo＠暴走P feat.影縫英",
+    "rank": 11,
+    "status": 6,
+    "bg": "b1be3b7a487703d00b02ba5f770be735"
+  },
+  {
+    "song_id": "worldvanquisher",
+    "title": {
+      "ja": "World Vanquisher",
+      "en": "World Vanquisher"
+    },
+    "artist": "void (Mournfinale)",
+    "rank": 12,
+    "status": 2,
+    "bg": "5e4fcac7ab7f3808ee5ac8f4e23f4927"
+  },
+  {
+    "song_id": "trrricksters",
+    "title": {
+      "ja": "Trrricksters!!",
+      "en": "Trrricksters!!"
+    },
+    "artist": "s-don vs. 翡乃イスカ",
+    "rank": 13,
+    "status": -2,
+    "bg": "36a889d97356d2b6ac62412db028cbde"
+  },
+  {
+    "song_id": "lastcelebration",
+    "title": {
+      "ja": "Last Celebration",
+      "en": "Last Celebration"
+    },
+    "artist": "Laur vs CK",
+    "rank": 14,
+    "status": -4,
+    "bg": "a2c113eaec6de3686d290751f9d8df7c"
+  }
+]
