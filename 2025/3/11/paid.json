@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "megalovaniarmx",
+    "title": {
+      "ja": "MEGALOVANIA (Camellia Remix)",
+      "en": "MEGALOVANIA (Camellia Remix)"
+    },
+    "artist": "Camellia",
+    "rank": 0,
+    "status": 0,
+    "bg": "3943038e7dfab45ad5f966f007ef5213"
+  },
+  {
+    "song_id": "megalovania",
+    "title": {
+      "ja": "MEGALOVANIA",
+      "en": "MEGALOVANIA"
+    },
+    "artist": "Toby Fox",
+    "rank": 1,
+    "status": 1,
+    "bg": "394c7b58ac653088c73f03d4a911314f"
+  },
+  {
+    "song_id": "yourbestnightmare",
+    "title": {
+      "ja": "Your Best Nightmare",
+      "en": "Your Best Nightmare"
+    },
+    "artist": "Toby Fox",
+    "rank": 2,
+    "status": -1,
+    "bg": "47ae71fded16cb9bfb5442058420421b"
+  },
+  {
+    "song_id": "tothemilkyway",
+    "title": {
+      "ja": "To the Milky Way",
+      "en": "To the Milky Way"
+    },
+    "artist": "黒魔",
+    "rank": 3,
+    "status": 3,
+    "bg": "f70b02dc5d96bb9d07d0053b7149fe22"
+  },
+  {
+    "song_id": "deathbyglamour",
+    "title": {
+      "ja": "Death By Glamour",
+      "en": "Death By Glamour"
+    },
+    "artist": "Toby Fox",
+    "rank": 4,
+    "status": -1,
+    "bg": "7c471581f79d72dadda5b9619f908008"
+  },
+  {
+    "song_id": "heartache",
+    "title": {
+      "ja": "Heartache",
+      "en": "Heartache"
+    },
+    "artist": "Toby Fox",
+    "rank": 5,
+    "status": -1,
+    "bg": "7c5dd25c7c06056cd19e2c36b64fad9d"
+  },
+  {
+    "song_id": "lastgoodbye",
+    "title": {
+      "ja": "Last Goodbye",
+      "en": "Last Goodbye"
+    },
+    "artist": "Toby Fox",
+    "rank": 6,
+    "status": -1,
+    "bg": "cd7b132fdffa6a860563a995aec70ae3"
+  },
+  {
+    "song_id": "aethercrest",
+    "title": {
+      "ja": "Aether Crest: Astral",
+      "en": "Aether Crest: Astral"
+    },
+    "artist": "void (Mournfinale) × 水野健治",
+    "rank": 7,
+    "status": 1,
+    "bg": "ae2500b02a58d4cf9761b992e839acf2"
+  },
+  {
+    "song_id": "placebobattler",
+    "title": {
+      "ja": "プラシイボ♥バトラー",
+      "en": "Placebo♥Battler"
+    },
+    "artist": "OSTER Project",
+    "rank": 8,
+    "status": -1,
+    "bg": "9c4976d240c23960881a082bcad1791b"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "ja": "Tempestissimo",
+      "en": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 9,
+    "status": 1,
+    "bg": "ba3129d56243f175070dd481f5ff1db0"
+  },
+  {
+    "song_id": "izana",
+    "title": {
+      "ja": "IZANA",
+      "en": "IZANA"
+    },
+    "artist": "t+pazolite vs P*Light",
+    "rank": 10,
+    "status": 1,
+    "bg": "28bedbc75251646eb7bcc1c001e7aa9e"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "ja": "Grievous Lady",
+      "en": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 11,
+    "status": 1,
+    "bg": "5a443780281b8e88c5e5b0d8b7e7726c"
+  },
+  {
+    "song_id": "invertedworld",
+    "title": {
+      "ja": "Inverted World",
+      "en": "Inverted World"
+    },
+    "artist": "ARForest",
+    "rank": 12,
+    "status": -3,
+    "bg": "f1f03998ad0388e183578a6e651aa979"
+  },
+  {
+    "song_id": "infinitestrife",
+    "title": {
+      "ja": "Infinite Strife,",
+      "en": "Infinite Strife,"
+    },
+    "artist": "BlackYooh vs. siromaru",
+    "rank": 13,
+    "status": 3,
+    "bg": "d2daa9359bab51fbe914b3638feeef58"
+  },
+  {
+    "song_id": "designant",
+    "title": {
+      "ja": "Designant.",
+      "en": "Designant."
+    },
+    "artist": "Designant",
+    "rank": 14,
+    "status": 14,
+    "bg": "c52e80dc469b6fd6c15b0694b21fd4ab"
+  }
+]
