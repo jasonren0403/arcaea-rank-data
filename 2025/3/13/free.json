@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "inkarusi",
+    "title": {
+      "ja": "inkar-usi",
+      "en": "inkar-usi"
+    },
+    "artist": "DIA",
+    "rank": 0,
+    "status": 0,
+    "bg": "a0c365094ed57ff708dc04106ea4a020"
+  },
+  {
+    "song_id": "kanagawa",
+    "title": {
+      "ja": "神奈川電脳暗渠",
+      "en": "Kanagawa Cyber Culvert"
+    },
+    "artist": "南ゆに",
+    "rank": 1,
+    "status": 1,
+    "bg": "540d892148557ef975337a4d39e90d5f"
+  },
+  {
+    "song_id": "sayonarahatsukoi",
+    "title": {
+      "ja": "Sayonara Hatsukoi",
+      "en": "Sayonara Hatsukoi"
+    },
+    "artist": "REDSHiFT",
+    "rank": 2,
+    "status": 2,
+    "bg": "50cb7a60ce78239da8ced4235aacccd7"
+  },
+  {
+    "song_id": "innocence",
+    "title": {
+      "ja": "Innocence",
+      "en": "Innocence"
+    },
+    "artist": "Powerless feat. Sennzai",
+    "rank": 3,
+    "status": -2,
+    "bg": "59eb9a976bce108264ee2b18b7655df3"
+  },
+  {
+    "song_id": "chronostasis",
+    "title": {
+      "ja": "Chronostasis",
+      "en": "Chronostasis"
+    },
+    "artist": "黒皇帝",
+    "rank": 4,
+    "status": -1,
+    "bg": "c39d5030cb72009b6eb6c4eb0dc3dd7d"
+  },
+  {
+    "song_id": "shadesoflight",
+    "title": {
+      "ja": "Shades of Light in a Transcendent Realm",
+      "en": "Shades of Light in a Transcendent Realm"
+    },
+    "artist": "ak+q",
+    "rank": 5,
+    "status": 0,
+    "bg": "5ae439be07a3410bc25f4d6217d3cf58"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "ja": "Lost Civilization",
+      "en": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 6,
+    "status": 0,
+    "bg": "f3c650323684df7185ed1112e13910a0"
+  },
+  {
+    "song_id": "redandblue",
+    "title": {
+      "ja": "Red and Blue",
+      "en": "Red and Blue"
+    },
+    "artist": "Silentroom",
+    "rank": 7,
+    "status": 2,
+    "bg": "ea796fee825ded4ba9c436481c1f3313"
+  },
+  {
+    "song_id": "sakurafubuki",
+    "title": {
+      "ja": "Sakura Fubuki",
+      "en": "Sakura Fubuki"
+    },
+    "artist": "Street",
+    "rank": 8,
+    "status": 0,
+    "bg": "c83cde98e658f4a5d1ca984427faf1df"
+  },
+  {
+    "song_id": "goodtek",
+    "title": {
+      "ja": "GOODTEK (Arcaea Edit)",
+      "en": "GOODTEK (Arcaea Edit)"
+    },
+    "artist": "EBIMAYO",
+    "rank": 9,
+    "status": 2,
+    "bg": "a2b460f47a81b8534ff734499b772a9c"
+  },
+  {
+    "song_id": "anokumene",
+    "title": {
+      "ja": "Anökumene",
+      "en": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 10,
+    "status": -3,
+    "bg": "6e17ac1901ad7635dba2e6e734716ce2"
+  },
+  {
+    "song_id": "infinityheaven",
+    "title": {
+      "ja": "Infinity Heaven",
+      "en": "Infinity Heaven"
+    },
+    "artist": "HyuN",
+    "rank": 11,
+    "status": 1,
+    "bg": "c5d03545478883a96878abc2db1f028e"
+  },
+  {
+    "song_id": "grimheart",
+    "title": {
+      "ja": "Grimheart",
+      "en": "Grimheart"
+    },
+    "artist": "Puru",
+    "rank": 12,
+    "status": -2,
+    "bg": "29e3a1c9f460ea7398ac07746438a4e7"
+  },
+  {
+    "song_id": "epicurus",
+    "title": {
+      "ja": "エピクロスの虹はもう見えない",
+      "en": "Hidden Rainbows of Epicurus"
+    },
+    "artist": "SYNC.ART'S feat.Misato",
+    "rank": 13,
+    "status": 5,
+    "bg": "42d09f5b36879faffe5568e51abc1b39"
+  },
+  {
+    "song_id": "oblivia",
+    "title": {
+      "ja": "Oblivia",
+      "en": "Oblivia"
+    },
+    "artist": "Saiph",
+    "rank": 14,
+    "status": 2,
+    "bg": "ec856fd3d9293fb8e9c19eb2dfc0fa95"
+  }
+]
