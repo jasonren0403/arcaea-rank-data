@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "tothemilkyway",
+    "title": {
+      "ja": "To the Milky Way",
+      "en": "To the Milky Way"
+    },
+    "artist": "黒魔",
+    "rank": 0,
+    "status": 0,
+    "bg": "2eeece5735f6854205bda967244e434a"
+  },
+  {
+    "song_id": "megalovaniarmx",
+    "title": {
+      "ja": "MEGALOVANIA (Camellia Remix)",
+      "en": "MEGALOVANIA (Camellia Remix)"
+    },
+    "artist": "Camellia",
+    "rank": 1,
+    "status": 0,
+    "bg": "f0d83017f6600cee8b68124d695771e4"
+  },
+  {
+    "song_id": "megalovania",
+    "title": {
+      "ja": "MEGALOVANIA",
+      "en": "MEGALOVANIA"
+    },
+    "artist": "Toby Fox",
+    "rank": 2,
+    "status": 0,
+    "bg": "facbe2a7180fcc79bf41fee161fe64d3"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "ja": "Grievous Lady",
+      "en": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 3,
+    "status": 0,
+    "bg": "2c57b7a4e3f42ab9045fccaeb73dfe0c"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "ja": "Tempestissimo",
+      "en": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 4,
+    "status": 0,
+    "bg": "fb2eb81d62bd2f66808c37bc8e0eb0c4"
+  },
+  {
+    "song_id": "yourbestnightmare",
+    "title": {
+      "ja": "Your Best Nightmare",
+      "en": "Your Best Nightmare"
+    },
+    "artist": "Toby Fox",
+    "rank": 5,
+    "status": 0,
+    "bg": "d2e2dae56ab18453178664ba499669a0"
+  },
+  {
+    "song_id": "testify",
+    "title": {
+      "ja": "Testify",
+      "en": "Testify"
+    },
+    "artist": "void (Mournfinale) feat. 星熊南巫",
+    "rank": 6,
+    "status": 0,
+    "bg": "52948cdd7718675ae1a6b98a80781061"
+  },
+  {
+    "song_id": "aethercrest",
+    "title": {
+      "ja": "Aether Crest: Astral",
+      "en": "Aether Crest: Astral"
+    },
+    "artist": "void (Mournfinale) × 水野健治",
+    "rank": 7,
+    "status": 1,
+    "bg": "fe4830ebbb42bad2ca4a8eb2242f6caa"
+  },
+  {
+    "song_id": "designant",
+    "title": {
+      "ja": "Designant.",
+      "en": "Designant."
+    },
+    "artist": "Designant",
+    "rank": 8,
+    "status": -1,
+    "bg": "ef820d217fa537e380299ce23bd3c355"
+  },
+  {
+    "song_id": "alterego",
+    "title": {
+      "ja": "ALTER EGO",
+      "en": "ALTER EGO"
+    },
+    "artist": "Yuta Imai vs Qlarabelle",
+    "rank": 9,
+    "status": 4,
+    "bg": "4b8e69abbc8a3ac210ebafb5b4fc32ae"
+  },
+  {
+    "song_id": "infinitestrife",
+    "title": {
+      "ja": "Infinite Strife,",
+      "en": "Infinite Strife,"
+    },
+    "artist": "BlackYooh vs. siromaru",
+    "rank": 10,
+    "status": -1,
+    "bg": "ea8d2e214e6140f513f593f32ccd48bb"
+  },
+  {
+    "song_id": "fractureray",
+    "title": {
+      "ja": "Fracture Ray",
+      "en": "Fracture Ray"
+    },
+    "artist": "Sakuzyo",
+    "rank": 11,
+    "status": -1,
+    "bg": "ff17b59b02c2b0471d01083641711350"
+  },
+  {
+    "song_id": "pentiment",
+    "title": {
+      "ja": "Pentiment",
+      "en": "Pentiment"
+    },
+    "artist": "Nothing But Requiem with Museo",
+    "rank": 12,
+    "status": 0,
+    "bg": "d55fc5b750fc248a373ec1bd01d5da3f"
+  },
+  {
+    "song_id": "arcanaeden",
+    "title": {
+      "ja": "Arcana Eden",
+      "en": "Arcana Eden"
+    },
+    "artist": "Team Grimoire vs Sakuzyo vs Laur",
+    "rank": 13,
+    "status": -2,
+    "bg": "3b99c48aa7daa141fd4c20ef64f97a8e"
+  },
+  {
+    "song_id": "deathbyglamour",
+    "title": {
+      "ja": "Death By Glamour",
+      "en": "Death By Glamour"
+    },
+    "artist": "Toby Fox",
+    "rank": 14,
+    "status": 1,
+    "bg": "7bdb20b5432537e57847fa241dcc67fc"
+  }
+]
