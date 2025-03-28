@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "trpno",
+    "title": {
+      "ja": "TRPNO",
+      "en": "TRPNO"
+    },
+    "artist": "Nauts",
+    "rank": 0,
+    "status": 2147483647,
+    "bg": "b3558533a95b0e393ad2bf32cf95d2a2"
+  },
+  {
+    "song_id": "blackmirror",
+    "title": {
+      "ja": "Black Mirror on the Wall",
+      "en": "Black Mirror on the Wall"
+    },
+    "artist": "暁Records",
+    "rank": 1,
+    "status": 114,
+    "bg": "41a346f221dd8ded223784946c38a636"
+  },
+  {
+    "song_id": "goodtek",
+    "title": {
+      "ja": "GOODTEK (Arcaea Edit)",
+      "en": "GOODTEK (Arcaea Edit)"
+    },
+    "artist": "EBIMAYO",
+    "rank": 2,
+    "status": -1,
+    "bg": "f98624b305b842dbebbb479cf7e56d28"
+  },
+  {
+    "song_id": "rabbitintheblackroom",
+    "title": {
+      "ja": "Rabbit In The Black Room",
+      "en": "Rabbit In The Black Room"
+    },
+    "artist": "Rabbit House",
+    "rank": 3,
+    "status": 23,
+    "bg": "16b97b39680574bd6945261b19fef056"
+  },
+  {
+    "song_id": "theformula",
+    "title": {
+      "ja": "The Formula",
+      "en": "The Formula"
+    },
+    "artist": "Junk",
+    "rank": 4,
+    "status": 29,
+    "bg": "c69a102258899526fa62989170e3b475"
+  },
+  {
+    "song_id": "felys",
+    "title": {
+      "ja": "felys final remix",
+      "en": "felys final remix"
+    },
+    "artist": "onoken",
+    "rank": 5,
+    "status": 53,
+    "bg": "5ab9ba0791d2b387daa1cd0b95eff465"
+  },
+  {
+    "song_id": "blacklotus",
+    "title": {
+      "ja": "Black Lotus",
+      "en": "Black Lotus"
+    },
+    "artist": "wa.",
+    "rank": 6,
+    "status": 73,
+    "bg": "3e04e53c73c7e1ab900185c1abc2a22d"
+  },
+  {
+    "song_id": "innocence",
+    "title": {
+      "ja": "Innocence",
+      "en": "Innocence"
+    },
+    "artist": "Powerless feat. Sennzai",
+    "rank": 7,
+    "status": -3,
+    "bg": "ec91bab5645530c050446b193d2c47fe"
+  },
+  {
+    "song_id": "inkarusi",
+    "title": {
+      "ja": "inkar-usi",
+      "en": "inkar-usi"
+    },
+    "artist": "DIA",
+    "rank": 8,
+    "status": -3,
+    "bg": "bbd7aaa5502afd67af8cd06c164ef3fb"
+  },
+  {
+    "song_id": "kanagawa",
+    "title": {
+      "ja": "神奈川電脳暗渠",
+      "en": "Kanagawa Cyber Culvert"
+    },
+    "artist": "南ゆに",
+    "rank": 9,
+    "status": -9,
+    "bg": "984104457ccbc84b58c86ff01dc29ea1"
+  },
+  {
+    "song_id": "chronostasis",
+    "title": {
+      "ja": "Chronostasis",
+      "en": "Chronostasis"
+    },
+    "artist": "黒皇帝",
+    "rank": 10,
+    "status": -4,
+    "bg": "e8cb2a324bee3014b6db37d3ded91338"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "ja": "Lost Civilization",
+      "en": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 11,
+    "status": -8,
+    "bg": "1fac4e39f33dd24a62b94364638ea925"
+  },
+  {
+    "song_id": "sayonarahatsukoi",
+    "title": {
+      "ja": "Sayonara Hatsukoi",
+      "en": "Sayonara Hatsukoi"
+    },
+    "artist": "REDSHiFT",
+    "rank": 12,
+    "status": 2,
+    "bg": "4e315ee590b87f427a3a0a34107371fd"
+  },
+  {
+    "song_id": "anokumene",
+    "title": {
+      "ja": "Anökumene",
+      "en": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 13,
+    "status": -5,
+    "bg": "9850db6427806fb417cfacebd6b5cae4"
+  },
+  {
+    "song_id": "givemeanightmare",
+    "title": {
+      "ja": "Give Me a Nightmare",
+      "en": "Give Me a Nightmare"
+    },
+    "artist": "アリスシャッハと魔法の楽団",
+    "rank": 14,
+    "status": 97,
+    "bg": "5f192e193025f2def516d24dc21235c1"
+  }
+]
