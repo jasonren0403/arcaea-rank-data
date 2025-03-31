@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "trpno",
+    "title": {
+      "ja": "TRPNO",
+      "en": "TRPNO"
+    },
+    "artist": "Nauts",
+    "rank": 0,
+    "status": 0,
+    "bg": "b3558533a95b0e393ad2bf32cf95d2a2"
+  },
+  {
+    "song_id": "blackmirror",
+    "title": {
+      "ja": "Black Mirror on the Wall",
+      "en": "Black Mirror on the Wall"
+    },
+    "artist": "暁Records",
+    "rank": 1,
+    "status": 0,
+    "bg": "41a346f221dd8ded223784946c38a636"
+  },
+  {
+    "song_id": "rabbitintheblackroom",
+    "title": {
+      "ja": "Rabbit In The Black Room",
+      "en": "Rabbit In The Black Room"
+    },
+    "artist": "Rabbit House",
+    "rank": 2,
+    "status": 1,
+    "bg": "16b97b39680574bd6945261b19fef056"
+  },
+  {
+    "song_id": "goodtek",
+    "title": {
+      "ja": "GOODTEK (Arcaea Edit)",
+      "en": "GOODTEK (Arcaea Edit)"
+    },
+    "artist": "EBIMAYO",
+    "rank": 3,
+    "status": -1,
+    "bg": "f98624b305b842dbebbb479cf7e56d28"
+  },
+  {
+    "song_id": "innocence",
+    "title": {
+      "ja": "Innocence",
+      "en": "Innocence"
+    },
+    "artist": "Powerless feat. Sennzai",
+    "rank": 4,
+    "status": 0,
+    "bg": "ec91bab5645530c050446b193d2c47fe"
+  },
+  {
+    "song_id": "theformula",
+    "title": {
+      "ja": "The Formula",
+      "en": "The Formula"
+    },
+    "artist": "Junk",
+    "rank": 5,
+    "status": 0,
+    "bg": "c69a102258899526fa62989170e3b475"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "ja": "Lost Civilization",
+      "en": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 6,
+    "status": 1,
+    "bg": "1fac4e39f33dd24a62b94364638ea925"
+  },
+  {
+    "song_id": "kanagawa",
+    "title": {
+      "ja": "神奈川電脳暗渠",
+      "en": "Kanagawa Cyber Culvert"
+    },
+    "artist": "南ゆに",
+    "rank": 7,
+    "status": 1,
+    "bg": "984104457ccbc84b58c86ff01dc29ea1"
+  },
+  {
+    "song_id": "blacklotus",
+    "title": {
+      "ja": "Black Lotus",
+      "en": "Black Lotus"
+    },
+    "artist": "wa.",
+    "rank": 8,
+    "status": 2,
+    "bg": "3e04e53c73c7e1ab900185c1abc2a22d"
+  },
+  {
+    "song_id": "chronostasis",
+    "title": {
+      "ja": "Chronostasis",
+      "en": "Chronostasis"
+    },
+    "artist": "黒皇帝",
+    "rank": 9,
+    "status": -3,
+    "bg": "e8cb2a324bee3014b6db37d3ded91338"
+  },
+  {
+    "song_id": "inkarusi",
+    "title": {
+      "ja": "inkar-usi",
+      "en": "inkar-usi"
+    },
+    "artist": "DIA",
+    "rank": 10,
+    "status": 4,
+    "bg": "bbd7aaa5502afd67af8cd06c164ef3fb"
+  },
+  {
+    "song_id": "sakurafubuki",
+    "title": {
+      "ja": "Sakura Fubuki",
+      "en": "Sakura Fubuki"
+    },
+    "artist": "Street",
+    "rank": 11,
+    "status": 0,
+    "bg": "75b172866c61ed170b0a606e7dae3866"
+  },
+  {
+    "song_id": "shadesoflight",
+    "title": {
+      "ja": "Shades of Light in a Transcendent Realm",
+      "en": "Shades of Light in a Transcendent Realm"
+    },
+    "artist": "ak+q",
+    "rank": 12,
+    "status": -3,
+    "bg": "127d0c5afe4439c4477f9b730f1537bd"
+  },
+  {
+    "song_id": "anokumene",
+    "title": {
+      "ja": "Anökumene",
+      "en": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 13,
+    "status": 0,
+    "bg": "9850db6427806fb417cfacebd6b5cae4"
+  },
+  {
+    "song_id": "redandblue",
+    "title": {
+      "ja": "Red and Blue",
+      "en": "Red and Blue"
+    },
+    "artist": "Silentroom",
+    "rank": 14,
+    "status": -2,
+    "bg": "11f25b56f5d2a9585afc2d3c206c6a3a"
+  }
+]
