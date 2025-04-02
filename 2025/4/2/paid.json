@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "testify",
+    "title": {
+      "ja": "Testify",
+      "en": "Testify"
+    },
+    "artist": "void (Mournfinale) feat. 星熊南巫",
+    "rank": 0,
+    "status": 6,
+    "bg": "ffcd0a92dbf64ce753ef37c57dee5b6e"
+  },
+  {
+    "song_id": "metallicpunisher",
+    "title": {
+      "ja": "Metallic Punisher",
+      "en": "Metallic Punisher"
+    },
+    "artist": "INNOCENT NOIZE",
+    "rank": 1,
+    "status": -1,
+    "bg": "f4cbcbcbcf8408e3634e5b6674ec7f29"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "ja": "Grievous Lady",
+      "en": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 2,
+    "status": 5,
+    "bg": "3520fb737065ecb4a73a0979485b8f61"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "ja": "Tempestissimo",
+      "en": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 3,
+    "status": 0,
+    "bg": "0ce67be9ed2ab2dc80c8c5eaac9f6ef3"
+  },
+  {
+    "song_id": "designant",
+    "title": {
+      "ja": "Designant.",
+      "en": "Designant."
+    },
+    "artist": "Designant",
+    "rank": 4,
+    "status": 1,
+    "bg": "02be99afd769c97b0c6b871144d94bb2"
+  },
+  {
+    "song_id": "megalovaniarmx",
+    "title": {
+      "ja": "MEGALOVANIA (Camellia Remix)",
+      "en": "MEGALOVANIA (Camellia Remix)"
+    },
+    "artist": "Camellia",
+    "rank": 5,
+    "status": -3,
+    "bg": "1c6e3dc4282ee2ae0eb1fc65232bccbc"
+  },
+  {
+    "song_id": "sheriruth",
+    "title": {
+      "ja": "Sheriruth",
+      "en": "Sheriruth"
+    },
+    "artist": "Team Grimoire",
+    "rank": 6,
+    "status": 10,
+    "bg": "fff408af1a4ba6ac7e45d1b4f79af6fa"
+  },
+  {
+    "song_id": "infinitestrife",
+    "title": {
+      "ja": "Infinite Strife,",
+      "en": "Infinite Strife,"
+    },
+    "artist": "BlackYooh vs. siromaru",
+    "rank": 7,
+    "status": 6,
+    "bg": "822c4ace2292fb6e73fdf275bac4357b"
+  },
+  {
+    "song_id": "yourbestnightmare",
+    "title": {
+      "ja": "最高の悪夢",
+      "en": "Your Best Nightmare"
+    },
+    "artist": "Toby Fox",
+    "rank": 8,
+    "status": -4,
+    "bg": "14d775d748c5d93b57a31b52c85aa21d"
+  },
+  {
+    "song_id": "megalovania",
+    "title": {
+      "ja": "MEGALOVANIA",
+      "en": "MEGALOVANIA"
+    },
+    "artist": "Toby Fox",
+    "rank": 9,
+    "status": 0,
+    "bg": "aa8aa29b853fb901b20f9fb68b9dcb1c"
+  },
+  {
+    "song_id": "etherstrike",
+    "title": {
+      "ja": "Ether Strike",
+      "en": "Ether Strike"
+    },
+    "artist": "Akira Complex",
+    "rank": 10,
+    "status": 13,
+    "bg": "7cabcac7588051d913a5eb4211fcdd26"
+  },
+  {
+    "song_id": "fractureray",
+    "title": {
+      "ja": "Fracture Ray",
+      "en": "Fracture Ray"
+    },
+    "artist": "Sakuzyo",
+    "rank": 11,
+    "status": 4,
+    "bg": "17bd9c152faffc330596da2aeba18802"
+  },
+  {
+    "song_id": "crimsonthrone",
+    "title": {
+      "ja": "Crimson Throne",
+      "en": "Crimson Throne"
+    },
+    "artist": "Dimier√Lisb",
+    "rank": 12,
+    "status": -11,
+    "bg": "900dc07a3f2cf4329d7530df03fa2762"
+  },
+  {
+    "song_id": "worldender",
+    "title": {
+      "ja": "魔王",
+      "en": "World Ender"
+    },
+    "artist": "sasakure.UK × TJ.hangneil",
+    "rank": 13,
+    "status": 13,
+    "bg": "a61e7e811cef5b2f7473f9e4e19e9a95"
+  },
+  {
+    "song_id": "pragmatism",
+    "title": {
+      "ja": "PRAGMATISM",
+      "en": "PRAGMATISM"
+    },
+    "artist": "Laur",
+    "rank": 14,
+    "status": 10,
+    "bg": "5374ca7694553e5a3f58850f505715a4"
+  }
+]
