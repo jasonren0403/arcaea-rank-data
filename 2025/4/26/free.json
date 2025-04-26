@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "anokumene",
+    "title": {
+      "ja": "Anökumene",
+      "en": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 0,
+    "status": 0,
+    "bg": "436d897d786806f9d8f0fb9a2f7e46ad"
+  },
+  {
+    "song_id": "snowwhite",
+    "title": {
+      "ja": "Snow White",
+      "en": "Snow White"
+    },
+    "artist": "Puru",
+    "rank": 1,
+    "status": 0,
+    "bg": "819068798cb78e64628cfdbe21fd462c"
+  },
+  {
+    "song_id": "kanagawa",
+    "title": {
+      "ja": "神奈川電脳暗渠",
+      "en": "Kanagawa Cyber Culvert"
+    },
+    "artist": "南ゆに",
+    "rank": 2,
+    "status": 0,
+    "bg": "45d3c08058eb0716aa81ce8afb64f6c0"
+  },
+  {
+    "song_id": "tau",
+    "title": {
+      "ja": "τ (tau)",
+      "en": "τ (tau)"
+    },
+    "artist": "Wooden",
+    "rank": 3,
+    "status": 0,
+    "bg": "af78d44ab5567d2679af19a4d27ddd03"
+  },
+  {
+    "song_id": "energysynergymatrix",
+    "title": {
+      "ja": "ENERGY SYNERGY MATRIX",
+      "en": "ENERGY SYNERGY MATRIX"
+    },
+    "artist": "Tanchiky",
+    "rank": 4,
+    "status": 4,
+    "bg": "e41202a3822c657f96719d7ccb818aea"
+  },
+  {
+    "song_id": "astralexe",
+    "title": {
+      "ja": "astral.exe",
+      "en": "astral.exe"
+    },
+    "artist": "Synzak & Laxeno57",
+    "rank": 5,
+    "status": -1,
+    "bg": "d5405f504bdb64659d1253b994572931"
+  },
+  {
+    "song_id": "nulctrl",
+    "title": {
+      "ja": "NULCTRL",
+      "en": "NULCTRL"
+    },
+    "artist": "Silentroom",
+    "rank": 6,
+    "status": 0,
+    "bg": "df8d3b9e8363a84299b9f1ef780c8fd2"
+  },
+  {
+    "song_id": "nhelv",
+    "title": {
+      "ja": "Nhelv",
+      "en": "Nhelv"
+    },
+    "artist": "Silentroom",
+    "rank": 7,
+    "status": -2,
+    "bg": "903096e2a4e34cf3a950a96b6648cfef"
+  },
+  {
+    "song_id": "worldexecuteme",
+    "title": {
+      "ja": "world.execute(me);",
+      "en": "world.execute(me);"
+    },
+    "artist": "Mili",
+    "rank": 8,
+    "status": -1,
+    "bg": "3d5a63b81a3cd000119e4bb142e063dd"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "ja": "Lost Civilization",
+      "en": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 9,
+    "status": 2,
+    "bg": "06590a132eab585e921e4abb295bf13d"
+  },
+  {
+    "song_id": "goodtek",
+    "title": {
+      "ja": "GOODTEK (Arcaea Edit)",
+      "en": "GOODTEK (Arcaea Edit)"
+    },
+    "artist": "EBIMAYO",
+    "rank": 10,
+    "status": 0,
+    "bg": "79a8c701e354e49233397f70a851a5a5"
+  },
+  {
+    "song_id": "qualia",
+    "title": {
+      "ja": "qualia -ideaesthesia-",
+      "en": "qualia -ideaesthesia-"
+    },
+    "artist": "nitro",
+    "rank": 11,
+    "status": 3,
+    "bg": "0428fefeb7fb5820af6818167ec1a421"
+  },
+  {
+    "song_id": "trpno",
+    "title": {
+      "ja": "TRPNO",
+      "en": "TRPNO"
+    },
+    "artist": "Nauts",
+    "rank": 12,
+    "status": -3,
+    "bg": "893e067562f16743527a23dd88e6636c"
+  },
+  {
+    "song_id": "blackmirror",
+    "title": {
+      "ja": "Black Mirror on the Wall",
+      "en": "Black Mirror on the Wall"
+    },
+    "artist": "暁Records",
+    "rank": 13,
+    "status": -1,
+    "bg": "ec475fd2a2261c95029199d4a1f9f93c"
+  },
+  {
+    "song_id": "ignotus",
+    "title": {
+      "ja": "Ignotus",
+      "en": "Ignotus"
+    },
+    "artist": "ak+q",
+    "rank": 14,
+    "status": -1,
+    "bg": "fc888977a28427032dcf3b65a2347b3c"
+  }
+]
