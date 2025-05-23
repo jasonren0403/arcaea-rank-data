@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "nightmare",
+    "title": {
+      "ja": "Nightmare",
+      "en": "Nightmare"
+    },
+    "artist": "M2U",
+    "rank": 0,
+    "status": 2147483647,
+    "bg": "c6ad3e5d0c45a8cb9a76eeda09b7ea58"
+  },
+  {
+    "song_id": "uad",
+    "title": {
+      "ja": "U.A.D",
+      "en": "U.A.D"
+    },
+    "artist": "HAYAKO",
+    "rank": 1,
+    "status": 2147483646,
+    "bg": "1226ecef2014e18bdf4aacf1b7715e96"
+  },
+  {
+    "song_id": "oblivion",
+    "title": {
+      "ja": "OBLIVION",
+      "en": "OBLIVION"
+    },
+    "artist": "ESTi",
+    "rank": 2,
+    "status": 2147483645,
+    "bg": "23fc95612571dbc2c1f454ccd72b3a63"
+  },
+  {
+    "song_id": "ladymadestar",
+    "title": {
+      "ja": "Ladymade Star",
+      "en": "Ladymade Star"
+    },
+    "artist": "ESTi",
+    "rank": 3,
+    "status": 2147483644,
+    "bg": "5bc110e9b797dd17a8a0b3a882dfcbbb"
+  },
+  {
+    "song_id": "endmoonlight",
+    "title": {
+      "ja": "End of The Moonlight",
+      "en": "End of The Moonlight"
+    },
+    "artist": "Forte Escape",
+    "rank": 4,
+    "status": 2147483643,
+    "bg": "ff37273e7fa315044147aa53546bf4cf"
+  },
+  {
+    "song_id": "dontdie",
+    "title": {
+      "ja": "Don't Die",
+      "en": "Don't Die"
+    },
+    "artist": "Paul Bazooka",
+    "rank": 5,
+    "status": 2147483642,
+    "bg": "cf6a4f81321c3bb45ed58fb55e7f7c16"
+  },
+  {
+    "song_id": "tictactoe",
+    "title": {
+      "ja": "Tic! Tac! Toe!",
+      "en": "Tic! Tac! Toe!"
+    },
+    "artist": "TAK x Corbin",
+    "rank": 6,
+    "status": 2147483641,
+    "bg": "60b8e88109589052eab90f4b574b5580"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "ja": "Grievous Lady",
+      "en": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 7,
+    "status": -4,
+    "bg": "62814db1a71e3ea7e4a9263c8071043e"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "ja": "Tempestissimo",
+      "en": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 8,
+    "status": -7,
+    "bg": "5e343a386a93a0ee95f2df5677ac1bc8"
+  },
+  {
+    "song_id": "testify",
+    "title": {
+      "ja": "Testify",
+      "en": "Testify"
+    },
+    "artist": "void (Mournfinale) feat. 星熊南巫",
+    "rank": 9,
+    "status": -9,
+    "bg": "611d62de8b790ceeed3bfbcd06353e85"
+  },
+  {
+    "song_id": "designant",
+    "title": {
+      "ja": "Designant.",
+      "en": "Designant."
+    },
+    "artist": "Designant",
+    "rank": 10,
+    "status": -8,
+    "bg": "5e24ceda821df3fa346a698ff1d58100"
+  },
+  {
+    "song_id": "aethercrest",
+    "title": {
+      "ja": "Aether Crest: Astral",
+      "en": "Aether Crest: Astral"
+    },
+    "artist": "void (Mournfinale) × 水野健治",
+    "rank": 11,
+    "status": 0,
+    "bg": "27e648596fba50c3696023d35501a43e"
+  },
+  {
+    "song_id": "heartache",
+    "title": {
+      "ja": "心の痛み",
+      "en": "Heartache"
+    },
+    "artist": "Toby Fox",
+    "rank": 12,
+    "status": 101,
+    "bg": "7642657fb0264ef9b9e7df6b7f585786"
+  },
+  {
+    "song_id": "megalovaniarmx",
+    "title": {
+      "ja": "MEGALOVANIA (Camellia Remix)",
+      "en": "MEGALOVANIA (Camellia Remix)"
+    },
+    "artist": "Camellia",
+    "rank": 13,
+    "status": 6,
+    "bg": "9379cb863db9cbf7ac0dd23ae217774a"
+  },
+  {
+    "song_id": "lamentrain",
+    "title": {
+      "ja": "Lament Rain",
+      "en": "Lament Rain"
+    },
+    "artist": "Ashrount vs. 打打だいず",
+    "rank": 14,
+    "status": -7,
+    "bg": "21af60b5a4ea05dfbb696d01794a3490"
+  }
+]
