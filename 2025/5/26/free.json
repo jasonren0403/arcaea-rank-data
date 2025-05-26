@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "wontbackdown",
+    "title": {
+      "ja": "Won't Back Down",
+      "en": "Won't Back Down"
+    },
+    "artist": "Pure 100% / KASA",
+    "rank": 0,
+    "status": 0,
+    "bg": "37d1eb250ddbf2691e1c56b33c26e608"
+  },
+  {
+    "song_id": "nhelv",
+    "title": {
+      "ja": "Nhelv",
+      "en": "Nhelv"
+    },
+    "artist": "Silentroom",
+    "rank": 1,
+    "status": 0,
+    "bg": "b89416596e5fb9237dd92174bc15517b"
+  },
+  {
+    "song_id": "grimheart",
+    "title": {
+      "ja": "Grimheart",
+      "en": "Grimheart"
+    },
+    "artist": "Puru",
+    "rank": 2,
+    "status": 0,
+    "bg": "b674f01ece1c1f0be7c730635657ef04"
+  },
+  {
+    "song_id": "anokumene",
+    "title": {
+      "ja": "Anökumene",
+      "en": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 3,
+    "status": 1,
+    "bg": "23ba0d19d6413beb8a4b189757c67f62"
+  },
+  {
+    "song_id": "purgatorium",
+    "title": {
+      "ja": "Purgatorium",
+      "en": "Purgatorium"
+    },
+    "artist": "お月さま交響曲",
+    "rank": 4,
+    "status": 1,
+    "bg": "613f40d15ad5db9e65def98f8c4b1302"
+  },
+  {
+    "song_id": "goodtek",
+    "title": {
+      "ja": "GOODTEK (Arcaea Edit)",
+      "en": "GOODTEK (Arcaea Edit)"
+    },
+    "artist": "EBIMAYO",
+    "rank": 5,
+    "status": -2,
+    "bg": "ba3d35cae161743601bd1e34e05a7552"
+  },
+  {
+    "song_id": "kanagawa",
+    "title": {
+      "ja": "神奈川電脳暗渠",
+      "en": "Kanagawa Cyber Culvert"
+    },
+    "artist": "南ゆに",
+    "rank": 6,
+    "status": 0,
+    "bg": "57f202ccca16a83bb9327fdcfb342d8d"
+  },
+  {
+    "song_id": "sakurafubuki",
+    "title": {
+      "ja": "Sakura Fubuki",
+      "en": "Sakura Fubuki"
+    },
+    "artist": "Street",
+    "rank": 7,
+    "status": 0,
+    "bg": "b0a01b28db930179a9a42c2fbfd9ce85"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "ja": "Lost Civilization",
+      "en": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 8,
+    "status": 1,
+    "bg": "86c767f7e18b644c3a3165db1fbf8928"
+  },
+  {
+    "song_id": "snowwhite",
+    "title": {
+      "ja": "Snow White",
+      "en": "Snow White"
+    },
+    "artist": "Puru",
+    "rank": 9,
+    "status": -1,
+    "bg": "5bfe959d40ff0366021ba1b3367b705c"
+  },
+  {
+    "song_id": "chronostasis",
+    "title": {
+      "ja": "Chronostasis",
+      "en": "Chronostasis"
+    },
+    "artist": "黒皇帝",
+    "rank": 10,
+    "status": 3,
+    "bg": "e535b2f28c9b2c54e1efbf6ffdb8ffce"
+  },
+  {
+    "song_id": "infinityheaven",
+    "title": {
+      "ja": "Infinity Heaven",
+      "en": "Infinity Heaven"
+    },
+    "artist": "HyuN",
+    "rank": 11,
+    "status": 0,
+    "bg": "1be606fd2be7f2e86bde6c02cf394e78"
+  },
+  {
+    "song_id": "sayonarahatsukoi",
+    "title": {
+      "ja": "Sayonara Hatsukoi",
+      "en": "Sayonara Hatsukoi"
+    },
+    "artist": "REDSHiFT",
+    "rank": 12,
+    "status": 11,
+    "bg": "4a407f292407a06d0134b4a8d7c3911b"
+  },
+  {
+    "song_id": "cyberneciacatharsis",
+    "title": {
+      "ja": "Cybernecia Catharsis",
+      "en": "Cybernecia Catharsis"
+    },
+    "artist": "Tanchiky",
+    "rank": 13,
+    "status": -1,
+    "bg": "e516f70345cfb383edfaff12f079bc4e"
+  },
+  {
+    "song_id": "oblivia",
+    "title": {
+      "ja": "Oblivia",
+      "en": "Oblivia"
+    },
+    "artist": "Saiph",
+    "rank": 14,
+    "status": -4,
+    "bg": "8f53afee2c748210498ec63265f66717"
+  }
+]
