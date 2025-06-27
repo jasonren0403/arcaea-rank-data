@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "wereallgonnadie",
+    "title": {
+      "ja": "We're All Gonna Die",
+      "en": "We're All Gonna Die"
+    },
+    "artist": "Paul Bazooka",
+    "rank": 0,
+    "status": 2147483647,
+    "bg": "02ffc2099e41b70f87aced266aee3d67"
+  },
+  {
+    "song_id": "blythe",
+    "title": {
+      "ja": "BlythE",
+      "en": "BlythE"
+    },
+    "artist": "M2U",
+    "rank": 1,
+    "status": 343,
+    "bg": "1de62aa28b7b2db135f241a7a98c5f06"
+  },
+  {
+    "song_id": "iwantyou",
+    "title": {
+      "ja": "I want You",
+      "en": "I want You"
+    },
+    "artist": "Lin-G",
+    "rank": 2,
+    "status": 2147483645,
+    "bg": "772a4f305a0f93353a37ecac49b7fe0d"
+  },
+  {
+    "song_id": "liar",
+    "title": {
+      "ja": "Liar",
+      "en": "Liar"
+    },
+    "artist": "zts",
+    "rank": 3,
+    "status": 2147483644,
+    "bg": "7c9d484b62793e47305ba892648cf373"
+  },
+  {
+    "song_id": "syriana",
+    "title": {
+      "ja": "Syriana",
+      "en": "Syriana"
+    },
+    "artist": "BEXTER",
+    "rank": 4,
+    "status": 2147483643,
+    "bg": "789d1741609187c586e113c70103fe16"
+  },
+  {
+    "song_id": "miles",
+    "title": {
+      "ja": "Miles",
+      "en": "Miles"
+    },
+    "artist": "Electronic Boutique",
+    "rank": 5,
+    "status": 2147483642,
+    "bg": "5e77b97173cf1201c9bf06b731486890"
+  },
+  {
+    "song_id": "nexttoyou",
+    "title": {
+      "ja": "next to you",
+      "en": "next to you"
+    },
+    "artist": "uma feat. 橘花音",
+    "rank": 6,
+    "status": 143,
+    "bg": "dc2fe26283d90015c1a12edff4755e79"
+  },
+  {
+    "song_id": "tictactoe",
+    "title": {
+      "ja": "Tic! Tac! Toe!",
+      "en": "Tic! Tac! Toe!"
+    },
+    "artist": "TAK x Corbin",
+    "rank": 7,
+    "status": 17,
+    "bg": "abbea40d119cb154db66e2f6f9ffa5d5"
+  },
+  {
+    "song_id": "nightmare",
+    "title": {
+      "ja": "Nightmare",
+      "en": "Nightmare"
+    },
+    "artist": "M2U",
+    "rank": 8,
+    "status": 25,
+    "bg": "713839e7719a0f540cb113eb0addb2a8"
+  },
+  {
+    "song_id": "oblivion",
+    "title": {
+      "ja": "OBLIVION",
+      "en": "OBLIVION"
+    },
+    "artist": "ESTi",
+    "rank": 9,
+    "status": 57,
+    "bg": "41c136179b0237f003ef8862b146d55d"
+  },
+  {
+    "song_id": "testify",
+    "title": {
+      "ja": "Testify",
+      "en": "Testify"
+    },
+    "artist": "void (Mournfinale) feat. 星熊南巫",
+    "rank": 10,
+    "status": -9,
+    "bg": "74d2ad44752e1f963896d3e180c7dd68"
+  },
+  {
+    "song_id": "ladymadestar",
+    "title": {
+      "ja": "Ladymade Star",
+      "en": "Ladymade Star"
+    },
+    "artist": "ESTi",
+    "rank": 11,
+    "status": 110,
+    "bg": "06b7d8f2d8aedaccd2c67de2df59d931"
+  },
+  {
+    "song_id": "uad",
+    "title": {
+      "ja": "U.A.D",
+      "en": "U.A.D"
+    },
+    "artist": "HAYAKO",
+    "rank": 12,
+    "status": 102,
+    "bg": "4b54c63f6886f78aaa79b90ae06e88d9"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "ja": "Tempestissimo",
+      "en": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 13,
+    "status": -13,
+    "bg": "ce09673dc08693ef6f8330aa3d76be83"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "ja": "Grievous Lady",
+      "en": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 14,
+    "status": -12,
+    "bg": "0f545471c3b5cc2cb1eb4ad61142d932"
+  }
+]
