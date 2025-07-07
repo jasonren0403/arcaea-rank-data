@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "wereallgonnadie",
+    "title": {
+      "ja": "We're All Gonna Die",
+      "en": "We're All Gonna Die"
+    },
+    "artist": "Paul Bazooka",
+    "rank": 0,
+    "status": 0,
+    "bg": "02ffc2099e41b70f87aced266aee3d67"
+  },
+  {
+    "song_id": "testify",
+    "title": {
+      "ja": "Testify",
+      "en": "Testify"
+    },
+    "artist": "void (Mournfinale) feat. 星熊南巫",
+    "rank": 1,
+    "status": 0,
+    "bg": "74d2ad44752e1f963896d3e180c7dd68"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "ja": "Tempestissimo",
+      "en": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 2,
+    "status": 0,
+    "bg": "ce09673dc08693ef6f8330aa3d76be83"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "ja": "Grievous Lady",
+      "en": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 3,
+    "status": 1,
+    "bg": "0f545471c3b5cc2cb1eb4ad61142d932"
+  },
+  {
+    "song_id": "designant",
+    "title": {
+      "ja": "Designant.",
+      "en": "Designant."
+    },
+    "artist": "Designant",
+    "rank": 4,
+    "status": 1,
+    "bg": "45dee02da2214a4a525e089a0059e3a8"
+  },
+  {
+    "song_id": "blythe",
+    "title": {
+      "ja": "BlythE",
+      "en": "BlythE"
+    },
+    "artist": "M2U",
+    "rank": 5,
+    "status": -2,
+    "bg": "1de62aa28b7b2db135f241a7a98c5f06"
+  },
+  {
+    "song_id": "arcanaeden",
+    "title": {
+      "ja": "Arcana Eden",
+      "en": "Arcana Eden"
+    },
+    "artist": "Team Grimoire vs Sakuzyo vs Laur",
+    "rank": 6,
+    "status": 2,
+    "bg": "be58fce234666104fb0403a45028d4c4"
+  },
+  {
+    "song_id": "infinitestrife",
+    "title": {
+      "ja": "Infinite Strife,",
+      "en": "Infinite Strife,"
+    },
+    "artist": "BlackYooh vs. siromaru",
+    "rank": 7,
+    "status": 2,
+    "bg": "272d999139fc6424bb905f4e374ccba6"
+  },
+  {
+    "song_id": "fractureray",
+    "title": {
+      "ja": "Fracture Ray",
+      "en": "Fracture Ray"
+    },
+    "artist": "Sakuzyo",
+    "rank": 8,
+    "status": 3,
+    "bg": "5345dd65b7e6126319b731f3ef0eafce"
+  },
+  {
+    "song_id": "pentiment",
+    "title": {
+      "ja": "Pentiment",
+      "en": "Pentiment"
+    },
+    "artist": "Nothing But Requiem with Museo",
+    "rank": 9,
+    "status": -3,
+    "bg": "bffad7a036c408c067ae4347e4a3d178"
+  },
+  {
+    "song_id": "tictactoe",
+    "title": {
+      "ja": "Tic! Tac! Toe!",
+      "en": "Tic! Tac! Toe!"
+    },
+    "artist": "TAK x Corbin",
+    "rank": 10,
+    "status": -3,
+    "bg": "abbea40d119cb154db66e2f6f9ffa5d5"
+  },
+  {
+    "song_id": "nightmare",
+    "title": {
+      "ja": "Nightmare",
+      "en": "Nightmare"
+    },
+    "artist": "M2U",
+    "rank": 11,
+    "status": -1,
+    "bg": "713839e7719a0f540cb113eb0addb2a8"
+  },
+  {
+    "song_id": "alterego",
+    "title": {
+      "ja": "ALTER EGO",
+      "en": "ALTER EGO"
+    },
+    "artist": "Yuta Imai vs Qlarabelle",
+    "rank": 12,
+    "status": 0,
+    "bg": "7d29318275ed01ee142ddefcd0dfc3b3"
+  },
+  {
+    "song_id": "sheriruth",
+    "title": {
+      "ja": "Sheriruth",
+      "en": "Sheriruth"
+    },
+    "artist": "Team Grimoire",
+    "rank": 13,
+    "status": 5,
+    "bg": "9a36d60464105dde8fb0c89c1633d6f7"
+  },
+  {
+    "song_id": "lamentrain",
+    "title": {
+      "ja": "Lament Rain",
+      "en": "Lament Rain"
+    },
+    "artist": "Ashrount vs. 打打だいず",
+    "rank": 14,
+    "status": -1,
+    "bg": "482a96705376aa69729f1078b7acf89c"
+  }
+]
