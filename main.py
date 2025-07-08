@@ -8,6 +8,7 @@ import time
 import random
 import logging
 from typing import Any, Tuple
+# 'telnetlib' is deprecated and slated for removal in Python 3.13
 import telnetlib  # todo: replace with un-deprecated package
 import telebot
 from telebot.formatting import mbold, format_text, escape_markdown
@@ -24,7 +25,7 @@ url_dict = {
 }
 
 BOT_CHAT_ID = "-1002447052585"
-LOCAL_TEST = os.getenv('CI') is None
+LOCAL_TEST = True
 TEST_PROXY = {
     'http': '<TEST_IP>',
     'https': '<TEST_IP>'
