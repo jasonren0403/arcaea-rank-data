@@ -10,12 +10,13 @@ import logging
 from typing import Any, Tuple
 # 'telnetlib' is deprecated and slated for removal in Python 3.13
 import telnetlib  # todo: replace with un-deprecated package
-import telebot
-from telebot.formatting import mbold, format_text, escape_markdown
-from telebot.util import quick_markup
+from telebot import TeleBot  # type: ignore[import-untyped]
+from telebot.formatting import mbold, format_text, escape_markdown  # type: ignore[import-untyped]
+from telebot.apihelper import ApiTelegramException  # type: ignore[import-untyped]
+from telebot.util import quick_markup  # type: ignore[import-untyped]
 
 import requests
-import coloredlogs
+import coloredlogs  # type: ignore[import-untyped]
 from requests.adapters import HTTPAdapter
 
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35"
@@ -189,9 +190,9 @@ def main(get_free=True, get_paid=True) -> None:
                 "No bot token set, will not send anything to telegram group")
             tb = None
         else:
-            tb = telebot.TeleBot(API_TOKEN)
+            tb = TeleBot(API_TOKEN)
     else:
-        tb = telebot.TeleBot("YOUR_TOKEN")
+        tb = TeleBot("YOUR_TOKEN")
     d = datetime.datetime.now()
     p = pathlib.Path(f'./{d.year}/{d.month}/{d.day}')
     if not p.exists():
@@ -213,7 +214,7 @@ def main(get_free=True, get_paid=True) -> None:
                 try:
                     tb.send_message(chat_id=BOT_CHAT_ID, text=txt,
                                     reply_markup=markup_button, parse_mode="MarkdownV2")
-                except telebot.apihelper.ApiTelegramException:
+                except ApiTelegramException:
                     logger.error("Try send message error: %s", txt)
         else:
             failed = True
@@ -232,7 +233,7 @@ def main(get_free=True, get_paid=True) -> None:
                         try:
                             tb.send_message(
                                 chat_id=BOT_CHAT_ID, text=txt, reply_markup=markup_button, parse_mode="MarkdownV2")
-                        except telebot.apihelper.ApiTelegramException:
+                        except ApiTelegramException:
                             logger.error("Try send message error: %s", txt)
                 else:
                     logger.fatal(
@@ -258,7 +259,7 @@ def main(get_free=True, get_paid=True) -> None:
                 try:
                     tb.send_message(chat_id=BOT_CHAT_ID, text=txt,
                                     reply_markup=markup_button, parse_mode="MarkdownV2")
-                except telebot.apihelper.ApiTelegramException:
+                except ApiTelegramException:
                     logger.error("Try send message error: %s", txt)
         else:
             failed = True
@@ -277,7 +278,7 @@ def main(get_free=True, get_paid=True) -> None:
                         try:
                             tb.send_message(
                                 chat_id=BOT_CHAT_ID, text=txt, reply_markup=markup_button, parse_mode="MarkdownV2")
-                        except telebot.apihelper.ApiTelegramException:
+                        except ApiTelegramException:
                             logger.error("Try send message error: %s", txt)
                 else:
                     logger.fatal(

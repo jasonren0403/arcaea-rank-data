@@ -14,6 +14,10 @@ dependencies = [
 [tool.uv]
 package = false
 
+[[tool.mypy.overrides]]
+module = ["telebot.*", "coloredlogs.*"]
+disable_error_code = ["import-untyped"]
+
 [dependency-groups]
 dev = [
     "types-requests>=2.32.4.20250611",
