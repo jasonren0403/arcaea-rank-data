@@ -10,13 +10,13 @@ import logging
 from typing import Any, Tuple
 # 'telnetlib' is deprecated and slated for removal in Python 3.13
 import telnetlib  # todo: replace with un-deprecated package
-from telebot import TeleBot  # type: ignore[import-untyped]
-from telebot.formatting import mbold, format_text, escape_markdown  # type: ignore[import-untyped]
-from telebot.apihelper import ApiTelegramException  # type: ignore[import-untyped]
-from telebot.util import quick_markup  # type: ignore[import-untyped]
+from telebot import TeleBot
+from telebot.formatting import mbold, format_text, escape_markdown
+from telebot.apihelper import ApiTelegramException
+from telebot.util import quick_markup
 
 import requests
-import coloredlogs  # type: ignore[import-untyped]
+import coloredlogs
 from requests.adapters import HTTPAdapter
 
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35"
