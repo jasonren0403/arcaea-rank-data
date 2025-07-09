@@ -10,6 +10,12 @@ dependencies = [
     { name = "coloredlogs" },
     { name = "pytelegrambotapi" },
     { name = "requests" },
+    { name = "telebot" },
+]
+
+[package.dev-dependencies]
+dev = [
+    { name = "types-requests" },
 ]
 
 [package.metadata]
@@ -17,7 +23,11 @@ requires-dist = [
     { name = "coloredlogs", specifier = ">=15.0.1" },
     { name = "pytelegrambotapi", specifier = ">=4.27.0" },
     { name = "requests", specifier = ">=2.32.4" },
+    { name = "telebot", specifier = ">=0.0.5" },
 ]
+
+[package.metadata.requires-dev]
+dev = [{ name = "types-requests", specifier = ">=2.32.4.20250611" }]
 
 [[package]]
 name = "certifi"
@@ -130,6 +140,31 @@ dependencies = [
 sdist = { url = "https://files.pythonhosted.org/packages/e1/0a/929373653770d8a0d7ea76c37de6e41f11eb07559b103b1c02cafb3f7cf8/requests-2.32.4.tar.gz", hash = "sha256:27d0316682c8a29834d3264820024b62a36942083d52caf2f14c0591336d3422", size = 135258, upload-time = "2025-06-09T16:43:07.34Z" }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/7c/e4/56027c4a6b4ae70ca9de302488c5ca95ad4a39e190093d6c1a8ace08341b/requests-2.32.4-py3-none-any.whl", hash = "sha256:27babd3cda2a6d50b30443204ee89830707d396671944c998b5975b031ac2b2c", size = 64847, upload-time = "2025-06-09T16:43:05.728Z" },
+]
+
+[[package]]
+name = "telebot"
+version = "0.0.5"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "pytelegrambotapi" },
+    { name = "requests" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/1f/3b/e4188cffaf370f432f15d518cbb53a438200ee7ef68c6db1acab337634e1/telebot-0.0.5.tar.gz", hash = "sha256:848a5885b57247b65edd0e92647b4372ebd8d41611dca3f344788c11deac2571", size = 4752, upload-time = "2023-02-14T15:13:44.409Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/ad/2f/d8d669be86c42dd2075d7b25bb6de73a3181661a79ef6a3c53dc811f17a1/telebot-0.0.5-py3-none-any.whl", hash = "sha256:50327c240243480d40ade4ea5bea4f464bf57d4ff000ea669fcd705396074863", size = 4840, upload-time = "2023-02-14T15:13:42.698Z" },
+]
+
+[[package]]
+name = "types-requests"
+version = "2.32.4.20250611"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "urllib3" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/6d/7f/73b3a04a53b0fd2a911d4ec517940ecd6600630b559e4505cc7b68beb5a0/types_requests-2.32.4.20250611.tar.gz", hash = "sha256:741c8777ed6425830bf51e54d6abe245f79b4dcb9019f1622b773463946bf826", size = 23118, upload-time = "2025-06-11T03:11:41.272Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/3d/ea/0be9258c5a4fa1ba2300111aa5a0767ee6d18eb3fd20e91616c12082284d/types_requests-2.32.4.20250611-py3-none-any.whl", hash = "sha256:ad2fe5d3b0cb3c2c902c8815a70e7fb2302c4b8c1f77bdcd738192cdb3878072", size = 20643, upload-time = "2025-06-11T03:11:40.186Z" },
 ]
 
 [[package]]

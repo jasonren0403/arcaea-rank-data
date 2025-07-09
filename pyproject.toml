@@ -8,7 +8,13 @@ dependencies = [
     "coloredlogs>=15.0.1",
     "pytelegrambotapi>=4.27.0",
     "requests>=2.32.4",
+    "telebot>=0.0.5",
 ]
 
 [tool.uv]
 package = false
+
+[dependency-groups]
+dev = [
+    "types-requests>=2.32.4.20250611",
+]

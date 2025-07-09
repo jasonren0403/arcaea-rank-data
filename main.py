@@ -25,7 +25,7 @@ url_dict = {
 }
 
 BOT_CHAT_ID = "-1002447052585"
-LOCAL_TEST = True
+LOCAL_TEST = os.getenv('CI') is None
 TEST_PROXY = {
     'http': '<TEST_IP>',
     'https': '<TEST_IP>'
@@ -102,7 +102,8 @@ def process_bg(datalist, source, proxy_ip=None):
                 "song_id": each['song_id']
             })
         else:
-            logger.info("file %s already exists, no need to download again", local_path.as_posix())
+            logger.info(
+                "file %s already exists, no need to download again", local_path.as_posix())
     for item in dl_list:
         time.sleep(random.uniform(2, 4))
         req = s.get(url=item['url'], headers={
@@ -112,7 +113,8 @@ def process_bg(datalist, source, proxy_ip=None):
         if req.status_code == 200:
             logger.info("downloading %s from url %s",
                         item['song_id'], item['url'])
-            new_path = local_path.with_name(item['song_id']).with_suffix(".jpg")
+            new_path = local_path.with_name(
+                item['song_id']).with_suffix(".jpg")
             with open(new_path, 'wb') as file:
                 file.write(req.content)
         else:
@@ -124,6 +126,8 @@ def get_song_rank(choose: str, proxy_ip=None) -> Tuple[bool, Any]:
         raise ValueError('song_rank should be free or paid!')
     logger.info("songInfo: getting %s data, using proxy %s", choose, proxy_ip)
     url = url_dict.get(choose)
+    if url is None:
+        return False, None
     s = requests.Session()
     s.mount('http://', HTTPAdapter(max_retries=3))
     s.mount('https://', HTTPAdapter(max_retries=3))
@@ -168,18 +172,19 @@ def format_to_string(obj: Any, title: str) -> str:
             status_txt = f"↓{status}"
         else:
             status_txt = "→"
-        per_link_txt_list.append(f"[{rank+1}]{status_txt}: {stitle}({sartist})")
+        per_link_txt_list.append(
+            f"[{rank+1}]{status_txt}: {stitle}({sartist})")
     return escape_markdown(
         format_text(
-        mbold(content=title),
-        *per_link_txt_list
-    ))
+            mbold(content=title),
+            *per_link_txt_list
+        ))
 
 
 def main(get_free=True, get_paid=True) -> None:
     if not LOCAL_TEST:
         API_TOKEN = os.getenv('TG_BOT_TOKEN')
-        if os.getenv('CI', 'false') == 'true' and API_TOKEN is None:
+        if API_TOKEN is None:
             logger.warning(
                 "No bot token set, will not send anything to telegram group")
             tb = None
@@ -206,7 +211,8 @@ def main(get_free=True, get_paid=True) -> None:
                 logger.info("send free data to telegram group")
                 txt = format_to_string(free, "Free Song Ranking")
                 try:
-                    tb.send_message(chat_id=BOT_CHAT_ID, text=txt, reply_markup=markup_button, parse_mode="MarkdownV2")
+                    tb.send_message(chat_id=BOT_CHAT_ID, text=txt,
+                                    reply_markup=markup_button, parse_mode="MarkdownV2")
                 except telebot.apihelper.ApiTelegramException:
                     logger.error("Try send message error: %s", txt)
         else:
@@ -224,7 +230,8 @@ def main(get_free=True, get_paid=True) -> None:
                         logger.info("send free data to telegram group")
                         txt = format_to_string(free, "Free Song Ranking")
                         try:
-                            tb.send_message(chat_id=BOT_CHAT_ID, text=txt, reply_markup=markup_button, parse_mode="MarkdownV2")
+                            tb.send_message(
+                                chat_id=BOT_CHAT_ID, text=txt, reply_markup=markup_button, parse_mode="MarkdownV2")
                         except telebot.apihelper.ApiTelegramException:
                             logger.error("Try send message error: %s", txt)
                 else:
@@ -249,7 +256,8 @@ def main(get_free=True, get_paid=True) -> None:
                 logger.info("send paid data to telegram group")
                 txt = format_to_string(paid, "Paid Song Ranking")
                 try:
-                    tb.send_message(chat_id=BOT_CHAT_ID, text=txt, reply_markup=markup_button, parse_mode="MarkdownV2")
+                    tb.send_message(chat_id=BOT_CHAT_ID, text=txt,
+                                    reply_markup=markup_button, parse_mode="MarkdownV2")
                 except telebot.apihelper.ApiTelegramException:
                     logger.error("Try send message error: %s", txt)
         else:
@@ -266,10 +274,11 @@ def main(get_free=True, get_paid=True) -> None:
                     if tb is not None:
                         logger.info("send paid data to telegram group")
                         txt = format_to_string(paid, "Paid Song Ranking")
-                    try:
-                        tb.send_message(chat_id=BOT_CHAT_ID, text=txt, reply_markup=markup_button, parse_mode="MarkdownV2")
-                    except telebot.apihelper.ApiTelegramException:
-                        logger.error("Try send message error: %s", txt)
+                        try:
+                            tb.send_message(
+                                chat_id=BOT_CHAT_ID, text=txt, reply_markup=markup_button, parse_mode="MarkdownV2")
+                        except telebot.apihelper.ApiTelegramException:
+                            logger.error("Try send message error: %s", txt)
                 else:
                     logger.fatal(
                         "get paid data error! %s(using proxy but get error data)", paid)
