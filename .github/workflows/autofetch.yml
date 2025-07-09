@@ -72,8 +72,6 @@ jobs:
         run: uv self version
       - name: Install dependencies
         run: uv sync --locked --all-extras
-      - name: Install deps
-        run: pip install -r requirements.txt
       - name: Check public IP
         uses: haythem/public-ip@v1.3
       - name: Do the run
