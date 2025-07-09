@@ -39,7 +39,7 @@ jobs:
       - name: Check file exists
         id: file_check
         run: |
-          python filecheck.py
+          uv run python filecheck.py
   main_job:
     name: Download and update assets
     runs-on: ubuntu-latest
@@ -75,7 +75,7 @@ jobs:
       - name: Check public IP
         uses: haythem/public-ip@v1.3
       - name: Do the run
-        run: python main.py
+        run: uv run python main.py
       - name: echo PAID_DATA_ERRORED
         run: printf 'PAID_DATA_ERRORED = %s\n' "$PAID_DATA_ERRORED"
       - name: echo FREE_DATA_ERRORED
