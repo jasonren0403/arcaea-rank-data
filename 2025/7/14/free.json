@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "satisfaction",
+    "title": {
+      "ja": "SATISFACTION",
+      "en": "SATISFACTION"
+    },
+    "artist": "P*Light & DJ Noriken feat. KMNZ",
+    "rank": 0,
+    "status": 0,
+    "bg": "3e27adffd0a21cf6370c3f107d9f11b1"
+  },
+  {
+    "song_id": "someday",
+    "title": {
+      "ja": "Someday",
+      "en": "Someday"
+    },
+    "artist": "NieN",
+    "rank": 1,
+    "status": 0,
+    "bg": "4e0f5ff946be83e730f6397e6f11ebbf"
+  },
+  {
+    "song_id": "altair",
+    "title": {
+      "ja": "Altair (feat. *spiLa*)",
+      "en": "Altair (feat. *spiLa*)"
+    },
+    "artist": "kamome sano & you",
+    "rank": 2,
+    "status": 0,
+    "bg": "c88b5e601ce8059276027dd9a5d1fd88"
+  },
+  {
+    "song_id": "wontbackdown",
+    "title": {
+      "ja": "Won't Back Down",
+      "en": "Won't Back Down"
+    },
+    "artist": "Pure 100% / KASA",
+    "rank": 3,
+    "status": 0,
+    "bg": "37f4163e2a5f5d9fa1b2ef103f4dc1a5"
+  },
+  {
+    "song_id": "anokumene",
+    "title": {
+      "ja": "Anökumene",
+      "en": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 4,
+    "status": 0,
+    "bg": "a338627c8def2e80d8a36aa27df690ce"
+  },
+  {
+    "song_id": "nhelv",
+    "title": {
+      "ja": "Nhelv",
+      "en": "Nhelv"
+    },
+    "artist": "Silentroom",
+    "rank": 5,
+    "status": 0,
+    "bg": "61ed8295f1c7060b4ca1bee345553efd"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "ja": "Lost Civilization",
+      "en": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 6,
+    "status": 0,
+    "bg": "5b8a43b639f13bbcf1f5d8ef5e1f2dbd"
+  },
+  {
+    "song_id": "ignotus",
+    "title": {
+      "ja": "Ignotus",
+      "en": "Ignotus"
+    },
+    "artist": "ak+q",
+    "rank": 7,
+    "status": 10,
+    "bg": "2ef190e8e5ad88e529eb61a6cb036525"
+  },
+  {
+    "song_id": "chronostasis",
+    "title": {
+      "ja": "Chronostasis",
+      "en": "Chronostasis"
+    },
+    "artist": "黒皇帝",
+    "rank": 8,
+    "status": 1,
+    "bg": "251572e18d595e6333b0765d5eed0ebc"
+  },
+  {
+    "song_id": "innocence",
+    "title": {
+      "ja": "Innocence",
+      "en": "Innocence"
+    },
+    "artist": "Powerless feat. Sennzai",
+    "rank": 9,
+    "status": -1,
+    "bg": "bf12cf706cebcdb5eec4afdb04e5120b"
+  },
+  {
+    "song_id": "goodtek",
+    "title": {
+      "ja": "GOODTEK (Arcaea Edit)",
+      "en": "GOODTEK (Arcaea Edit)"
+    },
+    "artist": "EBIMAYO",
+    "rank": 10,
+    "status": 0,
+    "bg": "2b741953a1958e878e01dbf0ec5171ae"
+  },
+  {
+    "song_id": "kanagawa",
+    "title": {
+      "ja": "神奈川電脳暗渠",
+      "en": "Kanagawa Cyber Culvert"
+    },
+    "artist": "南ゆに",
+    "rank": 11,
+    "status": -4,
+    "bg": "0cf161aac2a2e45748e44782123c6e83"
+  },
+  {
+    "song_id": "shadesoflight",
+    "title": {
+      "ja": "Shades of Light in a Transcendent Realm",
+      "en": "Shades of Light in a Transcendent Realm"
+    },
+    "artist": "ak+q",
+    "rank": 12,
+    "status": 2,
+    "bg": "dc14df61f84f09fbc64e5664b70f47e8"
+  },
+  {
+    "song_id": "redandblue",
+    "title": {
+      "ja": "Red and Blue",
+      "en": "Red and Blue"
+    },
+    "artist": "Silentroom",
+    "rank": 13,
+    "status": -2,
+    "bg": "d6de1dacdea0ba71a1ae15b6adcd1bf5"
+  },
+  {
+    "song_id": "inkarusi",
+    "title": {
+      "ja": "inkar-usi",
+      "en": "inkar-usi"
+    },
+    "artist": "DIA",
+    "rank": 14,
+    "status": 2,
+    "bg": "ec8216bb6a6f00c2c08886bedc62d7e6"
+  }
+]
