@@ -51,7 +51,7 @@ def get_proxy():
                 count += 1
                 logger.info('[%s/%s]testing %s', count, len(ips), each)
                 ip, port = each.split(":")
-                telnetlib.Telnet(ip, port=port, timeout=10)
+                telnetlib.Telnet(ip, port=int(port), timeout=10)
                 res2 = requests.get('https://webapi.lowiro.com/webapi/song/rank/free', headers={
                     'accept': 'application/json',
                     'User-Agent': UA,
@@ -204,7 +204,7 @@ def main(get_free=True, get_paid=True) -> None:
                 'url': 'https://arcaea.lowiro.com/en/song_ranking/free'
             }
         })
-        if res and 'error' not in free:
+        if res and 'error' not in free and len(free) > 0:
             logger.info("free data saved")
             with open(p / 'free.json', 'w', encoding='utf-8') as file:
                 json.dump(free, file, ensure_ascii=False, indent=2)
@@ -222,7 +222,7 @@ def main(get_free=True, get_paid=True) -> None:
             if proxy:
                 logger.info("Using proxy %s for further fetch", proxy)
                 res, free = get_song_rank('free', proxy_ip=proxy)
-                if res and 'error' not in free:
+                if res and 'error' not in free and len(free) > 0:
                     logger.info("free data saved")
                     with open(p / 'free.json', 'w', encoding='utf-8') as file:
                         json.dump(free, file, ensure_ascii=False, indent=2)
@@ -238,6 +238,8 @@ def main(get_free=True, get_paid=True) -> None:
                 else:
                     logger.fatal(
                         "get free data error! %s(using proxy but get error data)", free)
+            elif len(free) == 0:
+                logger.error("free data is empty! maybe the website is down?")
             else:
                 logger.fatal("get free data error! %s(cannot get proxy)", free)
             if failed and os.getenv('CI', 'false') == 'true':
@@ -249,7 +251,7 @@ def main(get_free=True, get_paid=True) -> None:
                 'url': 'https://arcaea.lowiro.com/en/song_ranking/paid'
             }
         })
-        if res2 and 'error' not in paid:
+        if res2 and 'error' not in paid and len(paid) > 0:
             logger.info("paid data saved")
             with open(p / 'paid.json', 'w', encoding='utf-8') as file:
                 json.dump(paid, file, ensure_ascii=False, indent=2)
@@ -267,10 +269,10 @@ def main(get_free=True, get_paid=True) -> None:
             if proxy:
                 logger.info("Using proxy %s for further fetch", proxy)
                 res, paid = get_song_rank('paid', proxy_ip=proxy)
-                if res and 'error' not in free:
+                if res and 'error' not in paid and len(paid) > 0:
                     logger.info("paid data saved")
                     with open(p / 'paid.json', 'w', encoding='utf-8') as file:
-                        json.dump(free, file, ensure_ascii=False, indent=2)
+                        json.dump(paid, file, ensure_ascii=False, indent=2)
                     failed = False
                     if tb is not None:
                         logger.info("send paid data to telegram group")
@@ -280,6 +282,9 @@ def main(get_free=True, get_paid=True) -> None:
                                 chat_id=BOT_CHAT_ID, text=txt, reply_markup=markup_button, parse_mode="MarkdownV2")
                         except ApiTelegramException:
                             logger.error("Try send message error: %s", txt)
+                elif len(paid) == 0:
+                    logger.error(
+                        "paid data is empty! maybe the website is down?")
                 else:
                     logger.fatal(
                         "get paid data error! %s(using proxy but get error data)", paid)
