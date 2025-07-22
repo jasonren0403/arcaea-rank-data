@@ -5,8 +5,8 @@ env:
 
 on: 
   workflow_dispatch:
-  schedule:
-    - cron: '25,50 0-10/2 * * *'
+  # schedule:
+  #   - cron: '25,50 0-10/2 * * *'
 
 jobs:
   file_check:
