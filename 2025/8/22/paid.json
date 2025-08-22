@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "welcomequeen",
+    "title": {
+      "en": "Welcome, Queen of Fiction.",
+      "ja": "Welcome, Queen of Fiction."
+    },
+    "artist": "打打だいず",
+    "rank": 0,
+    "status": 2147483647,
+    "bg": "86d870dc8cc97aaa43db66fdb06d8895"
+  },
+  {
+    "song_id": "altergate",
+    "title": {
+      "en": "AlterGate",
+      "ja": "AlterGate"
+    },
+    "artist": "MisoilePunch♪ ~タケノコ添え~",
+    "rank": 1,
+    "status": 2147483646,
+    "bg": "4890f70dbdd1d774c3bd7cc31a9d5493"
+  },
+  {
+    "song_id": "chaosblast",
+    "title": {
+      "en": "CHAOSBLAST",
+      "ja": "CHAOSBLAST"
+    },
+    "artist": "QURELESS + 柚子花",
+    "rank": 2,
+    "status": 2147483645,
+    "bg": "b1e029eca2c1584540c1d0ff09069137"
+  },
+  {
+    "song_id": "factorder",
+    "title": {
+      "en": "Factorder",
+      "ja": "Factorder"
+    },
+    "artist": "瀬名 feat. 梨雛",
+    "rank": 3,
+    "status": 2147483644,
+    "bg": "d73da09156e78fd10d949b19c47d05dc"
+  },
+  {
+    "song_id": "incompleteone",
+    "title": {
+      "en": "incomplete the one",
+      "ja": "incomplete the one"
+    },
+    "artist": "Halv feat.Kuroa*",
+    "rank": 4,
+    "status": 2147483643,
+    "bg": "d6d6f4d61f90d0ecee9c0b19e69b6ac9"
+  },
+  {
+    "song_id": "extradimensional",
+    "title": {
+      "en": "Extradimensional Cosmic Phenomenon",
+      "ja": "多次元宇宙融合論"
+    },
+    "artist": "TAKIO feat. つぐ",
+    "rank": 5,
+    "status": -5,
+    "bg": "fe669baafce7e6b797cc7f884d9c1dba"
+  },
+  {
+    "song_id": "lilly",
+    "title": {
+      "en": "Lilly",
+      "ja": "Lilly"
+    },
+    "artist": "Juggernaut.",
+    "rank": 6,
+    "status": -5,
+    "bg": "b34e279a94269b6c22ba8fcf8480ade9"
+  },
+  {
+    "song_id": "dualdependency",
+    "title": {
+      "en": "Dual Dependency",
+      "ja": "Dual Dependency"
+    },
+    "artist": "seatrus",
+    "rank": 7,
+    "status": -3,
+    "bg": "8d49fd45b595d58fa37175c0ccc35266"
+  },
+  {
+    "song_id": "seethelights",
+    "title": {
+      "en": "See the Lights!",
+      "ja": "See the Lights!"
+    },
+    "artist": "polysha feat. しろさきあや",
+    "rank": 8,
+    "status": 14,
+    "bg": "fa7ade1568ac10b7ca9984578ddef4ba"
+  },
+  {
+    "song_id": "scarletlunar",
+    "title": {
+      "en": "Scarlet Lunar Empress",
+      "ja": "朱月ノ姫"
+    },
+    "artist": "technoplanet feat. 夕月ティア",
+    "rank": 9,
+    "status": 5,
+    "bg": "2648366ab6b1bae958c74eee73290825"
+  },
+  {
+    "song_id": "testify",
+    "title": {
+      "en": "Testify",
+      "ja": "Testify"
+    },
+    "artist": "void (Mournfinale) feat. 星熊南巫",
+    "rank": 10,
+    "status": -7,
+    "bg": "b769f99e0b31811eb823366d3cdca924"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "en": "Grievous Lady",
+      "ja": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 11,
+    "status": -5,
+    "bg": "a5a9e6c206d2c3ae4c266bbbdff5c58f"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "en": "Tempestissimo",
+      "ja": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 12,
+    "status": -10,
+    "bg": "798e89da21259f4b3a86c0277459b617"
+  },
+  {
+    "song_id": "designant",
+    "title": {
+      "en": "Designant.",
+      "ja": "Designant."
+    },
+    "artist": "Designant",
+    "rank": 13,
+    "status": -6,
+    "bg": "7130b5d9002cd425044374f41a2e1103"
+  },
+  {
+    "song_id": "infinitestrife",
+    "title": {
+      "en": "Infinite Strife,",
+      "ja": "Infinite Strife,"
+    },
+    "artist": "BlackYooh vs. siromaru",
+    "rank": 14,
+    "status": -6,
+    "bg": "1c3ba15fb987c9f9710dbbf277f43c0b"
+  }
+]

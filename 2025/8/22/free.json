@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "dematerialized",
+    "title": {
+      "en": "Dematerialized",
+      "ja": "Dematerialized"
+    },
+    "artist": "In Love With A Ghost",
+    "rank": 0,
+    "status": 2,
+    "bg": "6a7b37a31934662ce4907b176a2c2c7c"
+  },
+  {
+    "song_id": "disintegration",
+    "title": {
+      "en": "disintegration",
+      "ja": "disintegration"
+    },
+    "artist": "ひゅ〜ぶ",
+    "rank": 1,
+    "status": 2147483646,
+    "bg": "7105859f4d3417f83525d72b4a7cf19d"
+  },
+  {
+    "song_id": "satisfaction",
+    "title": {
+      "en": "SATISFACTION",
+      "ja": "SATISFACTION"
+    },
+    "artist": "P*Light & DJ Noriken feat. KMNZ",
+    "rank": 2,
+    "status": -2,
+    "bg": "baf60dc62b25f665fc9429b598b722da"
+  },
+  {
+    "song_id": "innocence",
+    "title": {
+      "en": "Innocence",
+      "ja": "Innocence"
+    },
+    "artist": "Powerless feat. Sennzai",
+    "rank": 3,
+    "status": 5,
+    "bg": "8b5551d35228590a67465d831a2776bb"
+  },
+  {
+    "song_id": "anokumene",
+    "title": {
+      "en": "Anökumene",
+      "ja": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 4,
+    "status": -1,
+    "bg": "840f019916f3afb34c65db769a3ecf41"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "en": "Lost Civilization",
+      "ja": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 5,
+    "status": 0,
+    "bg": "77802f99394096166f3e06cdae61b821"
+  },
+  {
+    "song_id": "nhelv",
+    "title": {
+      "en": "Nhelv",
+      "ja": "Nhelv"
+    },
+    "artist": "Silentroom",
+    "rank": 6,
+    "status": -5,
+    "bg": "136d00a69bee6d2fd97f0c7427cad279"
+  },
+  {
+    "song_id": "sayonarahatsukoi",
+    "title": {
+      "en": "Sayonara Hatsukoi",
+      "ja": "Sayonara Hatsukoi"
+    },
+    "artist": "REDSHiFT",
+    "rank": 7,
+    "status": 8,
+    "bg": "4e245f7b410ce4eba6a435b5f8e7cc67"
+  },
+  {
+    "song_id": "kanagawa",
+    "title": {
+      "en": "Kanagawa Cyber Culvert",
+      "ja": "神奈川電脳暗渠"
+    },
+    "artist": "南ゆに",
+    "rank": 8,
+    "status": -4,
+    "bg": "31c87e2b52923ff0c1a3cf24e3c95dc7"
+  },
+  {
+    "song_id": "ignotus",
+    "title": {
+      "en": "Ignotus",
+      "ja": "Ignotus"
+    },
+    "artist": "ak+q",
+    "rank": 9,
+    "status": 0,
+    "bg": "40f322fcbd45bc06b4a8358b0abfeb25"
+  },
+  {
+    "song_id": "shadesoflight",
+    "title": {
+      "en": "Shades of Light in a Transcendent Realm",
+      "ja": "Shades of Light in a Transcendent Realm"
+    },
+    "artist": "ak+q",
+    "rank": 10,
+    "status": 2,
+    "bg": "0b4dbf01fbdb96b0466930c9c790c3ae"
+  },
+  {
+    "song_id": "monochromeprincess",
+    "title": {
+      "en": "Monochrome Princess",
+      "ja": "Monochrome Princess"
+    },
+    "artist": "polysha",
+    "rank": 11,
+    "status": 6,
+    "bg": "d698728967f3ea70693ba626955bd6da"
+  },
+  {
+    "song_id": "goodtek",
+    "title": {
+      "en": "GOODTEK (Arcaea Edit)",
+      "ja": "GOODTEK (Arcaea Edit)"
+    },
+    "artist": "EBIMAYO",
+    "rank": 12,
+    "status": -6,
+    "bg": "96cff1ae9b2f2d416e0f5d62e8d49337"
+  },
+  {
+    "song_id": "wontbackdown",
+    "title": {
+      "en": "Won't Back Down",
+      "ja": "Won't Back Down"
+    },
+    "artist": "Pure 100% / KASA",
+    "rank": 13,
+    "status": 40,
+    "bg": "cf6172e5819721e0a026f1bce290350c"
+  },
+  {
+    "song_id": "someday",
+    "title": {
+      "en": "Someday",
+      "ja": "Someday"
+    },
+    "artist": "NieN",
+    "rank": 14,
+    "status": 56,
+    "bg": "66bed5608b20f6ce0e493c9e8555d929"
+  }
+]
