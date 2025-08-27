@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "dematerialized",
+    "title": {
+      "en": "Dematerialized",
+      "ja": "Dematerialized"
+    },
+    "artist": "In Love With A Ghost",
+    "rank": 0,
+    "status": 0,
+    "bg": "ac4858d1a133c5d604c9bec753a4b12f"
+  },
+  {
+    "song_id": "disintegration",
+    "title": {
+      "en": "disintegration",
+      "ja": "disintegration"
+    },
+    "artist": "ひゅ〜ぶ",
+    "rank": 1,
+    "status": 0,
+    "bg": "5b29dfdc9f95acf0123835ffa9d10563"
+  },
+  {
+    "song_id": "satisfaction",
+    "title": {
+      "en": "SATISFACTION",
+      "ja": "SATISFACTION"
+    },
+    "artist": "P*Light & DJ Noriken feat. KMNZ",
+    "rank": 2,
+    "status": 0,
+    "bg": "50ddb3746c948cce37fe24a47b9dca94"
+  },
+  {
+    "song_id": "anokumene",
+    "title": {
+      "en": "Anökumene",
+      "ja": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 3,
+    "status": 1,
+    "bg": "e4dd499ea3ebdec5f8ebe0ccdece5554"
+  },
+  {
+    "song_id": "nhelv",
+    "title": {
+      "en": "Nhelv",
+      "ja": "Nhelv"
+    },
+    "artist": "Silentroom",
+    "rank": 4,
+    "status": -1,
+    "bg": "506bcf2472b002332dd39d49b6a3e695"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "en": "Lost Civilization",
+      "ja": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 5,
+    "status": 1,
+    "bg": "0c654da47f0df95e29bba9ce9d43468d"
+  },
+  {
+    "song_id": "innocence",
+    "title": {
+      "en": "Innocence",
+      "ja": "Innocence"
+    },
+    "artist": "Powerless feat. Sennzai",
+    "rank": 6,
+    "status": -1,
+    "bg": "7d4f7332ee321cb0fbcda930bc79e7fc"
+  },
+  {
+    "song_id": "goodtek",
+    "title": {
+      "en": "GOODTEK (Arcaea Edit)",
+      "ja": "GOODTEK (Arcaea Edit)"
+    },
+    "artist": "EBIMAYO",
+    "rank": 7,
+    "status": 0,
+    "bg": "b060078580375d879cc7c0e12ef2537a"
+  },
+  {
+    "song_id": "redandblue",
+    "title": {
+      "en": "Red and Blue",
+      "ja": "Red and Blue"
+    },
+    "artist": "Silentroom",
+    "rank": 8,
+    "status": 5,
+    "bg": "240ea9bb4d9b5d185440766e77fc3af1"
+  },
+  {
+    "song_id": "sayonarahatsukoi",
+    "title": {
+      "en": "Sayonara Hatsukoi",
+      "ja": "Sayonara Hatsukoi"
+    },
+    "artist": "REDSHiFT",
+    "rank": 9,
+    "status": 3,
+    "bg": "213ec51a6d9c322895cea21cf9d060ef"
+  },
+  {
+    "song_id": "chronostasis",
+    "title": {
+      "en": "Chronostasis",
+      "ja": "Chronostasis"
+    },
+    "artist": "黒皇帝",
+    "rank": 10,
+    "status": -1,
+    "bg": "1c64b1e6cfe88960df56dc837cc83171"
+  },
+  {
+    "song_id": "ignotus",
+    "title": {
+      "en": "Ignotus",
+      "ja": "Ignotus"
+    },
+    "artist": "ak+q",
+    "rank": 11,
+    "status": -1,
+    "bg": "a6d0f1dd26b97173f318bc2a59c12666"
+  },
+  {
+    "song_id": "kanagawa",
+    "title": {
+      "en": "Kanagawa Cyber Culvert",
+      "ja": "神奈川電脳暗渠"
+    },
+    "artist": "南ゆに",
+    "rank": 12,
+    "status": -1,
+    "bg": "41216648aa5e4608783527ae818395ee"
+  },
+  {
+    "song_id": "sakurafubuki",
+    "title": {
+      "en": "Sakura Fubuki",
+      "ja": "Sakura Fubuki"
+    },
+    "artist": "Street",
+    "rank": 13,
+    "status": 3,
+    "bg": "47936964ad6da43267e3f1a3be742916"
+  },
+  {
+    "song_id": "cyberneciacatharsis",
+    "title": {
+      "en": "Cybernecia Catharsis",
+      "ja": "Cybernecia Catharsis"
+    },
+    "artist": "Tanchiky",
+    "rank": 14,
+    "status": 0,
+    "bg": "d80113dee882f6488f8f03d2c58c8e87"
+  }
+]
