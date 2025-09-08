@@ -23,7 +23,7 @@ jobs:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.PAT }}
       - name: Setup python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version-file: ".python-version"
       # https://docs.astral.sh/uv/guides/integration/github/#using-uv-in-github-actions
@@ -59,7 +59,7 @@ jobs:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.PAT }}
       - name: Install Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version-file: ".python-version"
       # https://docs.astral.sh/uv/guides/integration/github/#using-uv-in-github-actions
