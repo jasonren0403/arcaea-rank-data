@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "acheron",
+    "title": {
+      "en": "Acheron",
+      "ja": "Acheron"
+    },
+    "artist": "KARUT",
+    "rank": 0,
+    "status": 0,
+    "bg": "e0ab8a98301521678b8db71921a9a8d7"
+  },
+  {
+    "song_id": "satisfaction",
+    "title": {
+      "en": "SATISFACTION",
+      "ja": "SATISFACTION"
+    },
+    "artist": "P*Light & DJ Noriken feat. KMNZ",
+    "rank": 1,
+    "status": 0,
+    "bg": "7b747414ba813881e168c6ff25001d4c"
+  },
+  {
+    "song_id": "anokumene",
+    "title": {
+      "en": "Anökumene",
+      "ja": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 2,
+    "status": 0,
+    "bg": "a4065ec4dd8eba2edb2a31c28f134761"
+  },
+  {
+    "song_id": "nhelv",
+    "title": {
+      "en": "Nhelv",
+      "ja": "Nhelv"
+    },
+    "artist": "Silentroom",
+    "rank": 3,
+    "status": 0,
+    "bg": "2e6a60895cac198cb51a1ea9c2a6c748"
+  },
+  {
+    "song_id": "disintegration",
+    "title": {
+      "en": "disintegration",
+      "ja": "disintegration"
+    },
+    "artist": "ひゅ〜ぶ",
+    "rank": 4,
+    "status": 2,
+    "bg": "b757b58a2fef1e056c49e81a89509691"
+  },
+  {
+    "song_id": "redandblue",
+    "title": {
+      "en": "Red and Blue",
+      "ja": "Red and Blue"
+    },
+    "artist": "Silentroom",
+    "rank": 5,
+    "status": -1,
+    "bg": "0fa6c73e7a92541da50892a96ff94757"
+  },
+  {
+    "song_id": "goodtek",
+    "title": {
+      "en": "GOODTEK (Arcaea Edit)",
+      "ja": "GOODTEK (Arcaea Edit)"
+    },
+    "artist": "EBIMAYO",
+    "rank": 6,
+    "status": 1,
+    "bg": "20d4f0174864690391490432f475a4b4"
+  },
+  {
+    "song_id": "ignotus",
+    "title": {
+      "en": "Ignotus",
+      "ja": "Ignotus"
+    },
+    "artist": "ak+q",
+    "rank": 7,
+    "status": 2,
+    "bg": "7e9b40e528923d185be1067d6cf22d55"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "en": "Lost Civilization",
+      "ja": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 8,
+    "status": -3,
+    "bg": "1f9334c046f12d9250aa36aecc29703d"
+  },
+  {
+    "song_id": "kanagawa",
+    "title": {
+      "en": "Kanagawa Cyber Culvert",
+      "ja": "神奈川電脳暗渠"
+    },
+    "artist": "南ゆに",
+    "rank": 9,
+    "status": -1,
+    "bg": "2a29224b5e91f27a122cd15e8daad6d8"
+  },
+  {
+    "song_id": "shadesoflight",
+    "title": {
+      "en": "Shades of Light in a Transcendent Realm",
+      "ja": "Shades of Light in a Transcendent Realm"
+    },
+    "artist": "ak+q",
+    "rank": 10,
+    "status": 2,
+    "bg": "71743bc7ee0bd9c68e45e988787a0101"
+  },
+  {
+    "song_id": "cyberneciacatharsis",
+    "title": {
+      "en": "Cybernecia Catharsis",
+      "ja": "Cybernecia Catharsis"
+    },
+    "artist": "Tanchiky",
+    "rank": 11,
+    "status": -1,
+    "bg": "9e69e79261d4134fe3a9e3719425e125"
+  },
+  {
+    "song_id": "sakurafubuki",
+    "title": {
+      "en": "Sakura Fubuki",
+      "ja": "Sakura Fubuki"
+    },
+    "artist": "Street",
+    "rank": 12,
+    "status": 14,
+    "bg": "148e4bd11bb70ce6ba30e29fb66a9baa"
+  },
+  {
+    "song_id": "chronostasis",
+    "title": {
+      "en": "Chronostasis",
+      "ja": "Chronostasis"
+    },
+    "artist": "黒皇帝",
+    "rank": 13,
+    "status": 2,
+    "bg": "9b69421cd1b6206daa5dcb3703186a4f"
+  },
+  {
+    "song_id": "inkarusi",
+    "title": {
+      "en": "inkar-usi",
+      "ja": "inkar-usi"
+    },
+    "artist": "DIA",
+    "rank": 14,
+    "status": -3,
+    "bg": "e6684dc279493323e0ed2fdd737d68e6"
+  }
+]
