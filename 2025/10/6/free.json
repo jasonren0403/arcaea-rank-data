@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "rostpagegene",
+    "title": {
+      "en": "ROST PAGE GENE",
+      "ja": "ROST PAGE GENE"
+    },
+    "artist": "MYUKKE.",
+    "rank": 0,
+    "status": 0,
+    "bg": "f20176f6299a5237ec3ac1f8f0e0f2d0"
+  },
+  {
+    "song_id": "nhelv",
+    "title": {
+      "en": "Nhelv",
+      "ja": "Nhelv"
+    },
+    "artist": "Silentroom",
+    "rank": 1,
+    "status": 0,
+    "bg": "04bc6b827c5bd1237bc11eafa948311d"
+  },
+  {
+    "song_id": "bookmaker",
+    "title": {
+      "en": "Bookmaker (2D Version)",
+      "ja": "Bookmaker (2D Version)"
+    },
+    "artist": "Kobaryo",
+    "rank": 2,
+    "status": 0,
+    "bg": "7bc5277dbd0968600d7fd3b8c5595910"
+  },
+  {
+    "song_id": "redandblue",
+    "title": {
+      "en": "Red and Blue",
+      "ja": "Red and Blue"
+    },
+    "artist": "Silentroom",
+    "rank": 3,
+    "status": 0,
+    "bg": "4c36fcc27a581c5f9c5c5b6be99f4621"
+  },
+  {
+    "song_id": "disintegration",
+    "title": {
+      "en": "disintegration",
+      "ja": "disintegration"
+    },
+    "artist": "ひゅ〜ぶ",
+    "rank": 4,
+    "status": 2,
+    "bg": "db7843fd0d42479608db4fa875c3872b"
+  },
+  {
+    "song_id": "trpno",
+    "title": {
+      "en": "TRPNO",
+      "ja": "TRPNO"
+    },
+    "artist": "Nauts",
+    "rank": 5,
+    "status": -1,
+    "bg": "98fca7ee8b81f1108cb0cc49de4ff384"
+  },
+  {
+    "song_id": "chronicle",
+    "title": {
+      "en": "Chronicle",
+      "ja": "Chronicle"
+    },
+    "artist": "Lime",
+    "rank": 6,
+    "status": -1,
+    "bg": "72c89f1ffc63d53ae1cdad625c3b2a4c"
+  },
+  {
+    "song_id": "satisfaction",
+    "title": {
+      "en": "SATISFACTION",
+      "ja": "SATISFACTION"
+    },
+    "artist": "P*Light & DJ Noriken feat. KMNZ",
+    "rank": 7,
+    "status": 6,
+    "bg": "382bfecf3050ff8e88885977519c49e5"
+  },
+  {
+    "song_id": "alephzero",
+    "title": {
+      "en": "Aleph-0",
+      "ja": "Aleph-0"
+    },
+    "artist": "LeaF",
+    "rank": 8,
+    "status": 1,
+    "bg": "1cca43fb4367eae22c79ff3ce35ed02c"
+  },
+  {
+    "song_id": "purpleverse",
+    "title": {
+      "en": "Purple Verse",
+      "ja": "Purple Verse"
+    },
+    "artist": "Hommarju",
+    "rank": 9,
+    "status": -2,
+    "bg": "9a63405ebc83686315c554bac895517f"
+  },
+  {
+    "song_id": "energysynergymatrix",
+    "title": {
+      "en": "ENERGY SYNERGY MATRIX",
+      "ja": "ENERGY SYNERGY MATRIX"
+    },
+    "artist": "Tanchiky",
+    "rank": 10,
+    "status": 0,
+    "bg": "8f8ab190c348534ce12479945f551660"
+  },
+  {
+    "song_id": "gengaozo",
+    "title": {
+      "en": "G e n g a o z o",
+      "ja": "G e n g a o z o"
+    },
+    "artist": "-45",
+    "rank": 11,
+    "status": -3,
+    "bg": "913cbb227b3df8aff6c86a4e8aa5e744"
+  },
+  {
+    "song_id": "lethalvoltage",
+    "title": {
+      "en": "Lethal Voltage",
+      "ja": "Lethal Voltage"
+    },
+    "artist": "siqlo",
+    "rank": 12,
+    "status": -1,
+    "bg": "ec56027d50bb7fc008222e43ef04f08c"
+  },
+  {
+    "song_id": "anokumene",
+    "title": {
+      "en": "Anökumene",
+      "ja": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 13,
+    "status": 2,
+    "bg": "f6ebe698fcb39917771c5eb841e419a1"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "en": "Lost Civilization",
+      "ja": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 14,
+    "status": 4,
+    "bg": "95fe81115a53e8dc22d72c0d7a7cef04"
+  }
+]
