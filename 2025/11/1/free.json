@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "xxium",
+    "title": {
+      "en": "Xxium and Purple haze",
+      "ja": "Xxium and Purple haze"
+    },
+    "artist": "D.watt",
+    "rank": 0,
+    "status": 2147483647,
+    "bg": "9b58990284182b2b3c61f7dda3c0f214"
+  },
+  {
+    "song_id": "awakening",
+    "title": {
+      "en": "Wake in Hour",
+      "ja": "始マリノ詩"
+    },
+    "artist": "有村京悟 feat.July",
+    "rank": 1,
+    "status": 2147483646,
+    "bg": "a1a38f8f4f7a543febebc4eac545f819"
+  },
+  {
+    "song_id": "particle",
+    "title": {
+      "en": "Particle",
+      "ja": "Particle"
+    },
+    "artist": "Lime / Kankitsu",
+    "rank": 2,
+    "status": 2147483645,
+    "bg": "f068b5528ef34b88dec1ae03083ccc6d"
+  },
+  {
+    "song_id": "paradoxpalette",
+    "title": {
+      "en": "Paradox Palette",
+      "ja": "Paradox Palette"
+    },
+    "artist": "Aethoro",
+    "rank": 3,
+    "status": 2147483644,
+    "bg": "18cfbddfb4cfe8c68fcebf09fad42425"
+  },
+  {
+    "song_id": "mod",
+    "title": {
+      "en": "mod",
+      "ja": "mod"
+    },
+    "artist": "kalsoer",
+    "rank": 4,
+    "status": 2147483643,
+    "bg": "af8982f6c70928e0bac1dcae9c923a25"
+  },
+  {
+    "song_id": "anokumene",
+    "title": {
+      "en": "Anökumene",
+      "ja": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 5,
+    "status": -4,
+    "bg": "a6c171ed7dcb02d1e363bc8a5def2756"
+  },
+  {
+    "song_id": "satisfaction",
+    "title": {
+      "en": "SATISFACTION",
+      "ja": "SATISFACTION"
+    },
+    "artist": "P*Light & DJ Noriken feat. KMNZ",
+    "rank": 6,
+    "status": -6,
+    "bg": "9e07a3ddb8fae88c7d9cc65fc52b1031"
+  },
+  {
+    "song_id": "awakeninruins",
+    "title": {
+      "en": "Awaken In Ruins",
+      "ja": "Awaken In Ruins"
+    },
+    "artist": "Supa7onyz",
+    "rank": 7,
+    "status": 86,
+    "bg": "7af6a2d233774569b283d12775cb068a"
+  },
+  {
+    "song_id": "rise",
+    "title": {
+      "en": "Rise",
+      "ja": "Rise"
+    },
+    "artist": "Combatplayer",
+    "rank": 8,
+    "status": 64,
+    "bg": "6a0f7ab9a75f2f633ba3b7bbf303c7c4"
+  },
+  {
+    "song_id": "rostpagegene",
+    "title": {
+      "en": "ROST PAGE GENE",
+      "ja": "ROST PAGE GENE"
+    },
+    "artist": "MYUKKE.",
+    "rank": 9,
+    "status": -7,
+    "bg": "8119551088e37ee6c920c439ef04f5d6"
+  },
+  {
+    "song_id": "blacklotus",
+    "title": {
+      "en": "Black Lotus",
+      "ja": "Black Lotus"
+    },
+    "artist": "wa.",
+    "rank": 10,
+    "status": 76,
+    "bg": "aa654963b175b08611c196a88ece48b3"
+  },
+  {
+    "song_id": "disintegration",
+    "title": {
+      "en": "disintegration",
+      "ja": "disintegration"
+    },
+    "artist": "ひゅ〜ぶ",
+    "rank": 11,
+    "status": 28,
+    "bg": "e43a258d9bea02dd9d7ee1fdbcb6f2d5"
+  },
+  {
+    "song_id": "nhelv",
+    "title": {
+      "en": "Nhelv",
+      "ja": "Nhelv"
+    },
+    "artist": "Silentroom",
+    "rank": 12,
+    "status": -8,
+    "bg": "0215369e3b5aa2edc13b1f5ecacd334e"
+  },
+  {
+    "song_id": "goodtek",
+    "title": {
+      "en": "GOODTEK (Arcaea Edit)",
+      "ja": "GOODTEK (Arcaea Edit)"
+    },
+    "artist": "EBIMAYO",
+    "rank": 13,
+    "status": -8,
+    "bg": "7b9bd2642d39449b09399a202b2b8607"
+  },
+  {
+    "song_id": "kanagawa",
+    "title": {
+      "en": "Kanagawa Cyber Culvert",
+      "ja": "神奈川電脳暗渠"
+    },
+    "artist": "南ゆに",
+    "rank": 14,
+    "status": -8,
+    "bg": "bcbf650834fc9e926697e980f87cd374"
+  }
+]
