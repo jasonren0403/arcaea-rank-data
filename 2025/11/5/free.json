@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "particle",
+    "title": {
+      "en": "Particle",
+      "ja": "Particle"
+    },
+    "artist": "Lime / Kankitsu",
+    "rank": 0,
+    "status": 0,
+    "bg": "a1f3b0d08b6a43c7a88c3f42aefd3b5a"
+  },
+  {
+    "song_id": "paradoxpalette",
+    "title": {
+      "en": "Paradox Palette",
+      "ja": "Paradox Palette"
+    },
+    "artist": "Aethoro",
+    "rank": 1,
+    "status": 0,
+    "bg": "017e413b6f260e7ee32b81176af48e5e"
+  },
+  {
+    "song_id": "xxium",
+    "title": {
+      "en": "Xxium and Purple haze",
+      "ja": "Xxium and Purple haze"
+    },
+    "artist": "D.watt",
+    "rank": 2,
+    "status": 0,
+    "bg": "3c78149c012f07097ee5a69ff641ddf4"
+  },
+  {
+    "song_id": "mod",
+    "title": {
+      "en": "mod",
+      "ja": "mod"
+    },
+    "artist": "kalsoer",
+    "rank": 3,
+    "status": 0,
+    "bg": "7cbe1099c95bcf984ee2312c076e0d40"
+  },
+  {
+    "song_id": "awakening",
+    "title": {
+      "en": "Wake in Hour",
+      "ja": "始マリノ詩"
+    },
+    "artist": "有村京悟 feat.July",
+    "rank": 4,
+    "status": 0,
+    "bg": "f77dd49287dc1a52131ee68c9f926bc8"
+  },
+  {
+    "song_id": "anokumene",
+    "title": {
+      "en": "Anökumene",
+      "ja": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 5,
+    "status": 0,
+    "bg": "b37ab7daca05819446836e36a590f9d0"
+  },
+  {
+    "song_id": "satisfaction",
+    "title": {
+      "en": "SATISFACTION",
+      "ja": "SATISFACTION"
+    },
+    "artist": "P*Light & DJ Noriken feat. KMNZ",
+    "rank": 6,
+    "status": 0,
+    "bg": "cc8b36db9591178b15b322f15f1276c1"
+  },
+  {
+    "song_id": "goodtek",
+    "title": {
+      "en": "GOODTEK (Arcaea Edit)",
+      "ja": "GOODTEK (Arcaea Edit)"
+    },
+    "artist": "EBIMAYO",
+    "rank": 7,
+    "status": 2,
+    "bg": "5bd95eb36e972a0663544c2ec0606a6f"
+  },
+  {
+    "song_id": "rostpagegene",
+    "title": {
+      "en": "ROST PAGE GENE",
+      "ja": "ROST PAGE GENE"
+    },
+    "artist": "MYUKKE.",
+    "rank": 8,
+    "status": 0,
+    "bg": "36251f050157fe4d9519836465bb1f57"
+  },
+  {
+    "song_id": "nhelv",
+    "title": {
+      "en": "Nhelv",
+      "ja": "Nhelv"
+    },
+    "artist": "Silentroom",
+    "rank": 9,
+    "status": 2,
+    "bg": "746036bbc19cedb31e8decb6881ddd77"
+  },
+  {
+    "song_id": "epicurus",
+    "title": {
+      "en": "Hidden Rainbows of Epicurus",
+      "ja": "エピクロスの虹はもう見えない"
+    },
+    "artist": "SYNC.ART'S feat.Misato",
+    "rank": 10,
+    "status": 15,
+    "bg": "de6a93ef631d8e035985d87adbe2033f"
+  },
+  {
+    "song_id": "awakeninruins",
+    "title": {
+      "en": "Awaken In Ruins",
+      "ja": "Awaken In Ruins"
+    },
+    "artist": "Supa7onyz",
+    "rank": 11,
+    "status": 1,
+    "bg": "361ba2575425aeaa7acb4ac7c7b499dc"
+  },
+  {
+    "song_id": "innocence",
+    "title": {
+      "en": "Innocence",
+      "ja": "Innocence"
+    },
+    "artist": "Powerless feat. Sennzai",
+    "rank": 12,
+    "status": 3,
+    "bg": "3301e906bd154fe15bf32d2753699fb4"
+  },
+  {
+    "song_id": "rise",
+    "title": {
+      "en": "Rise",
+      "ja": "Rise"
+    },
+    "artist": "Combatplayer",
+    "rank": 13,
+    "status": -6,
+    "bg": "99c8722da235c6dbf3d6cf59446b72e7"
+  },
+  {
+    "song_id": "disintegration",
+    "title": {
+      "en": "disintegration",
+      "ja": "disintegration"
+    },
+    "artist": "ひゅ〜ぶ",
+    "rank": 14,
+    "status": 3,
+    "bg": "a207462478e96119f50ee04411317393"
+  }
+]
