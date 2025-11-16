@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "xterfusion",
+    "title": {
+      "en": "Xterfusion",
+      "ja": "Xterfusion"
+    },
+    "artist": "REDALiCE × t+pazolite",
+    "rank": 0,
+    "status": 0,
+    "bg": "761add155734e1c3fcfdd9f1a2fcf43f"
+  },
+  {
+    "song_id": "undyingmacula",
+    "title": {
+      "en": "Undying Macula",
+      "ja": "Undying Macula"
+    },
+    "artist": "Ashrount",
+    "rank": 1,
+    "status": 0,
+    "bg": "4593beaed3196bf4e1bc24706c53cb09"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "en": "Tempestissimo",
+      "ja": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 2,
+    "status": 1,
+    "bg": "031a71dbc7c2b1e7cd976426020883dd"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "en": "Grievous Lady",
+      "ja": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 3,
+    "status": 1,
+    "bg": "fe85d066d26d198e74cf209bc0dcca7f"
+  },
+  {
+    "song_id": "testify",
+    "title": {
+      "en": "Testify",
+      "ja": "Testify"
+    },
+    "artist": "void (Mournfinale) feat. 星熊南巫",
+    "rank": 4,
+    "status": -2,
+    "bg": "b843fed972e591384e5efa8076ef4ded"
+  },
+  {
+    "song_id": "andorxor",
+    "title": {
+      "en": "ANDORXOR",
+      "ja": "ANDORXOR"
+    },
+    "artist": "Sobrem",
+    "rank": 5,
+    "status": 0,
+    "bg": "4b267caec5282e6bece999bd4067db09"
+  },
+  {
+    "song_id": "infinitestrife",
+    "title": {
+      "en": "Infinite Strife,",
+      "ja": "Infinite Strife,"
+    },
+    "artist": "BlackYooh vs. siromaru",
+    "rank": 6,
+    "status": 1,
+    "bg": "148d54c6a682297541c187a037fc03f7"
+  },
+  {
+    "song_id": "extradimensional",
+    "title": {
+      "en": "Extradimensional Cosmic Phenomenon",
+      "ja": "多次元宇宙融合論"
+    },
+    "artist": "TAKIO feat. つぐ",
+    "rank": 7,
+    "status": -1,
+    "bg": "246e6af53f8d6fb8e73e77296cb0f5f6"
+  },
+  {
+    "song_id": "designant",
+    "title": {
+      "en": "Designant.",
+      "ja": "Designant."
+    },
+    "artist": "Designant",
+    "rank": 8,
+    "status": 2,
+    "bg": "01810e90f48d9aaabeec4cf42e1130d8"
+  },
+  {
+    "song_id": "arcanaeden",
+    "title": {
+      "en": "Arcana Eden",
+      "ja": "Arcana Eden"
+    },
+    "artist": "Team Grimoire vs Sakuzyo vs Laur",
+    "rank": 9,
+    "status": -1,
+    "bg": "26f3e964cf37ff557007ee20eecadbf3"
+  },
+  {
+    "song_id": "pentiment",
+    "title": {
+      "en": "Pentiment",
+      "ja": "Pentiment"
+    },
+    "artist": "Nothing But Requiem with Museo",
+    "rank": 10,
+    "status": -1,
+    "bg": "b27a3e55a96471e354df25f573ec7a89"
+  },
+  {
+    "song_id": "fractureray",
+    "title": {
+      "en": "Fracture Ray",
+      "ja": "Fracture Ray"
+    },
+    "artist": "Sakuzyo",
+    "rank": 11,
+    "status": 2,
+    "bg": "58cc7e8dc385ec660efa82f6ca91887e"
+  },
+  {
+    "song_id": "sheriruth",
+    "title": {
+      "en": "Sheriruth",
+      "ja": "Sheriruth"
+    },
+    "artist": "Team Grimoire",
+    "rank": 12,
+    "status": 0,
+    "bg": "a2c60278f7eb117021a31d0fe610a0e9"
+  },
+  {
+    "song_id": "lamentrain",
+    "title": {
+      "en": "Lament Rain",
+      "ja": "Lament Rain"
+    },
+    "artist": "Ashrount vs. 打打だいず",
+    "rank": 13,
+    "status": 1,
+    "bg": "e75a38916d8f3ab06824420877842c44"
+  },
+  {
+    "song_id": "alterego",
+    "title": {
+      "en": "ALTER EGO",
+      "ja": "ALTER EGO"
+    },
+    "artist": "Yuta Imai vs Qlarabelle",
+    "rank": 14,
+    "status": -3,
+    "bg": "659da3848d37f3703e7798c9f49f0b62"
+  }
+]
