@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "xxium",
+    "title": {
+      "en": "Xxium and Purple haze",
+      "ja": "Xxium and Purple haze"
+    },
+    "artist": "D.watt",
+    "rank": 0,
+    "status": 0,
+    "bg": "f17b90957f63e819e73d2aff4b4b1527"
+  },
+  {
+    "song_id": "paradoxpalette",
+    "title": {
+      "en": "Paradox Palette",
+      "ja": "Paradox Palette"
+    },
+    "artist": "Aethoro",
+    "rank": 1,
+    "status": 0,
+    "bg": "df793fb23d4efe714fcf5d160a7f6859"
+  },
+  {
+    "song_id": "particle",
+    "title": {
+      "en": "Particle",
+      "ja": "Particle"
+    },
+    "artist": "Lime / Kankitsu",
+    "rank": 2,
+    "status": 0,
+    "bg": "d275e2c55298ab8590745d258a151ea1"
+  },
+  {
+    "song_id": "awakening",
+    "title": {
+      "en": "Wake in Hour",
+      "ja": "始マリノ詩"
+    },
+    "artist": "有村京悟 feat.July",
+    "rank": 3,
+    "status": 0,
+    "bg": "80c8ad28e19e36cd4e036025ef5b95e9"
+  },
+  {
+    "song_id": "mod",
+    "title": {
+      "en": "mod",
+      "ja": "mod"
+    },
+    "artist": "kalsoer",
+    "rank": 4,
+    "status": 0,
+    "bg": "efebf762e5e058e75ac55a31c51895da"
+  },
+  {
+    "song_id": "epicurus",
+    "title": {
+      "en": "Hidden Rainbows of Epicurus",
+      "ja": "エピクロスの虹はもう見えない"
+    },
+    "artist": "SYNC.ART'S feat.Misato",
+    "rank": 5,
+    "status": 0,
+    "bg": "77ee0e806b28ab180d9179754d6c0472"
+  },
+  {
+    "song_id": "anokumene",
+    "title": {
+      "en": "Anökumene",
+      "ja": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 6,
+    "status": 0,
+    "bg": "bfd9169b8d1f18d6f279bcef2a5290ca"
+  },
+  {
+    "song_id": "satisfaction",
+    "title": {
+      "en": "SATISFACTION",
+      "ja": "SATISFACTION"
+    },
+    "artist": "P*Light & DJ Noriken feat. KMNZ",
+    "rank": 7,
+    "status": 0,
+    "bg": "f529eb9baf51b58c775b4356dffa878f"
+  },
+  {
+    "song_id": "goodtek",
+    "title": {
+      "en": "GOODTEK (Arcaea Edit)",
+      "ja": "GOODTEK (Arcaea Edit)"
+    },
+    "artist": "EBIMAYO",
+    "rank": 8,
+    "status": 2,
+    "bg": "fdd9f66acc87479da45b6ec55c2e4a23"
+  },
+  {
+    "song_id": "kanagawa",
+    "title": {
+      "en": "Kanagawa Cyber Culvert",
+      "ja": "神奈川電脳暗渠"
+    },
+    "artist": "南ゆに",
+    "rank": 9,
+    "status": 2,
+    "bg": "21ad17582420f451f044fc16d695a0e8"
+  },
+  {
+    "song_id": "nhelv",
+    "title": {
+      "en": "Nhelv",
+      "ja": "Nhelv"
+    },
+    "artist": "Silentroom",
+    "rank": 10,
+    "status": 7,
+    "bg": "e136046b54433c59d1704a96575ab2d3"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "en": "Lost Civilization",
+      "ja": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 11,
+    "status": 3,
+    "bg": "c57ba6a25e7090a5727e5e55df974d1a"
+  },
+  {
+    "song_id": "innocence",
+    "title": {
+      "en": "Innocence",
+      "ja": "Innocence"
+    },
+    "artist": "Powerless feat. Sennzai",
+    "rank": 12,
+    "status": 1,
+    "bg": "483306a93099a4136325312d020b0a9b"
+  },
+  {
+    "song_id": "sayonarahatsukoi",
+    "title": {
+      "en": "Sayonara Hatsukoi",
+      "ja": "Sayonara Hatsukoi"
+    },
+    "artist": "REDSHiFT",
+    "rank": 13,
+    "status": -4,
+    "bg": "673193808f744fe6c04a3be02226801d"
+  },
+  {
+    "song_id": "purgatorium",
+    "title": {
+      "en": "Purgatorium",
+      "ja": "Purgatorium"
+    },
+    "artist": "お月さま交響曲",
+    "rank": 14,
+    "status": 7,
+    "bg": "fa3ddbf2a52f9c59f5fd857cedb6feb0"
+  }
+]
