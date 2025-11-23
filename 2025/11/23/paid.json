@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "codeoblivion",
+    "title": {
+      "en": "Code: Oblivion",
+      "ja": "Code: Oblivion"
+    },
+    "artist": "Kobaryo × Gram",
+    "rank": 0,
+    "status": 2147483647,
+    "bg": "f8268d52e79302741927b76260e03d37"
+  },
+  {
+    "song_id": "marenyx",
+    "title": {
+      "en": "MARENYX",
+      "ja": "MARENYX"
+    },
+    "artist": "BlackY × Aoi",
+    "rank": 1,
+    "status": 2147483646,
+    "bg": "44f7a061b6d6b91961c91547641e375c"
+  },
+  {
+    "song_id": "infinitedim",
+    "title": {
+      "en": "INFINITE DIMENSION",
+      "ja": "INFINITE DIMENSION"
+    },
+    "artist": "DJ Noriken × P*Light",
+    "rank": 2,
+    "status": 2147483645,
+    "bg": "a7a326ae67a1ac652fc39b21bb334e0f"
+  },
+  {
+    "song_id": "zephyrlast",
+    "title": {
+      "en": "zephyrlasting",
+      "ja": "zephyrlasting"
+    },
+    "artist": "s-don × nitro (lowiro)",
+    "rank": 3,
+    "status": 2147483644,
+    "bg": "f06479521504af6efd1e8cad5130f9fc"
+  },
+  {
+    "song_id": "incarnator",
+    "title": {
+      "en": "INCARNATOR₀₀",
+      "ja": "INCARNATOR₀₀"
+    },
+    "artist": "Silentroom × N²",
+    "rank": 4,
+    "status": 2147483643,
+    "bg": "48fef3999b60ec0601455d70d30e9b8a"
+  },
+  {
+    "song_id": "azalea",
+    "title": {
+      "en": "ΛZΛLEΛ",
+      "ja": "ΛZΛLEΛ"
+    },
+    "artist": "ak+q × onoken",
+    "rank": 5,
+    "status": 2147483642,
+    "bg": "2c877ab4d9ecc84c5dac8e9c396e0ceb"
+  },
+  {
+    "song_id": "xterfusion",
+    "title": {
+      "en": "Xterfusion",
+      "ja": "Xterfusion"
+    },
+    "artist": "REDALiCE × t+pazolite",
+    "rank": 6,
+    "status": -6,
+    "bg": "a41b42cea980a833b92a8b93e2abec03"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "en": "Tempestissimo",
+      "ja": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 7,
+    "status": -5,
+    "bg": "bffbf22d7d1ada2119bd25b0867829f8"
+  },
+  {
+    "song_id": "undyingmacula",
+    "title": {
+      "en": "Undying Macula",
+      "ja": "Undying Macula"
+    },
+    "artist": "Ashrount",
+    "rank": 8,
+    "status": -7,
+    "bg": "18d9cc1991149c0cb0c30faf58cd52a6"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "en": "Grievous Lady",
+      "ja": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 9,
+    "status": -6,
+    "bg": "2642fa5fed4d7e5e87b4861d200269d9"
+  },
+  {
+    "song_id": "testify",
+    "title": {
+      "en": "Testify",
+      "ja": "Testify"
+    },
+    "artist": "void (Mournfinale) feat. 星熊南巫",
+    "rank": 10,
+    "status": -6,
+    "bg": "27c87912bc8500d60dd477af7c9a2858"
+  },
+  {
+    "song_id": "fractureray",
+    "title": {
+      "en": "Fracture Ray",
+      "ja": "Fracture Ray"
+    },
+    "artist": "Sakuzyo",
+    "rank": 11,
+    "status": 0,
+    "bg": "d383125482866912cf120c8e0d43356a"
+  },
+  {
+    "song_id": "extradimensional",
+    "title": {
+      "en": "Extradimensional Cosmic Phenomenon",
+      "ja": "多次元宇宙融合論"
+    },
+    "artist": "TAKIO feat. つぐ",
+    "rank": 12,
+    "status": -5,
+    "bg": "ed4fb2dee65abfa32fd2bf6337f73068"
+  },
+  {
+    "song_id": "andorxor",
+    "title": {
+      "en": "ANDORXOR",
+      "ja": "ANDORXOR"
+    },
+    "artist": "Sobrem",
+    "rank": 13,
+    "status": -5,
+    "bg": "5d58dac75c9ec2315d3be66b6e117778"
+  },
+  {
+    "song_id": "infinitestrife",
+    "title": {
+      "en": "Infinite Strife,",
+      "ja": "Infinite Strife,"
+    },
+    "artist": "BlackYooh vs. siromaru",
+    "rank": 14,
+    "status": -5,
+    "bg": "dfcb4265a49ce398020ba78cd0adb689"
+  }
+]
