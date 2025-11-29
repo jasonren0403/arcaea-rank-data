@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "xxium",
+    "title": {
+      "en": "Xxium and Purple haze",
+      "ja": "Xxium and Purple haze"
+    },
+    "artist": "D.watt",
+    "rank": 0,
+    "status": 0,
+    "bg": "aa36d98e06fc2691e6fb90b669bdef0e"
+  },
+  {
+    "song_id": "tabootears",
+    "title": {
+      "en": "taboo tears you up 2017",
+      "ja": "taboo tears you up 2017"
+    },
+    "artist": "REDALiCE",
+    "rank": 1,
+    "status": 129,
+    "bg": "5ec7c1ad77def0ccf890570449e8a550"
+  },
+  {
+    "song_id": "epicurus",
+    "title": {
+      "en": "Hidden Rainbows of Epicurus",
+      "ja": "エピクロスの虹はもう見えない"
+    },
+    "artist": "SYNC.ART'S feat.Misato",
+    "rank": 2,
+    "status": 33,
+    "bg": "22ce6f2d6521c51f12eb5d2ca55d4ec0"
+  },
+  {
+    "song_id": "blackmirror",
+    "title": {
+      "en": "Black Mirror on the Wall",
+      "ja": "Black Mirror on the Wall"
+    },
+    "artist": "暁Records",
+    "rank": 3,
+    "status": 86,
+    "bg": "3a6b68abfe144ec7d26abc1e4754aed7"
+  },
+  {
+    "song_id": "particle",
+    "title": {
+      "en": "Particle",
+      "ja": "Particle"
+    },
+    "artist": "Lime / Kankitsu",
+    "rank": 4,
+    "status": 10,
+    "bg": "89737ebddb9b010fbdce994c92d8798d"
+  },
+  {
+    "song_id": "paradoxpalette",
+    "title": {
+      "en": "Paradox Palette",
+      "ja": "Paradox Palette"
+    },
+    "artist": "Aethoro",
+    "rank": 5,
+    "status": 6,
+    "bg": "7b45adfe78ad45d55524bee8a385945e"
+  },
+  {
+    "song_id": "ultimatetaste",
+    "title": {
+      "en": "Ultimate taste",
+      "ja": "Ultimate taste"
+    },
+    "artist": "ぱらどっと",
+    "rank": 6,
+    "status": 68,
+    "bg": "805a410f6da253aeb59210c7b86f4df7"
+  },
+  {
+    "song_id": "matenrou",
+    "title": {
+      "en": "Kanjou no Matenrou ～Arr.Demetori",
+      "ja": "感情の摩天楼 ～Arr.Demetori"
+    },
+    "artist": "Demetori",
+    "rank": 7,
+    "status": 76,
+    "bg": "4e347527ee4582dfdeb910652d748b0c"
+  },
+  {
+    "song_id": "satisfaction",
+    "title": {
+      "en": "SATISFACTION",
+      "ja": "SATISFACTION"
+    },
+    "artist": "P*Light & DJ Noriken feat. KMNZ",
+    "rank": 8,
+    "status": -6,
+    "bg": "a9da41c75d04fe364e7a9a51a6278633"
+  },
+  {
+    "song_id": "tsukinimurakumo",
+    "title": {
+      "en": "Tsuki ni Murakumo, Hana ni Kaze",
+      "ja": "月に叢雲華に風"
+    },
+    "artist": "幽閉サテライト",
+    "rank": 9,
+    "status": 85,
+    "bg": "d4b3c6057398998dce5da0ac52c7fb35"
+  },
+  {
+    "song_id": "innocence",
+    "title": {
+      "en": "Innocence",
+      "ja": "Innocence"
+    },
+    "artist": "Powerless feat. Sennzai",
+    "rank": 10,
+    "status": 3,
+    "bg": "665174c7b93f687a16a701572bfe8174"
+  },
+  {
+    "song_id": "awakening",
+    "title": {
+      "en": "Wake in Hour",
+      "ja": "始マリノ詩"
+    },
+    "artist": "有村京悟 feat.July",
+    "rank": 11,
+    "status": 32,
+    "bg": "72e5818cf8af8e0226674364bff7177e"
+  },
+  {
+    "song_id": "anokumene",
+    "title": {
+      "en": "Anökumene",
+      "ja": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 12,
+    "status": -9,
+    "bg": "b8ee3a7136550aa3d9c7a5d866bef24b"
+  },
+  {
+    "song_id": "mod",
+    "title": {
+      "en": "mod",
+      "ja": "mod"
+    },
+    "artist": "kalsoer",
+    "rank": 13,
+    "status": 15,
+    "bg": "01bc2994c7cc1fc7986f30e63333c10d"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "en": "Lost Civilization",
+      "ja": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 14,
+    "status": -7,
+    "bg": "2b3b3bb2593222a14a515ec2307b93a0"
+  }
+]
