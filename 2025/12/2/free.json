@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "tabootears",
+    "title": {
+      "en": "taboo tears you up 2017",
+      "ja": "taboo tears you up 2017"
+    },
+    "artist": "REDALiCE",
+    "rank": 0,
+    "status": 1,
+    "bg": "5ec7c1ad77def0ccf890570449e8a550"
+  },
+  {
+    "song_id": "xxium",
+    "title": {
+      "en": "Xxium and Purple haze",
+      "ja": "Xxium and Purple haze"
+    },
+    "artist": "D.watt",
+    "rank": 1,
+    "status": -1,
+    "bg": "aa36d98e06fc2691e6fb90b669bdef0e"
+  },
+  {
+    "song_id": "epicurus",
+    "title": {
+      "en": "Hidden Rainbows of Epicurus",
+      "ja": "エピクロスの虹はもう見えない"
+    },
+    "artist": "SYNC.ART'S feat.Misato",
+    "rank": 2,
+    "status": 0,
+    "bg": "22ce6f2d6521c51f12eb5d2ca55d4ec0"
+  },
+  {
+    "song_id": "particle",
+    "title": {
+      "en": "Particle",
+      "ja": "Particle"
+    },
+    "artist": "Lime / Kankitsu",
+    "rank": 3,
+    "status": 0,
+    "bg": "89737ebddb9b010fbdce994c92d8798d"
+  },
+  {
+    "song_id": "paradoxpalette",
+    "title": {
+      "en": "Paradox Palette",
+      "ja": "Paradox Palette"
+    },
+    "artist": "Aethoro",
+    "rank": 4,
+    "status": 0,
+    "bg": "7b45adfe78ad45d55524bee8a385945e"
+  },
+  {
+    "song_id": "satisfaction",
+    "title": {
+      "en": "SATISFACTION",
+      "ja": "SATISFACTION"
+    },
+    "artist": "P*Light & DJ Noriken feat. KMNZ",
+    "rank": 5,
+    "status": 1,
+    "bg": "a9da41c75d04fe364e7a9a51a6278633"
+  },
+  {
+    "song_id": "innocence",
+    "title": {
+      "en": "Innocence",
+      "ja": "Innocence"
+    },
+    "artist": "Powerless feat. Sennzai",
+    "rank": 6,
+    "status": -1,
+    "bg": "665174c7b93f687a16a701572bfe8174"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "en": "Lost Civilization",
+      "ja": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 7,
+    "status": 2,
+    "bg": "2b3b3bb2593222a14a515ec2307b93a0"
+  },
+  {
+    "song_id": "anokumene",
+    "title": {
+      "en": "Anökumene",
+      "ja": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 8,
+    "status": 0,
+    "bg": "b8ee3a7136550aa3d9c7a5d866bef24b"
+  },
+  {
+    "song_id": "blackmirror",
+    "title": {
+      "en": "Black Mirror on the Wall",
+      "ja": "Black Mirror on the Wall"
+    },
+    "artist": "暁Records",
+    "rank": 9,
+    "status": -2,
+    "bg": "3a6b68abfe144ec7d26abc1e4754aed7"
+  },
+  {
+    "song_id": "sayonarahatsukoi",
+    "title": {
+      "en": "Sayonara Hatsukoi",
+      "ja": "Sayonara Hatsukoi"
+    },
+    "artist": "REDSHiFT",
+    "rank": 10,
+    "status": 6,
+    "bg": "1408e2ad34a26889f5e1ca281a40daaa"
+  },
+  {
+    "song_id": "nhelv",
+    "title": {
+      "en": "Nhelv",
+      "ja": "Nhelv"
+    },
+    "artist": "Silentroom",
+    "rank": 11,
+    "status": 2,
+    "bg": "2c46495f82e5e64aba215fbc3adb6aa5"
+  },
+  {
+    "song_id": "goodtek",
+    "title": {
+      "en": "GOODTEK (Arcaea Edit)",
+      "ja": "GOODTEK (Arcaea Edit)"
+    },
+    "artist": "EBIMAYO",
+    "rank": 12,
+    "status": -1,
+    "bg": "b590cd87f51fb5cdb36a716f876fc82e"
+  },
+  {
+    "song_id": "chronostasis",
+    "title": {
+      "en": "Chronostasis",
+      "ja": "Chronostasis"
+    },
+    "artist": "黒皇帝",
+    "rank": 13,
+    "status": -1,
+    "bg": "829ac8d0bb26307be21c9e2331624d32"
+  },
+  {
+    "song_id": "inkarusi",
+    "title": {
+      "en": "inkar-usi",
+      "ja": "inkar-usi"
+    },
+    "artist": "DIA",
+    "rank": 14,
+    "status": 7,
+    "bg": "3ee6dfaf291eb26796fe64c3cff37e9f"
+  }
+]
