@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "saikyostronger",
+    "title": {
+      "en": "SAIKYO STRONGER",
+      "ja": "最強STRONGER"
+    },
+    "artist": "REDALiCE vs USAO",
+    "rank": 0,
+    "status": 0,
+    "bg": "4c0ae95105d562d7b1ccef685e72230b"
+  },
+  {
+    "song_id": "xterfusion",
+    "title": {
+      "en": "Xterfusion",
+      "ja": "Xterfusion"
+    },
+    "artist": "REDALiCE × t+pazolite",
+    "rank": 1,
+    "status": 0,
+    "bg": "329017b53b6fa3bcf9afa8c919e2246c"
+  },
+  {
+    "song_id": "einherjar",
+    "title": {
+      "en": "Einherjar Joker",
+      "ja": "Einherjar Joker"
+    },
+    "artist": "DJ Genki vs Gram",
+    "rank": 2,
+    "status": 0,
+    "bg": "af0b48779c624573a79a64f95b1a0343"
+  },
+  {
+    "song_id": "kyorenromance",
+    "title": {
+      "en": "KYOREN ROMANCE",
+      "ja": "狂恋ROMANCE"
+    },
+    "artist": "REDALiCE vs DJ Myosuke feat. DELUTAYA",
+    "rank": 3,
+    "status": 0,
+    "bg": "7dc95243ce827a0d8bcce7c7fbe3d88f"
+  },
+  {
+    "song_id": "testify",
+    "title": {
+      "en": "Testify",
+      "ja": "Testify"
+    },
+    "artist": "void (Mournfinale) feat. 星熊南巫",
+    "rank": 4,
+    "status": 0,
+    "bg": "559af073ab37dcc5f07ca4f10db2f078"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "en": "Grievous Lady",
+      "ja": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 5,
+    "status": 1,
+    "bg": "ff9817d1d95242ec270d7152b4f4c1b1"
+  },
+  {
+    "song_id": "rekkaresonance",
+    "title": {
+      "en": "REKKA RESONANCE",
+      "ja": "烈華RESONANCE"
+    },
+    "artist": "REDALiCE vs Kobaryo",
+    "rank": 6,
+    "status": -1,
+    "bg": "edc57b378a9da1cf74a2e82953c8a6d4"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "en": "Tempestissimo",
+      "ja": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 7,
+    "status": 0,
+    "bg": "de2661109c09f4407e20839ae2dfd4be"
+  },
+  {
+    "song_id": "undyingmacula",
+    "title": {
+      "en": "Undying Macula",
+      "ja": "Undying Macula"
+    },
+    "artist": "Ashrount",
+    "rank": 8,
+    "status": 0,
+    "bg": "9c1a46d92d2ee88143cd9f9304a9c14f"
+  },
+  {
+    "song_id": "laqryma",
+    "title": {
+      "en": "La'qryma of the Wasteland",
+      "ja": "La'qryma of the Wasteland"
+    },
+    "artist": "DJ Noriken",
+    "rank": 9,
+    "status": 0,
+    "bg": "9ec4c89cd9f06b8c5ea2dfd620d8709b"
+  },
+  {
+    "song_id": "izana",
+    "title": {
+      "en": "IZANA",
+      "ja": "IZANA"
+    },
+    "artist": "t+pazolite vs P*Light",
+    "rank": 10,
+    "status": 0,
+    "bg": "17e7bd13603453ac73deda0f30ad4491"
+  },
+  {
+    "song_id": "extradimensional",
+    "title": {
+      "en": "Extradimensional Cosmic Phenomenon",
+      "ja": "多次元宇宙融合論"
+    },
+    "artist": "TAKIO feat. つぐ",
+    "rank": 11,
+    "status": 0,
+    "bg": "7a1ff0ae0136c4cdd5411d4398437ee3"
+  },
+  {
+    "song_id": "infinitestrife",
+    "title": {
+      "en": "Infinite Strife,",
+      "ja": "Infinite Strife,"
+    },
+    "artist": "BlackYooh vs. siromaru",
+    "rank": 12,
+    "status": 0,
+    "bg": "18f8f6eb7defb170050421ced32079ce"
+  },
+  {
+    "song_id": "arcanaeden",
+    "title": {
+      "en": "Arcana Eden",
+      "ja": "Arcana Eden"
+    },
+    "artist": "Team Grimoire vs Sakuzyo vs Laur",
+    "rank": 13,
+    "status": 2,
+    "bg": "e5a552616f68f79d1adbecbcf9fb8dc2"
+  },
+  {
+    "song_id": "pentiment",
+    "title": {
+      "en": "Pentiment",
+      "ja": "Pentiment"
+    },
+    "artist": "Nothing But Requiem with Museo",
+    "rank": 14,
+    "status": 3,
+    "bg": "cbaf1ab351a21fc1554d5dac5ec66697"
+  }
+]
