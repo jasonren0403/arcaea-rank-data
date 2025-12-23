@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "tabootears",
+    "title": {
+      "en": "taboo tears you up 2017",
+      "ja": "taboo tears you up 2017"
+    },
+    "artist": "REDALiCE",
+    "rank": 0,
+    "status": 0,
+    "bg": "5ec7c1ad77def0ccf890570449e8a550"
+  },
+  {
+    "song_id": "anokumene",
+    "title": {
+      "en": "Anökumene",
+      "ja": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 1,
+    "status": 3,
+    "bg": "b8ee3a7136550aa3d9c7a5d866bef24b"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "en": "Lost Civilization",
+      "ja": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 2,
+    "status": -1,
+    "bg": "2b3b3bb2593222a14a515ec2307b93a0"
+  },
+  {
+    "song_id": "kanagawa",
+    "title": {
+      "en": "Kanagawa Cyber Culvert",
+      "ja": "神奈川電脳暗渠"
+    },
+    "artist": "南ゆに",
+    "rank": 3,
+    "status": 0,
+    "bg": "a8bb802033c00736bb6198121ec31c10"
+  },
+  {
+    "song_id": "satisfaction",
+    "title": {
+      "en": "SATISFACTION",
+      "ja": "SATISFACTION"
+    },
+    "artist": "P*Light & DJ Noriken feat. KMNZ",
+    "rank": 4,
+    "status": 4,
+    "bg": "a9da41c75d04fe364e7a9a51a6278633"
+  },
+  {
+    "song_id": "goodtek",
+    "title": {
+      "en": "GOODTEK (Arcaea Edit)",
+      "ja": "GOODTEK (Arcaea Edit)"
+    },
+    "artist": "EBIMAYO",
+    "rank": 5,
+    "status": 4,
+    "bg": "b590cd87f51fb5cdb36a716f876fc82e"
+  },
+  {
+    "song_id": "redandblue",
+    "title": {
+      "en": "Red and Blue",
+      "ja": "Red and Blue"
+    },
+    "artist": "Silentroom",
+    "rank": 6,
+    "status": -4,
+    "bg": "893e1e0b4e5eba7663a790c81223ec08"
+  },
+  {
+    "song_id": "nhelv",
+    "title": {
+      "en": "Nhelv",
+      "ja": "Nhelv"
+    },
+    "artist": "Silentroom",
+    "rank": 7,
+    "status": 0,
+    "bg": "2c46495f82e5e64aba215fbc3adb6aa5"
+  },
+  {
+    "song_id": "innocence",
+    "title": {
+      "en": "Innocence",
+      "ja": "Innocence"
+    },
+    "artist": "Powerless feat. Sennzai",
+    "rank": 8,
+    "status": -3,
+    "bg": "665174c7b93f687a16a701572bfe8174"
+  },
+  {
+    "song_id": "inkarusi",
+    "title": {
+      "en": "inkar-usi",
+      "ja": "inkar-usi"
+    },
+    "artist": "DIA",
+    "rank": 9,
+    "status": 4,
+    "bg": "3ee6dfaf291eb26796fe64c3cff37e9f"
+  },
+  {
+    "song_id": "shadesoflight",
+    "title": {
+      "en": "Shades of Light in a Transcendent Realm",
+      "ja": "Shades of Light in a Transcendent Realm"
+    },
+    "artist": "ak+q",
+    "rank": 10,
+    "status": -4,
+    "bg": "95270859c6fd00d05992251989290d37"
+  },
+  {
+    "song_id": "cyberneciacatharsis",
+    "title": {
+      "en": "Cybernecia Catharsis",
+      "ja": "Cybernecia Catharsis"
+    },
+    "artist": "Tanchiky",
+    "rank": 11,
+    "status": 3,
+    "bg": "3bf2545eb81b72e444e677cd8651e996"
+  },
+  {
+    "song_id": "ignotus",
+    "title": {
+      "en": "Ignotus",
+      "ja": "Ignotus"
+    },
+    "artist": "ak+q",
+    "rank": 12,
+    "status": 0,
+    "bg": "ee9402618687a3cd07be2d2eaa010c8c"
+  },
+  {
+    "song_id": "purgatorium",
+    "title": {
+      "en": "Purgatorium",
+      "ja": "Purgatorium"
+    },
+    "artist": "お月さま交響曲",
+    "rank": 13,
+    "status": 3,
+    "bg": "954a6ff3646b0bc327e8ca5235911c2a"
+  },
+  {
+    "song_id": "xxium",
+    "title": {
+      "en": "Xxium and Purple haze",
+      "ja": "Xxium and Purple haze"
+    },
+    "artist": "D.watt",
+    "rank": 14,
+    "status": -3,
+    "bg": "aa36d98e06fc2691e6fb90b669bdef0e"
+  }
+]
