@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "dement",
+    "title": {
+      "en": "Dement ~after legend~",
+      "ja": "Dement ~after legend~"
+    },
+    "artist": "Cosmograph",
+    "rank": 0,
+    "status": 0,
+    "bg": "2ca29bed0c1b5818a4a4bc361d0c252e"
+  },
+  {
+    "song_id": "innocence",
+    "title": {
+      "en": "Innocence",
+      "ja": "Innocence"
+    },
+    "artist": "Powerless feat. Sennzai",
+    "rank": 1,
+    "status": 0,
+    "bg": "02fe9920c0f3563803973ce7a6e109ec"
+  },
+  {
+    "song_id": "undefined",
+    "title": {
+      "en": "undefined",
+      "ja": "undefined"
+    },
+    "artist": "planless & 乃花こより",
+    "rank": 2,
+    "status": 0,
+    "bg": "709a53f0bc440aef531971d302e4b389"
+  },
+  {
+    "song_id": "mask",
+    "title": {
+      "en": "~_+",
+      "ja": "~_+"
+    },
+    "artist": "AQUASINE ~ MEMODEMO + METAROOM",
+    "rank": 3,
+    "status": 0,
+    "bg": "bfda5ce613b4bedfcbba56f4d5aa9df2"
+  },
+  {
+    "song_id": "harutopia",
+    "title": {
+      "en": "Harutopia ~Utopia of Spring~",
+      "ja": "ハルトピア ~Utopia of Spring~"
+    },
+    "artist": "A-zu-ra",
+    "rank": 4,
+    "status": 2,
+    "bg": "bd41e121d4b7a6a13ae75d70ef838e53"
+  },
+  {
+    "song_id": "rgb",
+    "title": {
+      "en": "RGB",
+      "ja": "RGB"
+    },
+    "artist": "MEMODEMO X AQUASINE",
+    "rank": 5,
+    "status": 0,
+    "bg": "65c92070d971ef1757d38bcfef444b2a"
+  },
+  {
+    "song_id": "tabootears",
+    "title": {
+      "en": "taboo tears you up 2017",
+      "ja": "taboo tears you up 2017"
+    },
+    "artist": "REDALiCE",
+    "rank": 6,
+    "status": -2,
+    "bg": "989f6a7622f855f21373d2b10b4ba0da"
+  },
+  {
+    "song_id": "infinityheaven",
+    "title": {
+      "en": "Infinity Heaven",
+      "ja": "Infinity Heaven"
+    },
+    "artist": "HyuN",
+    "rank": 7,
+    "status": 0,
+    "bg": "39a6148cc886684b79e349df76e34042"
+  },
+  {
+    "song_id": "xxium",
+    "title": {
+      "en": "Xxium and Purple haze",
+      "ja": "Xxium and Purple haze"
+    },
+    "artist": "D.watt",
+    "rank": 8,
+    "status": 0,
+    "bg": "95cb8ac93c80386f797b2d8ec6bb406c"
+  },
+  {
+    "song_id": "satisfaction",
+    "title": {
+      "en": "SATISFACTION",
+      "ja": "SATISFACTION"
+    },
+    "artist": "P*Light & DJ Noriken feat. KMNZ",
+    "rank": 9,
+    "status": 0,
+    "bg": "cad8f3ed3792c186441b40e0dfccd268"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "en": "Lost Civilization",
+      "ja": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 10,
+    "status": 0,
+    "bg": "28100b3d13f6fb0ad5d40637ad24c237"
+  },
+  {
+    "song_id": "anokumene",
+    "title": {
+      "en": "Anökumene",
+      "ja": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 11,
+    "status": 0,
+    "bg": "e219d924c55ae21a27431a0cab58dcf1"
+  },
+  {
+    "song_id": "particle",
+    "title": {
+      "en": "Particle",
+      "ja": "Particle"
+    },
+    "artist": "Lime / Kankitsu",
+    "rank": 12,
+    "status": 0,
+    "bg": "7b07144899775472c6e22dcbc5802564"
+  },
+  {
+    "song_id": "nhelv",
+    "title": {
+      "en": "Nhelv",
+      "ja": "Nhelv"
+    },
+    "artist": "Silentroom",
+    "rank": 13,
+    "status": 5,
+    "bg": "a2d5535903dc3b11c03e5821e1a8b7eb"
+  },
+  {
+    "song_id": "chronostasis",
+    "title": {
+      "en": "Chronostasis",
+      "ja": "Chronostasis"
+    },
+    "artist": "黒皇帝",
+    "rank": 14,
+    "status": -1,
+    "bg": "8ded57c6afb4312040af7dec79ce7b6f"
+  }
+]
