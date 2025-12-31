@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "dement",
+    "title": {
+      "en": "Dement ~after legend~",
+      "ja": "Dement ~after legend~"
+    },
+    "artist": "Cosmograph",
+    "rank": 0,
+    "status": 0,
+    "bg": "5b10c373847738f18808e248020ca884"
+  },
+  {
+    "song_id": "mask",
+    "title": {
+      "en": "~_+",
+      "ja": "~_+"
+    },
+    "artist": "AQUASINE ~ MEMODEMO + METAROOM",
+    "rank": 1,
+    "status": 0,
+    "bg": "24897e0e3c989c3e9a93efc956741a26"
+  },
+  {
+    "song_id": "undefined",
+    "title": {
+      "en": "undefined",
+      "ja": "undefined"
+    },
+    "artist": "planless & 乃花こより",
+    "rank": 2,
+    "status": 0,
+    "bg": "2e38fe9c9cf1f0e4bb53d2e98e8c0775"
+  },
+  {
+    "song_id": "innocence",
+    "title": {
+      "en": "Innocence",
+      "ja": "Innocence"
+    },
+    "artist": "Powerless feat. Sennzai",
+    "rank": 3,
+    "status": 0,
+    "bg": "ba35bdf70bf7ab7197a10520ddfb39a8"
+  },
+  {
+    "song_id": "harutopia",
+    "title": {
+      "en": "Harutopia ~Utopia of Spring~",
+      "ja": "ハルトピア ~Utopia of Spring~"
+    },
+    "artist": "A-zu-ra",
+    "rank": 4,
+    "status": 0,
+    "bg": "21a0735025b9187fe1128ac27029e876"
+  },
+  {
+    "song_id": "rgb",
+    "title": {
+      "en": "RGB",
+      "ja": "RGB"
+    },
+    "artist": "MEMODEMO X AQUASINE",
+    "rank": 5,
+    "status": 0,
+    "bg": "34d063aac72e16d095a6c88025f0ed23"
+  },
+  {
+    "song_id": "infinityheaven",
+    "title": {
+      "en": "Infinity Heaven",
+      "ja": "Infinity Heaven"
+    },
+    "artist": "HyuN",
+    "rank": 6,
+    "status": 0,
+    "bg": "33600bbb6e06ea1d4a2e91306d53932e"
+  },
+  {
+    "song_id": "tabootears",
+    "title": {
+      "en": "taboo tears you up 2017",
+      "ja": "taboo tears you up 2017"
+    },
+    "artist": "REDALiCE",
+    "rank": 7,
+    "status": 0,
+    "bg": "e0b9290e8b04f00c512b03afe1542ae3"
+  },
+  {
+    "song_id": "satisfaction",
+    "title": {
+      "en": "SATISFACTION",
+      "ja": "SATISFACTION"
+    },
+    "artist": "P*Light & DJ Noriken feat. KMNZ",
+    "rank": 8,
+    "status": 1,
+    "bg": "7f4886aa42feaffe80012585836e5087"
+  },
+  {
+    "song_id": "xxium",
+    "title": {
+      "en": "Xxium and Purple haze",
+      "ja": "Xxium and Purple haze"
+    },
+    "artist": "D.watt",
+    "rank": 9,
+    "status": -1,
+    "bg": "60949b5eeeaa47fda2bca7b997bacffe"
+  },
+  {
+    "song_id": "anokumene",
+    "title": {
+      "en": "Anökumene",
+      "ja": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 10,
+    "status": 1,
+    "bg": "75f08767f4ebeb0ea18b88f5b696f3b2"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "en": "Lost Civilization",
+      "ja": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 11,
+    "status": -1,
+    "bg": "8427ba081b7300918c7cf19f571b012b"
+  },
+  {
+    "song_id": "inkarusi",
+    "title": {
+      "en": "inkar-usi",
+      "ja": "inkar-usi"
+    },
+    "artist": "DIA",
+    "rank": 12,
+    "status": 10,
+    "bg": "4d2587bd414c616cd6b882843f50f2cd"
+  },
+  {
+    "song_id": "goodtek",
+    "title": {
+      "en": "GOODTEK (Arcaea Edit)",
+      "ja": "GOODTEK (Arcaea Edit)"
+    },
+    "artist": "EBIMAYO",
+    "rank": 13,
+    "status": 3,
+    "bg": "1d22ec64582a740644d4b124b618db82"
+  },
+  {
+    "song_id": "sayonarahatsukoi",
+    "title": {
+      "en": "Sayonara Hatsukoi",
+      "ja": "Sayonara Hatsukoi"
+    },
+    "artist": "REDSHiFT",
+    "rank": 14,
+    "status": 7,
+    "bg": "b533a930da53753d12a98841798017d5"
+  }
+]
