@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "theraft",
+    "title": {
+      "en": "The 'Raft' taught me: your heart will always find a way.",
+      "ja": "［筏］は云う。幾ら漂流すれど不撓の心さえ有れば軈て行到ると。"
+    },
+    "artist": "庭師",
+    "rank": 0,
+    "status": 0,
+    "bg": "08e21928e137072c7370c26aa5c397f6"
+  },
+  {
+    "song_id": "subsphere",
+    "title": {
+      "en": "Subsphere in Eclosion",
+      "ja": "羽化する亜球体"
+    },
+    "artist": "窓辺リカ",
+    "rank": 1,
+    "status": 0,
+    "bg": "640d35dbef2de7d64a6bc89964746f03"
+  },
+  {
+    "song_id": "paranoidarc",
+    "title": {
+      "en": "Paranoid Arc",
+      "ja": "Paranoid Arc"
+    },
+    "artist": "t+pazolite",
+    "rank": 2,
+    "status": 0,
+    "bg": "e68eb8dd8dd69e2e9ec3709f28f5066b"
+  },
+  {
+    "song_id": "testify",
+    "title": {
+      "en": "Testify",
+      "ja": "Testify"
+    },
+    "artist": "void (Mournfinale) feat. 星熊南巫",
+    "rank": 3,
+    "status": 3,
+    "bg": "b193157256e7b8138db72b662874b2cc"
+  },
+  {
+    "song_id": "codeoblivion",
+    "title": {
+      "en": "Code: Oblivion",
+      "ja": "Code: Oblivion"
+    },
+    "artist": "Kobaryo × Gram",
+    "rank": 4,
+    "status": -1,
+    "bg": "f3932440a4d578dc5dd3456fe9808574"
+  },
+  {
+    "song_id": "marenyx",
+    "title": {
+      "en": "MARENYX",
+      "ja": "MARENYX"
+    },
+    "artist": "BlackY × Aoi",
+    "rank": 5,
+    "status": -1,
+    "bg": "d52dbeac6b43458466f3247e0ee0bceb"
+  },
+  {
+    "song_id": "xterfusion",
+    "title": {
+      "en": "Xterfusion",
+      "ja": "Xterfusion"
+    },
+    "artist": "REDALiCE × t+pazolite",
+    "rank": 6,
+    "status": -1,
+    "bg": "eeec627739c878e222be0fa07e4b56d9"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "en": "Tempestissimo",
+      "ja": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 7,
+    "status": 0,
+    "bg": "f11546b0f073a0a5bd6a85a590b18fd4"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "en": "Grievous Lady",
+      "ja": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 8,
+    "status": 0,
+    "bg": "584147805db88e9c3357d43ff917910c"
+  },
+  {
+    "song_id": "undyingmacula",
+    "title": {
+      "en": "Undying Macula",
+      "ja": "Undying Macula"
+    },
+    "artist": "Ashrount",
+    "rank": 9,
+    "status": 0,
+    "bg": "5aa58f6114208e4423255d25815a167f"
+  },
+  {
+    "song_id": "sheriruth",
+    "title": {
+      "en": "Sheriruth",
+      "ja": "Sheriruth"
+    },
+    "artist": "Team Grimoire",
+    "rank": 10,
+    "status": 2,
+    "bg": "6deb42a9fc967a1ed0ab060acb1eb29f"
+  },
+  {
+    "song_id": "zephyrlast",
+    "title": {
+      "en": "zephyrlasting",
+      "ja": "zephyrlasting"
+    },
+    "artist": "s-don × nitro (lowiro)",
+    "rank": 11,
+    "status": -1,
+    "bg": "536beadd77575d6f1f1fe891591e6150"
+  },
+  {
+    "song_id": "extradimensional",
+    "title": {
+      "en": "Extradimensional Cosmic Phenomenon",
+      "ja": "多次元宇宙融合論"
+    },
+    "artist": "TAKIO feat. つぐ",
+    "rank": 12,
+    "status": 1,
+    "bg": "666851990087f79729e25580c3759343"
+  },
+  {
+    "song_id": "infinitestrife",
+    "title": {
+      "en": "Infinite Strife,",
+      "ja": "Infinite Strife,"
+    },
+    "artist": "BlackYooh vs. siromaru",
+    "rank": 13,
+    "status": 1,
+    "bg": "2ca7efc2636ab0bb5dcf0741a3642aed"
+  },
+  {
+    "song_id": "infinitedim",
+    "title": {
+      "en": "INFINITE DIMENSION",
+      "ja": "INFINITE DIMENSION"
+    },
+    "artist": "DJ Noriken × P*Light",
+    "rank": 14,
+    "status": -3,
+    "bg": "442a18c6663341a4d8dc45b4f09903d2"
+  }
+]
