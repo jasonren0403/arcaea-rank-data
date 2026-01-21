@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "dement",
+    "title": {
+      "en": "Dement ~after legend~",
+      "ja": "Dement ~after legend~"
+    },
+    "artist": "Cosmograph",
+    "rank": 0,
+    "status": 0,
+    "bg": "2589ceb658c3c6e7605d1451fbd5395a"
+  },
+  {
+    "song_id": "harutopia",
+    "title": {
+      "en": "Harutopia ~Utopia of Spring~",
+      "ja": "ハルトピア ~Utopia of Spring~"
+    },
+    "artist": "A-zu-ra",
+    "rank": 1,
+    "status": 1,
+    "bg": "e94280d5c49444ca0cce5437a4decf14"
+  },
+  {
+    "song_id": "mask",
+    "title": {
+      "en": "~_+",
+      "ja": "~_+"
+    },
+    "artist": "AQUASINE ~ MEMODEMO + METAROOM",
+    "rank": 2,
+    "status": 1,
+    "bg": "86e2ec3467bf23173264cae50389056c"
+  },
+  {
+    "song_id": "innocence",
+    "title": {
+      "en": "Innocence",
+      "ja": "Innocence"
+    },
+    "artist": "Powerless feat. Sennzai",
+    "rank": 3,
+    "status": -2,
+    "bg": "d03a09132966813289293348693e95bd"
+  },
+  {
+    "song_id": "undefined",
+    "title": {
+      "en": "undefined",
+      "ja": "undefined"
+    },
+    "artist": "planless & 乃花こより",
+    "rank": 4,
+    "status": 1,
+    "bg": "0207820fcf610a1bde6b32cc09c56d6c"
+  },
+  {
+    "song_id": "infinityheaven",
+    "title": {
+      "en": "Infinity Heaven",
+      "ja": "Infinity Heaven"
+    },
+    "artist": "HyuN",
+    "rank": 5,
+    "status": -1,
+    "bg": "3bd662bf8b73861e1adb08fd078636ae"
+  },
+  {
+    "song_id": "rgb",
+    "title": {
+      "en": "RGB",
+      "ja": "RGB"
+    },
+    "artist": "MEMODEMO X AQUASINE",
+    "rank": 6,
+    "status": 0,
+    "bg": "06daf53b92a2caf02090288ce81cbd86"
+  },
+  {
+    "song_id": "anokumene",
+    "title": {
+      "en": "Anökumene",
+      "ja": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 7,
+    "status": 1,
+    "bg": "44e050719ef096dbf2512352b200240d"
+  },
+  {
+    "song_id": "sayonarahatsukoi",
+    "title": {
+      "en": "Sayonara Hatsukoi",
+      "ja": "Sayonara Hatsukoi"
+    },
+    "artist": "REDSHiFT",
+    "rank": 8,
+    "status": 6,
+    "bg": "f797c5b5fc9cc9c4caf68de7419a3923"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "en": "Lost Civilization",
+      "ja": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 9,
+    "status": -2,
+    "bg": "f6df271d345662172e69f2569d48656a"
+  },
+  {
+    "song_id": "satisfaction",
+    "title": {
+      "en": "SATISFACTION",
+      "ja": "SATISFACTION"
+    },
+    "artist": "P*Light & DJ Noriken feat. KMNZ",
+    "rank": 10,
+    "status": -1,
+    "bg": "fed5dcba14eec198c192a6a6ada01bf3"
+  },
+  {
+    "song_id": "chronostasis",
+    "title": {
+      "en": "Chronostasis",
+      "ja": "Chronostasis"
+    },
+    "artist": "黒皇帝",
+    "rank": 11,
+    "status": 5,
+    "bg": "4e3f6cdd4b0fb897399ba36d8024bfae"
+  },
+  {
+    "song_id": "kanagawa",
+    "title": {
+      "en": "Kanagawa Cyber Culvert",
+      "ja": "神奈川電脳暗渠"
+    },
+    "artist": "南ゆに",
+    "rank": 12,
+    "status": -2,
+    "bg": "34af05d356979e519a5d7b0f55cc6e58"
+  },
+  {
+    "song_id": "goodtek",
+    "title": {
+      "en": "GOODTEK (Arcaea Edit)",
+      "ja": "GOODTEK (Arcaea Edit)"
+    },
+    "artist": "EBIMAYO",
+    "rank": 13,
+    "status": 2,
+    "bg": "fde85cf63417e4214e056bb00cf13f63"
+  },
+  {
+    "song_id": "shadesoflight",
+    "title": {
+      "en": "Shades of Light in a Transcendent Realm",
+      "ja": "Shades of Light in a Transcendent Realm"
+    },
+    "artist": "ak+q",
+    "rank": 14,
+    "status": -2,
+    "bg": "6de377975594cf3036b365d12a2a140c"
+  }
+]
