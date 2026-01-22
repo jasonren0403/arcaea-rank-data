@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "en": "Grievous Lady",
+      "ja": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 0,
+    "status": 0,
+    "bg": "8dee27588e18ada053b392439a5bdb76"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "en": "Tempestissimo",
+      "ja": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 1,
+    "status": 0,
+    "bg": "2432173b9a2eb9d7b1dd8c70548ec113"
+  },
+  {
+    "song_id": "testify",
+    "title": {
+      "en": "Testify",
+      "ja": "Testify"
+    },
+    "artist": "void (Mournfinale) feat. 星熊南巫",
+    "rank": 2,
+    "status": 2,
+    "bg": "2f5d55479f24f6b45d4691ec59300b44"
+  },
+  {
+    "song_id": "codeoblivion",
+    "title": {
+      "en": "Code: Oblivion",
+      "ja": "Code: Oblivion"
+    },
+    "artist": "Kobaryo × Gram",
+    "rank": 3,
+    "status": 3,
+    "bg": "2954207af286a23e7c58c49e1544fc2a"
+  },
+  {
+    "song_id": "extradimensional",
+    "title": {
+      "en": "Extradimensional Cosmic Phenomenon",
+      "ja": "多次元宇宙融合論"
+    },
+    "artist": "TAKIO feat. つぐ",
+    "rank": 4,
+    "status": 1,
+    "bg": "9451c8e113adedda28ad583b6d8d8414"
+  },
+  {
+    "song_id": "arcanaeden",
+    "title": {
+      "en": "Arcana Eden",
+      "ja": "Arcana Eden"
+    },
+    "artist": "Team Grimoire vs Sakuzyo vs Laur",
+    "rank": 5,
+    "status": 6,
+    "bg": "045ba03b72c24b32eb891c5b30bb3c56"
+  },
+  {
+    "song_id": "infinitestrife",
+    "title": {
+      "en": "Infinite Strife,",
+      "ja": "Infinite Strife,"
+    },
+    "artist": "BlackYooh vs. siromaru",
+    "rank": 6,
+    "status": 4,
+    "bg": "2ffa6d35bf184eaed3a703804c66828e"
+  },
+  {
+    "song_id": "marenyx",
+    "title": {
+      "en": "MARENYX",
+      "ja": "MARENYX"
+    },
+    "artist": "BlackY × Aoi",
+    "rank": 7,
+    "status": 0,
+    "bg": "f8ad0a06295c8a9d2b659e727416ec91"
+  },
+  {
+    "song_id": "subsphere",
+    "title": {
+      "en": "Subsphere in Eclosion",
+      "ja": "羽化する亜球体"
+    },
+    "artist": "窓辺リカ",
+    "rank": 8,
+    "status": -5,
+    "bg": "5f9877d9d9097d6be211fb58d18c6ff2"
+  },
+  {
+    "song_id": "xterfusion",
+    "title": {
+      "en": "Xterfusion",
+      "ja": "Xterfusion"
+    },
+    "artist": "REDALiCE × t+pazolite",
+    "rank": 9,
+    "status": -1,
+    "bg": "c2076a19c7eb80572b161924c565effa"
+  },
+  {
+    "song_id": "pentiment",
+    "title": {
+      "en": "Pentiment",
+      "ja": "Pentiment"
+    },
+    "artist": "Nothing But Requiem with Museo",
+    "rank": 10,
+    "status": 5,
+    "bg": "9c88cf7b7edf671eecec850c35c2fecc"
+  },
+  {
+    "song_id": "theraft",
+    "title": {
+      "en": "The 'Raft' taught me: your heart will always find a way.",
+      "ja": "［筏］は云う。幾ら漂流すれど不撓の心さえ有れば軈て行到ると。"
+    },
+    "artist": "庭師",
+    "rank": 11,
+    "status": -9,
+    "bg": "3af7999834232799c3112aa59308a086"
+  },
+  {
+    "song_id": "undyingmacula",
+    "title": {
+      "en": "Undying Macula",
+      "ja": "Undying Macula"
+    },
+    "artist": "Ashrount",
+    "rank": 12,
+    "status": -3,
+    "bg": "b516e6bfa51efca212d7357cf8dc0d57"
+  },
+  {
+    "song_id": "designant",
+    "title": {
+      "en": "Designant.",
+      "ja": "Designant."
+    },
+    "artist": "Designant",
+    "rank": 13,
+    "status": -1,
+    "bg": "95b90cf2d2372412eed0002b48c7e756"
+  },
+  {
+    "song_id": "paranoidarc",
+    "title": {
+      "en": "Paranoid Arc",
+      "ja": "Paranoid Arc"
+    },
+    "artist": "t+pazolite",
+    "rank": 14,
+    "status": -1,
+    "bg": "6e520c90bf7c55127db97a5056bd6758"
+  }
+]
