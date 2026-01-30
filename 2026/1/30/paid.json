@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "en": "Tempestissimo",
+      "ja": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 0,
+    "status": 0,
+    "bg": "3c41751679cf42d6b4b7dde0641ba8f2"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "en": "Grievous Lady",
+      "ja": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 1,
+    "status": 1,
+    "bg": "1bcbb79989ec40c685e5bb12eaa394e6"
+  },
+  {
+    "song_id": "pentiment",
+    "title": {
+      "en": "Pentiment",
+      "ja": "Pentiment"
+    },
+    "artist": "Nothing But Requiem with Museo",
+    "rank": 2,
+    "status": 5,
+    "bg": "7153277e125c025a14d206b02796cf2f"
+  },
+  {
+    "song_id": "testify",
+    "title": {
+      "en": "Testify",
+      "ja": "Testify"
+    },
+    "artist": "void (Mournfinale) feat. 星熊南巫",
+    "rank": 3,
+    "status": -2,
+    "bg": "4fff3fefe4e7ea1967fbd68358c05a2e"
+  },
+  {
+    "song_id": "infinitestrife",
+    "title": {
+      "en": "Infinite Strife,",
+      "ja": "Infinite Strife,"
+    },
+    "artist": "BlackYooh vs. siromaru",
+    "rank": 4,
+    "status": 8,
+    "bg": "ceac3ec41b680f879d1d9160c571c710"
+  },
+  {
+    "song_id": "arcanaeden",
+    "title": {
+      "en": "Arcana Eden",
+      "ja": "Arcana Eden"
+    },
+    "artist": "Team Grimoire vs Sakuzyo vs Laur",
+    "rank": 5,
+    "status": -1,
+    "bg": "d1392eae2e84f16a9e60c575fda655c2"
+  },
+  {
+    "song_id": "xterfusion",
+    "title": {
+      "en": "Xterfusion",
+      "ja": "Xterfusion"
+    },
+    "artist": "REDALiCE × t+pazolite",
+    "rank": 6,
+    "status": 0,
+    "bg": "b4babdbaf51bf3b611ece557a56f5d5c"
+  },
+  {
+    "song_id": "designant",
+    "title": {
+      "en": "Designant.",
+      "ja": "Designant."
+    },
+    "artist": "Designant",
+    "rank": 7,
+    "status": -4,
+    "bg": "c9da02b20a514f8abea6aac42433f687"
+  },
+  {
+    "song_id": "fractureray",
+    "title": {
+      "en": "Fracture Ray",
+      "ja": "Fracture Ray"
+    },
+    "artist": "Sakuzyo",
+    "rank": 8,
+    "status": -3,
+    "bg": "733f6e427c9c8b6484d3471aa4026d1a"
+  },
+  {
+    "song_id": "codeoblivion",
+    "title": {
+      "en": "Code: Oblivion",
+      "ja": "Code: Oblivion"
+    },
+    "artist": "Kobaryo × Gram",
+    "rank": 9,
+    "status": -1,
+    "bg": "2e0f024aaf68bf85907c1a6ed5f1b63c"
+  },
+  {
+    "song_id": "extradimensional",
+    "title": {
+      "en": "Extradimensional Cosmic Phenomenon",
+      "ja": "多次元宇宙融合論"
+    },
+    "artist": "TAKIO feat. つぐ",
+    "rank": 10,
+    "status": -1,
+    "bg": "220840e8f3fabff0649d85357af9c055"
+  },
+  {
+    "song_id": "ifi",
+    "title": {
+      "en": "#1f1e33",
+      "ja": "#1f1e33"
+    },
+    "artist": "かめりあ(EDP)",
+    "rank": 11,
+    "status": 5,
+    "bg": "4e4bd9caba823e33446edee88c316f75"
+  },
+  {
+    "song_id": "marenyx",
+    "title": {
+      "en": "MARENYX",
+      "ja": "MARENYX"
+    },
+    "artist": "BlackY × Aoi",
+    "rank": 12,
+    "status": -2,
+    "bg": "d641e1b4aa9a3af232ca85d3b2ede1b0"
+  },
+  {
+    "song_id": "worldender",
+    "title": {
+      "en": "World Ender",
+      "ja": "魔王"
+    },
+    "artist": "sasakure.UK × TJ.hangneil",
+    "rank": 13,
+    "status": 1,
+    "bg": "10496b8d5a1844021d1ff79e6a5f7978"
+  },
+  {
+    "song_id": "sheriruth",
+    "title": {
+      "en": "Sheriruth",
+      "ja": "Sheriruth"
+    },
+    "artist": "Team Grimoire",
+    "rank": 14,
+    "status": 4,
+    "bg": "cbdd918f48213116d810bafd3adff914"
+  }
+]
