@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "altair",
+    "title": {
+      "en": "Altair (feat. *spiLa*)",
+      "ja": "Altair (feat. *spiLa*)"
+    },
+    "artist": "kamome sano & you",
+    "rank": 0,
+    "status": 62,
+    "bg": "48de3913662664d93172007e698e2997"
+  },
+  {
+    "song_id": "omajinai",
+    "title": {
+      "en": "OMAJINAI",
+      "ja": "おまじない"
+    },
+    "artist": "Tsubusare BOZZ × Madoka*",
+    "rank": 1,
+    "status": 2147483646,
+    "bg": "ef8cf7af111bee30c6396ec3151b2745"
+  },
+  {
+    "song_id": "enchantedlove",
+    "title": {
+      "en": "enchanted love",
+      "ja": "enchanted love"
+    },
+    "artist": "linear ring",
+    "rank": 2,
+    "status": 119,
+    "bg": "2d61367f3cf2d6bc98d52688ad1aa1b2"
+  },
+  {
+    "song_id": "mask",
+    "title": {
+      "en": "~_+",
+      "ja": "~_+"
+    },
+    "artist": "AQUASINE ~ MEMODEMO + METAROOM",
+    "rank": 3,
+    "status": 21,
+    "bg": "0e1383c28660bf096e3f1786fc0b0097"
+  },
+  {
+    "song_id": "tabootears",
+    "title": {
+      "en": "taboo tears you up 2017",
+      "ja": "taboo tears you up 2017"
+    },
+    "artist": "REDALiCE",
+    "rank": 4,
+    "status": 30,
+    "bg": "3a21129f85bf19a0350927b2a53402ba"
+  },
+  {
+    "song_id": "undefined",
+    "title": {
+      "en": "undefined",
+      "ja": "undefined"
+    },
+    "artist": "planless & 乃花こより",
+    "rank": 5,
+    "status": 37,
+    "bg": "226630cba4f31817f0ad09ebc5c7340b"
+  },
+  {
+    "song_id": "anokumene",
+    "title": {
+      "en": "Anökumene",
+      "ja": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 6,
+    "status": -5,
+    "bg": "3df7a4fbb38af66dbe5f6d9f86ffcd94"
+  },
+  {
+    "song_id": "satisfaction",
+    "title": {
+      "en": "SATISFACTION",
+      "ja": "SATISFACTION"
+    },
+    "artist": "P*Light & DJ Noriken feat. KMNZ",
+    "rank": 7,
+    "status": -2,
+    "bg": "71487f5c3672129ee883d2b14c83e3ba"
+  },
+  {
+    "song_id": "sayonarahatsukoi",
+    "title": {
+      "en": "Sayonara Hatsukoi",
+      "ja": "Sayonara Hatsukoi"
+    },
+    "artist": "REDSHiFT",
+    "rank": 8,
+    "status": -1,
+    "bg": "2cfcbdb20cd287da68536652640b10fe"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "en": "Lost Civilization",
+      "ja": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 9,
+    "status": -6,
+    "bg": "4d84ee055227502bc0b4fcc4dc9a002e"
+  },
+  {
+    "song_id": "xxium",
+    "title": {
+      "en": "Xxium and Purple haze",
+      "ja": "Xxium and Purple haze"
+    },
+    "artist": "D.watt",
+    "rank": 10,
+    "status": 31,
+    "bg": "475d001aada115cf674cb4ad7aca2473"
+  },
+  {
+    "song_id": "goodtek",
+    "title": {
+      "en": "GOODTEK (Arcaea Edit)",
+      "ja": "GOODTEK (Arcaea Edit)"
+    },
+    "artist": "EBIMAYO",
+    "rank": 11,
+    "status": -9,
+    "bg": "7d53dd100c2459e5ca53836ea5b5e1d8"
+  },
+  {
+    "song_id": "innocence",
+    "title": {
+      "en": "Innocence",
+      "ja": "Innocence"
+    },
+    "artist": "Powerless feat. Sennzai",
+    "rank": 12,
+    "status": -1,
+    "bg": "77d63045757328f0d96a813274e751ce"
+  },
+  {
+    "song_id": "chronostasis",
+    "title": {
+      "en": "Chronostasis",
+      "ja": "Chronostasis"
+    },
+    "artist": "黒皇帝",
+    "rank": 13,
+    "status": -3,
+    "bg": "e548a0471fa167c20bf94e31e43ea5ba"
+  },
+  {
+    "song_id": "kanagawa",
+    "title": {
+      "en": "Kanagawa Cyber Culvert",
+      "ja": "神奈川電脳暗渠"
+    },
+    "artist": "南ゆに",
+    "rank": 14,
+    "status": -10,
+    "bg": "ec80d71b9e45c1236fabe0c12408b451"
+  }
+]
