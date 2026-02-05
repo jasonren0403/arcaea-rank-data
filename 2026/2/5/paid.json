@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "signal",
+    "title": {
+      "en": "Signal",
+      "ja": "Signal"
+    },
+    "artist": "rejection feat. Such",
+    "rank": 0,
+    "status": 0,
+    "bg": "773ee893e0a270cbeff065188bd9323c"
+  },
+  {
+    "song_id": "meltyrhapsody",
+    "title": {
+      "en": "Melty Rhapsody",
+      "ja": "メルティーラプソディー"
+    },
+    "artist": "lapix feat. PANXI",
+    "rank": 1,
+    "status": 0,
+    "bg": "a2516c7c490290bfb0408c38d7ffff49"
+  },
+  {
+    "song_id": "testify",
+    "title": {
+      "en": "Testify",
+      "ja": "Testify"
+    },
+    "artist": "void (Mournfinale) feat. 星熊南巫",
+    "rank": 2,
+    "status": 1,
+    "bg": "f76cd9375a4b936c91d75d9dfed97705"
+  },
+  {
+    "song_id": "mylifeismine",
+    "title": {
+      "en": "My life is mine alone!",
+      "ja": "My life is mine alone!"
+    },
+    "artist": "Mylta feat. ねんね",
+    "rank": 3,
+    "status": -1,
+    "bg": "1afc76d33d2e27d60a23a45185b33d1f"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "en": "Tempestissimo",
+      "ja": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 4,
+    "status": 2,
+    "bg": "84ce374f3e8e1b8974de48dc348b8f54"
+  },
+  {
+    "song_id": "capella",
+    "title": {
+      "en": "Capella",
+      "ja": "Capella"
+    },
+    "artist": "ARForest",
+    "rank": 5,
+    "status": 0,
+    "bg": "0d42c5a9b1976bfd9d364c266e724e68"
+  },
+  {
+    "song_id": "chaintonite",
+    "title": {
+      "en": "CHAIN2NITE",
+      "ja": "CHAIN2NITE"
+    },
+    "artist": "asuzora feat. cyber milk ちゃん",
+    "rank": 6,
+    "status": -2,
+    "bg": "1a19a9d0cbd21093a938afb32cc1cce6"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "en": "Grievous Lady",
+      "ja": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 7,
+    "status": 0,
+    "bg": "b991c918c433f42b85bb0226c1c191ce"
+  },
+  {
+    "song_id": "extradimensional",
+    "title": {
+      "en": "Extradimensional Cosmic Phenomenon",
+      "ja": "多次元宇宙融合論"
+    },
+    "artist": "TAKIO feat. つぐ",
+    "rank": 8,
+    "status": 2,
+    "bg": "ea3f671fecaf41d3f5e583720e6bcdcd"
+  },
+  {
+    "song_id": "codeoblivion",
+    "title": {
+      "en": "Code: Oblivion",
+      "ja": "Code: Oblivion"
+    },
+    "artist": "Kobaryo × Gram",
+    "rank": 9,
+    "status": 0,
+    "bg": "2e6f0faf8dbf27fa96ec457dd795d24f"
+  },
+  {
+    "song_id": "arcanaeden",
+    "title": {
+      "en": "Arcana Eden",
+      "ja": "Arcana Eden"
+    },
+    "artist": "Team Grimoire vs Sakuzyo vs Laur",
+    "rank": 10,
+    "status": 8,
+    "bg": "fc2a68a2306ececfdde9bc8a5ac943a8"
+  },
+  {
+    "song_id": "infinitestrife",
+    "title": {
+      "en": "Infinite Strife,",
+      "ja": "Infinite Strife,"
+    },
+    "artist": "BlackYooh vs. siromaru",
+    "rank": 11,
+    "status": 2,
+    "bg": "a713fffe87d61201fb5c805991cc5ad7"
+  },
+  {
+    "song_id": "designant",
+    "title": {
+      "en": "Designant.",
+      "ja": "Designant."
+    },
+    "artist": "Designant",
+    "rank": 12,
+    "status": 2,
+    "bg": "f4726c37a090bfe1bebf54df4134fa4f"
+  },
+  {
+    "song_id": "nexttoyou",
+    "title": {
+      "en": "next to you",
+      "ja": "next to you"
+    },
+    "artist": "uma feat. 橘花音",
+    "rank": 13,
+    "status": -5,
+    "bg": "0536f4a28a8c6cd24159c3010e68e686"
+  },
+  {
+    "song_id": "marenyx",
+    "title": {
+      "en": "MARENYX",
+      "ja": "MARENYX"
+    },
+    "artist": "BlackY × Aoi",
+    "rank": 14,
+    "status": -3,
+    "bg": "3d7ef9230ca962eaba2a6368266a4aac"
+  }
+]
