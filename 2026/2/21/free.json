@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "caramelpop",
+    "title": {
+      "en": "Gimme Caramel Popcorn!",
+      "ja": "キャラメルポップコーンたべたいよ〜"
+    },
+    "artist": "ヤミナベレコーズ feat. 繭糸",
+    "rank": 0,
+    "status": 2147483647,
+    "bg": "f552118a6e87b89547e760ea6489e116"
+  },
+  {
+    "song_id": "shinoukyoseki",
+    "title": {
+      "en": "The Forgotten Forest Haven",
+      "ja": "森奥虚跡"
+    },
+    "artist": "ShiBa",
+    "rank": 1,
+    "status": 2147483646,
+    "bg": "556ad08db60a267e3a2e1fb1a435289b"
+  },
+  {
+    "song_id": "omajinai",
+    "title": {
+      "en": "OMAJINAI",
+      "ja": "おまじない"
+    },
+    "artist": "Tsubusare BOZZ × Madoka*",
+    "rank": 2,
+    "status": -2,
+    "bg": "3d9d745974526431753c5292a4bb4a12"
+  },
+  {
+    "song_id": "satisfaction",
+    "title": {
+      "en": "SATISFACTION",
+      "ja": "SATISFACTION"
+    },
+    "artist": "P*Light & DJ Noriken feat. KMNZ",
+    "rank": 3,
+    "status": 2,
+    "bg": "47cabbbc495d04654a28052fb7322572"
+  },
+  {
+    "song_id": "awakeninruins",
+    "title": {
+      "en": "Awaken In Ruins",
+      "ja": "Awaken In Ruins"
+    },
+    "artist": "Supa7onyz",
+    "rank": 4,
+    "status": 97,
+    "bg": "5dcf4a0fb0f27b40ad14a05b7a30dbd1"
+  },
+  {
+    "song_id": "tabootears",
+    "title": {
+      "en": "taboo tears you up 2017",
+      "ja": "taboo tears you up 2017"
+    },
+    "artist": "REDALiCE",
+    "rank": 5,
+    "status": 29,
+    "bg": "b2e2a383c815bebc15d7ae57d9f0e305"
+  },
+  {
+    "song_id": "innocence",
+    "title": {
+      "en": "Innocence",
+      "ja": "Innocence"
+    },
+    "artist": "Powerless feat. Sennzai",
+    "rank": 6,
+    "status": 8,
+    "bg": "da79a772e5b463c61b2763354fee23b9"
+  },
+  {
+    "song_id": "mask",
+    "title": {
+      "en": "~_+",
+      "ja": "~_+"
+    },
+    "artist": "AQUASINE ~ MEMODEMO + METAROOM",
+    "rank": 7,
+    "status": 34,
+    "bg": "11fa7bee77ef127bdc26c275507f4694"
+  },
+  {
+    "song_id": "anokumene",
+    "title": {
+      "en": "Anökumene",
+      "ja": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 8,
+    "status": -5,
+    "bg": "49a773911e82fbb1279ad9ee3753a72b"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "en": "Lost Civilization",
+      "ja": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 9,
+    "status": -8,
+    "bg": "828f1d40175f8265d18179eb8fb391c3"
+  },
+  {
+    "song_id": "infinityheaven",
+    "title": {
+      "en": "Infinity Heaven",
+      "ja": "Infinity Heaven"
+    },
+    "artist": "HyuN",
+    "rank": 10,
+    "status": 0,
+    "bg": "ddbb801ea115a778effa8979b1d57f8f"
+  },
+  {
+    "song_id": "sayonarahatsukoi",
+    "title": {
+      "en": "Sayonara Hatsukoi",
+      "ja": "Sayonara Hatsukoi"
+    },
+    "artist": "REDSHiFT",
+    "rank": 11,
+    "status": 4,
+    "bg": "1757b662054fb5c5c1646a452308f28d"
+  },
+  {
+    "song_id": "goodtek",
+    "title": {
+      "en": "GOODTEK (Arcaea Edit)",
+      "ja": "GOODTEK (Arcaea Edit)"
+    },
+    "artist": "EBIMAYO",
+    "rank": 12,
+    "status": -5,
+    "bg": "bd5ef147622077e9c21113197745797b"
+  },
+  {
+    "song_id": "chronostasis",
+    "title": {
+      "en": "Chronostasis",
+      "ja": "Chronostasis"
+    },
+    "artist": "黒皇帝",
+    "rank": 13,
+    "status": -4,
+    "bg": "022d3d9771d004c1c5512f7c21a1e0e6"
+  },
+  {
+    "song_id": "xxium",
+    "title": {
+      "en": "Xxium and Purple haze",
+      "ja": "Xxium and Purple haze"
+    },
+    "artist": "D.watt",
+    "rank": 14,
+    "status": 15,
+    "bg": "f1e50dc5b19fab16a3e2322ab719c52f"
+  }
+]
