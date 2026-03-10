@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "goodrage",
+    "title": {
+      "en": "GOODRAGE",
+      "ja": "GOODRAGE"
+    },
+    "artist": "EBIMAYO",
+    "rank": 0,
+    "status": 2147483647,
+    "bg": "7c10e39b5972c142adf80a542a9f9017"
+  },
+  {
+    "song_id": "desertrealm",
+    "title": {
+      "en": "Desertrealm",
+      "ja": "Desertrealm"
+    },
+    "artist": "Masahiro \"Godspeed\" Aoki",
+    "rank": 1,
+    "status": 2147483646,
+    "bg": "9b7872facd3b73369037435f12ad6a3c"
+  },
+  {
+    "song_id": "axiumcrisis",
+    "title": {
+      "en": "Axium Crisis",
+      "ja": "Axium Crisis"
+    },
+    "artist": "ak+q",
+    "rank": 2,
+    "status": 14,
+    "bg": "19c8e5bde4ed81a8543cd56dada4e2e9"
+  },
+  {
+    "song_id": "bethere",
+    "title": {
+      "en": "Be There",
+      "ja": "Be There"
+    },
+    "artist": "PSYQUI",
+    "rank": 3,
+    "status": 203,
+    "bg": "dfcbc994327a1b8834e795268931e1ac"
+  },
+  {
+    "song_id": "straightintolights",
+    "title": {
+      "en": "Straight into the lights",
+      "ja": "Straight into the lights"
+    },
+    "artist": "Cosmograph",
+    "rank": 4,
+    "status": 2,
+    "bg": "507576d115c594b58e8698436be753e4"
+  },
+  {
+    "song_id": "signal",
+    "title": {
+      "en": "Signal",
+      "ja": "Signal"
+    },
+    "artist": "rejection feat. Such",
+    "rank": 5,
+    "status": 7,
+    "bg": "4046b773399ef527691852ec87e9291d"
+  },
+  {
+    "song_id": "dropdead",
+    "title": {
+      "en": "dropdead",
+      "ja": "dropdead"
+    },
+    "artist": "Frums",
+    "rank": 6,
+    "status": 144,
+    "bg": "340e8430a766f1c6d931b6ea63773de8"
+  },
+  {
+    "song_id": "heavenlycaress",
+    "title": {
+      "en": "Heavenly caress",
+      "ja": "Heavenly caress"
+    },
+    "artist": "Noah",
+    "rank": 7,
+    "status": 168,
+    "bg": "5647fcc2768251b48101a7ed5f196f95"
+  },
+  {
+    "song_id": "undyingmacula",
+    "title": {
+      "en": "Undying Macula",
+      "ja": "Undying Macula"
+    },
+    "artist": "Ashrount",
+    "rank": 8,
+    "status": 5,
+    "bg": "b8e3068610924f4f1414aa95b6d81511"
+  },
+  {
+    "song_id": "extradimensional",
+    "title": {
+      "en": "Extradimensional Cosmic Phenomenon",
+      "ja": "多次元宇宙融合論"
+    },
+    "artist": "TAKIO feat. つぐ",
+    "rank": 9,
+    "status": -6,
+    "bg": "12a0c3177d3efcd51b46a81ee26f13b4"
+  },
+  {
+    "song_id": "chaosblast",
+    "title": {
+      "en": "CHAOSBLAST",
+      "ja": "CHAOSBLAST"
+    },
+    "artist": "QURELESS + 柚子花",
+    "rank": 10,
+    "status": 93,
+    "bg": "fdbec992835f2764aa8d8b6b77116c51"
+  },
+  {
+    "song_id": "overwhelm",
+    "title": {
+      "en": "Overwhelm",
+      "ja": "Overwhelm"
+    },
+    "artist": "xi",
+    "rank": 11,
+    "status": 159,
+    "bg": "4183b91fe573f62cbeac42f92fa7273a"
+  },
+  {
+    "song_id": "ifi",
+    "title": {
+      "en": "#1f1e33",
+      "ja": "#1f1e33"
+    },
+    "artist": "かめりあ(EDP)",
+    "rank": 12,
+    "status": 3,
+    "bg": "5827a1e430c280f3da15fd3f6bf47b64"
+  },
+  {
+    "song_id": "vainspire",
+    "title": {
+      "en": "Vainspire",
+      "ja": "Vainspire"
+    },
+    "artist": "satella",
+    "rank": 13,
+    "status": 88,
+    "bg": "68ad32fc5206bc2db0d35a20dc02bfb3"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "en": "Tempestissimo",
+      "ja": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 14,
+    "status": -13,
+    "bg": "6f215d135e30aa1a820d57a94d821390"
+  }
+]

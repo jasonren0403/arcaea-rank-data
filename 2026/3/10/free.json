@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "kyogenkigo",
+    "title": {
+      "en": "False Embellishment",
+      "ja": "狂言綺語"
+    },
+    "artist": "影虎。 & ikaruga_nex",
+    "rank": 0,
+    "status": 76,
+    "bg": "7699f6881e8e700cafdcc0c390fb211f"
+  },
+  {
+    "song_id": "caramelpop",
+    "title": {
+      "en": "Gimme Caramel Popcorn!",
+      "ja": "キャラメルポップコーンたべたいよ〜"
+    },
+    "artist": "ヤミナベレコーズ feat. 繭糸",
+    "rank": 1,
+    "status": -1,
+    "bg": "6e94bdf4976eda56c9aaf47b4704c83e"
+  },
+  {
+    "song_id": "vallista",
+    "title": {
+      "en": "Vallista",
+      "ja": "Vallista"
+    },
+    "artist": "Sakuzyo",
+    "rank": 2,
+    "status": 2147483645,
+    "bg": "15a918c7147d63b3182e5706af617ff7"
+  },
+  {
+    "song_id": "thirdavenue",
+    "title": {
+      "en": "3rd Avenue",
+      "ja": "3rd Avenue"
+    },
+    "artist": "Sound Souler",
+    "rank": 3,
+    "status": 2147483644,
+    "bg": "f8b1bfec551f70b0c2ded1d7a9f338a4"
+  },
+  {
+    "song_id": "shinoukyoseki",
+    "title": {
+      "en": "The Forgotten Forest Haven",
+      "ja": "森奥虚跡"
+    },
+    "artist": "ShiBa",
+    "rank": 4,
+    "status": -3,
+    "bg": "95387e51abcce13a442e7eacea0e6a6b"
+  },
+  {
+    "song_id": "satisfaction",
+    "title": {
+      "en": "SATISFACTION",
+      "ja": "SATISFACTION"
+    },
+    "artist": "P*Light & DJ Noriken feat. KMNZ",
+    "rank": 5,
+    "status": 0,
+    "bg": "37d4aa8c0c887d81995f492f137f95ed"
+  },
+  {
+    "song_id": "awakeninruins",
+    "title": {
+      "en": "Awaken In Ruins",
+      "ja": "Awaken In Ruins"
+    },
+    "artist": "Supa7onyz",
+    "rank": 6,
+    "status": 26,
+    "bg": "6fc238d99b5f698c09fed83c74d1245e"
+  },
+  {
+    "song_id": "vandalism",
+    "title": {
+      "en": "Vandalism",
+      "ja": "Vandalism"
+    },
+    "artist": "Ashrount",
+    "rank": 7,
+    "status": 89,
+    "bg": "027d1657a5dee8b946b528709a30897b"
+  },
+  {
+    "song_id": "dematerialized",
+    "title": {
+      "en": "Dematerialized",
+      "ja": "Dematerialized"
+    },
+    "artist": "In Love With A Ghost",
+    "rank": 8,
+    "status": 19,
+    "bg": "7304caed7cd5bea1a5c4730fc233a27b"
+  },
+  {
+    "song_id": "gengaozo",
+    "title": {
+      "en": "G e n g a o z o",
+      "ja": "G e n g a o z o"
+    },
+    "artist": "-45",
+    "rank": 9,
+    "status": 59,
+    "bg": "cc2cc3e6c2faa7b2c558774f3f0fd35f"
+  },
+  {
+    "song_id": "sayonarahatsukoi",
+    "title": {
+      "en": "Sayonara Hatsukoi",
+      "ja": "Sayonara Hatsukoi"
+    },
+    "artist": "REDSHiFT",
+    "rank": 10,
+    "status": 0,
+    "bg": "f6548ad93944847d6e8acc8a72c7fd1d"
+  },
+  {
+    "song_id": "innocence",
+    "title": {
+      "en": "Innocence",
+      "ja": "Innocence"
+    },
+    "artist": "Powerless feat. Sennzai",
+    "rank": 11,
+    "status": -4,
+    "bg": "a087a0398d5d2b17721de8acf6988f92"
+  },
+  {
+    "song_id": "tabootears",
+    "title": {
+      "en": "taboo tears you up 2017",
+      "ja": "taboo tears you up 2017"
+    },
+    "artist": "REDALiCE",
+    "rank": 12,
+    "status": 22,
+    "bg": "da98762d471edc00dfe1857b8f5e597d"
+  },
+  {
+    "song_id": "hivemind",
+    "title": {
+      "en": "HIVEMIND",
+      "ja": "HIVEMIND"
+    },
+    "artist": "かたぎり",
+    "rank": 13,
+    "status": 74,
+    "bg": "4f08084a5fe4b653780c0284bf3ed383"
+  },
+  {
+    "song_id": "anokumene",
+    "title": {
+      "en": "Anökumene",
+      "ja": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 14,
+    "status": -12,
+    "bg": "31e31d046390b8119361bfe8e657f75f"
+  }
+]
