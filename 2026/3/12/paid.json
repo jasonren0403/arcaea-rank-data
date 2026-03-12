@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "cryogenic",
+    "title": {
+      "en": "Cryogenic",
+      "ja": "Cryogenic"
+    },
+    "artist": "Camellia ft. Petra Gurin",
+    "rank": 0,
+    "status": 19,
+    "bg": "268b5f166da1f0d922cbfeb15f712b0a"
+  },
+  {
+    "song_id": "bethere",
+    "title": {
+      "en": "Be There",
+      "ja": "Be There"
+    },
+    "artist": "PSYQUI",
+    "rank": 1,
+    "status": 2,
+    "bg": "dfcbc994327a1b8834e795268931e1ac"
+  },
+  {
+    "song_id": "goodrage",
+    "title": {
+      "en": "GOODRAGE",
+      "ja": "GOODRAGE"
+    },
+    "artist": "EBIMAYO",
+    "rank": 2,
+    "status": -2,
+    "bg": "7c10e39b5972c142adf80a542a9f9017"
+  },
+  {
+    "song_id": "axiumcrisis",
+    "title": {
+      "en": "Axium Crisis",
+      "ja": "Axium Crisis"
+    },
+    "artist": "ak+q",
+    "rank": 3,
+    "status": -1,
+    "bg": "19c8e5bde4ed81a8543cd56dada4e2e9"
+  },
+  {
+    "song_id": "dropdead",
+    "title": {
+      "en": "dropdead",
+      "ja": "dropdead"
+    },
+    "artist": "Frums",
+    "rank": 4,
+    "status": 2,
+    "bg": "340e8430a766f1c6d931b6ea63773de8"
+  },
+  {
+    "song_id": "saintorsinner",
+    "title": {
+      "en": "Saint or Sinner",
+      "ja": "Saint or Sinner"
+    },
+    "artist": "crayvxn",
+    "rank": 5,
+    "status": 13,
+    "bg": "24c1bb3bb0d143c7f188e991ae4a434b"
+  },
+  {
+    "song_id": "heavenlycaress",
+    "title": {
+      "en": "Heavenly caress",
+      "ja": "Heavenly caress"
+    },
+    "artist": "Noah",
+    "rank": 6,
+    "status": 1,
+    "bg": "5647fcc2768251b48101a7ed5f196f95"
+  },
+  {
+    "song_id": "ifi",
+    "title": {
+      "en": "#1f1e33",
+      "ja": "#1f1e33"
+    },
+    "artist": "かめりあ(EDP)",
+    "rank": 7,
+    "status": 5,
+    "bg": "5827a1e430c280f3da15fd3f6bf47b64"
+  },
+  {
+    "song_id": "undyingmacula",
+    "title": {
+      "en": "Undying Macula",
+      "ja": "Undying Macula"
+    },
+    "artist": "Ashrount",
+    "rank": 8,
+    "status": 0,
+    "bg": "b8e3068610924f4f1414aa95b6d81511"
+  },
+  {
+    "song_id": "chaosblast",
+    "title": {
+      "en": "CHAOSBLAST",
+      "ja": "CHAOSBLAST"
+    },
+    "artist": "QURELESS + 柚子花",
+    "rank": 9,
+    "status": 1,
+    "bg": "fdbec992835f2764aa8d8b6b77116c51"
+  },
+  {
+    "song_id": "extradimensional",
+    "title": {
+      "en": "Extradimensional Cosmic Phenomenon",
+      "ja": "多次元宇宙融合論"
+    },
+    "artist": "TAKIO feat. つぐ",
+    "rank": 10,
+    "status": -1,
+    "bg": "12a0c3177d3efcd51b46a81ee26f13b4"
+  },
+  {
+    "song_id": "straightintolights",
+    "title": {
+      "en": "Straight into the lights",
+      "ja": "Straight into the lights"
+    },
+    "artist": "Cosmograph",
+    "rank": 11,
+    "status": -7,
+    "bg": "507576d115c594b58e8698436be753e4"
+  },
+  {
+    "song_id": "heavensdoor",
+    "title": {
+      "en": "Heavensdoor",
+      "ja": "Heavensdoor"
+    },
+    "artist": "LeaF",
+    "rank": 12,
+    "status": 16,
+    "bg": "553954ca48223e8b736ddd7432c20d3d"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "en": "Tempestissimo",
+      "ja": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 13,
+    "status": 1,
+    "bg": "6f215d135e30aa1a820d57a94d821390"
+  },
+  {
+    "song_id": "signal",
+    "title": {
+      "en": "Signal",
+      "ja": "Signal"
+    },
+    "artist": "rejection feat. Such",
+    "rank": 14,
+    "status": -9,
+    "bg": "4046b773399ef527691852ec87e9291d"
+  }
+]
