@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "kyogenkigo",
+    "title": {
+      "en": "False Embellishment",
+      "ja": "狂言綺語"
+    },
+    "artist": "影虎。 & ikaruga_nex",
+    "rank": 0,
+    "status": 0,
+    "bg": "7699f6881e8e700cafdcc0c390fb211f"
+  },
+  {
+    "song_id": "vallista",
+    "title": {
+      "en": "Vallista",
+      "ja": "Vallista"
+    },
+    "artist": "Sakuzyo",
+    "rank": 1,
+    "status": 0,
+    "bg": "15a918c7147d63b3182e5706af617ff7"
+  },
+  {
+    "song_id": "thirdavenue",
+    "title": {
+      "en": "3rd Avenue",
+      "ja": "3rd Avenue"
+    },
+    "artist": "Sound Souler",
+    "rank": 2,
+    "status": 0,
+    "bg": "f8b1bfec551f70b0c2ded1d7a9f338a4"
+  },
+  {
+    "song_id": "caramelpop",
+    "title": {
+      "en": "Gimme Caramel Popcorn!",
+      "ja": "キャラメルポップコーンたべたいよ〜"
+    },
+    "artist": "ヤミナベレコーズ feat. 繭糸",
+    "rank": 3,
+    "status": 0,
+    "bg": "6e94bdf4976eda56c9aaf47b4704c83e"
+  },
+  {
+    "song_id": "satisfaction",
+    "title": {
+      "en": "SATISFACTION",
+      "ja": "SATISFACTION"
+    },
+    "artist": "P*Light & DJ Noriken feat. KMNZ",
+    "rank": 4,
+    "status": 0,
+    "bg": "37d4aa8c0c887d81995f492f137f95ed"
+  },
+  {
+    "song_id": "reinvent",
+    "title": {
+      "en": "Reinvent",
+      "ja": "Reinvent"
+    },
+    "artist": "Sound Souler",
+    "rank": 5,
+    "status": 0,
+    "bg": "eef6422de3506ff6c95e7d55d909205a"
+  },
+  {
+    "song_id": "sayonarahatsukoi",
+    "title": {
+      "en": "Sayonara Hatsukoi",
+      "ja": "Sayonara Hatsukoi"
+    },
+    "artist": "REDSHiFT",
+    "rank": 6,
+    "status": 3,
+    "bg": "f6548ad93944847d6e8acc8a72c7fd1d"
+  },
+  {
+    "song_id": "dematerialized",
+    "title": {
+      "en": "Dematerialized",
+      "ja": "Dematerialized"
+    },
+    "artist": "In Love With A Ghost",
+    "rank": 7,
+    "status": 0,
+    "bg": "7304caed7cd5bea1a5c4730fc233a27b"
+  },
+  {
+    "song_id": "anokumene",
+    "title": {
+      "en": "Anökumene",
+      "ja": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 8,
+    "status": 3,
+    "bg": "31e31d046390b8119361bfe8e657f75f"
+  },
+  {
+    "song_id": "gengaozo",
+    "title": {
+      "en": "G e n g a o z o",
+      "ja": "G e n g a o z o"
+    },
+    "artist": "-45",
+    "rank": 9,
+    "status": 1,
+    "bg": "cc2cc3e6c2faa7b2c558774f3f0fd35f"
+  },
+  {
+    "song_id": "innocence",
+    "title": {
+      "en": "Innocence",
+      "ja": "Innocence"
+    },
+    "artist": "Powerless feat. Sennzai",
+    "rank": 10,
+    "status": -4,
+    "bg": "a087a0398d5d2b17721de8acf6988f92"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "en": "Lost Civilization",
+      "ja": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 11,
+    "status": 3,
+    "bg": "162e98d86c481267f31218c4ae2530fc"
+  },
+  {
+    "song_id": "nhelv",
+    "title": {
+      "en": "Nhelv",
+      "ja": "Nhelv"
+    },
+    "artist": "Silentroom",
+    "rank": 12,
+    "status": 1,
+    "bg": "22d8ea742f9af13fb62fb376bc9d8dea"
+  },
+  {
+    "song_id": "shinoukyoseki",
+    "title": {
+      "en": "The Forgotten Forest Haven",
+      "ja": "森奥虚跡"
+    },
+    "artist": "ShiBa",
+    "rank": 13,
+    "status": -5,
+    "bg": "95387e51abcce13a442e7eacea0e6a6b"
+  },
+  {
+    "song_id": "inkarusi",
+    "title": {
+      "en": "inkar-usi",
+      "ja": "inkar-usi"
+    },
+    "artist": "DIA",
+    "rank": 14,
+    "status": 5,
+    "bg": "307dcf5af004dda1482c134d21b5033d"
+  }
+]
