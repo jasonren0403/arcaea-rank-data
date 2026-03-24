@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "thirdavenue",
+    "title": {
+      "en": "3rd Avenue",
+      "ja": "3rd Avenue"
+    },
+    "artist": "Sound Souler",
+    "rank": 0,
+    "status": 0,
+    "bg": "f8b1bfec551f70b0c2ded1d7a9f338a4"
+  },
+  {
+    "song_id": "vallista",
+    "title": {
+      "en": "Vallista",
+      "ja": "Vallista"
+    },
+    "artist": "Sakuzyo",
+    "rank": 1,
+    "status": 0,
+    "bg": "15a918c7147d63b3182e5706af617ff7"
+  },
+  {
+    "song_id": "kyogenkigo",
+    "title": {
+      "en": "False Embellishment",
+      "ja": "狂言綺語"
+    },
+    "artist": "影虎。 & ikaruga_nex",
+    "rank": 2,
+    "status": 0,
+    "bg": "7699f6881e8e700cafdcc0c390fb211f"
+  },
+  {
+    "song_id": "reinvent",
+    "title": {
+      "en": "Reinvent",
+      "ja": "Reinvent"
+    },
+    "artist": "Sound Souler",
+    "rank": 3,
+    "status": 0,
+    "bg": "eef6422de3506ff6c95e7d55d909205a"
+  },
+  {
+    "song_id": "caramelpop",
+    "title": {
+      "en": "Gimme Caramel Popcorn!",
+      "ja": "キャラメルポップコーンたべたいよ〜"
+    },
+    "artist": "ヤミナベレコーズ feat. 繭糸",
+    "rank": 4,
+    "status": 0,
+    "bg": "6e94bdf4976eda56c9aaf47b4704c83e"
+  },
+  {
+    "song_id": "satisfaction",
+    "title": {
+      "en": "SATISFACTION",
+      "ja": "SATISFACTION"
+    },
+    "artist": "P*Light & DJ Noriken feat. KMNZ",
+    "rank": 5,
+    "status": 0,
+    "bg": "37d4aa8c0c887d81995f492f137f95ed"
+  },
+  {
+    "song_id": "anokumene",
+    "title": {
+      "en": "Anökumene",
+      "ja": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 6,
+    "status": 1,
+    "bg": "31e31d046390b8119361bfe8e657f75f"
+  },
+  {
+    "song_id": "sayonarahatsukoi",
+    "title": {
+      "en": "Sayonara Hatsukoi",
+      "ja": "Sayonara Hatsukoi"
+    },
+    "artist": "REDSHiFT",
+    "rank": 7,
+    "status": 1,
+    "bg": "f6548ad93944847d6e8acc8a72c7fd1d"
+  },
+  {
+    "song_id": "innocence",
+    "title": {
+      "en": "Innocence",
+      "ja": "Innocence"
+    },
+    "artist": "Powerless feat. Sennzai",
+    "rank": 8,
+    "status": 1,
+    "bg": "a087a0398d5d2b17721de8acf6988f92"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "en": "Lost Civilization",
+      "ja": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 9,
+    "status": 1,
+    "bg": "162e98d86c481267f31218c4ae2530fc"
+  },
+  {
+    "song_id": "nhelv",
+    "title": {
+      "en": "Nhelv",
+      "ja": "Nhelv"
+    },
+    "artist": "Silentroom",
+    "rank": 10,
+    "status": -4,
+    "bg": "22d8ea742f9af13fb62fb376bc9d8dea"
+  },
+  {
+    "song_id": "kanagawa",
+    "title": {
+      "en": "Kanagawa Cyber Culvert",
+      "ja": "神奈川電脳暗渠"
+    },
+    "artist": "南ゆに",
+    "rank": 11,
+    "status": 3,
+    "bg": "bd607645d228c4408581062ede5b63f7"
+  },
+  {
+    "song_id": "shadesoflight",
+    "title": {
+      "en": "Shades of Light in a Transcendent Realm",
+      "ja": "Shades of Light in a Transcendent Realm"
+    },
+    "artist": "ak+q",
+    "rank": 12,
+    "status": 3,
+    "bg": "d30917a770f2d659e9b6afabeb1c3053"
+  },
+  {
+    "song_id": "inkarusi",
+    "title": {
+      "en": "inkar-usi",
+      "ja": "inkar-usi"
+    },
+    "artist": "DIA",
+    "rank": 13,
+    "status": -1,
+    "bg": "307dcf5af004dda1482c134d21b5033d"
+  },
+  {
+    "song_id": "goodtek",
+    "title": {
+      "en": "GOODTEK (Arcaea Edit)",
+      "ja": "GOODTEK (Arcaea Edit)"
+    },
+    "artist": "EBIMAYO",
+    "rank": 14,
+    "status": 3,
+    "bg": "fb8e059a500df45ea57e21943ec0c7fb"
+  }
+]
