@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "axiumcrisis",
+    "title": {
+      "en": "Axium Crisis",
+      "ja": "Axium Crisis"
+    },
+    "artist": "ak+q",
+    "rank": 0,
+    "status": 0,
+    "bg": "19c8e5bde4ed81a8543cd56dada4e2e9"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "en": "Tempestissimo",
+      "ja": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 1,
+    "status": 3,
+    "bg": "6f215d135e30aa1a820d57a94d821390"
+  },
+  {
+    "song_id": "testify",
+    "title": {
+      "en": "Testify",
+      "ja": "Testify"
+    },
+    "artist": "void (Mournfinale) feat. 星熊南巫",
+    "rank": 2,
+    "status": -1,
+    "bg": "225fb9f9e0daa359b04c9c7a279614dc"
+  },
+  {
+    "song_id": "ifi",
+    "title": {
+      "en": "#1f1e33",
+      "ja": "#1f1e33"
+    },
+    "artist": "かめりあ(EDP)",
+    "rank": 3,
+    "status": 0,
+    "bg": "5827a1e430c280f3da15fd3f6bf47b64"
+  },
+  {
+    "song_id": "cryogenic",
+    "title": {
+      "en": "Cryogenic",
+      "ja": "Cryogenic"
+    },
+    "artist": "Camellia ft. Petra Gurin",
+    "rank": 4,
+    "status": -2,
+    "bg": "268b5f166da1f0d922cbfeb15f712b0a"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "en": "Grievous Lady",
+      "ja": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 5,
+    "status": 0,
+    "bg": "7cc7ad1de937c174935c48ac6132bfcd"
+  },
+  {
+    "song_id": "undyingmacula",
+    "title": {
+      "en": "Undying Macula",
+      "ja": "Undying Macula"
+    },
+    "artist": "Ashrount",
+    "rank": 6,
+    "status": 0,
+    "bg": "b8e3068610924f4f1414aa95b6d81511"
+  },
+  {
+    "song_id": "designant",
+    "title": {
+      "en": "Designant.",
+      "ja": "Designant."
+    },
+    "artist": "Designant",
+    "rank": 7,
+    "status": 2,
+    "bg": "4140945d1cbad75e70dc1859d1dd17e4"
+  },
+  {
+    "song_id": "arcanaeden",
+    "title": {
+      "en": "Arcana Eden",
+      "ja": "Arcana Eden"
+    },
+    "artist": "Team Grimoire vs Sakuzyo vs Laur",
+    "rank": 8,
+    "status": 0,
+    "bg": "f0c43b767b2bc9ba3c022dbcc36bd7dd"
+  },
+  {
+    "song_id": "extradimensional",
+    "title": {
+      "en": "Extradimensional Cosmic Phenomenon",
+      "ja": "多次元宇宙融合論"
+    },
+    "artist": "TAKIO feat. つぐ",
+    "rank": 9,
+    "status": -2,
+    "bg": "12a0c3177d3efcd51b46a81ee26f13b4"
+  },
+  {
+    "song_id": "infinitestrife",
+    "title": {
+      "en": "Infinite Strife,",
+      "ja": "Infinite Strife,"
+    },
+    "artist": "BlackYooh vs. siromaru",
+    "rank": 10,
+    "status": 5,
+    "bg": "de90f75185ceb0fdb6ea9e33c8a54281"
+  },
+  {
+    "song_id": "viciousheroism",
+    "title": {
+      "en": "Vicious Heroism",
+      "ja": "Vicious Heroism"
+    },
+    "artist": "Kobaryo",
+    "rank": 11,
+    "status": -1,
+    "bg": "76a871a61bc1e7cdf00978bf276ec2e8"
+  },
+  {
+    "song_id": "heavenlycaress",
+    "title": {
+      "en": "Heavenly caress",
+      "ja": "Heavenly caress"
+    },
+    "artist": "Noah",
+    "rank": 12,
+    "status": 2,
+    "bg": "5647fcc2768251b48101a7ed5f196f95"
+  },
+  {
+    "song_id": "fractureray",
+    "title": {
+      "en": "Fracture Ray",
+      "ja": "Fracture Ray"
+    },
+    "artist": "Sakuzyo",
+    "rank": 13,
+    "status": -2,
+    "bg": "054c3045ec8f3fb86ac212c423b4d7fd"
+  },
+  {
+    "song_id": "pentiment",
+    "title": {
+      "en": "Pentiment",
+      "ja": "Pentiment"
+    },
+    "artist": "Nothing But Requiem with Museo",
+    "rank": 14,
+    "status": -1,
+    "bg": "1d74f08e4895ec1a129d10168d6c91a1"
+  }
+]
