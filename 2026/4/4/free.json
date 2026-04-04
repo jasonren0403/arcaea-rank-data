@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "ignotus",
+    "title": {
+      "en": "Ignotus",
+      "ja": "Ignotus"
+    },
+    "artist": "ak+q",
+    "rank": 0,
+    "status": 8,
+    "bg": "ade62aa927aa13767c9541641c73d988"
+  },
+  {
+    "song_id": "redandblue",
+    "title": {
+      "en": "Red and Blue",
+      "ja": "Red and Blue"
+    },
+    "artist": "Silentroom",
+    "rank": 1,
+    "status": 0,
+    "bg": "2227d7f9b6133875772fc4892505102b"
+  },
+  {
+    "song_id": "shadesoflight",
+    "title": {
+      "en": "Shades of Light in a Transcendent Realm",
+      "ja": "Shades of Light in a Transcendent Realm"
+    },
+    "artist": "ak+q",
+    "rank": 2,
+    "status": 11,
+    "bg": "dc147a0778b542e225c31371386f801a"
+  },
+  {
+    "song_id": "inkarusi",
+    "title": {
+      "en": "inkar-usi",
+      "ja": "inkar-usi"
+    },
+    "artist": "DIA",
+    "rank": 3,
+    "status": 0,
+    "bg": "e4b0541c8f21d7600f015ffecd084f97"
+  },
+  {
+    "song_id": "grimheart",
+    "title": {
+      "en": "Grimheart",
+      "ja": "Grimheart"
+    },
+    "artist": "Puru",
+    "rank": 4,
+    "status": 22,
+    "bg": "8fb798524c1d4b058500d5fe1f2eaa8f"
+  },
+  {
+    "song_id": "hivemind",
+    "title": {
+      "en": "HIVEMIND",
+      "ja": "HIVEMIND"
+    },
+    "artist": "かたぎり",
+    "rank": 5,
+    "status": 24,
+    "bg": "73250d103f679ac07b714b689ccdf306"
+  },
+  {
+    "song_id": "sayonarahatsukoi",
+    "title": {
+      "en": "Sayonara Hatsukoi",
+      "ja": "Sayonara Hatsukoi"
+    },
+    "artist": "REDSHiFT",
+    "rank": 6,
+    "status": 18,
+    "bg": "dcca84f46eae04a2d1c42eadada10687"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "en": "Lost Civilization",
+      "ja": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 7,
+    "status": -2,
+    "bg": "8d57f0724655908d55d862918505635a"
+  },
+  {
+    "song_id": "anokumene",
+    "title": {
+      "en": "Anökumene",
+      "ja": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 8,
+    "status": -1,
+    "bg": "4895b2cbb05dfe0d4ea94c2b989871b6"
+  },
+  {
+    "song_id": "kyogenkigo",
+    "title": {
+      "en": "False Embellishment",
+      "ja": "狂言綺語"
+    },
+    "artist": "影虎。 & ikaruga_nex",
+    "rank": 9,
+    "status": -9,
+    "bg": "bad0e736bdadffad0a8ccb2d939542c1"
+  },
+  {
+    "song_id": "nhelv",
+    "title": {
+      "en": "Nhelv",
+      "ja": "Nhelv"
+    },
+    "artist": "Silentroom",
+    "rank": 10,
+    "status": -8,
+    "bg": "2830ea34d6c17cd451aba86186951d93"
+  },
+  {
+    "song_id": "felys",
+    "title": {
+      "en": "felys final remix",
+      "ja": "felys final remix"
+    },
+    "artist": "onoken",
+    "rank": 11,
+    "status": 66,
+    "bg": "565116244f201a391c4fb6ce4cda3a07"
+  },
+  {
+    "song_id": "kanagawa",
+    "title": {
+      "en": "Kanagawa Cyber Culvert",
+      "ja": "神奈川電脳暗渠"
+    },
+    "artist": "南ゆに",
+    "rank": 12,
+    "status": -3,
+    "bg": "37180df81f0ac9947b297fd5018b3a91"
+  },
+  {
+    "song_id": "dement",
+    "title": {
+      "en": "Dement ~after legend~",
+      "ja": "Dement ~after legend~"
+    },
+    "artist": "Cosmograph",
+    "rank": 13,
+    "status": 21,
+    "bg": "0e7406f195a327cd28cac67693154353"
+  },
+  {
+    "song_id": "goodtek",
+    "title": {
+      "en": "GOODTEK (Arcaea Edit)",
+      "ja": "GOODTEK (Arcaea Edit)"
+    },
+    "artist": "EBIMAYO",
+    "rank": 14,
+    "status": -10,
+    "bg": "4074af43503a93e8f1a8c4aea3723d99"
+  }
+]
