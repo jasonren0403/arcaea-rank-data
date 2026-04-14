@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "kanagawa",
+    "title": {
+      "en": "Kanagawa Cyber Culvert",
+      "ja": "神奈川電脳暗渠"
+    },
+    "artist": "南ゆに",
+    "rank": 0,
+    "status": 5,
+    "bg": "37180df81f0ac9947b297fd5018b3a91"
+  },
+  {
+    "song_id": "nhelv",
+    "title": {
+      "en": "Nhelv",
+      "ja": "Nhelv"
+    },
+    "artist": "Silentroom",
+    "rank": 1,
+    "status": -1,
+    "bg": "2830ea34d6c17cd451aba86186951d93"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "en": "Lost Civilization",
+      "ja": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 2,
+    "status": -1,
+    "bg": "8d57f0724655908d55d862918505635a"
+  },
+  {
+    "song_id": "ignotus",
+    "title": {
+      "en": "Ignotus",
+      "ja": "Ignotus"
+    },
+    "artist": "ak+q",
+    "rank": 3,
+    "status": 0,
+    "bg": "ade62aa927aa13767c9541641c73d988"
+  },
+  {
+    "song_id": "anokumene",
+    "title": {
+      "en": "Anökumene",
+      "ja": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 4,
+    "status": 0,
+    "bg": "4895b2cbb05dfe0d4ea94c2b989871b6"
+  },
+  {
+    "song_id": "goodtek",
+    "title": {
+      "en": "GOODTEK (Arcaea Edit)",
+      "ja": "GOODTEK (Arcaea Edit)"
+    },
+    "artist": "EBIMAYO",
+    "rank": 5,
+    "status": -3,
+    "bg": "4074af43503a93e8f1a8c4aea3723d99"
+  },
+  {
+    "song_id": "infinityheaven",
+    "title": {
+      "en": "Infinity Heaven",
+      "ja": "Infinity Heaven"
+    },
+    "artist": "HyuN",
+    "rank": 6,
+    "status": 2,
+    "bg": "ed006b3007d6a37f03a0d9c18a24d52b"
+  },
+  {
+    "song_id": "inkarusi",
+    "title": {
+      "en": "inkar-usi",
+      "ja": "inkar-usi"
+    },
+    "artist": "DIA",
+    "rank": 7,
+    "status": -1,
+    "bg": "e4b0541c8f21d7600f015ffecd084f97"
+  },
+  {
+    "song_id": "sayonarahatsukoi",
+    "title": {
+      "en": "Sayonara Hatsukoi",
+      "ja": "Sayonara Hatsukoi"
+    },
+    "artist": "REDSHiFT",
+    "rank": 8,
+    "status": 10,
+    "bg": "dcca84f46eae04a2d1c42eadada10687"
+  },
+  {
+    "song_id": "qualia",
+    "title": {
+      "en": "qualia -ideaesthesia-",
+      "ja": "qualia -ideaesthesia-"
+    },
+    "artist": "nitro",
+    "rank": 9,
+    "status": 1,
+    "bg": "1e125cc17e033f81cbe285fcdc70e42f"
+  },
+  {
+    "song_id": "kyogenkigo",
+    "title": {
+      "en": "False Embellishment",
+      "ja": "狂言綺語"
+    },
+    "artist": "影虎。 & ikaruga_nex",
+    "rank": 10,
+    "status": 1,
+    "bg": "bad0e736bdadffad0a8ccb2d939542c1"
+  },
+  {
+    "song_id": "shadesoflight",
+    "title": {
+      "en": "Shades of Light in a Transcendent Realm",
+      "ja": "Shades of Light in a Transcendent Realm"
+    },
+    "artist": "ak+q",
+    "rank": 11,
+    "status": -2,
+    "bg": "dc147a0778b542e225c31371386f801a"
+  },
+  {
+    "song_id": "redandblue",
+    "title": {
+      "en": "Red and Blue",
+      "ja": "Red and Blue"
+    },
+    "artist": "Silentroom",
+    "rank": 12,
+    "status": -5,
+    "bg": "2227d7f9b6133875772fc4892505102b"
+  },
+  {
+    "song_id": "sakurafubuki",
+    "title": {
+      "en": "Sakura Fubuki",
+      "ja": "Sakura Fubuki"
+    },
+    "artist": "Street",
+    "rank": 13,
+    "status": 0,
+    "bg": "ad4b63b21b05b3654bbb1c72c68a3131"
+  },
+  {
+    "song_id": "purgatorium",
+    "title": {
+      "en": "Purgatorium",
+      "ja": "Purgatorium"
+    },
+    "artist": "お月さま交響曲",
+    "rank": 14,
+    "status": 2,
+    "bg": "51cbcecdfa7736016a2ed2cfb33600fd"
+  }
+]
