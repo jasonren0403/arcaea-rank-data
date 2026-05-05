@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "metallicpunisher",
+    "title": {
+      "en": "Metallic Punisher",
+      "ja": "Metallic Punisher"
+    },
+    "artist": "INNOCENT NOIZE",
+    "rank": 0,
+    "status": 0,
+    "bg": "db7f9d15bcd650f92b52eb685b3b97fe"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "en": "Grievous Lady",
+      "ja": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 1,
+    "status": 1,
+    "bg": "b2a86411d0bf4d3ddf1c46dd6b87500d"
+  },
+  {
+    "song_id": "testify",
+    "title": {
+      "en": "Testify",
+      "ja": "Testify"
+    },
+    "artist": "void (Mournfinale) feat. 星熊南巫",
+    "rank": 2,
+    "status": 2,
+    "bg": "35f4275883e5f20d777cda8dda7df3b1"
+  },
+  {
+    "song_id": "arcanaeden",
+    "title": {
+      "en": "Arcana Eden",
+      "ja": "Arcana Eden"
+    },
+    "artist": "Team Grimoire vs Sakuzyo vs Laur",
+    "rank": 3,
+    "status": 4,
+    "bg": "93b80bf81bf3c73d721900fc6400ef6c"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "en": "Tempestissimo",
+      "ja": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 4,
+    "status": 2,
+    "bg": "8a7b014b10ead8c9558a1307ced544b7"
+  },
+  {
+    "song_id": "asgore",
+    "title": {
+      "en": "ASGORE",
+      "ja": "アズゴア"
+    },
+    "artist": "Toby Fox",
+    "rank": 5,
+    "status": -4,
+    "bg": "4a0be10ea8c44a5587795171e420b903"
+  },
+  {
+    "song_id": "axiumcrisis",
+    "title": {
+      "en": "Axium Crisis",
+      "ja": "Axium Crisis"
+    },
+    "artist": "ak+q",
+    "rank": 6,
+    "status": 2,
+    "bg": "44bf99592a7bd56b201c9c6e6d2e96d8"
+  },
+  {
+    "song_id": "spiderdance",
+    "title": {
+      "en": "Spider Dance",
+      "ja": "スパイダーダンス"
+    },
+    "artist": "Toby Fox",
+    "rank": 7,
+    "status": -4,
+    "bg": "5222c6c145ac66035318beb6ca4e05d9"
+  },
+  {
+    "song_id": "spearofjustice",
+    "title": {
+      "en": "Spear of Justice",
+      "ja": "正義の槍"
+    },
+    "artist": "Toby Fox",
+    "rank": 8,
+    "status": -3,
+    "bg": "5343aa2fd442aa8f05086fb7eca24425"
+  },
+  {
+    "song_id": "pragmatism",
+    "title": {
+      "en": "PRAGMATISM",
+      "ja": "PRAGMATISM"
+    },
+    "artist": "Laur",
+    "rank": 9,
+    "status": 0,
+    "bg": "3950de6bea890e297eff1cd5746f2a2e"
+  },
+  {
+    "song_id": "infinitestrife",
+    "title": {
+      "en": "Infinite Strife,",
+      "ja": "Infinite Strife,"
+    },
+    "artist": "BlackYooh vs. siromaru",
+    "rank": 10,
+    "status": 2,
+    "bg": "1242fb312e663c438156b18272c3cd52"
+  },
+  {
+    "song_id": "undyingmacula",
+    "title": {
+      "en": "Undying Macula",
+      "ja": "Undying Macula"
+    },
+    "artist": "Ashrount",
+    "rank": 11,
+    "status": 4,
+    "bg": "f21678d795d9eb49d300de86166062bd"
+  },
+  {
+    "song_id": "designant",
+    "title": {
+      "en": "Designant.",
+      "ja": "Designant."
+    },
+    "artist": "Designant",
+    "rank": 12,
+    "status": -1,
+    "bg": "21a1f663ad8437247ef7de12a6712f34"
+  },
+  {
+    "song_id": "cryogenic",
+    "title": {
+      "en": "Cryogenic",
+      "ja": "Cryogenic"
+    },
+    "artist": "Camellia ft. Petra Gurin",
+    "rank": 13,
+    "status": -3,
+    "bg": "e78f49142d68d59dbf65e9ef95cb2766"
+  },
+  {
+    "song_id": "fractureray",
+    "title": {
+      "en": "Fracture Ray",
+      "ja": "Fracture Ray"
+    },
+    "artist": "Sakuzyo",
+    "rank": 14,
+    "status": -1,
+    "bg": "e530512c1bb3f06ce1c6abc364e5160a"
+  }
+]
