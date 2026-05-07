@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "riotsystem",
+    "title": {
+      "en": "Riot in the System",
+      "ja": "Riot in the System"
+    },
+    "artist": "Laur & Massive New Krew feat. 社築",
+    "rank": 0,
+    "status": 0,
+    "bg": "dea7ec19208a72fe86c9e5824ee5236d"
+  },
+  {
+    "song_id": "mirrorrmx",
+    "title": {
+      "en": "MIRROR - kamome sano remix",
+      "ja": "MIRROR - kamome sano remix"
+    },
+    "artist": "kamome sano",
+    "rank": 1,
+    "status": 0,
+    "bg": "8b3f65b885043f0061d87a23d7588911"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "en": "Lost Civilization",
+      "ja": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 2,
+    "status": 0,
+    "bg": "f4eeb2a43b2700bf5759315af8088b3c"
+  },
+  {
+    "song_id": "altair",
+    "title": {
+      "en": "Altair (feat. *spiLa*)",
+      "ja": "Altair (feat. *spiLa*)"
+    },
+    "artist": "kamome sano & you",
+    "rank": 3,
+    "status": 0,
+    "bg": "b1ef8666df4d7beb41ac3afc2af365d1"
+  },
+  {
+    "song_id": "blackmirror",
+    "title": {
+      "en": "Black Mirror on the Wall",
+      "ja": "Black Mirror on the Wall"
+    },
+    "artist": "暁Records",
+    "rank": 4,
+    "status": 0,
+    "bg": "79931033f252e213af3dc011c07e4fbf"
+  },
+  {
+    "song_id": "blaster",
+    "title": {
+      "en": "Blaster",
+      "ja": "Blaster"
+    },
+    "artist": "Massive New Krew",
+    "rank": 5,
+    "status": 0,
+    "bg": "e5a0baee1d11a69e49da3876d8dec709"
+  },
+  {
+    "song_id": "satisfaction",
+    "title": {
+      "en": "SATISFACTION",
+      "ja": "SATISFACTION"
+    },
+    "artist": "P*Light & DJ Noriken feat. KMNZ",
+    "rank": 6,
+    "status": 1,
+    "bg": "b1b098537cb24244a6df0dc9737b3c09"
+  },
+  {
+    "song_id": "anokumene",
+    "title": {
+      "en": "Anökumene",
+      "ja": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 7,
+    "status": 1,
+    "bg": "a24d5a0b35197a20fb5ff0da08552ac4"
+  },
+  {
+    "song_id": "innocence",
+    "title": {
+      "en": "Innocence",
+      "ja": "Innocence"
+    },
+    "artist": "Powerless feat. Sennzai",
+    "rank": 8,
+    "status": -2,
+    "bg": "cfd3b05f108b785bb7d2ba250c980f9a"
+  },
+  {
+    "song_id": "caramelpop",
+    "title": {
+      "en": "Gimme Caramel Popcorn!",
+      "ja": "キャラメルポップコーンたべたいよ〜"
+    },
+    "artist": "ヤミナベレコーズ feat. 繭糸",
+    "rank": 9,
+    "status": 2,
+    "bg": "250bccf8dd9d363f637b54ca4296b19d"
+  },
+  {
+    "song_id": "vallista",
+    "title": {
+      "en": "Vallista",
+      "ja": "Vallista"
+    },
+    "artist": "Sakuzyo",
+    "rank": 10,
+    "status": 8,
+    "bg": "7ff6c21269613e81a8363eabb0286e6a"
+  },
+  {
+    "song_id": "inkarusi",
+    "title": {
+      "en": "inkar-usi",
+      "ja": "inkar-usi"
+    },
+    "artist": "DIA",
+    "rank": 11,
+    "status": 5,
+    "bg": "462566ba94e88eb4638ca792f66e4e70"
+  },
+  {
+    "song_id": "sayonarahatsukoi",
+    "title": {
+      "en": "Sayonara Hatsukoi",
+      "ja": "Sayonara Hatsukoi"
+    },
+    "artist": "REDSHiFT",
+    "rank": 12,
+    "status": 1,
+    "bg": "7109717da0439f0e7b08f74a1109e8ac"
+  },
+  {
+    "song_id": "nhelv",
+    "title": {
+      "en": "Nhelv",
+      "ja": "Nhelv"
+    },
+    "artist": "Silentroom",
+    "rank": 13,
+    "status": -4,
+    "bg": "1f8b4d675c0d1ce6f62d7ed03b50a456"
+  },
+  {
+    "song_id": "goodtek",
+    "title": {
+      "en": "GOODTEK (Arcaea Edit)",
+      "ja": "GOODTEK (Arcaea Edit)"
+    },
+    "artist": "EBIMAYO",
+    "rank": 14,
+    "status": 1,
+    "bg": "fd856abff0467a8c3b3be1efe02c7f51"
+  }
+]
