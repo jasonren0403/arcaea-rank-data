@@ -7,7 +7,7 @@ readme = "README.md"
 dependencies = [
     "coloredlogs>=15.0.1",
     "pytelegrambotapi>=4.27.0",
-    "requests>=2.32.4",
+    "requests>=2.33.0",
     "telebot>=0.0.5",
 ]
 
