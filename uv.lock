@@ -21,7 +21,7 @@ dev = [
 [package.metadata]
 requires-dist = [
     { name = "coloredlogs", specifier = ">=15.0.1" },
-    { name = "pytelegrambotapi", specifier = ">=4.27.0" },
+    { name = "pytelegrambotapi", specifier = ">=4.33.0" },
     { name = "requests", specifier = ">=2.32.4" },
     { name = "telebot", specifier = ">=0.0.5" },
 ]
@@ -117,14 +117,14 @@ wheels = [
 
 [[package]]
 name = "pytelegrambotapi"
-version = "4.32.0"
+version = "4.33.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "requests" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/bf/60/f5fb7dedc4b78135a8bbb247d9b619b50e6ea13925b247f9b0c70142d1aa/pytelegrambotapi-4.32.0.tar.gz", hash = "sha256:01d36a5c0df9d1293fc768a802542ad7f4aeb3fcd5d1574b5116d935b3a3313a", size = 1374159, upload-time = "2026-03-09T20:20:56.17Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/6b/3c/ab2936cb4ab75c59fab8343e34df2472c79f9f6d2f20b3cdf27e215231b4/pytelegrambotapi-4.33.0.tar.gz", hash = "sha256:df35be14d015d6ac874768db848d0c6d7864f586b242d4902efa2244efca6512", size = 1378027, upload-time = "2026-04-11T19:28:11.13Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/e4/e8/4fccc4094155749b46482b790d65ec0f930da076070deaea7364d955c8a8/pytelegrambotapi-4.32.0-py3-none-any.whl", hash = "sha256:ed973b302bc7014d06a7ad3cadd76a02e79498ff1e2c4be9e5ca96b0ba352d63", size = 303282, upload-time = "2026-03-09T20:20:54.325Z" },
+    { url = "https://files.pythonhosted.org/packages/82/c6/383f0a951afeec0f6b44cba460ea651668ceb0a86d82f9c91ca696c52729/pytelegrambotapi-4.33.0-py3-none-any.whl", hash = "sha256:0c34ded8c6f7afe41b8d591ef102aeaa9ca158d97ec50309279d09a6603e0ffb", size = 308423, upload-time = "2026-04-11T19:28:08.961Z" },
 ]
 
 [[package]]

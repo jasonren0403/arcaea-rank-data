@@ -6,7 +6,7 @@ requires-python = ">=3.12"
 readme = "README.md"
 dependencies = [
     "coloredlogs>=15.0.1",
-    "pytelegrambotapi>=4.27.0",
+    "pytelegrambotapi>=4.33.0",
     "requests>=2.32.4",
     "telebot>=0.0.5",
 ]
