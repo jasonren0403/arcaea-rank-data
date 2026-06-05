@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "cosmogyral",
+    "title": {
+      "en": "Cosmogyral",
+      "ja": "Cosmogyral"
+    },
+    "artist": "Darren + Altermis",
+    "rank": 0,
+    "status": 0,
+    "bg": "ace4db39790a3d830cfe5eee044f9841"
+  },
+  {
+    "song_id": "flexidefine",
+    "title": {
+      "en": "flexidefine",
+      "ja": "flexidefine"
+    },
+    "artist": "Lamanya",
+    "rank": 1,
+    "status": 0,
+    "bg": "1b2ae9997cb871e449caf0bd59e4acaa"
+  },
+  {
+    "song_id": "nhelv",
+    "title": {
+      "en": "Nhelv",
+      "ja": "Nhelv"
+    },
+    "artist": "Silentroom",
+    "rank": 2,
+    "status": 0,
+    "bg": "1128e8bfffadb5d024071f0c1b887646"
+  },
+  {
+    "song_id": "riotsystem",
+    "title": {
+      "en": "Riot in the System",
+      "ja": "Riot in the System"
+    },
+    "artist": "Laur & Massive New Krew feat. 社築",
+    "rank": 3,
+    "status": 0,
+    "bg": "1e6bc561c54562885034c39bda596cd1"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "en": "Lost Civilization",
+      "ja": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 4,
+    "status": 0,
+    "bg": "bcbcadb74e0cff786ce9a3f11ea16e26"
+  },
+  {
+    "song_id": "energysynergymatrix",
+    "title": {
+      "en": "ENERGY SYNERGY MATRIX",
+      "ja": "ENERGY SYNERGY MATRIX"
+    },
+    "artist": "Tanchiky",
+    "rank": 5,
+    "status": 0,
+    "bg": "bc67ff8ea5d3f86125b6146db61b452e"
+  },
+  {
+    "song_id": "nulctrl",
+    "title": {
+      "en": "NULCTRL",
+      "ja": "NULCTRL"
+    },
+    "artist": "Silentroom",
+    "rank": 6,
+    "status": 0,
+    "bg": "c2f4cddd2e410d97448daa49dc227b74"
+  },
+  {
+    "song_id": "alephzero",
+    "title": {
+      "en": "Aleph-0",
+      "ja": "Aleph-0"
+    },
+    "artist": "LeaF",
+    "rank": 7,
+    "status": 0,
+    "bg": "3890a1ae91712221c099a1dbfec687e4"
+  },
+  {
+    "song_id": "gengaozo",
+    "title": {
+      "en": "G e n g a o z o",
+      "ja": "G e n g a o z o"
+    },
+    "artist": "-45",
+    "rank": 8,
+    "status": 0,
+    "bg": "e2c7a02204c4b6df18712b988e329157"
+  },
+  {
+    "song_id": "innocence",
+    "title": {
+      "en": "Innocence",
+      "ja": "Innocence"
+    },
+    "artist": "Powerless feat. Sennzai",
+    "rank": 9,
+    "status": 5,
+    "bg": "87c635d6f9da1787afb71b203e40176f"
+  },
+  {
+    "song_id": "anokumene",
+    "title": {
+      "en": "Anökumene",
+      "ja": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 10,
+    "status": 1,
+    "bg": "ad652bf2cb9809dfe8335b234e40ea3f"
+  },
+  {
+    "song_id": "onelastdrive",
+    "title": {
+      "en": "One Last Drive",
+      "ja": "One Last Drive"
+    },
+    "artist": "REDSHiFT",
+    "rank": 11,
+    "status": -2,
+    "bg": "18fe8ec2ec40f239c94140040908aa35"
+  },
+  {
+    "song_id": "chronostasis",
+    "title": {
+      "en": "Chronostasis",
+      "ja": "Chronostasis"
+    },
+    "artist": "黒皇帝",
+    "rank": 12,
+    "status": 3,
+    "bg": "220a2f824b8328b0cd85960f61862a0d"
+  },
+  {
+    "song_id": "sayonarahatsukoi",
+    "title": {
+      "en": "Sayonara Hatsukoi",
+      "ja": "Sayonara Hatsukoi"
+    },
+    "artist": "REDSHiFT",
+    "rank": 13,
+    "status": -1,
+    "bg": "e160a7709c7ba3578ac83c804460182f"
+  },
+  {
+    "song_id": "tau",
+    "title": {
+      "en": "τ (tau)",
+      "ja": "τ (tau)"
+    },
+    "artist": "Wooden",
+    "rank": 14,
+    "status": -4,
+    "bg": "f14e47c85b1ebd87dc65880f8d0b1556"
+  }
+]
