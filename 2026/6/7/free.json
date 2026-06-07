@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "cosmogyral",
+    "title": {
+      "en": "Cosmogyral",
+      "ja": "Cosmogyral"
+    },
+    "artist": "Darren + Altermis",
+    "rank": 0,
+    "status": 0,
+    "bg": "ace4db39790a3d830cfe5eee044f9841"
+  },
+  {
+    "song_id": "nhelv",
+    "title": {
+      "en": "Nhelv",
+      "ja": "Nhelv"
+    },
+    "artist": "Silentroom",
+    "rank": 1,
+    "status": 1,
+    "bg": "1128e8bfffadb5d024071f0c1b887646"
+  },
+  {
+    "song_id": "flexidefine",
+    "title": {
+      "en": "flexidefine",
+      "ja": "flexidefine"
+    },
+    "artist": "Lamanya",
+    "rank": 2,
+    "status": -1,
+    "bg": "1b2ae9997cb871e449caf0bd59e4acaa"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "en": "Lost Civilization",
+      "ja": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 3,
+    "status": 1,
+    "bg": "bcbcadb74e0cff786ce9a3f11ea16e26"
+  },
+  {
+    "song_id": "riotsystem",
+    "title": {
+      "en": "Riot in the System",
+      "ja": "Riot in the System"
+    },
+    "artist": "Laur & Massive New Krew feat. 社築",
+    "rank": 4,
+    "status": -1,
+    "bg": "1e6bc561c54562885034c39bda596cd1"
+  },
+  {
+    "song_id": "nulctrl",
+    "title": {
+      "en": "NULCTRL",
+      "ja": "NULCTRL"
+    },
+    "artist": "Silentroom",
+    "rank": 5,
+    "status": 1,
+    "bg": "c2f4cddd2e410d97448daa49dc227b74"
+  },
+  {
+    "song_id": "energysynergymatrix",
+    "title": {
+      "en": "ENERGY SYNERGY MATRIX",
+      "ja": "ENERGY SYNERGY MATRIX"
+    },
+    "artist": "Tanchiky",
+    "rank": 6,
+    "status": -1,
+    "bg": "bc67ff8ea5d3f86125b6146db61b452e"
+  },
+  {
+    "song_id": "anokumene",
+    "title": {
+      "en": "Anökumene",
+      "ja": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 7,
+    "status": 1,
+    "bg": "ad652bf2cb9809dfe8335b234e40ea3f"
+  },
+  {
+    "song_id": "alephzero",
+    "title": {
+      "en": "Aleph-0",
+      "ja": "Aleph-0"
+    },
+    "artist": "LeaF",
+    "rank": 8,
+    "status": -1,
+    "bg": "3890a1ae91712221c099a1dbfec687e4"
+  },
+  {
+    "song_id": "chronostasis",
+    "title": {
+      "en": "Chronostasis",
+      "ja": "Chronostasis"
+    },
+    "artist": "黒皇帝",
+    "rank": 9,
+    "status": 1,
+    "bg": "220a2f824b8328b0cd85960f61862a0d"
+  },
+  {
+    "song_id": "gengaozo",
+    "title": {
+      "en": "G e n g a o z o",
+      "ja": "G e n g a o z o"
+    },
+    "artist": "-45",
+    "rank": 10,
+    "status": -1,
+    "bg": "e2c7a02204c4b6df18712b988e329157"
+  },
+  {
+    "song_id": "innocence",
+    "title": {
+      "en": "Innocence",
+      "ja": "Innocence"
+    },
+    "artist": "Powerless feat. Sennzai",
+    "rank": 11,
+    "status": 3,
+    "bg": "87c635d6f9da1787afb71b203e40176f"
+  },
+  {
+    "song_id": "goodtek",
+    "title": {
+      "en": "GOODTEK (Arcaea Edit)",
+      "ja": "GOODTEK (Arcaea Edit)"
+    },
+    "artist": "EBIMAYO",
+    "rank": 12,
+    "status": -1,
+    "bg": "fb9a189d2aab5a290dfe65cad1b3f4c6"
+  },
+  {
+    "song_id": "kanagawa",
+    "title": {
+      "en": "Kanagawa Cyber Culvert",
+      "ja": "神奈川電脳暗渠"
+    },
+    "artist": "南ゆに",
+    "rank": 13,
+    "status": 4,
+    "bg": "74e3f945bbe8a2f198de635654253bed"
+  },
+  {
+    "song_id": "satisfaction",
+    "title": {
+      "en": "SATISFACTION",
+      "ja": "SATISFACTION"
+    },
+    "artist": "P*Light & DJ Noriken feat. KMNZ",
+    "rank": 14,
+    "status": 10,
+    "bg": "8a7a3ac640ee31a0cda2b10ba67cf531"
+  }
+]
