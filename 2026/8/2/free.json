@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "ignotus",
+    "title": {
+      "en": "Ignotus",
+      "ja": "Ignotus"
+    },
+    "artist": "ak+q",
+    "rank": 0,
+    "status": 1,
+    "bg": "cbf2212ce332abe989e8ec93f9112fc8"
+  },
+  {
+    "song_id": "qualia",
+    "title": {
+      "en": "qualia -ideaesthesia-",
+      "ja": "qualia -ideaesthesia-"
+    },
+    "artist": "nitro",
+    "rank": 1,
+    "status": -1,
+    "bg": "a9974667780a9ff5ca2f174f26a6f40f"
+  },
+  {
+    "song_id": "shadesoflight",
+    "title": {
+      "en": "Shades of Light in a Transcendent Realm",
+      "ja": "Shades of Light in a Transcendent Realm"
+    },
+    "artist": "ak+q",
+    "rank": 2,
+    "status": 0,
+    "bg": "bcfbaf60cbdd7a4b138fe52816d2e8ab"
+  },
+  {
+    "song_id": "vexaria",
+    "title": {
+      "en": "Vexaria",
+      "ja": "Vexaria"
+    },
+    "artist": "ak+q",
+    "rank": 3,
+    "status": 0,
+    "bg": "828f18f035fe1bc53b3d979ef07289ac"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "en": "Lost Civilization",
+      "ja": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 4,
+    "status": 0,
+    "bg": "6451058b8ae255fa0d02918c8fa53c77"
+  },
+  {
+    "song_id": "innocence",
+    "title": {
+      "en": "Innocence",
+      "ja": "Innocence"
+    },
+    "artist": "Powerless feat. Sennzai",
+    "rank": 5,
+    "status": 1,
+    "bg": "5ed9c4c750cda7a21e3a39b7a654c950"
+  },
+  {
+    "song_id": "vividtheory",
+    "title": {
+      "en": "Vivid Theory",
+      "ja": "Vivid Theory"
+    },
+    "artist": "ak+q",
+    "rank": 6,
+    "status": -1,
+    "bg": "ede10ce92d1103411d87cf59e60cedfa"
+  },
+  {
+    "song_id": "riotsystem",
+    "title": {
+      "en": "Riot in the System",
+      "ja": "Riot in the System"
+    },
+    "artist": "Laur & Massive New Krew feat. 社築",
+    "rank": 7,
+    "status": 1,
+    "bg": "7c44e4b232d944ace0a55bc330230c48"
+  },
+  {
+    "song_id": "anokumene",
+    "title": {
+      "en": "Anökumene",
+      "ja": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 8,
+    "status": 2,
+    "bg": "172f7899fa4e3fdd8d390e0ec816de0a"
+  },
+  {
+    "song_id": "inkarusi",
+    "title": {
+      "en": "inkar-usi",
+      "ja": "inkar-usi"
+    },
+    "artist": "DIA",
+    "rank": 9,
+    "status": 2,
+    "bg": "b6eb24e151f363ca444f8dd5cecabc12"
+  },
+  {
+    "song_id": "nhelv",
+    "title": {
+      "en": "Nhelv",
+      "ja": "Nhelv"
+    },
+    "artist": "Silentroom",
+    "rank": 10,
+    "status": -1,
+    "bg": "6e9509690032aaddf749058adeca8c3d"
+  },
+  {
+    "song_id": "kanagawa",
+    "title": {
+      "en": "Kanagawa Cyber Culvert",
+      "ja": "神奈川電脳暗渠"
+    },
+    "artist": "南ゆに",
+    "rank": 11,
+    "status": 5,
+    "bg": "ec7cfa5722a77b4ba776d9f0cb404ea4"
+  },
+  {
+    "song_id": "cosmogyral",
+    "title": {
+      "en": "Cosmogyral",
+      "ja": "Cosmogyral"
+    },
+    "artist": "Darren + Altermis",
+    "rank": 12,
+    "status": -5,
+    "bg": "84e03b13d0fb08dfc548e8541c59c05e"
+  },
+  {
+    "song_id": "chronostasis",
+    "title": {
+      "en": "Chronostasis",
+      "ja": "Chronostasis"
+    },
+    "artist": "黒皇帝",
+    "rank": 13,
+    "status": 1,
+    "bg": "73fcb41d13f9d2c97a3e7ec2b6cc1e9a"
+  },
+  {
+    "song_id": "goodtek",
+    "title": {
+      "en": "GOODTEK (Arcaea Edit)",
+      "ja": "GOODTEK (Arcaea Edit)"
+    },
+    "artist": "EBIMAYO",
+    "rank": 14,
+    "status": 5,
+    "bg": "88247223dba28cd21402de651b13a519"
+  }
+]
