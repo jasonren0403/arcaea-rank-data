@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "chronologia",
+    "title": {
+      "en": "chronologia",
+      "ja": "chronologia"
+    },
+    "artist": "lowiro Sound Team (ak+q x nitro)",
+    "rank": 0,
+    "status": 0,
+    "bg": "03d4da89564474cc8e3ea817d6742796"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "en": "Tempestissimo",
+      "ja": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 1,
+    "status": 0,
+    "bg": "6248319f7efb92427489ce4c42a1b65b"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "en": "Grievous Lady",
+      "ja": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 2,
+    "status": 1,
+    "bg": "65abe13a516fb18e9e52ce76217c225f"
+  },
+  {
+    "song_id": "testify",
+    "title": {
+      "en": "Testify",
+      "ja": "Testify"
+    },
+    "artist": "void (Mournfinale) feat. 星熊南巫",
+    "rank": 3,
+    "status": -1,
+    "bg": "43f4ff6f2cbb6331e26b060fd9911411"
+  },
+  {
+    "song_id": "acidgod",
+    "title": {
+      "en": "Acid God",
+      "ja": "Acid God"
+    },
+    "artist": "Yuta Imai",
+    "rank": 4,
+    "status": 0,
+    "bg": "e00dab1e93d25a4aebbb09f732380867"
+  },
+  {
+    "song_id": "synthesis",
+    "title": {
+      "en": "Synthesis.",
+      "ja": "Synthesis."
+    },
+    "artist": "tn-shi",
+    "rank": 5,
+    "status": 1,
+    "bg": "b53b965304c86a3a126e25dc8b355552"
+  },
+  {
+    "song_id": "arcanaeden",
+    "title": {
+      "en": "Arcana Eden",
+      "ja": "Arcana Eden"
+    },
+    "artist": "Team Grimoire vs Sakuzyo vs Laur",
+    "rank": 6,
+    "status": 2,
+    "bg": "d945c019f7c5cfd2f0362b5166e0ffbb"
+  },
+  {
+    "song_id": "fractureray",
+    "title": {
+      "en": "Fracture Ray",
+      "ja": "Fracture Ray"
+    },
+    "artist": "Sakuzyo",
+    "rank": 7,
+    "status": 3,
+    "bg": "1312ab0dbbd1ccbaf0736de2cfde132c"
+  },
+  {
+    "song_id": "infinitestrife",
+    "title": {
+      "en": "Infinite Strife,",
+      "ja": "Infinite Strife,"
+    },
+    "artist": "BlackYooh vs. siromaru",
+    "rank": 8,
+    "status": -1,
+    "bg": "a1e37f62877038e41f7787462451743b"
+  },
+  {
+    "song_id": "pentiment",
+    "title": {
+      "en": "Pentiment",
+      "ja": "Pentiment"
+    },
+    "artist": "Nothing But Requiem with Museo",
+    "rank": 9,
+    "status": 0,
+    "bg": "22e2a4a9fc9e75cb97a80fcbaaf905e6"
+  },
+  {
+    "song_id": "axiumcrisis",
+    "title": {
+      "en": "Axium Crisis",
+      "ja": "Axium Crisis"
+    },
+    "artist": "ak+q",
+    "rank": 10,
+    "status": 1,
+    "bg": "32fe786dcd62c10a1eae0c63168f6699"
+  },
+  {
+    "song_id": "designant",
+    "title": {
+      "en": "Designant.",
+      "ja": "Designant."
+    },
+    "artist": "Designant",
+    "rank": 11,
+    "status": -6,
+    "bg": "51631fa5ef6e05022778c9b637412a19"
+  },
+  {
+    "song_id": "sheriruth",
+    "title": {
+      "en": "Sheriruth",
+      "ja": "Sheriruth"
+    },
+    "artist": "Team Grimoire",
+    "rank": 12,
+    "status": 2,
+    "bg": "fe0eb268ae4bac61b9fdb66ef44be7d5"
+  },
+  {
+    "song_id": "worldender",
+    "title": {
+      "en": "World Ender",
+      "ja": "魔王"
+    },
+    "artist": "sasakure.UK × TJ.hangneil",
+    "rank": 13,
+    "status": -1,
+    "bg": "fddac1c007c5ce5beade507fe8715fcb"
+  },
+  {
+    "song_id": "ifi",
+    "title": {
+      "en": "#1f1e33",
+      "ja": "#1f1e33"
+    },
+    "artist": "かめりあ(EDP)",
+    "rank": 14,
+    "status": 2,
+    "bg": "9ffc3d4023396c58ad86801f18f783d2"
+  }
+]
