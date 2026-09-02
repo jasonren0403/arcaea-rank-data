@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "diein",
+    "title": {
+      "en": "DIE IN",
+      "ja": "DIE IN"
+    },
+    "artist": "TAK x Sobrem",
+    "rank": 0,
+    "status": 0,
+    "bg": "5ce6e3ff6e6e4fa1b1cdde7dc3c15ff6"
+  },
+  {
+    "song_id": "nhelv",
+    "title": {
+      "en": "Nhelv",
+      "ja": "Nhelv"
+    },
+    "artist": "Silentroom",
+    "rank": 1,
+    "status": 0,
+    "bg": "b6a0148846e237e2950182e2b299ba60"
+  },
+  {
+    "song_id": "anokumene",
+    "title": {
+      "en": "Anökumene",
+      "ja": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 2,
+    "status": 0,
+    "bg": "6b8b901819861f13361f451fd843d9fb"
+  },
+  {
+    "song_id": "goodtek",
+    "title": {
+      "en": "GOODTEK (Arcaea Edit)",
+      "ja": "GOODTEK (Arcaea Edit)"
+    },
+    "artist": "EBIMAYO",
+    "rank": 3,
+    "status": 0,
+    "bg": "bf6bd8cd0acf0f7a39fed395d737c28b"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "en": "Lost Civilization",
+      "ja": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 4,
+    "status": 1,
+    "bg": "cf51dbe73653f54e93c69d3a3d27dbef"
+  },
+  {
+    "song_id": "kanagawa",
+    "title": {
+      "en": "Kanagawa Cyber Culvert",
+      "ja": "神奈川電脳暗渠"
+    },
+    "artist": "南ゆに",
+    "rank": 5,
+    "status": 7,
+    "bg": "441d616ee0137b2758a39439082352db"
+  },
+  {
+    "song_id": "redandblue",
+    "title": {
+      "en": "Red and Blue",
+      "ja": "Red and Blue"
+    },
+    "artist": "Silentroom",
+    "rank": 6,
+    "status": 1,
+    "bg": "2eb7b01391105d316baea20e555ccd2c"
+  },
+  {
+    "song_id": "sayonarahatsukoi",
+    "title": {
+      "en": "Sayonara Hatsukoi",
+      "ja": "Sayonara Hatsukoi"
+    },
+    "artist": "REDSHiFT",
+    "rank": 7,
+    "status": 10,
+    "bg": "07d0345373796fa991775600f36e71de"
+  },
+  {
+    "song_id": "satisfaction",
+    "title": {
+      "en": "SATISFACTION",
+      "ja": "SATISFACTION"
+    },
+    "artist": "P*Light & DJ Noriken feat. KMNZ",
+    "rank": 8,
+    "status": 1,
+    "bg": "490607ef52910130cf4c143126f26154"
+  },
+  {
+    "song_id": "inkarusi",
+    "title": {
+      "en": "inkar-usi",
+      "ja": "inkar-usi"
+    },
+    "artist": "DIA",
+    "rank": 9,
+    "status": -5,
+    "bg": "7c9812b1706aef89842bcaf68da390c4"
+  },
+  {
+    "song_id": "ignotus",
+    "title": {
+      "en": "Ignotus",
+      "ja": "Ignotus"
+    },
+    "artist": "ak+q",
+    "rank": 10,
+    "status": 4,
+    "bg": "ea42b6019111a5a89e21aa03711c653d"
+  },
+  {
+    "song_id": "shadesoflight",
+    "title": {
+      "en": "Shades of Light in a Transcendent Realm",
+      "ja": "Shades of Light in a Transcendent Realm"
+    },
+    "artist": "ak+q",
+    "rank": 11,
+    "status": -5,
+    "bg": "4082f6d34aac23bf7ab1186a50be8262"
+  },
+  {
+    "song_id": "cyberneciacatharsis",
+    "title": {
+      "en": "Cybernecia Catharsis",
+      "ja": "Cybernecia Catharsis"
+    },
+    "artist": "Tanchiky",
+    "rank": 12,
+    "status": 3,
+    "bg": "4d3f4c4edfdb217dbbda41cc4005a35f"
+  },
+  {
+    "song_id": "monochromeprincess",
+    "title": {
+      "en": "Monochrome Princess",
+      "ja": "Monochrome Princess"
+    },
+    "artist": "polysha",
+    "rank": 13,
+    "status": 6,
+    "bg": "95e39666a1886f18860c2ce18ab75990"
+  },
+  {
+    "song_id": "innocence",
+    "title": {
+      "en": "Innocence",
+      "ja": "Innocence"
+    },
+    "artist": "Powerless feat. Sennzai",
+    "rank": 14,
+    "status": -4,
+    "bg": "89ad6bb822471d810c02bd3293735675"
+  }
+]
