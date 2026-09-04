@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "diein",
+    "title": {
+      "en": "DIE IN",
+      "ja": "DIE IN"
+    },
+    "artist": "TAK x Sobrem",
+    "rank": 0,
+    "status": 0,
+    "bg": "135bfee3a67d36a97cd03ffc51e53fc0"
+  },
+  {
+    "song_id": "nhelv",
+    "title": {
+      "en": "Nhelv",
+      "ja": "Nhelv"
+    },
+    "artist": "Silentroom",
+    "rank": 1,
+    "status": 1,
+    "bg": "4d64fa06f96364530bfa59e3ba20bf9f"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "en": "Lost Civilization",
+      "ja": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 2,
+    "status": -1,
+    "bg": "65e8fef5339a58b14b52900d81b4186a"
+  },
+  {
+    "song_id": "anokumene",
+    "title": {
+      "en": "Anökumene",
+      "ja": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 3,
+    "status": 0,
+    "bg": "4dcdb4fbc8b145f8e067e67a36799202"
+  },
+  {
+    "song_id": "redandblue",
+    "title": {
+      "en": "Red and Blue",
+      "ja": "Red and Blue"
+    },
+    "artist": "Silentroom",
+    "rank": 4,
+    "status": 1,
+    "bg": "319f80833140cc5a84cd3fc73020d728"
+  },
+  {
+    "song_id": "goodtek",
+    "title": {
+      "en": "GOODTEK (Arcaea Edit)",
+      "ja": "GOODTEK (Arcaea Edit)"
+    },
+    "artist": "EBIMAYO",
+    "rank": 5,
+    "status": 1,
+    "bg": "b247940ffabf7550d70dff540e5631f0"
+  },
+  {
+    "song_id": "kanagawa",
+    "title": {
+      "en": "Kanagawa Cyber Culvert",
+      "ja": "神奈川電脳暗渠"
+    },
+    "artist": "南ゆに",
+    "rank": 6,
+    "status": -2,
+    "bg": "125bef33136d69fc52238ee37b2c116e"
+  },
+  {
+    "song_id": "inkarusi",
+    "title": {
+      "en": "inkar-usi",
+      "ja": "inkar-usi"
+    },
+    "artist": "DIA",
+    "rank": 7,
+    "status": 2,
+    "bg": "82c3b25335acc99040b0e3e7770360ec"
+  },
+  {
+    "song_id": "infinityheaven",
+    "title": {
+      "en": "Infinity Heaven",
+      "ja": "Infinity Heaven"
+    },
+    "artist": "HyuN",
+    "rank": 8,
+    "status": 9,
+    "bg": "3c1e74750ac043743da666432a8de823"
+  },
+  {
+    "song_id": "ignotus",
+    "title": {
+      "en": "Ignotus",
+      "ja": "Ignotus"
+    },
+    "artist": "ak+q",
+    "rank": 9,
+    "status": 6,
+    "bg": "4d5ac21e97a507e5450ceef51e07f90c"
+  },
+  {
+    "song_id": "sayonarahatsukoi",
+    "title": {
+      "en": "Sayonara Hatsukoi",
+      "ja": "Sayonara Hatsukoi"
+    },
+    "artist": "REDSHiFT",
+    "rank": 10,
+    "status": 1,
+    "bg": "edbe23c131d936368243fd9ea7ba2b28"
+  },
+  {
+    "song_id": "shadesoflight",
+    "title": {
+      "en": "Shades of Light in a Transcendent Realm",
+      "ja": "Shades of Light in a Transcendent Realm"
+    },
+    "artist": "ak+q",
+    "rank": 11,
+    "status": -1,
+    "bg": "95d4744e9962a0b93a7c000fb6e93b20"
+  },
+  {
+    "song_id": "cyberneciacatharsis",
+    "title": {
+      "en": "Cybernecia Catharsis",
+      "ja": "Cybernecia Catharsis"
+    },
+    "artist": "Tanchiky",
+    "rank": 12,
+    "status": 2,
+    "bg": "ec073a1539bf5da24fec16a453d660a2"
+  },
+  {
+    "song_id": "satisfaction",
+    "title": {
+      "en": "SATISFACTION",
+      "ja": "SATISFACTION"
+    },
+    "artist": "P*Light & DJ Noriken feat. KMNZ",
+    "rank": 13,
+    "status": -6,
+    "bg": "5b77c0965f13608726897ad0e3d520b7"
+  },
+  {
+    "song_id": "bookmaker",
+    "title": {
+      "en": "Bookmaker (2D Version)",
+      "ja": "Bookmaker (2D Version)"
+    },
+    "artist": "Kobaryo",
+    "rank": 14,
+    "status": 7,
+    "bg": "1e8c6d102e587a61af4275a90b0d3f62"
+  }
+]
