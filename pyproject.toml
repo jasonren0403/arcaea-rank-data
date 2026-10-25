@@ -20,5 +20,5 @@ disable_error_code = ["import-untyped"]
 
 [dependency-groups]
 dev = [
-    "types-requests>=2.33.0.20260518",
+    "types-requests>=2.33.0.20260712",
 ]
