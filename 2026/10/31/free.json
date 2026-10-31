@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "kanagawa",
+    "title": {
+      "en": "Kanagawa Cyber Culvert",
+      "ja": "神奈川電脳暗渠"
+    },
+    "artist": "南ゆに",
+    "rank": 0,
+    "status": 0,
+    "bg": "9f5ee6d0991040793d2576f16aaa9e00"
+  },
+  {
+    "song_id": "remindthesouls",
+    "title": {
+      "en": "Remind the Souls (Short Version)",
+      "ja": "Remind the Souls (Short Version)"
+    },
+    "artist": "Nhato",
+    "rank": 1,
+    "status": 0,
+    "bg": "e6d6c446a90e2d69f386c3bb67d3c217"
+  },
+  {
+    "song_id": "astrawalkthrough",
+    "title": {
+      "en": "Astra walkthrough",
+      "ja": "Astra walkthrough"
+    },
+    "artist": "paraoka",
+    "rank": 2,
+    "status": 0,
+    "bg": "0ecf431267c973af2f67bf94d7fadb35"
+  },
+  {
+    "song_id": "innocence",
+    "title": {
+      "en": "Innocence",
+      "ja": "Innocence"
+    },
+    "artist": "Powerless feat. Sennzai",
+    "rank": 3,
+    "status": 0,
+    "bg": "e352108198d3499d07eee6a07d0eee05"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "en": "Lost Civilization",
+      "ja": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 4,
+    "status": 1,
+    "bg": "29ff53fbe225beb16dda3aeb661496b4"
+  },
+  {
+    "song_id": "anokumene",
+    "title": {
+      "en": "Anökumene",
+      "ja": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 5,
+    "status": 4,
+    "bg": "da27a30bf39d067da15d9e0729db8c15"
+  },
+  {
+    "song_id": "chronostasis",
+    "title": {
+      "en": "Chronostasis",
+      "ja": "Chronostasis"
+    },
+    "artist": "黒皇帝",
+    "rank": 6,
+    "status": 6,
+    "bg": "92fc3018ca30a8ccefd2a2d43b450544"
+  },
+  {
+    "song_id": "inkarusi",
+    "title": {
+      "en": "inkar-usi",
+      "ja": "inkar-usi"
+    },
+    "artist": "DIA",
+    "rank": 7,
+    "status": 0,
+    "bg": "75cdc8965bbab145e19bcf77548ae800"
+  },
+  {
+    "song_id": "sayonarahatsukoi",
+    "title": {
+      "en": "Sayonara Hatsukoi",
+      "ja": "Sayonara Hatsukoi"
+    },
+    "artist": "REDSHiFT",
+    "rank": 8,
+    "status": -4,
+    "bg": "01d96b230c2b6a23dd69bd32ea17c5d9"
+  },
+  {
+    "song_id": "satisfaction",
+    "title": {
+      "en": "SATISFACTION",
+      "ja": "SATISFACTION"
+    },
+    "artist": "P*Light & DJ Noriken feat. KMNZ",
+    "rank": 9,
+    "status": -3,
+    "bg": "24846b81248ee5e99e9e885f32f04af5"
+  },
+  {
+    "song_id": "goodtek",
+    "title": {
+      "en": "GOODTEK (Arcaea Edit)",
+      "ja": "GOODTEK (Arcaea Edit)"
+    },
+    "artist": "EBIMAYO",
+    "rank": 10,
+    "status": 1,
+    "bg": "54e9f722be753a2b102f585896e94c23"
+  },
+  {
+    "song_id": "cyberneciacatharsis",
+    "title": {
+      "en": "Cybernecia Catharsis",
+      "ja": "Cybernecia Catharsis"
+    },
+    "artist": "Tanchiky",
+    "rank": 11,
+    "status": 5,
+    "bg": "d5a83d3db6432c5b7ad58042cb7889e9"
+  },
+  {
+    "song_id": "shadesoflight",
+    "title": {
+      "en": "Shades of Light in a Transcendent Realm",
+      "ja": "Shades of Light in a Transcendent Realm"
+    },
+    "artist": "ak+q",
+    "rank": 12,
+    "status": 6,
+    "bg": "197b2f92d00c477aeda2291ac13f8c07"
+  },
+  {
+    "song_id": "infinityheaven",
+    "title": {
+      "en": "Infinity Heaven",
+      "ja": "Infinity Heaven"
+    },
+    "artist": "HyuN",
+    "rank": 13,
+    "status": 0,
+    "bg": "3c4514892362b2cd35c8ba594fae1cba"
+  },
+  {
+    "song_id": "nhelv",
+    "title": {
+      "en": "Nhelv",
+      "ja": "Nhelv"
+    },
+    "artist": "Silentroom",
+    "rank": 14,
+    "status": 0,
+    "bg": "b09d11ebb4f554235f4d5d8e501e6ffa"
+  }
+]

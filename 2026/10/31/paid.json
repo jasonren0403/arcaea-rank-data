@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "parallax",
+    "title": {
+      "en": "Parallax",
+      "ja": "Parallax"
+    },
+    "artist": "xi vs ak+q (lowiro)",
+    "rank": 0,
+    "status": 0,
+    "bg": "4201981fb624cb8f4b7ef4303de92973"
+  },
+  {
+    "song_id": "trickmaster",
+    "title": {
+      "en": "Tr!cK Ma?tEr",
+      "ja": "Tr!cK Ma?tEr"
+    },
+    "artist": "Nothing But Requiem",
+    "rank": 1,
+    "status": 0,
+    "bg": "eba9e47e1d481dc33aa369a78ec54038"
+  },
+  {
+    "song_id": "etherdrive",
+    "title": {
+      "en": "Ether Drive",
+      "ja": "Ether Drive"
+    },
+    "artist": "crayvxn",
+    "rank": 2,
+    "status": 0,
+    "bg": "ec6c2407c3d2cff3f7b5183e97895ae5"
+  },
+  {
+    "song_id": "schrago",
+    "title": {
+      "en": "Schra Go (Uchina Time)",
+      "ja": "Schra Go (Uchina Time)"
+    },
+    "artist": "REMO-CON",
+    "rank": 3,
+    "status": 1,
+    "bg": "c00298a15d9b15a65a9b62d26535fad9"
+  },
+  {
+    "song_id": "fatality",
+    "title": {
+      "en": "Fatality",
+      "ja": "Fatality"
+    },
+    "artist": "Renpul",
+    "rank": 4,
+    "status": 1,
+    "bg": "0d0edac049e5718359ad8f6e8ec49416"
+  },
+  {
+    "song_id": "ran",
+    "title": {
+      "en": "Ran",
+      "ja": "蘭"
+    },
+    "artist": "Feryquitous",
+    "rank": 5,
+    "status": -2,
+    "bg": "588f0eaf41d87a970180cf7da9d0a374"
+  },
+  {
+    "song_id": "deinosphainein",
+    "title": {
+      "en": "DEINOS PHAINEIN",
+      "ja": "DEINOS PHAINEIN"
+    },
+    "artist": "Blacklolita vs Juggernaut.",
+    "rank": 6,
+    "status": 1,
+    "bg": "07c0feb2efd96179dc8aa10f88aaf136"
+  },
+  {
+    "song_id": "chateaudecartes",
+    "title": {
+      "en": "Château de cartes",
+      "ja": "Château de cartes"
+    },
+    "artist": "Inverted Silence ft. Pernelle",
+    "rank": 7,
+    "status": -1,
+    "bg": "6fc78b5ab9ffae4f129da86cd460e034"
+  },
+  {
+    "song_id": "dreadarea",
+    "title": {
+      "en": "DREAD AREA",
+      "ja": "DREAD AREA"
+    },
+    "artist": "Ashrount vs. 打打だいず",
+    "rank": 8,
+    "status": 0,
+    "bg": "9099f500bcaea396162c4fe471f22b48"
+  },
+  {
+    "song_id": "rivenpilgrim",
+    "title": {
+      "en": "Riven Pilgrimage",
+      "ja": "Riven Pilgrimage"
+    },
+    "artist": "rejection & Supire feat. eili",
+    "rank": 9,
+    "status": 0,
+    "bg": "3644d9a4efe784fb99c965af6226c47a"
+  },
+  {
+    "song_id": "cataclysmcry",
+    "title": {
+      "en": "Cataclysm Cry",
+      "ja": "Cataclysm Cry"
+    },
+    "artist": "Aid",
+    "rank": 10,
+    "status": 1,
+    "bg": "5b30d737b772c76d42843db63cd6f9e1"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "en": "Grievous Lady",
+      "ja": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 11,
+    "status": 1,
+    "bg": "22288b1f0649ecad59625f7e004c9729"
+  },
+  {
+    "song_id": "testify",
+    "title": {
+      "en": "Testify",
+      "ja": "Testify"
+    },
+    "artist": "void (Mournfinale) feat. 星熊南巫",
+    "rank": 12,
+    "status": 1,
+    "bg": "a253e98d946961959a63b64468c44e16"
+  },
+  {
+    "song_id": "balor",
+    "title": {
+      "en": "Balor",
+      "ja": "Balor"
+    },
+    "artist": "Redsign",
+    "rank": 13,
+    "status": -3,
+    "bg": "1325c751ccd4ef46dd0e1125c0934eea"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "en": "Tempestissimo",
+      "ja": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 14,
+    "status": 1,
+    "bg": "8b0471920de594f18b7dd888976b4add"
+  }
+]
