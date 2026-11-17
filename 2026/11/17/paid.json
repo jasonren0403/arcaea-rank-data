@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "deinosphainein",
+    "title": {
+      "en": "DEINOS PHAINEIN",
+      "ja": "DEINOS PHAINEIN"
+    },
+    "artist": "Blacklolita vs Juggernaut.",
+    "rank": 0,
+    "status": 0,
+    "bg": "c6cb4cd6a78dfd738a7ad78d0da3d517"
+  },
+  {
+    "song_id": "trickmaster",
+    "title": {
+      "en": "Tr!cK Ma?tEr",
+      "ja": "Tr!cK Ma?tEr"
+    },
+    "artist": "Nothing But Requiem",
+    "rank": 1,
+    "status": 0,
+    "bg": "24058bf8d1d1b310f98b5370ef306495"
+  },
+  {
+    "song_id": "testify",
+    "title": {
+      "en": "Testify",
+      "ja": "Testify"
+    },
+    "artist": "void (Mournfinale) feat. 星熊南巫",
+    "rank": 2,
+    "status": 1,
+    "bg": "37b3b4215f48a32fa2ebcb2f3a9d69ec"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "en": "Tempestissimo",
+      "ja": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 3,
+    "status": -1,
+    "bg": "07a157f0b6db40a39d4a336dd0ec1031"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "en": "Grievous Lady",
+      "ja": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 4,
+    "status": 0,
+    "bg": "46b39f820ee9074a35630088c2f2f17a"
+  },
+  {
+    "song_id": "dreadarea",
+    "title": {
+      "en": "DREAD AREA",
+      "ja": "DREAD AREA"
+    },
+    "artist": "Ashrount vs. 打打だいず",
+    "rank": 5,
+    "status": 1,
+    "bg": "56b637c1a9253857ac54f940d6e01b89"
+  },
+  {
+    "song_id": "cataclysmcry",
+    "title": {
+      "en": "Cataclysm Cry",
+      "ja": "Cataclysm Cry"
+    },
+    "artist": "Aid",
+    "rank": 6,
+    "status": -1,
+    "bg": "f013393776895bbb825a92f024e7ee79"
+  },
+  {
+    "song_id": "rivenpilgrim",
+    "title": {
+      "en": "Riven Pilgrimage",
+      "ja": "Riven Pilgrimage"
+    },
+    "artist": "rejection & Supire feat. eili",
+    "rank": 7,
+    "status": 0,
+    "bg": "8f77f9294a71c5a9b207ec6b54dd97d4"
+  },
+  {
+    "song_id": "parallax",
+    "title": {
+      "en": "Parallax",
+      "ja": "Parallax"
+    },
+    "artist": "xi vs ak+q (lowiro)",
+    "rank": 8,
+    "status": 0,
+    "bg": "bb1035e1329cda95f2960a660cf4d605"
+  },
+  {
+    "song_id": "arcanaeden",
+    "title": {
+      "en": "Arcana Eden",
+      "ja": "Arcana Eden"
+    },
+    "artist": "Team Grimoire vs Sakuzyo vs Laur",
+    "rank": 9,
+    "status": 0,
+    "bg": "95060eeb3917445d6995756748456db6"
+  },
+  {
+    "song_id": "infinitestrife",
+    "title": {
+      "en": "Infinite Strife,",
+      "ja": "Infinite Strife,"
+    },
+    "artist": "BlackYooh vs. siromaru",
+    "rank": 10,
+    "status": 1,
+    "bg": "eb7649ea3275e559c835bc42bb8fea7e"
+  },
+  {
+    "song_id": "pentiment",
+    "title": {
+      "en": "Pentiment",
+      "ja": "Pentiment"
+    },
+    "artist": "Nothing But Requiem with Museo",
+    "rank": 11,
+    "status": -1,
+    "bg": "2ba73b93b7a16c6f517b41dad1fea5da"
+  },
+  {
+    "song_id": "designant",
+    "title": {
+      "en": "Designant.",
+      "ja": "Designant."
+    },
+    "artist": "Designant",
+    "rank": 12,
+    "status": 0,
+    "bg": "3fb25195223a57715598167a372ad4c7"
+  },
+  {
+    "song_id": "axiumcrisis",
+    "title": {
+      "en": "Axium Crisis",
+      "ja": "Axium Crisis"
+    },
+    "artist": "ak+q",
+    "rank": 13,
+    "status": 1,
+    "bg": "ce0372b5ef12a71b9f56c4b459157841"
+  },
+  {
+    "song_id": "un",
+    "title": {
+      "en": "un",
+      "ja": "un"
+    },
+    "artist": "黒魔",
+    "rank": 14,
+    "status": 1,
+    "bg": "b4a942a22e911dc704cd98749ed9ec67"
+  }
+]
