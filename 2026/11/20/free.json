@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "kanagawa",
+    "title": {
+      "en": "Kanagawa Cyber Culvert",
+      "ja": "神奈川電脳暗渠"
+    },
+    "artist": "南ゆに",
+    "rank": 0,
+    "status": 0,
+    "bg": "82df6b9d43f3d9281a29da605a0626fe"
+  },
+  {
+    "song_id": "innocence",
+    "title": {
+      "en": "Innocence",
+      "ja": "Innocence"
+    },
+    "artist": "Powerless feat. Sennzai",
+    "rank": 1,
+    "status": 7,
+    "bg": "ca9cfd1ab8b0ee79024e36aa6a82a1a3"
+  },
+  {
+    "song_id": "inkarusi",
+    "title": {
+      "en": "inkar-usi",
+      "ja": "inkar-usi"
+    },
+    "artist": "DIA",
+    "rank": 2,
+    "status": 1,
+    "bg": "a7a906a88e30433a8bfed9d4b9bf576d"
+  },
+  {
+    "song_id": "sayonarahatsukoi",
+    "title": {
+      "en": "Sayonara Hatsukoi",
+      "ja": "Sayonara Hatsukoi"
+    },
+    "artist": "REDSHiFT",
+    "rank": 3,
+    "status": -2,
+    "bg": "03b59aaaab37ad14f886ccab5f4f02fc"
+  },
+  {
+    "song_id": "lostcivilization",
+    "title": {
+      "en": "Lost Civilization",
+      "ja": "Lost Civilization"
+    },
+    "artist": "Laur vs CK",
+    "rank": 4,
+    "status": 0,
+    "bg": "5cfb525869ad585494c0352d96fc1158"
+  },
+  {
+    "song_id": "satisfaction",
+    "title": {
+      "en": "SATISFACTION",
+      "ja": "SATISFACTION"
+    },
+    "artist": "P*Light & DJ Noriken feat. KMNZ",
+    "rank": 5,
+    "status": 0,
+    "bg": "900103280f2d01043dc9845cf72b413b"
+  },
+  {
+    "song_id": "anokumene",
+    "title": {
+      "en": "Anökumene",
+      "ja": "Anökumene"
+    },
+    "artist": "Jun Kuroda",
+    "rank": 6,
+    "status": 1,
+    "bg": "4b7c3a376d55a14b827b2cd3aadf11e5"
+  },
+  {
+    "song_id": "caramelpop",
+    "title": {
+      "en": "Gimme Caramel Popcorn!",
+      "ja": "キャラメルポップコーンたべたいよ〜"
+    },
+    "artist": "ヤミナベレコーズ feat. 繭糸",
+    "rank": 7,
+    "status": -1,
+    "bg": "88cd40393e174cd7baead7edae5e53e9"
+  },
+  {
+    "song_id": "remindthesouls",
+    "title": {
+      "en": "Remind the Souls (Short Version)",
+      "ja": "Remind the Souls (Short Version)"
+    },
+    "artist": "Nhato",
+    "rank": 8,
+    "status": -6,
+    "bg": "5987e1efd694ec34300c35aab7cd05d5"
+  },
+  {
+    "song_id": "goodtek",
+    "title": {
+      "en": "GOODTEK (Arcaea Edit)",
+      "ja": "GOODTEK (Arcaea Edit)"
+    },
+    "artist": "EBIMAYO",
+    "rank": 9,
+    "status": 0,
+    "bg": "e4d360f4b26544ac2d9294b7f3798670"
+  },
+  {
+    "song_id": "chronostasis",
+    "title": {
+      "en": "Chronostasis",
+      "ja": "Chronostasis"
+    },
+    "artist": "黒皇帝",
+    "rank": 10,
+    "status": 3,
+    "bg": "3fde06385866882834c1684089588440"
+  },
+  {
+    "song_id": "shadesoflight",
+    "title": {
+      "en": "Shades of Light in a Transcendent Realm",
+      "ja": "Shades of Light in a Transcendent Realm"
+    },
+    "artist": "ak+q",
+    "rank": 11,
+    "status": -1,
+    "bg": "494b0a6a3e31a705de63c1723bbf5f04"
+  },
+  {
+    "song_id": "infinityheaven",
+    "title": {
+      "en": "Infinity Heaven",
+      "ja": "Infinity Heaven"
+    },
+    "artist": "HyuN",
+    "rank": 12,
+    "status": 0,
+    "bg": "b390ef63221ad2ab3c50a0cfc4e51b24"
+  },
+  {
+    "song_id": "redandblue",
+    "title": {
+      "en": "Red and Blue",
+      "ja": "Red and Blue"
+    },
+    "artist": "Silentroom",
+    "rank": 13,
+    "status": 2,
+    "bg": "f91149b724eda41ec5c50d7da5a45181"
+  },
+  {
+    "song_id": "nhelv",
+    "title": {
+      "en": "Nhelv",
+      "ja": "Nhelv"
+    },
+    "artist": "Silentroom",
+    "rank": 14,
+    "status": 2,
+    "bg": "0eea3aae1e4bcbe92179ce392f6561f7"
+  }
+]
