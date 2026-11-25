@@ -1,0 +1,167 @@
+[
+  {
+    "song_id": "somniomancer",
+    "title": {
+      "en": "Somniomancer [null set]",
+      "ja": "Somniomancer [null set]"
+    },
+    "artist": "Crywolf",
+    "rank": 0,
+    "status": 1,
+    "bg": "c66c423847cf391326a74d3fdb3961c6"
+  },
+  {
+    "song_id": "opspectheme",
+    "title": {
+      "en": "Operation Spectrum Battle Theme",
+      "ja": "Operation Spectrum Battle Theme"
+    },
+    "artist": "cybermiso, DOT96, tigerlily",
+    "rank": 1,
+    "status": -1,
+    "bg": "f2043906929f6dbd66db9fa928810841"
+  },
+  {
+    "song_id": "hascome",
+    "title": {
+      "en": "......已至。",
+      "ja": "......已至。"
+    },
+    "artist": "秋田真典",
+    "rank": 2,
+    "status": 0,
+    "bg": "19e5bee634f6c655ec4c2254ea0d9627"
+  },
+  {
+    "song_id": "deinosphainein",
+    "title": {
+      "en": "DEINOS PHAINEIN",
+      "ja": "DEINOS PHAINEIN"
+    },
+    "artist": "Blacklolita vs Juggernaut.",
+    "rank": 3,
+    "status": 1,
+    "bg": "c6cb4cd6a78dfd738a7ad78d0da3d517"
+  },
+  {
+    "song_id": "radiant",
+    "title": {
+      "en": "Radiant",
+      "ja": "Radiant"
+    },
+    "artist": "Mary Clare, Erik Castro",
+    "rank": 4,
+    "status": -1,
+    "bg": "f1c02639563ece03e13df345e7ebfdb1"
+  },
+  {
+    "song_id": "testify",
+    "title": {
+      "en": "Testify",
+      "ja": "Testify"
+    },
+    "artist": "void (Mournfinale) feat. 星熊南巫",
+    "rank": 5,
+    "status": 1,
+    "bg": "37b3b4215f48a32fa2ebcb2f3a9d69ec"
+  },
+  {
+    "song_id": "tempestissimo",
+    "title": {
+      "en": "Tempestissimo",
+      "ja": "Tempestissimo"
+    },
+    "artist": "t+pazolite",
+    "rank": 6,
+    "status": 1,
+    "bg": "07a157f0b6db40a39d4a336dd0ec1031"
+  },
+  {
+    "song_id": "fadingsky",
+    "title": {
+      "en": "Fading Sky",
+      "ja": "Fading Sky"
+    },
+    "artist": "AJURIKA",
+    "rank": 7,
+    "status": -2,
+    "bg": "8df2cb916031fefb10b2a7175917b82a"
+  },
+  {
+    "song_id": "cataclysmcry",
+    "title": {
+      "en": "Cataclysm Cry",
+      "ja": "Cataclysm Cry"
+    },
+    "artist": "Aid",
+    "rank": 8,
+    "status": 2,
+    "bg": "f013393776895bbb825a92f024e7ee79"
+  },
+  {
+    "song_id": "speedoflight",
+    "title": {
+      "en": "Speed of Light",
+      "ja": "Speed of Light"
+    },
+    "artist": "DJ OKAWARI, 二宮愛",
+    "rank": 9,
+    "status": -1,
+    "bg": "ceba8e0305fbce4ec9223acf2d96b8dc"
+  },
+  {
+    "song_id": "dreadarea",
+    "title": {
+      "en": "DREAD AREA",
+      "ja": "DREAD AREA"
+    },
+    "artist": "Ashrount vs. 打打だいず",
+    "rank": 10,
+    "status": 2,
+    "bg": "56b637c1a9253857ac54f940d6e01b89"
+  },
+  {
+    "song_id": "grievouslady",
+    "title": {
+      "en": "Grievous Lady",
+      "ja": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur",
+    "rank": 11,
+    "status": -2,
+    "bg": "46b39f820ee9074a35630088c2f2f17a"
+  },
+  {
+    "song_id": "rivenpilgrim",
+    "title": {
+      "en": "Riven Pilgrimage",
+      "ja": "Riven Pilgrimage"
+    },
+    "artist": "rejection & Supire feat. eili",
+    "rank": 12,
+    "status": -1,
+    "bg": "8f77f9294a71c5a9b207ec6b54dd97d4"
+  },
+  {
+    "song_id": "arcanaeden",
+    "title": {
+      "en": "Arcana Eden",
+      "ja": "Arcana Eden"
+    },
+    "artist": "Team Grimoire vs Sakuzyo vs Laur",
+    "rank": 13,
+    "status": 3,
+    "bg": "95060eeb3917445d6995756748456db6"
+  },
+  {
+    "song_id": "designant",
+    "title": {
+      "en": "Designant.",
+      "ja": "Designant."
+    },
+    "artist": "Designant",
+    "rank": 14,
+    "status": -1,
+    "bg": "3fb25195223a57715598167a372ad4c7"
+  }
+]
